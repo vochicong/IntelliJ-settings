@@ -1,0 +1,20 @@
+<application>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{summary} #{number} {time}</commitMessageFormat>
+      <password />
+      <token>dfc9dfccdfcfdf99df9cdfcedf9adf93df9fdfccdf9edf9cdfc8dfc8dfcbdfcfdf9fdfcedfccdf98dfcbdf9ddfc8df93df9edfccdfc8df9bdf9fdf99df9cdf9edf9edfc8df9adfcbdf9adf9edfcfdf9c</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="lmi-mcs" />
+      <option name="repoName" value="mcs_ver2" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+</application>
