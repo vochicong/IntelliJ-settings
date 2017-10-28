@@ -2,9 +2,9 @@
   <component name="RecentTaskRepositories">
     <GitHub shared="false" url="https://github.com">
       <option name="assignedIssuesOnly" value="false" />
-      <commitMessageFormat>{summary} #{number} {time}</commitMessageFormat>
+      <commitMessageFormat>{summary} #{number} in {time}</commitMessageFormat>
       <password />
-      <token>dfc9dfccdfcfdf99df9cdfcedf9adf93df9fdfccdf9edf9cdfc8dfc8dfcbdfcfdf9fdfcedfccdf98dfcbdf9ddfc8df93df9edfccdfc8df9bdf9fdf99df9cdf9edf9edfc8df9adfcbdf9adf9edfcfdf9c</token>
+      <token>dfcfdf9bdf9adf9cdfccdfc9df9edf9bdf93df98dfc9df9bdfcbdf9ddf92df9adfcbdfc8df93dfcfdfcfdf98df98df9bdf9edfcfdf93dfc9df9ddfcfdf98df93dfcfdf9bdf93dfc8df9bdf9ddfcedf9e</token>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />

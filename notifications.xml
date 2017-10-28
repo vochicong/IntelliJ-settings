@@ -1,5 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Find Problems" displayType="STICKY_BALLOON" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
   </component>
 </application>
