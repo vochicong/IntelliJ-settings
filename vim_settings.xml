@@ -30,11 +30,17 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="28" column="50" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509191011227">
+        <mark key="[" line="437" column="9" />
+        <mark key="]" line="437" column="9" />
+        <mark key="." line="437" column="9" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/create_resend.jbuilder" timestamp="1509090171814">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/services/magellan_summary_result_service.rb" timestamp="1509189895452" />
       <file name="$USER_HOME$/mcs_ver2/bin/rdebug.sh" timestamp="1508592291126">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="87" />
@@ -52,7 +58,9 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509156136597" />
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509190971981">
+        <mark key="[" line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1508684042027">
         <mark key="[" line="62" column="72" />
         <mark key="]" line="62" column="72" />
@@ -187,6 +195,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/magellan_summary_results/check_surveys/index.jbuilder" timestamp="1509190351962" />
       <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1509103779985">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="18" column="0" />
@@ -253,7 +262,7 @@
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509104148859">
+      <file name="/Dummy.txt" timestamp="1509189881559">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -265,7 +274,7 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="62" />
       </file>
-      <file name="/fragment.rb" timestamp="1508211377866">
+      <file name="/fragment.rb" timestamp="1509189067015">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.docker-sample" timestamp="1509103762523">
@@ -280,11 +289,6 @@
         <mark key="]" line="42" column="27" />
         <mark key="." line="42" column="27" />
         <mark key="^" line="42" column="27" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/lib/batch/mcs_csv/import_process.rb" timestamp="1509087784575">
-        <mark key="'" line="26" column="28" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="82" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
@@ -432,11 +436,11 @@
       <jump line="54" column="18" filename="$USER_HOME$/mcs_ver2/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEb2NrZXJcPg==</text>
