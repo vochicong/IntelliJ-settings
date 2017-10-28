@@ -30,7 +30,7 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="28" column="50" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509191011227">
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509191022881">
         <mark key="[" line="437" column="9" />
         <mark key="]" line="437" column="9" />
         <mark key="." line="437" column="9" />
@@ -58,7 +58,7 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509190971981">
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509194646506">
         <mark key="[" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1508684042027">
