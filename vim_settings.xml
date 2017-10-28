@@ -30,11 +30,11 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="28" column="50" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509201958978">
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="61" />
-        <mark key="." line="293" column="0" />
-        <mark key="^" line="293" column="63" />
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509202892418">
+        <mark key="[" line="294" column="56" />
+        <mark key="]" line="294" column="56" />
+        <mark key="." line="294" column="56" />
+        <mark key="^" line="294" column="54" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/create_resend.jbuilder" timestamp="1509090171814">
         <mark key="[" line="0" column="0" />
@@ -445,17 +445,17 @@
       <jump line="267" column="27" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyAgICA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAucHJlbG9hZCg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQo=</text>
+        <text encoding="base64">ICAgICAgZnJlcSA9IG1jc3MubWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzLmZpbmRfYnkobWFnZWxsYW5faW1wcm92ZW1lbnRfaWQ6IG1hZ2VsbGFuX2ltcHJvdmVtZW50LmlkKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQo=</text>
