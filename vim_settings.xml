@@ -30,10 +30,11 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="28" column="50" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509191022881">
-        <mark key="[" line="437" column="9" />
-        <mark key="]" line="437" column="9" />
-        <mark key="." line="437" column="9" />
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509200051573">
+        <mark key="[" line="291" column="23" />
+        <mark key="]" line="291" column="23" />
+        <mark key="." line="291" column="23" />
+        <mark key="^" line="291" column="22" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/create_resend.jbuilder" timestamp="1509090171814">
         <mark key="[" line="0" column="0" />
@@ -58,7 +59,7 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509194646506">
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509198232644">
         <mark key="[" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1508684042027">
@@ -100,8 +101,8 @@
         <mark key="." line="64" column="11" />
         <mark key="^" line="64" column="20" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" timestamp="1509081483022">
-        <mark key="'" line="343" column="46" />
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" timestamp="1509197777988">
+        <mark key="'" line="267" column="27" />
         <mark key="[" line="349" column="14" />
         <mark key="]" line="349" column="14" />
         <mark key="." line="349" column="19" />
@@ -228,6 +229,9 @@
         <mark key="^" line="81" column="57" />
         <mark key="." line="106" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/883eb393-ef85-475c-89b0-6eb519aef74c/console.sql" timestamp="1509197108577">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/Dockerfile" timestamp="1508593591655">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -247,7 +251,7 @@
         <mark key="^" line="42" column="21" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="/dummy.sql" timestamp="1509101899328">
+      <file name="/dummy.sql" timestamp="1509197034140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/db/seeds/development/csv_import.rb" timestamp="1508714677018">
@@ -256,13 +260,18 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="10" column="6" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1509197132730">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/.env.production" timestamp="1509083192608">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="14" column="41" />
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509189881559">
+      <file name="/Dummy.txt" timestamp="1509197726384">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -334,8 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="6" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="42" column="6" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="43" column="6" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="10" column="8" filename="$USER_HOME$/mcs_ver2/lib/batch/mcs_mail/magellan_check_survey_process.rb" />
       <jump line="21" column="12" filename="$USER_HOME$/mcs_ver2/lib/batch/mcs_mail/magellan_check_survey_process.rb" />
@@ -434,16 +441,18 @@
       <jump line="51" column="29" filename="$USER_HOME$/mcs_ver2/README.md" />
       <jump line="52" column="10" filename="$USER_HOME$/mcs_ver2/README.md" />
       <jump line="54" column="18" filename="$USER_HOME$/mcs_ver2/README.md" />
+      <jump line="264" column="26" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
+      <jump line="267" column="27" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Om1hZ2VsbGFuX2ltcHJvdmVtZW50cywg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Om1hZ2VsbGFuX2ltcHJvdmVtZW50cywg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEb2NrZXJcPg==</text>
+        <text encoding="base64">XDxhdmVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q0hST01FX0JST1dTRVJfQklOPS91c3IvYmluL2dvb2dsZS1jaHJvbWUKCg==</text>
@@ -480,9 +489,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEb2NrZXJcPg==</last-search>
+      <last-search encoding="base64">XDxhdmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEb2NrZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhdmVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -502,6 +511,7 @@
         <entry encoding="base64">XDxXT1JLSU5HX0RJUlw+</entry>
         <entry encoding="base64">XDxCcmFuY2hcPg==</entry>
         <entry encoding="base64">XDxoYXZlX2N1cnJlbnRfcGF0aFw+</entry>
+        <entry encoding="base64">XDxhdmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
