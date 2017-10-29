@@ -30,10 +30,10 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="28" column="50" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509203012999">
-        <mark key="[" line="294" column="56" />
-        <mark key="]" line="294" column="56" />
-        <mark key="." line="294" column="56" />
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509288335028">
+        <mark key="[" line="295" column="0" />
+        <mark key="]" line="295" column="0" />
+        <mark key="." line="295" column="0" />
         <mark key="^" line="294" column="54" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/create_resend.jbuilder" timestamp="1509090171814">
@@ -58,8 +58,10 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509198232644">
-        <mark key="[" line="14" column="7" />
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509288408627">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1508684042027">
         <mark key="[" line="62" column="72" />
@@ -268,7 +270,7 @@
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509197726384">
+      <file name="/Dummy.txt" timestamp="1509288428626">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -442,8 +444,8 @@
       <jump line="267" column="27" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIC5lYWdlcl9sb2FkKDptYWdlbGxhbl9pbXByb3ZlbWVudHMsIDptYWdlbGxhbl9zdW1tYXJ5X2NoYWlucywgOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5ncykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -455,31 +457,31 @@
         <text encoding="base64">ICAgICAgZnJlcSA9IG1jc3MubWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzLmZpbmRfYnkobWFnZWxsYW5faW1wcm92ZW1lbnRfaWQ6IG1hZ2VsbGFuX2ltcHJvdmVtZW50LmlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIC5lYWdlcl9sb2FkKDptYWdlbGxhbl9pbXByb3ZlbWVudHMsIDptYWdlbGxhbl9zdW1tYXJ5X2NoYWlucywgOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5ncykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fc3VydmV5X2lkOiBzdXJ2ZXlfaWQpLm9yZGVyX2J5X3N0YXJ0ZWRfYXQoJ0FTQycpCg==</text>
+        <text encoding="base64">ICAgICMgLnByZWxvYWQoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9mcmVxdWVuY2llcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzICA9PiAge21hZ2VsbGFuX2ltcHJvdmVtZW50X2lkOiBtYWdlbGxhbl9pbXByb3ZlbWVudC5pZH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzICA9PiAge21hZ2VsbGFuX2ltcHJvdmVtZW50X2lkOiBtYWdlbGxhbl9pbXByb3ZlbWVudC5pZH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fc3VydmV5X2lkOiBzdXJ2ZXlfaWQpLm9yZGVyX2J5X3N0YXJ0ZWRfYXQoJ0FTQycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuaW5jbHVkZXMoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9mcmVxdWVuY2llcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzICA9PiAge21hZ2VsbGFuX2ltcHJvdmVtZW50X2lkOiBtYWdlbGxhbl9pbXByb3ZlbWVudC5pZH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzICA9PiAge21hZ2VsbGFuX2ltcHJvdmVtZW50X2lkOiBtYWdlbGxhbl9pbXByb3ZlbWVudC5pZH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzICA9PiAge21hZ2VsbGFuX2ltcHJvdmVtZW50X2lkOiBtYWdlbGxhbl9pbXByb3ZlbWVudC5pZH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZnJlcSA9IG1jc3MubWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzLmZpbmRfYnkobWFnZWxsYW5faW1wcm92ZW1lbnRfaWQ6IG1hZ2VsbGFuX2ltcHJvdmVtZW50LmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuaW5jbHVkZXMoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9mcmVxdWVuY2llcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAjIC5wcmVsb2FkKDptYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzICA9PiAge21hZ2VsbGFuX2ltcHJvdmVtZW50X2lkOiBtYWdlbGxhbl9pbXByb3ZlbWVudC5pZH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZnJlcSA9IG1jc3MubWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzLmZpbmRfYnkobWFnZWxsYW5faW1wcm92ZW1lbnRfaWQ6IG1hZ2VsbGFuX2ltcHJvdmVtZW50LmlkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
