@@ -41,7 +41,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/services/magellan_summary_result_service.rb" timestamp="1509189895452" />
       <file name="$USER_HOME$/mcs_ver2/bin/rdebug.sh" timestamp="1508592291126">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="87" />
@@ -81,7 +80,6 @@
       <file name="/Bash" timestamp="1508246395003">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/organizations_controller.rb" timestamp="1509188154927" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509071961858">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="0" />
@@ -190,13 +188,12 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1509182702316">
+      <file name="/Ruby Console" timestamp="1509280766097">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/magellan_summary_results/check_surveys/index.jbuilder" timestamp="1509190351962" />
       <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1509103779985">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="18" column="0" />
