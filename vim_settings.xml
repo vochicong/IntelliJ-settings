@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1509342225928">
+        <mark key="'" line="0" column="5317" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="5317" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-debug.sh" timestamp="1508161314555">
         <mark key="[" line="6" column="78" />
         <mark key="]" line="6" column="78" />
@@ -30,11 +37,11 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="28" column="50" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509332845038">
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="0" />
-        <mark key="." line="295" column="0" />
-        <mark key="^" line="294" column="54" />
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509342680681">
+        <mark key="[" line="296" column="57" />
+        <mark key="]" line="296" column="58" />
+        <mark key="." line="296" column="58" />
+        <mark key="^" line="296" column="58" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/create_resend.jbuilder" timestamp="1509090171814">
         <mark key="[" line="0" column="0" />
@@ -101,7 +108,7 @@
         <mark key="." line="64" column="11" />
         <mark key="^" line="64" column="20" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" timestamp="1509335480513">
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" timestamp="1509342470070">
         <mark key="'" line="267" column="27" />
         <mark key="[" line="349" column="14" />
         <mark key="]" line="349" column="14" />
@@ -268,8 +275,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="10" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1509336185968">
-        <mark key="'" line="7" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1509342654260">
+        <mark key="'" line="18" column="12" />
         <mark key="[" line="9" column="40" />
         <mark key="]" line="10" column="3" />
         <mark key="." line="10" column="3" />
@@ -281,7 +288,7 @@
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509339669895">
+      <file name="/Dummy.txt" timestamp="1509339836875">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -358,14 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="8" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" />
-      <jump line="129" column="20" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" />
-      <jump line="163" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" />
-      <jump line="1" column="17" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" />
-      <jump line="7" column="68" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" />
-      <jump line="4" column="0" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" />
-      <jump line="112" column="4" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" />
-      <jump line="169" column="4" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" />
       <jump line="15" column="5" filename="$USER_HOME$/mcs_ver2/lib/custom_date_time.rb" />
       <jump line="8" column="56" filename="$USER_HOME$/mcs_ver2/lib/custom_date_time.rb" />
       <jump line="168" column="19" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" />
@@ -451,71 +450,75 @@
       <jump line="270" column="4" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="6" column="24" filename="$USER_HOME$/mcs_ver2/.env.local" />
       <jump line="2" column="0" filename="$USER_HOME$/mcs_ver2/.env.local" />
-      <jump line="0" column="2310" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
       <jump line="24" column="43" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
       <jump line="25" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
       <jump line="26" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
       <jump line="27" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
-      <jump line="7" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
       <jump line="100" column="13" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="0" column="5317" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" />
+      <jump line="3" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+      <jump line="20" column="51" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+      <jump line="21" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+      <jump line="30" column="65" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+      <jump line="7" column="34" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+      <jump line="14" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+      <jump line="17" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+      <jump line="18" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RVJE44KS5pu05paw44GX44G+44GZ44CCCiAgICAKICAgIGJpbi9idW5kbGUgZXhlYyBlcmQKICAgIAoK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWFnZWxsYW5DaGVja1N1cnZleVNldHRpbmcgTE9BRCAoMS4wbXMpIA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcmRcPg==</text>
+        <text encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBEQVRBQkFTRV9OQU1FPW1jc192ZXIyX2RldmVsb3BtZW50CkRBVEFCQVNFX05BTUU9bWNzX3ZlcjJfdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuaW5jbHVkZXMobWFnZWxsYW5fc3VydmV5OiA6bWFnZWxsYW5fc3VtbWFyeV9yZXN1bHRzKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">RVJE44KS5pu05paw44GX44G+44GZ44CCCiAgICAKICAgIGJpbi9idW5kbGUgZXhlYyBlcmQKICAgIAoK</text>
+      <register name="1" type="8">
+        <text encoding="base64">RCwgWzIwMTctMTAtMzBUMTQ6NDI6MzMuMDExMTU1ICM0MjY4XSBERUJVRyAtLSA6ICAgU1FMICgzMTAuM21zKSAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmlsZW5hbWU6IGRiL2VyZAo=</text>
+        <text encoding="base64">RVJE44KS5pu05paw44GX44G+44GZ44CCCiAgICAKICAgIGJpbi9idW5kbGUgZXhlYyBlcmQKICAgIAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">anNvbi5jYWNoZQo=</text>
+        <text encoding="base64">ZmlsZW5hbWU6IGRiL2VyZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">REFUQUJBU0VfTkFNRT1tY3NfdmVyMl90ZXN0Cg==</text>
+        <text encoding="base64">anNvbi5jYWNoZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">REFUQUJBU0VfSE9TVD0xMjcuMC4wLjEKREFUQUJBU0VfVVNFUk5BTUU9cm9vdApEQVRBQkFTRV9QQVNTV09SRD1wYXNzd29yZApEQVRBQkFTRV9QT1JUPTMzMDYKI0RBVEFCQVNFX1NPQ0tFVD0vdmFyL2xpYi9teXNxbC9teXNxbC5zb2NrCgpTRVNTSU9OX1NFQ1VSRT1mYWxzZQoKIyBTZW5kR3JpZFNldHRpbmdzClNNVFBfQUREUkVTUz1zbXRwLnNlbmRncmlkLm5ldApTTVRQX1BPUlQ9NTg3Ck1BSUxfRE9NQUlOPWh0dHBzOi8vbW90aXZhdGlvbi1jbG91ZGFwcC5jb20KTUFJTF9VU0VSX05BTUU9IHNndDluMGR4QGtrZS5jb20KTUFJTF9QQVNTV09SRD02UTNTYmpDWgpTRU5ER1JJRF9GUk9NX0VNQUlMPU1PVElWQVRJT04gQ0xPVUQ8bm8tcmVwcnlAbG1pLW1jcy5jb20+CgojIEFXU+ioreWumgpBV1NfQUNDRVNTX0tFWV9JRD0KQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPQpBV1NfUkVHSU9OPWFwLW5vcnRoZWFzdC0xCkFXU19TM19CVUNLRVQ9bW90aXZhdGlvbi1jbG91ZC1zZWF0dGxlCkFXU19TM19VUkw9aHR0cHM6Ly9zMy1hcC1ub3J0aGVhc3QtMS5hbWF6b25hd3MuY29tL21vdGl2YXRpb24tY2xvdWQtc2VhdHRsZQoKIyBDU1blj5bovrzoqK3lrpoKSU1QT1JUX0NTVl9QQVRIPXRtcC9jc3YvCkJBQ0tVUF9DU1ZfUEFUSD10bXAvY3N2X2JhY2t1cC8KRVJST1JfQ1NWX1BBVEg9dG1wL2Nzdl9lcnJvcnMvCkJBQ0tVUF9BTlNXRVJTX0NTVl9QQVRIPXRtcC9jc3ZfYmFja3VwL2Fuc3dlcnMvCkVSUk9SX0FOU1dFUlNfQ1NWX1BBVEg9dG1wL2Nzdl9lcnJvcnMvYW5zd2Vycy8KIyDjg6bjg7zjgrbkuIDmi6zlj5bovrxDU1boqK3lrpoKQkFDS1VQX1VTRVJfQ1NWX1BBVEg9dG1wL3VzZXJfY3N2LwoKIyDjg6zjg53jg7zjg4jjga7kuIDmmYLjg5XjgqHjgqTjg6vnva7jgY3loLRQQVRICk1BR0VMTEFOX1NVUlZFWV9TVU1NQVJZX1JFUE9SVF9UTVBfUEFUSD10bXAvcmVwb3J0cy9tYWdlbGxhbi9zdXJ2ZXlfc3VtbWFyeS8KTUFHRUxMQU5fREFUQV9CT09LX1JFUE9SVF9UTVBfUEFUSD10bXAvcmVwb3J0cy9tYWdlbGxhbi9kYXRhX2Jvb2svCk1BR0VMTEFOX0lNUFJJVkVNRU5UX1NVTU1BUllfUkVQT1JUX1RNUF9QQVRIPXRtcC9yZXBvcnRzL21hZ2VsbGFuL2ltcHJvdmVtZW50X3N1bW1hcnkvCk1BR0VMTEFOX1NIQVJFRF9NRUVUSU5HX1JFUE9SVF9UTVBfUEFUSD10bXAvcmVwb3J0cy9tYWdlbGxhbi9zaGFyZWRfbWVldGluZy8KTUFHRUxMQU5fQ0hFQ0tfU1VSVkVZX1JFUE9SVF9UTVBfUEFUSD10bXAvcmVwb3J0cy9tYWdlbGxhbi9jaGVja19zdXJ2ZXkvCk1BR0VMTEFOX0RBVEFfU0hFRVRfUkVQT1JUX1RNUF9QQVRIPXRtcC9yZXBvcnRzL21hZ2VsbGFuL2RhdGFfc2hlZXQvCgojIOOCq+OCueOCv+ODnuODvOOCteODneODvOODiOODoeODvOODq+OCouODieODrOOCuQpDVVNUT01FUl9TVVBQT1JUX01BSUwgPQoKIyDkvIHmpa3jgrnjg4bjg7zjgr/jgrnjg4Hjgqfjg4Pjgq8KRU5BQkxFRF9DT01QQU5ZID0gZmFsc2UKCiMgU2xhY2vjga7oqK3lrprpoIXnm64KU0xBQ0tfVE9LRU49ClNMQUNLX1VTRVJOQU1FPQpTTEFDS19DSEFOTkVMPQoKIyBSU3BlY+eUu+mdouODhuOCueODiOOBruOBn+OCgeOBrkNocm9tZeODluODqeOCpuOCtgpDSFJPTUVfQlJPV1NFUl9CSU49L3Vzci9iaW4vZ29vZ2xlLWNocm9tZQo=</text>
+        <text encoding="base64">REFUQUJBU0VfTkFNRT1tY3NfdmVyMl90ZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VDUkVUX0tFWV9CQVNFPWZkM2MxMjZlNDZhZDU2YjA1ODcyYTk0NzQxZmY5ZWI2YTY2MTQ2MWMyOTBjNmIwNjRkYzlkYWIyNjkyOTY2YTlmNWNiNjIzMWE5MDYzOTJjOGY4YTQ5YTVlMmY1MzRjOTBjNjE2ZmFjMzA4NjJlYmFhZWY5MmM2YzhiOGUxZDIyCgpBUFBfVVJMPWh0dHBzOi8vbW90aXZhdGlvbi1jbG91ZGFwcC5jb20KUkFJTFNfUk9PVD0vdmFyL3d3dy9tY3NfdmVyMgoKIyDli5XkvZznkrDlooMKRU5WSVJPTk1FTlRfU1RBR0lORz1mYWxzZQpFTlZJUk9OTUVOVF9MSVZFPWZhbHNlCgo=</text>
+        <text encoding="base64">REFUQUJBU0VfSE9TVD0xMjcuMC4wLjEKREFUQUJBU0VfVVNFUk5BTUU9cm9vdApEQVRBQkFTRV9QQVNTV09SRD1wYXNzd29yZApEQVRBQkFTRV9QT1JUPTMzMDYKI0RBVEFCQVNFX1NPQ0tFVD0vdmFyL2xpYi9teXNxbC9teXNxbC5zb2NrCgpTRVNTSU9OX1NFQ1VSRT1mYWxzZQoKIyBTZW5kR3JpZFNldHRpbmdzClNNVFBfQUREUkVTUz1zbXRwLnNlbmRncmlkLm5ldApTTVRQX1BPUlQ9NTg3Ck1BSUxfRE9NQUlOPWh0dHBzOi8vbW90aXZhdGlvbi1jbG91ZGFwcC5jb20KTUFJTF9VU0VSX05BTUU9IHNndDluMGR4QGtrZS5jb20KTUFJTF9QQVNTV09SRD02UTNTYmpDWgpTRU5ER1JJRF9GUk9NX0VNQUlMPU1PVElWQVRJT04gQ0xPVUQ8bm8tcmVwcnlAbG1pLW1jcy5jb20+CgojIEFXU+ioreWumgpBV1NfQUNDRVNTX0tFWV9JRD0KQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPQpBV1NfUkVHSU9OPWFwLW5vcnRoZWFzdC0xCkFXU19TM19CVUNLRVQ9bW90aXZhdGlvbi1jbG91ZC1zZWF0dGxlCkFXU19TM19VUkw9aHR0cHM6Ly9zMy1hcC1ub3J0aGVhc3QtMS5hbWF6b25hd3MuY29tL21vdGl2YXRpb24tY2xvdWQtc2VhdHRsZQoKIyBDU1blj5bovrzoqK3lrpoKSU1QT1JUX0NTVl9QQVRIPXRtcC9jc3YvCkJBQ0tVUF9DU1ZfUEFUSD10bXAvY3N2X2JhY2t1cC8KRVJST1JfQ1NWX1BBVEg9dG1wL2Nzdl9lcnJvcnMvCkJBQ0tVUF9BTlNXRVJTX0NTVl9QQVRIPXRtcC9jc3ZfYmFja3VwL2Fuc3dlcnMvCkVSUk9SX0FOU1dFUlNfQ1NWX1BBVEg9dG1wL2Nzdl9lcnJvcnMvYW5zd2Vycy8KIyDjg6bjg7zjgrbkuIDmi6zlj5bovrxDU1boqK3lrpoKQkFDS1VQX1VTRVJfQ1NWX1BBVEg9dG1wL3VzZXJfY3N2LwoKIyDjg6zjg53jg7zjg4jjga7kuIDmmYLjg5XjgqHjgqTjg6vnva7jgY3loLRQQVRICk1BR0VMTEFOX1NVUlZFWV9TVU1NQVJZX1JFUE9SVF9UTVBfUEFUSD10bXAvcmVwb3J0cy9tYWdlbGxhbi9zdXJ2ZXlfc3VtbWFyeS8KTUFHRUxMQU5fREFUQV9CT09LX1JFUE9SVF9UTVBfUEFUSD10bXAvcmVwb3J0cy9tYWdlbGxhbi9kYXRhX2Jvb2svCk1BR0VMTEFOX0lNUFJJVkVNRU5UX1NVTU1BUllfUkVQT1JUX1RNUF9QQVRIPXRtcC9yZXBvcnRzL21hZ2VsbGFuL2ltcHJvdmVtZW50X3N1bW1hcnkvCk1BR0VMTEFOX1NIQVJFRF9NRUVUSU5HX1JFUE9SVF9UTVBfUEFUSD10bXAvcmVwb3J0cy9tYWdlbGxhbi9zaGFyZWRfbWVldGluZy8KTUFHRUxMQU5fQ0hFQ0tfU1VSVkVZX1JFUE9SVF9UTVBfUEFUSD10bXAvcmVwb3J0cy9tYWdlbGxhbi9jaGVja19zdXJ2ZXkvCk1BR0VMTEFOX0RBVEFfU0hFRVRfUkVQT1JUX1RNUF9QQVRIPXRtcC9yZXBvcnRzL21hZ2VsbGFuL2RhdGFfc2hlZXQvCgojIOOCq+OCueOCv+ODnuODvOOCteODneODvOODiOODoeODvOODq+OCouODieODrOOCuQpDVVNUT01FUl9TVVBQT1JUX01BSUwgPQoKIyDkvIHmpa3jgrnjg4bjg7zjgr/jgrnjg4Hjgqfjg4Pjgq8KRU5BQkxFRF9DT01QQU5ZID0gZmFsc2UKCiMgU2xhY2vjga7oqK3lrprpoIXnm64KU0xBQ0tfVE9LRU49ClNMQUNLX1VTRVJOQU1FPQpTTEFDS19DSEFOTkVMPQoKIyBSU3BlY+eUu+mdouODhuOCueODiOOBruOBn+OCgeOBrkNocm9tZeODluODqeOCpuOCtgpDSFJPTUVfQlJPV1NFUl9CSU49L3Vzci9iaW4vZ29vZ2xlLWNocm9tZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIC5lYWdlcl9sb2FkKDptYWdlbGxhbl9pbXByb3ZlbWVudHMsIDptYWdlbGxhbl9zdW1tYXJ5X2NoYWlucywgOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5ncykK</text>
+        <text encoding="base64">U0VDUkVUX0tFWV9CQVNFPWZkM2MxMjZlNDZhZDU2YjA1ODcyYTk0NzQxZmY5ZWI2YTY2MTQ2MWMyOTBjNmIwNjRkYzlkYWIyNjkyOTY2YTlmNWNiNjIzMWE5MDYzOTJjOGY4YTQ5YTVlMmY1MzRjOTBjNjE2ZmFjMzA4NjJlYmFhZWY5MmM2YzhiOGUxZDIyCgpBUFBfVVJMPWh0dHBzOi8vbW90aXZhdGlvbi1jbG91ZGFwcC5jb20KUkFJTFNfUk9PVD0vdmFyL3d3dy9tY3NfdmVyMgoKIyDli5XkvZznkrDlooMKRU5WSVJPTk1FTlRfU1RBR0lORz1mYWxzZQpFTlZJUk9OTUVOVF9MSVZFPWZhbHNlCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgLnByZWxvYWQoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9mcmVxdWVuY2llcykK</text>
+        <text encoding="base64">ICAgICAgICAjIC5lYWdlcl9sb2FkKDptYWdlbGxhbl9pbXByb3ZlbWVudHMsIDptYWdlbGxhbl9zdW1tYXJ5X2NoYWlucywgOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5ncykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQo=</text>
+        <text encoding="base64">ICAgICMgLnByZWxvYWQoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9mcmVxdWVuY2llcykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlcmRcPg==</last-search>
+      <last-search encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxieWVidWdcPg==</entry>
-        <entry encoding="base64">XDxhbm5vdGF0ZVw+</entry>
-        <entry encoding="base64">XDxwcnlcPg==</entry>
-        <entry encoding="base64">XDxydWJvY29wXD4=</entry>
         <entry encoding="base64">XDxkb2NrZXJidWlsZFw+</entry>
         <entry encoding="base64">XDxidW5kbGVcPg==</entry>
         <entry>unicorn</entry>
@@ -532,6 +535,10 @@
         <entry encoding="base64">XDxBTkRcPg==</entry>
         <entry encoding="base64">XDxPTlw+</entry>
         <entry encoding="base64">XDxlcmRcPg==</entry>
+        <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdF9jaG9pY2VzXD4=</entry>
+        <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdF9pZFw+</entry>
+        <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZ3NcPg==</entry>
+        <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
