@@ -30,7 +30,7 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="28" column="50" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509288335028">
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509331587134">
         <mark key="[" line="295" column="0" />
         <mark key="]" line="295" column="0" />
         <mark key="." line="295" column="0" />
@@ -90,7 +90,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508308163368">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.test" timestamp="1509330224766">
+      <file name="$USER_HOME$/mcs_ver2/.env.test" timestamp="1509331206333">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="14" />
         <mark key="." line="10" column="14" />
@@ -114,7 +114,7 @@
         <mark key="." line="131" column="47" />
         <mark key="^" line="131" column="7" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/requests/survey_chains_spec.rb" timestamp="1508680544765">
+      <file name="$USER_HOME$/mcs_ver2/spec/requests/survey_chains_spec.rb" timestamp="1509330727833">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="14" column="66" />
@@ -190,12 +190,13 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1509280766097">
+      <file name="/Ruby Console" timestamp="1509330709669">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/magellan_summary_results/check_surveys/index.jbuilder" timestamp="1509331757660" />
       <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1509103779985">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="18" column="0" />
@@ -250,7 +251,7 @@
         <mark key="^" line="42" column="21" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="/dummy.sql" timestamp="1509197034140">
+      <file name="/dummy.sql" timestamp="1509330911841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/db/seeds/development/csv_import.rb" timestamp="1508714677018">
@@ -270,7 +271,7 @@
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509288428626">
+      <file name="/Dummy.txt" timestamp="1509330890197">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -292,10 +293,10 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.local" timestamp="1509330361919">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/.env.local" timestamp="1509331779703">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="2" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/features/login_spec.rb" timestamp="1508673375503">
         <mark key="[" line="52" column="34" />
@@ -449,8 +450,8 @@
       <jump line="2" column="0" filename="$USER_HOME$/mcs_ver2/.env.local" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">REFUQUJBU0VfTkFNRT1tY3NfdmVyMl90ZXN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IyA=</text>
