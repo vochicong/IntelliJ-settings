@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1509348376258">
-        <mark key="'" line="0" column="2227" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1509348690479">
+        <mark key="'" line="0" column="1970" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="2227" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-debug.sh" timestamp="1508161314555">
@@ -37,11 +36,12 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="28" column="50" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509348611710">
-        <mark key="'" line="343" column="19" />
-        <mark key="[" line="294" column="0" />
-        <mark key="]" line="294" column="53" />
-        <mark key="." line="294" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509349334721">
+        <mark key="'" line="344" column="19" />
+        <mark key="[" line="298" column="37" />
+        <mark key="]" line="299" column="118" />
+        <mark key="." line="299" column="118" />
+        <mark key="^" line="299" column="118" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/create_resend.jbuilder" timestamp="1509090171814">
         <mark key="[" line="0" column="0" />
@@ -108,8 +108,8 @@
         <mark key="." line="64" column="11" />
         <mark key="^" line="64" column="20" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" timestamp="1509348584037">
-        <mark key="'" line="30" column="12" />
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" timestamp="1509349379709">
+        <mark key="'" line="126" column="79" />
         <mark key="[" line="119" column="4" />
         <mark key="]" line="119" column="4" />
         <mark key="." line="119" column="4" />
@@ -368,9 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="59" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
-      <jump line="57" column="71" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
-      <jump line="46" column="58" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
       <jump line="507" column="2" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="508" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
@@ -465,61 +462,64 @@
       <jump line="32" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
       <jump line="33" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
       <jump line="120" column="18" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
-      <jump line="42" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
-      <jump line="0" column="2227" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" />
       <jump line="30" column="12" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
+      <jump line="0" column="1970" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" />
+      <jump line="38" column="46" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
+      <jump line="42" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
+      <jump line="154" column="114" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
+      <jump line="126" column="79" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAud2l0aF9tYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAjIC5pbmNsdWRlcyhtYWdlbGxhbl9zdXJ2ZXk6IDptYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdHMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RCwgWzIwMTctMTAtMzBUMTY6MjU6MjkuOTIzMjcwICMxNjg4NF0gREVCVUcgLS0gOiAgIFNRTCAoOTYyMy40bXMpICA=</text>
+        <text encoding="base64">RCwgWzIwMTctMTAtMzBUMTY6MzA6NTguODEzNDA3ICMxNjg4NF0gREVCVUcgLS0gOiAgIFNRTCAoMTk5LjltcykgIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXNcPg==</text>
+        <text encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAuaW5jbHVkZXMoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9mcmVxdWVuY2llcykK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAjIC5pbmNsdWRlcyhtYWdlbGxhbl9zdXJ2ZXk6IDptYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdHMpCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAud2l0aF9tYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXMK</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>index = self
 index = inde
 index = inde</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICMg5Zue562U5a++6LGh6ICF44Gu5Zue562UCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICMgLnJlZmVyZW5jZXMoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9mcmVxdWVuY2llcykK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fc3VydmV5X2lkOiBzdXJ2ZXlfaWQpLm9yZGVyX2J5X3N0YXJ0ZWRfYXQoJ0FTQycpCg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>index = index
 index = index</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC53aGVyZShtYWdlbGxhbl9zdXJ2ZXlfaWQ6IHN1cnZleV9pZCkub3JkZXJfYnlfc3RhcnRlZF9hdCgnQVNDJykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fc3VydmV5X2lkOiBzdXJ2ZXlfaWQpLm9yZGVyX2J5X3N0YXJ0ZWRfYXQoJ0FTQycpCg==</text>
+        <text encoding="base64">ICAgIC53aGVyZShtYWdlbGxhbl9zdXJ2ZXlfaWQ6IHN1cnZleV9pZCkub3JkZXJfYnlfc3RhcnRlZF9hdCgnQVNDJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXNcPg==</last-search>
+      <last-search encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -538,13 +538,13 @@ index = index</text>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdF9jaG9pY2VzXD4=</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdF9pZFw+</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZ3NcPg==</entry>
-        <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdHNcPg==</entry>
         <entry encoding="base64">XDx3aXRoX21hZ2VsbGFuX3N1bW1hcnlfcmVzdWx0XD4=</entry>
         <entry encoding="base64">XDx3aXRoX21hZ2VsbGFuX2NoZWNrX3N1cnZleV9hbnN3ZXJfdXNlcl9oaXN0b3J5XD4=</entry>
         <entry encoding="base64">XDxleHBlY3RhdGlvbl9hbmRfc2F0aXNmYWN0aW9uX29mX3N1cnZleV9pdGVtXD4=</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfYW5zd2VyX3VzZXJfaGlzdG9yaWVzXD4=</entry>
-        <entry encoding="base64">XDxjaGVja191c2VyX2NvbnNpc3RlbmN5XD4=</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXNcPg==</entry>
+        <entry encoding="base64">XDxjaGVja191c2VyX2NvbnNpc3RlbmN5XD4=</entry>
+        <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
