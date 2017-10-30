@@ -237,6 +237,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/docker/install-dev.sh" timestamp="1509343899929">
+        <mark key="[" line="3" column="27" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/docs/API仕様書/A022-API:Operations:Organizations:id:MagellanCheckSurveySettings.md" timestamp="1509090745602">
         <mark key="'" line="73" column="45" />
         <mark key="[" line="106" column="0" />
