@@ -286,6 +286,12 @@
         <mark key="^" line="81" column="57" />
         <mark key="." line="106" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/frontend/javascript/stores/api.js" timestamp="1509439350586">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="27" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/883eb393-ef85-475c-89b0-6eb519aef74c/console.sql" timestamp="1509197108577">
         <mark key="[" line="0" column="0" />
       </file>
@@ -336,7 +342,7 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509435902252">
+      <file name="/Dummy.txt" timestamp="1509438816508">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -516,10 +522,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>bullet</text>
