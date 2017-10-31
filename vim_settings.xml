@@ -73,12 +73,12 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509436870037">
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509441677832">
         <mark key="'" line="110" column="41" />
-        <mark key="[" line="15" column="53" />
-        <mark key="]" line="15" column="40" />
-        <mark key="." line="15" column="40" />
-        <mark key="^" line="15" column="40" />
+        <mark key="[" line="15" column="54" />
+        <mark key="]" line="15" column="54" />
+        <mark key="." line="15" column="54" />
+        <mark key="^" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1509330377745">
         <mark key="[" line="10" column="0" />
@@ -116,8 +116,8 @@
         <mark key="]" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509437653718">
-        <mark key="[" line="15" column="67" />
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
+        <mark key="[" line="17" column="31" />
         <mark key="]" line="16" column="45" />
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
@@ -213,6 +213,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/.rubocop.yml" timestamp="1509441503051">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="16" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1509426710681">
         <mark key="[" line="0" column="0" />
       </file>
@@ -286,11 +291,11 @@
         <mark key="^" line="81" column="57" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/frontend/javascript/stores/api.js" timestamp="1509439350586">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-        <mark key="^" line="7" column="27" />
+      <file name="$USER_HOME$/mcs_ver2/app/frontend/javascript/stores/api.js" timestamp="1509442043293">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/883eb393-ef85-475c-89b0-6eb519aef74c/console.sql" timestamp="1509197108577">
         <mark key="[" line="0" column="0" />
@@ -342,7 +347,7 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509438816508">
+      <file name="/Dummy.txt" timestamp="1509441696935">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -522,16 +527,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>bullet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z3JvdXAgOmRldmVsb3BtZW50IGRvCg==</text>
+        <text encoding="base64">ICBFbmFibGVkOiBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICMgOm1hZ2VsbGFuX3N1bW1hcnlfcmVzdWx0Cg==</text>
