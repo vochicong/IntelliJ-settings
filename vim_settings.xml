@@ -219,7 +219,10 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1509419142498">
+      <file name="$USER_HOME$/mcs_ver2/config/environments/development.rb" timestamp="1509428678424">
+        <mark key="[" line="79" column="50" />
+      </file>
+      <file name="/Ruby Console" timestamp="1509428230062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -331,9 +334,9 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.local" timestamp="1509331779703">
+      <file name="$USER_HOME$/mcs_ver2/.env.local" timestamp="1509428970194">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="2" />
+        <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/features/login_spec.rb" timestamp="1508673375503">
@@ -345,12 +348,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509427623711">
-        <mark key="'" line="112" column="11" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="1" />
-        <mark key="." line="102" column="1" />
-        <mark key="^" line="102" column="1" />
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509428710359">
+        <mark key="'" line="115" column="11" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="110" column="12" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/test" timestamp="1508666067414">
         <mark key="[" line="4" column="32" />
@@ -488,11 +491,11 @@
       <jump line="115" column="11" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>遅い SQL をリストアップ</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>unicorn</text>
@@ -501,31 +504,31 @@
         <text encoding="base64">Z3JvdXAgOmRldmVsb3BtZW50IGRvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAjIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z3JvdXAgOmRldmVsb3BtZW50LCA6cHJvZmlsZXIgZG8K</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZW0gJ2Zhc3Rfc3RhY2snCg==</text>
+        <text encoding="base64">Z3JvdXAgOmRldmVsb3BtZW50LCA6cHJvZmlsZXIgZG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnZW0gJ2ZsYW1lZ3JhcGgnCg==</text>
+        <text encoding="base64">ICBnZW0gJ2Zhc3Rfc3RhY2snCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIEZvciBjYWxsLXN0YWNrIHByb2ZpbGluZyBmbGFtZWdyYXBocyAocmVxdWlyZXMgUnVieSBNUkkgMi4wLjArKQo=</text>
+        <text encoding="base64">ICBnZW0gJ2ZsYW1lZ3JhcGgnCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAjIEZvciBjYWxsLXN0YWNrIHByb2ZpbGluZyBmbGFtZWdyYXBocyAocmVxdWlyZXMgUnVieSBNUkkgMi4wLjArKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIEZvciBjYWxsLXN0YWNrIHByb2ZpbGluZyBmbGFtZWdyYXBocyAocmVxdWlyZXMgUnVieSBNUkkgMi4wLjArKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIEZvciBtZW1vcnkgcHJvZmlsaW5nIChyZXF1aXJlcyBSdWJ5IE1SSSAyLjErKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIEZvciBtZW1vcnkgcHJvZmlsaW5nIChyZXF1aXJlcyBSdWJ5IE1SSSAyLjErKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
