@@ -36,12 +36,12 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="28" column="50" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509358616225">
-        <mark key="'" line="318" column="17" />
-        <mark key="[" line="301" column="6" />
-        <mark key="]" line="301" column="5" />
-        <mark key="." line="301" column="5" />
-        <mark key="^" line="301" column="5" />
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509413140433">
+        <mark key="'" line="319" column="17" />
+        <mark key="[" line="289" column="41" />
+        <mark key="]" line="302" column="5" />
+        <mark key="." line="302" column="5" />
+        <mark key="^" line="302" column="5" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/create_resend.jbuilder" timestamp="1509090171814">
         <mark key="[" line="0" column="0" />
@@ -337,12 +337,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509337053517">
-        <mark key="'" line="100" column="13" />
-        <mark key="[" line="99" column="33" />
-        <mark key="]" line="100" column="32" />
-        <mark key="^" line="100" column="32" />
-        <mark key="." line="100" column="32" />
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509413297226">
+        <mark key="'" line="101" column="13" />
+        <mark key="[" line="102" column="42" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="102" column="41" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/test" timestamp="1508666067414">
         <mark key="[" line="4" column="32" />
@@ -363,7 +363,7 @@
         <mark key="^" line="10" column="61" />
         <mark key="." line="10" column="62" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" timestamp="1509338398403">
+      <file name="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" timestamp="1509412953364">
         <mark key="'" line="270" column="4" />
         <mark key="[" line="514" column="22" />
         <mark key="]" line="514" column="23" />
@@ -481,7 +481,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -493,33 +493,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAuaW5jbHVkZXMoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9mcmVxdWVuY2llcykKICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQogICAgICAgICAgICAgIC53aGVyZShtYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXM6IHsgbWFnZWxsYW5faW1wcm92ZW1lbnRfaWQ6IG1hZ2VsbGFuX2ltcHJvdmVtZW50LmlkIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAub3JkZXJfYnlfc3RhcnRlZF9hdCgnREVTQycpLmxpbWl0KDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIyA9IHN0cnVjdHNbLTFdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAub3JkZXJfYnlfc3RhcnRlZF9hdCgnREVTQycpLmxpbWl0KDIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJldl9pbmZvID0gc3RydWN0c1sxXQo=</text>
+        <text encoding="base64">ICAgICAgIyA9IHN0cnVjdHNbLTFdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAjIC5pbmNsdWRlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQogICAgICAgICAgICAgICMgLmluY2x1ZGVzKDptYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXMpCiAgICAgICAgICAgICAgIyAud2l0aF9tYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXMKICAgICAgICAgICAgICAjIC53aGVyZShtYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXM6IHsgbWFnZWxsYW5faW1wcm92ZW1lbnRfaWQ6IG1hZ2VsbGFuX2ltcHJvdmVtZW50LmlkIH0pCiAgICAgICAgICAgICAgIyAud2l0aF9tYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdAogICAgICAgICAgICAgICMgLndpdGhfbWFnZWxsYW5fY2hlY2tfc3VydmV5X2Fuc3dlcl91c2VyX2hpc3RvcnkKICAgICAgICAgICAgICAjIC53aXRoX21hZ2VsbGFuX2NoZWNrX3N1cnZleV9yYXdfcmVzdWx0CiAgICAgICAgICAgICAgIyAuY2hlY2tfdXNlcl9jb25zaXN0ZW5jeQogICAgICAgICAgICAgICMgLndoZXJlKCdtYWdlbGxhbl9jaGVja19zdXJ2ZXlfYW5zd2VyX3VzZXJfaGlzdG9yaWVzLnVzZXJfaWQgPSBtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdHMudXNlcl9pZCcpCiAgICAgICAgICAgICAgIyAjIC5pbmNsdWRlcyhtYWdlbGxhbl9zdXJ2ZXk6IDptYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdHMpCiAgICAgICAgICAgICAgIyAjIC5pbmNsdWRlcyhtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdHM6IDptYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdF9jaG9pY2VzKQo=</text>
+        <text encoding="base64">ICAgICAgcHJldl9pbmZvID0gc3RydWN0c1sxXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAub3JkZXJfYnlfc3RhcnRlZF9hdCgnQVNDJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAjIC5pbmNsdWRlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQogICAgICAgICAgICAgICMgLmluY2x1ZGVzKDptYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXMpCiAgICAgICAgICAgICAgIyAud2l0aF9tYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXMKICAgICAgICAgICAgICAjIC53aGVyZShtYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXM6IHsgbWFnZWxsYW5faW1wcm92ZW1lbnRfaWQ6IG1hZ2VsbGFuX2ltcHJvdmVtZW50LmlkIH0pCiAgICAgICAgICAgICAgIyAud2l0aF9tYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdAogICAgICAgICAgICAgICMgLndpdGhfbWFnZWxsYW5fY2hlY2tfc3VydmV5X2Fuc3dlcl91c2VyX2hpc3RvcnkKICAgICAgICAgICAgICAjIC53aXRoX21hZ2VsbGFuX2NoZWNrX3N1cnZleV9yYXdfcmVzdWx0CiAgICAgICAgICAgICAgIyAuY2hlY2tfdXNlcl9jb25zaXN0ZW5jeQogICAgICAgICAgICAgICMgLndoZXJlKCdtYWdlbGxhbl9jaGVja19zdXJ2ZXlfYW5zd2VyX3VzZXJfaGlzdG9yaWVzLnVzZXJfaWQgPSBtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdHMudXNlcl9pZCcpCiAgICAgICAgICAgICAgIyAjIC5pbmNsdWRlcyhtYWdlbGxhbl9zdXJ2ZXk6IDptYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdHMpCiAgICAgICAgICAgICAgIyAjIC5pbmNsdWRlcyhtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdHM6IDptYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdF9jaG9pY2VzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAjIC5pbmNsdWRlcyhtYWdlbGxhbl9zdXJ2ZXk6IDptYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAub3JkZXJfYnlfc3RhcnRlZF9hdCgnQVNDJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAud2l0aF9tYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAjIC5pbmNsdWRlcyhtYWdlbGxhbl9zdXJ2ZXk6IDptYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdHMpCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>index = self
-index = inde
-index = inde</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAud2l0aF9tYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
