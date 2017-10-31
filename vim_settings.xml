@@ -202,7 +202,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1509425166313">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1509426710681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/up" timestamp="1508590353959">
@@ -345,12 +345,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509420628332">
-        <mark key="'" line="15" column="42" />
-        <mark key="[" line="101" column="26" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="15" column="42" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509427623711">
+        <mark key="'" line="112" column="11" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="1" />
+        <mark key="." line="102" column="1" />
+        <mark key="^" line="102" column="1" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/test" timestamp="1508666067414">
         <mark key="[" line="4" column="32" />
@@ -386,7 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="3" filename="$USER_HOME$/mcs_ver2/README.md" />
       <jump line="131" column="0" filename="$USER_HOME$/mcs_ver2/README.md" />
       <jump line="160" column="0" filename="$USER_HOME$/mcs_ver2/README.md" />
       <jump line="123" column="0" filename="$USER_HOME$/mcs_ver2/README.md" />
@@ -486,46 +485,47 @@
       <jump line="318" column="17" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="85" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
       <jump line="15" column="42" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="115" column="11" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="-" type="4">
-        <text>= 2</text>
+        <text>遅い SQL をリストアップ</text>
       </register>
       <register name="/" type="4">
         <text>unicorn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuaW5jbHVkZXMoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9mcmVxdWVuY2llcykKICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQogICAgICAgICAgICAgIC53aGVyZShtYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmNpZXM6IHsgbWFnZWxsYW5faW1wcm92ZW1lbnRfaWQ6IG1hZ2VsbGFuX2ltcHJvdmVtZW50LmlkIH0pCg==</text>
+        <text encoding="base64">Z3JvdXAgOmRldmVsb3BtZW50IGRvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgYXN5bmMgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBpZD0ibWluaS1wcm9maWxlciIgc3JjPSIvbWluaS1wcm9maWxlci1yZXNvdXJjZXMvaW5jbHVkZXMuanM/dj0xMmI0YjQ1YTNjNDJlNmUxNTUwM2Q3YTAzODEwZmYzMyIgZGF0YS12ZXJzaW9uPSIxMmI0YjQ1YTNjNDJlNmUxNTUwM2Q3YTAzODEwZmYzMyIgZGF0YS1wYXRoPSIvbWluaS1wcm9maWxlci1yZXNvdXJjZXMvIiBkYXRhLWN1cnJlbnQtaWQ9InJlZG82Nmo0ZzEwNzdrdG84dWgzIiBkYXRhLWlkcz0icmVkbzY2ajRnMTA3N2t0bzh1aDMiIGRhdGEtaG9yaXpvbnRhbC1wb3NpdGlvbj0ibGVmdCIgZGF0YS12ZXJ0aWNhbC1wb3NpdGlvbj0idG9wIiBkYXRhLXRyaXZpYWw9ImZhbHNlIiBkYXRhLWNoaWxkcmVuPSJmYWxzZSIgZGF0YS1tYXgtdHJhY2VzPSIxMCIgZGF0YS1jb250cm9scz0iZmFsc2UiIGRhdGEtYXV0aG9yaXplZD0idHJ1ZSIgZGF0YS10b2dnbGUtc2hvcnRjdXQ9IkFsdCtQIiBkYXRhLXN0YXJ0LWhpZGRlbj0iZmFsc2UiIGRhdGEtY29sbGFwc2UtcmVzdWx0cz0idHJ1ZSI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Z3JvdXAgOmRldmVsb3BtZW50LCA6cHJvZmlsZXIgZG8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICBnZW0gJ2Zhc3Rfc3RhY2snCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZW0gJ2ZsYW1lZ3JhcGgnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgLm9yZGVyX2J5X3N0YXJ0ZWRfYXQoJ0FTQycpCg==</text>
+        <text encoding="base64">ICAjIEZvciBjYWxsLXN0YWNrIHByb2ZpbGluZyBmbGFtZWdyYXBocyAocmVxdWlyZXMgUnVieSBNUkkgMi4wLjArKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzog44GT44GT44Gn44Gv44Gq44GECg==</text>
+        <text encoding="base64">ICAjIEZvciBjYWxsLXN0YWNrIHByb2ZpbGluZyBmbGFtZWdyYXBocyAocmVxdWlyZXMgUnVieSBNUkkgMi4wLjArKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQo=</text>
+        <text encoding="base64">ICAjIEZvciBtZW1vcnkgcHJvZmlsaW5nIChyZXF1aXJlcyBSdWJ5IE1SSSAyLjErKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAub3JkZXJfYnlfc3RhcnRlZF9hdCgnREVTQycpLmxpbWl0KDIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
