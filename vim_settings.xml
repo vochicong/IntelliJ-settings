@@ -6,12 +6,6 @@
       <file name="$USER_HOME$/mcs_ver2/app/services/magellan_action_plan_result_service.rb" timestamp="1509431687564">
         <mark key="'" line="3" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1509348690479">
-        <mark key="'" line="0" column="1970" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-debug.sh" timestamp="1508161314555">
         <mark key="[" line="6" column="78" />
         <mark key="]" line="6" column="78" />
@@ -189,12 +183,6 @@
       <file name="$USER_HOME$/dev-env/mac/roles/common/tasks/main.yml" timestamp="1508634292406">
         <mark key="[" line="37" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sql" timestamp="1509351237643">
-        <mark key="'" line="13" column="33" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1508596407207">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="5" column="0" />
@@ -291,7 +279,7 @@
         <mark key="^" line="81" column="57" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/frontend/javascript/stores/api.js" timestamp="1509445837813">
+      <file name="$USER_HOME$/mcs_ver2/app/frontend/javascript/stores/api.js" timestamp="1509446895147">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="31" />
         <mark key="." line="7" column="31" />
@@ -347,7 +335,7 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509442052653">
+      <file name="/Dummy.txt" timestamp="1509446801703">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -395,13 +383,6 @@
         <mark key="]" line="4" column="32" />
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" timestamp="1509017508472">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="56" column="59" />
-        <mark key="]" line="56" column="59" />
-        <mark key="^" line="59" column="63" />
-        <mark key="." line="56" column="59" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/db/seeds/development/seeds.rb" timestamp="1508714748937">
         <mark key="[" line="10" column="62" />
