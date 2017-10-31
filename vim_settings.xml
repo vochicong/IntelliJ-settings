@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/mcs_ver2/app/services/magellan_action_plan_result_service.rb" timestamp="1509431687564">
+        <mark key="'" line="3" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" timestamp="1509348690479">
         <mark key="'" line="0" column="1970" />
         <mark key="[" line="0" column="0" />
@@ -41,8 +44,8 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="28" column="50" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509419173643">
-        <mark key="'" line="318" column="17" />
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509435938794">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="312" column="0" />
         <mark key="]" line="312" column="0" />
         <mark key="." line="312" column="0" />
@@ -70,10 +73,11 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509288408627">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509435946529">
+        <mark key="'" line="110" column="41" />
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1509330377745">
         <mark key="[" line="10" column="0" />
@@ -110,6 +114,12 @@
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="14" />
         <mark key="." line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509436200970">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/factories/companies.rb" timestamp="1508690655163">
         <mark key="[" line="64" column="11" />
@@ -253,6 +263,13 @@
       <file name="$USER_HOME$/dev-env/mac/scripts/24-install-ruby.sh" timestamp="1508454399079">
         <mark key="[" line="12" column="37" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1509432386817">
+        <mark key="[" line="6" column="96" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_action_plan.rb" timestamp="1509434430708" />
       <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1508666043030">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -312,7 +329,13 @@
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509418928024">
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/improvements_controller.rb" timestamp="1509435096810">
+        <mark key="[" line="10" column="94" />
+        <mark key="]" line="10" column="94" />
+        <mark key="^" line="10" column="116" />
+        <mark key="." line="10" column="94" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509435902252">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -334,7 +357,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.local" timestamp="1509428970194">
+      <file name="$USER_HOME$/mcs_ver2/.env.local" timestamp="1509432062923">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="0" />
@@ -348,8 +371,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509428710359">
-        <mark key="'" line="115" column="11" />
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509433970275">
+        <mark key="'" line="109" column="8" />
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
@@ -389,25 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/mcs_ver2/README.md" />
-      <jump line="160" column="0" filename="$USER_HOME$/mcs_ver2/README.md" />
-      <jump line="123" column="0" filename="$USER_HOME$/mcs_ver2/README.md" />
-      <jump line="127" column="0" filename="$USER_HOME$/mcs_ver2/README.md" />
-      <jump line="14" column="38" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="50" column="6" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="77" column="75" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="57" column="30" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="60" column="108" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="42" column="67" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="47" column="58" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="41" column="67" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="38" column="0" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="48" column="4" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="36" column="48" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="40" column="30" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="49" column="52" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="46" column="21" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
-      <jump line="30" column="8" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
       <jump line="9" column="6" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
       <jump line="10" column="13" filename="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" />
       <jump line="342" column="4" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
@@ -489,65 +493,79 @@
       <jump line="85" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
       <jump line="15" column="42" filename="$USER_HOME$/mcs_ver2/Gemfile" />
       <jump line="115" column="11" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="3" column="4" filename="$USER_HOME$/mcs_ver2/app/services/magellan_action_plan_result_service.rb" />
+      <jump line="46" column="0" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="73" column="14" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="120" column="27" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="142" column="25" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="143" column="25" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="144" column="25" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="145" column="25" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="146" column="25" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="109" column="8" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="110" column="41" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" />
+      <jump line="56" column="34" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="128" column="68" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="140" column="27" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="141" column="28" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="154" column="37" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="155" column="38" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="210" column="22" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>unicorn</text>
+        <text>survey_item</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z3JvdXAgOmRldmVsb3BtZW50IGRvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIC5pbmNsdWRlcyg6bWFnZWxsYW5fYWN0aW9uX3BsYW5zLCA6c3VydmV5X2l0ZW0sIDptYWdlbGxhbl9hY3Rpb25fcGxhbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjICAgICAgICAgICA6bWFnZWxsYW5fc3VydmV5LCA6bWFnZWxsYW5fc3VtbWFyeV9jaGFpbnMsIDptYWdlbGxhbl9pbXByb3ZlbWVudHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3JvdXAgOmRldmVsb3BtZW50LCA6cHJvZmlsZXIgZG8K</text>
+        <text encoding="base64">ICAgICMgOm1hZ2VsbGFuX3N1bW1hcnlfcmVzdWx0cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnZW0gJ2Zhc3Rfc3RhY2snCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5pbmNsdWRlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2F0dHJpYnV0ZV9zZXR0aW5ncykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBnZW0gJ2ZsYW1lZ3JhcGgnCg==</text>
+        <text encoding="base64">ICAgICAgICAuaW5jbHVkZXMoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9hdHRyaWJ1dGVfc2V0dGluZ3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIEZvciBjYWxsLXN0YWNrIHByb2ZpbGluZyBmbGFtZWdyYXBocyAocmVxdWlyZXMgUnVieSBNUkkgMi4wLjArKQo=</text>
+        <text encoding="base64">ICAjIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIEZvciBjYWxsLXN0YWNrIHByb2ZpbGluZyBmbGFtZWdyYXBocyAocmVxdWlyZXMgUnVieSBNUkkgMi4wLjArKQo=</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z3JvdXAgOmRldmVsb3BtZW50LCA6cHJvZmlsZXIgZG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIEZvciBtZW1vcnkgcHJvZmlsaW5nIChyZXF1aXJlcyBSdWJ5IE1SSSAyLjErKQo=</text>
+        <text encoding="base64">ICBnZW0gJ2Zhc3Rfc3RhY2snCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>unicorn</last-search>
+      <last-search>survey_item</last-search>
       <last-offset />
-      <last-pattern>unicorn</last-pattern>
+      <last-pattern>survey_item</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>AND</entry>
-        <entry encoding="base64">XDxBTkRcPg==</entry>
-        <entry encoding="base64">XDxPTlw+</entry>
-        <entry encoding="base64">XDxlcmRcPg==</entry>
-        <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdF9jaG9pY2VzXD4=</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmF3X3Jlc3VsdF9pZFw+</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZ3NcPg==</entry>
         <entry encoding="base64">XDx3aXRoX21hZ2VsbGFuX3N1bW1hcnlfcmVzdWx0XD4=</entry>
@@ -563,6 +581,11 @@
         <entry encoding="base64">XDxwcmV2X2luZm9cPg==</entry>
         <entry>sql</entry>
         <entry>unicorn</entry>
+        <entry encoding="base64">XDxyZXN1bHRzXD4=</entry>
+        <entry>action</entry>
+        <entry>puma</entry>
+        <entry encoding="base64">XDxpbmNsdWRlc1w+</entry>
+        <entry>survey_item</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
