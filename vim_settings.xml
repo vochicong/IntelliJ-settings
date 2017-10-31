@@ -124,7 +124,7 @@
         <mark key="." line="119" column="4" />
         <mark key="^" line="343" column="9" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1509339802426">
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1509420747907">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
@@ -201,6 +201,9 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1509425166313">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/up" timestamp="1508590353959">
         <mark key="[" line="4" column="41" />
@@ -342,7 +345,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509419837023">
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509420628332">
         <mark key="'" line="15" column="42" />
         <mark key="[" line="101" column="26" />
         <mark key="]" line="85" column="0" />
