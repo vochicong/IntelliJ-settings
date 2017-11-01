@@ -1,0 +1,18 @@
+<application>
+  <component name="TextMateSettings">
+    <option name="themesMapping">
+      <map>
+        <entry key="All hallow's eve" value="All Hallow's Eve" />
+        <entry key="Blackboard" value="Blackboard" />
+        <entry key="Cobalt" value="Cobalt" />
+        <entry key="Darcula" value="Darcula" />
+        <entry key="Default" value="GitHub" />
+        <entry key="Github" value="GitHub" />
+        <entry key="Monokai" value="Monokai" />
+        <entry key="Railscasts" value="RailsCasts" />
+        <entry key="Twilight" value="Twilight" />
+        <entry key="VibrantInk" value="VibrantInk" />
+      </map>
+    </option>
+  </component>
+</application>
