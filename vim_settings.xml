@@ -12,7 +12,7 @@
         <mark key="." line="6" column="78" />
         <mark key="^" line="6" column="128" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" timestamp="1509013774963">
+      <file name="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" timestamp="1509515575021">
         <mark key="[" line="10" column="56" />
         <mark key="]" line="10" column="56" />
         <mark key="." line="10" column="56" />
@@ -86,10 +86,6 @@
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="43" />
         <mark key="." line="13" column="43" />
-      </file>
-      <file name="/magellan_summary_result.rb" timestamp="1509358596474">
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="294" column="109" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509071961858">
         <mark key="[" line="0" column="15" />
@@ -211,7 +207,7 @@
         <mark key="^" line="86" column="9" />
         <mark key="." line="80" column="4" />
       </file>
-      <file name="/Ruby Console" timestamp="1509428230062">
+      <file name="/Ruby Console" timestamp="1509514661253">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -229,12 +225,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/lib/custom_date_time.rb" timestamp="1509017425643">
+      <file name="$USER_HOME$/mcs_ver2/lib/custom_date_time.rb" timestamp="1509515615813">
         <mark key="'" line="7" column="56" />
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="39" />
-        <mark key="." line="2" column="39" />
-        <mark key="^" line="2" column="41" />
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+        <mark key="^" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1509432386817">
         <mark key="[" line="6" column="96" />
@@ -466,10 +462,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>timeout</text>
@@ -559,6 +555,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
