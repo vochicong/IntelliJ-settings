@@ -279,12 +279,6 @@
         <mark key="^" line="81" column="57" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/frontend/javascript/stores/api.js" timestamp="1509446895147">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-        <mark key="^" line="7" column="31" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/883eb393-ef85-475c-89b0-6eb519aef74c/console.sql" timestamp="1509197108577">
         <mark key="[" line="0" column="0" />
       </file>
@@ -335,7 +329,7 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509446801703">
+      <file name="/Dummy.txt" timestamp="1509496988735">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -514,7 +508,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>bullet</text>
+        <text>timeout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBFbmFibGVkOiBmYWxzZQo=</text>
@@ -551,15 +545,14 @@
       </register>
     </registers>
     <search>
-      <last-search>bullet</last-search>
+      <last-search>timeout</last-search>
       <last-offset />
-      <last-pattern>bullet</last-pattern>
+      <last-pattern>timeout</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZ3NcPg==</entry>
         <entry encoding="base64">XDx3aXRoX21hZ2VsbGFuX3N1bW1hcnlfcmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxleHBlY3RhdGlvbl9hbmRfc2F0aXNmYWN0aW9uX29mX3N1cnZleV9pdGVtXD4=</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfYW5zd2VyX3VzZXJfaGlzdG9yaWVzXD4=</entry>
@@ -579,6 +572,7 @@
         <entry encoding="base64">XDxpbmNsdWRlc1w+</entry>
         <entry>survey_item</entry>
         <entry>bullet</entry>
+        <entry>timeout</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
