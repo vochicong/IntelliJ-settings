@@ -35,10 +35,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/update-db-schema.sh" timestamp="1509103654520">
+      <file name="$USER_HOME$/mcs_ver2/bin/update-db-schema.sh" timestamp="1509583575773">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="6" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509502831321">
         <mark key="'" line="110" column="41" />
@@ -123,6 +124,11 @@
       </file>
       <file name="$USER_HOME$/dev-env/mac/roles/common/tasks/main.yml" timestamp="1508634292406">
         <mark key="[" line="37" column="16" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1509583551917">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1508663748534">
         <mark key="'" line="87" column="26" />
@@ -240,12 +246,6 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509535533799">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/fragment.rb" timestamp="1509189067015">
         <mark key="[" line="0" column="0" />
       </file>
@@ -264,12 +264,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509501284564">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="98" column="2" />
-        <mark key="]" line="98" column="2" />
-        <mark key="." line="98" column="2" />
-        <mark key="^" line="106" column="16" />
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509583905002">
+        <mark key="'" line="106" column="15" />
+        <mark key="[" line="59" column="19" />
+        <mark key="]" line="59" column="18" />
+        <mark key="." line="59" column="18" />
+        <mark key="^" line="59" column="18" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" timestamp="1509533865747">
         <mark key="'" line="107" column="0" />
@@ -287,7 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="19" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="13" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
       <jump line="15" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
       <jump line="30" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
@@ -387,61 +386,61 @@
       <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/.env-sample" />
       <jump line="62" column="0" filename="$USER_HOME$/mcs_ver2/.env-sample" />
       <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/.env.test" />
+      <jump line="106" column="15" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>request</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">REFUQUJBU0VfTkFNRT1tY3NfdmVyMl9kZXZlbG9wbWVudAo=</text>
       </register>
       <register name="-" type="4">
         <text>request</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDSFJPTUVfQlJPV1NFUl9CSU5cPg==</text>
+        <text>select2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2Jpbi9idW5kbGUgZXhlYyByc3BlYyAtZiBkIC1mIFJzcGVjSnVuaXRGb3JtYXR0ZXIgLS1vdXQgbG9nL3Rlc3QtcmVzdWx0cy9yZXF1ZXN0LnhtbCBzcGVjL3JlcXVlc3RzLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2Jpbi9idW5kbGUgZXhlYyByc3BlYyAtZiBkIC1mIFJzcGVjSnVuaXRGb3JtYXR0ZXIgLS1vdXQgbG9nL3Rlc3QtcmVzdWx0cy9yZXF1ZXN0LnhtbCBzcGVjL3JlcXVlc3RzLwo=</text>
+        <text encoding="base64">REFUQUJBU0VfTkFNRT1tY3NfdmVyMl9kZXZlbG9wbWVudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWVzdHMvbWFnZWxsYW5fY2hlY2tfc3VydmV5X3NldHRpbmdzX3NwZWMucmIK</text>
+        <text encoding="base64">I2Jpbi9idW5kbGUgZXhlYyByc3BlYyAtZiBkIC1mIFJzcGVjSnVuaXRGb3JtYXR0ZXIgLS1vdXQgbG9nL3Rlc3QtcmVzdWx0cy9yZXF1ZXN0LnhtbCBzcGVjL3JlcXVlc3RzLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q0hST01FX0JST1dTRVJfQklOPS9BcHBsaWNhdGlvbnMvR29vZ2xlIENocm9tZS5hcHAvQ29udGVudHMvTWFjT1MvR29vZ2xlIENocm9tZQo=</text>
+        <text encoding="base64">cmVxdWVzdHMvbWFnZWxsYW5fY2hlY2tfc3VydmV5X3NldHRpbmdzX3NwZWMucmIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q0hST01FX0JST1dTRVJfQklOPS9BcHBsaWNhdGlvbnMvR29vZ2xlIENocm9tZS5hcHAvQ29udGVudHMvTWFjT1MvR29vZ2xlIENocm9tZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi5nZXRfbWFnZWxsYW5fY2hlY2tfc3VydmV5X3JlYW5zd2VyX3JlcXVlc3RfdHlwZQogICAgbWFnZWxsYW5fY2hlY2tfc3VydmV5X3JlYW5zd2VyX3JlcXVlc3QuZmlyc3QuaWQKICBlbmQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi5nZXRfbWFnZWxsYW5fY2hlY2tfc3VydmV5X3Jlc2VuZF90eXBlCiAgICBtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmVzZW5kLmZpcnN0LmlkCiAgZW5kCgo=</text>
+        <text encoding="base64">ICBkZWYgc2VsZi5nZXRfbWFnZWxsYW5fY2hlY2tfc3VydmV5X3JlYW5zd2VyX3JlcXVlc3RfdHlwZQogICAgbWFnZWxsYW5fY2hlY2tfc3VydmV5X3JlYW5zd2VyX3JlcXVlc3QuZmlyc3QuaWQKICBlbmQKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSg6bWFpbF90eXBlLCB0eXBlX2lkOiBNYWlsVHlwZS5nZXRfbWFnZWxsYW5fY2hlY2tfc3VydmV5X3Jlc2VuZF90eXBlLCBuYW1lOiAn44OV44Kp44O844Kr44K544K144O844OZ44Kk5a6f5pa96YCa55+l5YaN6YCBKOODnuOCvOODqeODsyknKQo=</text>
+        <text encoding="base64">ICBkZWYgc2VsZi5nZXRfbWFnZWxsYW5fY2hlY2tfc3VydmV5X3Jlc2VuZF90eXBlCiAgICBtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmVzZW5kLmZpcnN0LmlkCiAgZW5kCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGUoOm1haWxfdHlwZSwgdHlwZV9pZDogTWFpbFR5cGUuLAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSg6bWFpbF90eXBlLCB0eXBlX2lkOiBNYWlsVHlwZS5nZXRfbWFnZWxsYW5fY2hlY2tfc3VydmV5X3Jlc2VuZF90eXBlLCBuYW1lOiAn44OV44Kp44O844Kr44K544K144O844OZ44Kk5a6f5pa96YCa55+l5YaN6YCBKOODnuOCvOODqeODsyknKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSg6bWFpbF90eXBlLCB0eXBlX2lkOiBNYWlsVHlwZS5nZXRfbWFnZWxsYW5fY2hlY2tfc3VydmV5X3JlYW5zd2VyX3JlcXVlc3RfdHlwZSwgbmFtZTogJ+WGjeWbnuetlOS+nemgvOmAmuefpScpCg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGUoOm1haWxfdHlwZSwgdHlwZV9pZDogTWFpbFR5cGUuLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDSFJPTUVfQlJPV1NFUl9CSU5cPg==</last-search>
+      <last-search>select2</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDSFJPTUVfQlJPV1NFUl9CSU5cPg==</last-pattern>
+      <last-pattern>select2</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>survey_item</entry>
         <entry>bullet</entry>
         <entry>timeout</entry>
         <entry encoding="base64">XDxvcmdhbml6YXRpb25fY2hhbmdlX3R5cGVcPg==</entry>
@@ -461,6 +460,7 @@
         <entry encoding="base64">XDx0eXBlX2lkc1w+</entry>
         <entry encoding="base64">XDxNYWlsVHlwZVw+</entry>
         <entry encoding="base64">XDxDSFJPTUVfQlJPV1NFUl9CSU5cPg==</entry>
+        <entry>select2</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
