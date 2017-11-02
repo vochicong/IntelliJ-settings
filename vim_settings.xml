@@ -56,6 +56,11 @@
       <file name="/Bash" timestamp="1508246395003">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/test-e2e.sh" timestamp="1509598892333">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509519404719">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -112,12 +117,17 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1508663748534">
-        <mark key="'" line="87" column="26" />
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="43" column="5" />
-        <mark key="^" line="43" column="5" />
-        <mark key="." line="43" column="5" />
+      <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1509599798677">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1509599662222">
+        <mark key="'" line="68" column="4" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="106" column="27" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-test.sh" timestamp="1508595422160">
         <mark key="[" line="3" column="0" />
@@ -143,12 +153,17 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/test-uit.sh" timestamp="1509598928539">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/magellan_summary_results/check_surveys/index.jbuilder" timestamp="1509355611416">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1509103779985">
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1509598390610">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -203,7 +218,7 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509591225122">
+      <file name="/Dummy.txt" timestamp="1509599778083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1509189067015">
@@ -246,16 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sql" />
-      <jump line="154" column="114" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
-      <jump line="40" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
-      <jump line="172" column="18" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
-      <jump line="119" column="18" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
-      <jump line="298" column="15" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
-      <jump line="126" column="101" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
-      <jump line="13" column="33" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sql" />
-      <jump line="87" column="4" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
-      <jump line="89" column="40" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
       <jump line="120" column="18" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
       <jump line="42" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
       <jump line="319" column="64" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
@@ -346,64 +351,70 @@
       <jump line="290" column="4" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="535" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="543" column="24" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="113" column="8" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="66" column="5" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="118" column="8" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="9" column="5" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="11" column="19" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="114" column="0" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="65" column="0" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="6" column="0" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="54" column="0" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="68" column="4" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6dHVybl9vZmZfb3JnX2NoYW5nZWQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>bundle exec rspec -f d -f RspecJunitFormatter --out log/test-results/rspec.xml</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0dXJuX29mZl9vcmdfY2hhbmdlZFw+</text>
+        <text encoding="base64">XDxicmFuY2hlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6dHVybl9vZmZfb3JnX2NoYW5nZWQK</text>
+        <text encoding="base64">ICAgICAgLSBydW46IGJpbi90ZXN0LXVpdC5zaAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6dHVybl9vZmZfb3JnX2NoYW5nZWQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6dHVybl9vZmZfb3JnX2NoYW5nZWRfZmxnCg==</text>
+        <text encoding="base64">ICAgIGJyYW5jaGVzOgogICAgICBvbmx5OiBkZXZlbnYKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6dHVybl9vZmZfb3JnX2NoYW5nZWRfZmxnCg==</text>
+        <text encoding="base64">ICAgIGJyYW5jaGVzOgogICAgICBpZ25vcmU6IGRldmVudgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogIHByaXZhdGVfY2xhc3NfbWV0aG9kIDp0dXJuX29mZl9vcmdfY2hhbmdlZAo+Pj4+Pj4+IGZlYXR1cmUvdjIuMgo=</text>
+        <text encoding="base64">bWtkaXIgLXAgbG9nL3Rlc3QtcmVzdWx0cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">bWtkaXIgLXAgbG9nL3Rlc3QtcmVzdWx0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6dHVybl9vZmZfb3JnX2NoYW5nZWRfZmxnCg==</text>
+        <text encoding="base64">ICB0ZXN0OgogICAgYnJhbmNoZXM6CiAgICAgIGlnbm9yZTogZGV2ZW52CgogICAgZG9ja2VyOgogICAgICAgLSBpbWFnZTogdm9jaGljb25nL21jc2RldjozCiAgICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgIFJBSUxTX0VOVjogdGVzdAogICAgICAgICAgIENIUk9NRV9CUk9XU0VSX0JJTjogL3Vzci9iaW4vZ29vZ2xlLWNocm9tZQoKICAgICAgIC0gaW1hZ2U6IG1hcmlhZGI6NS41CiAgICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgIE1ZU1FMX1JPT1RfUEFTU1dPUkQ6IHBhc3N3b3JkCgogICAgd29ya2luZ19kaXJlY3Rvcnk6IH4vcmVwbwoKICAgIHN0ZXBzOgogICAgICAtIGNoZWNrb3V0CgogICAgICAtIHJlc3RvcmVfY2FjaGU6CiAgICAgICAgICBrZXlzOgogICAgICAgICAgLSBnZW1zLXt7IGFyY2ggfX0te3sgY2hlY2tzdW0gIkdlbWZpbGUubG9jayIgfX0KCiAgICAgIC0gcmVzdG9yZV9jYWNoZToKICAgICAgICAgIGtleXM6CiAgICAgICAgICAtIHlhcm4te3sgYXJjaCB9fS17eyBjaGVja3N1bSAieWFybi5sb2NrIiB9fQoKICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBDcmVhdGUgZmlsZSAuZW52LnRlc3QKICAgICAgICAgIGNvbW1hbmQ6IHwKICAgICAgICAgICAgc2VkICdzL0RBVEFCQVNFX05BTUU9bWNzX3ZlcjJfZGV2ZWxvcG1lbnQvREFUQUJBU0VfTkFNRT1tY3NfdmVyMl90ZXN0Lzsgcy9EQVRBQkFTRV9IT1NUPWxvY2FsaG9zdC9EQVRBQkFTRV9IT1NUPTEyNy4wLjAuMS87IHMvREFUQUJBU0VfU09DS0VULyNEQVRBQkFTRV9TT0NLRVQvJyBcCiAgICAgICAgICAgIC5lbnYtc2FtcGxlID4gLmVudi50ZXN0CgogICAgICAjIGh0dHBzOi8vY2lyY2xlY2kuY29tL2RvY3MvMi4wL2Vudi12YXJzLyNpbnRlcnBvbGF0aW5nLWVudmlyb25tZW50LXZhcmlhYmxlcy10by1zZXQtb3RoZXItZW52aXJvbm1lbnQtdmFyaWFibGVzCiAgICAgIC0gcnVuOgogICAgICAgICAgbmFtZTogU2V0IHBhdGhzCiAgICAgICAgICBjb21tYW5kOiB8CiAgICAgICAgICAgIGVjaG8gJ2V4cG9ydCBQQVRIPS9yb290L3JlcG8vYmluOiRQQVRIJyA+PiAkQkFTSF9FTlYKICAgICAgICAgICAgYmluL3lhcm4gY29uZmlnIHNldCBpbnN0YWxsLm1vZHVsZXMtZm9sZGVyIC9hcHAvbm9kZV9tb2R1bGVzCiAgICAgIC0gcnVuOiBiaW4vdGVzdC1wcmUuc2gKCiAgICAgIC0gc2F2ZV9jYWNoZToKICAgICAgICAgIHBhdGhzOgogICAgICAgICAgICAtIC9hcHAvdmVuZG9yL2J1bmRsZQogICAgICAgICAga2V5OiBnZW1zLXt7IGFyY2ggfX0te3sgY2hlY2tzdW0gIkdlbWZpbGUubG9jayIgfX0KCiAgICAgIC0gc2F2ZV9jYWNoZToKICAgICAgICAgIHBhdGhzOgogICAgICAgICAgICAtIC9hcHAvbm9kZV9tb2R1bGVzCiAgICAgICAgICBrZXk6IHlhcm4te3sgYXJjaCB9fS17eyBjaGVja3N1bSAieWFybi5sb2NrIiB9fQoKICAgICAgLSBydW46IGJpbi90ZXN0LXVpdC5zaAogICAgICAtIHJ1bjogYmluL3Rlc3QtZTJlLnNoCgogICAgICAtIHN0b3JlX3Rlc3RfcmVzdWx0czoKICAgICAgICAgIHBhdGg6IGxvZy90ZXN0LXJlc3VsdHMKICAgICAgLSBzdG9yZV9hcnRpZmFjdHM6CiAgICAgICAgICBwYXRoOiBsb2cvdGVzdC1yZXN1bHRzCiAgICAgICAgICBkZXN0aW5hdGlvbjogdGVzdC1yZXN1bHRzCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIERhdGVUaW1lLnRvbW9ycm93LnNpbmNlKDkuaG91cnMpCg==</text>
+        <text encoding="base64">ICB0ZXN0OgogICAgYnJhbmNoZXM6CiAgICAgIGlnbm9yZTogZGV2ZW52CgogICAgZG9ja2VyOgogICAgICAgLSBpbWFnZTogdm9jaGljb25nL21jc2RldjozCiAgICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgIFJBSUxTX0VOVjogdGVzdAogICAgICAgICAgIENIUk9NRV9CUk9XU0VSX0JJTjogL3Vzci9iaW4vZ29vZ2xlLWNocm9tZQoKICAgICAgIC0gaW1hZ2U6IG1hcmlhZGI6NS41CiAgICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgIE1ZU1FMX1JPT1RfUEFTU1dPUkQ6IHBhc3N3b3JkCgogICAgd29ya2luZ19kaXJlY3Rvcnk6IH4vcmVwbwoKICAgIHN0ZXBzOgogICAgICAtIGNoZWNrb3V0CgogICAgICAtIHJlc3RvcmVfY2FjaGU6CiAgICAgICAgICBrZXlzOgogICAgICAgICAgLSBnZW1zLXt7IGFyY2ggfX0te3sgY2hlY2tzdW0gIkdlbWZpbGUubG9jayIgfX0KCiAgICAgIC0gcmVzdG9yZV9jYWNoZToKICAgICAgICAgIGtleXM6CiAgICAgICAgICAtIHlhcm4te3sgYXJjaCB9fS17eyBjaGVja3N1bSAieWFybi5sb2NrIiB9fQoKICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBDcmVhdGUgZmlsZSAuZW52LnRlc3QKICAgICAgICAgIGNvbW1hbmQ6IHwKICAgICAgICAgICAgc2VkICdzL0RBVEFCQVNFX05BTUU9bWNzX3ZlcjJfZGV2ZWxvcG1lbnQvREFUQUJBU0VfTkFNRT1tY3NfdmVyMl90ZXN0Lzsgcy9EQVRBQkFTRV9IT1NUPWxvY2FsaG9zdC9EQVRBQkFTRV9IT1NUPTEyNy4wLjAuMS87IHMvREFUQUJBU0VfU09DS0VULyNEQVRBQkFTRV9TT0NLRVQvJyBcCiAgICAgICAgICAgIC5lbnYtc2FtcGxlID4gLmVudi50ZXN0CgogICAgICAjIGh0dHBzOi8vY2lyY2xlY2kuY29tL2RvY3MvMi4wL2Vudi12YXJzLyNpbnRlcnBvbGF0aW5nLWVudmlyb25tZW50LXZhcmlhYmxlcy10by1zZXQtb3RoZXItZW52aXJvbm1lbnQtdmFyaWFibGVzCiAgICAgIC0gcnVuOgogICAgICAgICAgbmFtZTogU2V0IHBhdGhzCiAgICAgICAgICBjb21tYW5kOiB8CiAgICAgICAgICAgIGVjaG8gJ2V4cG9ydCBQQVRIPS9yb290L3JlcG8vYmluOiRQQVRIJyA+PiAkQkFTSF9FTlYKICAgICAgICAgICAgYmluL3lhcm4gY29uZmlnIHNldCBpbnN0YWxsLm1vZHVsZXMtZm9sZGVyIC9hcHAvbm9kZV9tb2R1bGVzCiAgICAgIC0gcnVuOiBiaW4vdGVzdC1wcmUuc2gKCiAgICAgIC0gc2F2ZV9jYWNoZToKICAgICAgICAgIHBhdGhzOgogICAgICAgICAgICAtIC9hcHAvdmVuZG9yL2J1bmRsZQogICAgICAgICAga2V5OiBnZW1zLXt7IGFyY2ggfX0te3sgY2hlY2tzdW0gIkdlbWZpbGUubG9jayIgfX0KCiAgICAgIC0gc2F2ZV9jYWNoZToKICAgICAgICAgIHBhdGhzOgogICAgICAgICAgICAtIC9hcHAvbm9kZV9tb2R1bGVzCiAgICAgICAgICBrZXk6IHlhcm4te3sgYXJjaCB9fS17eyBjaGVja3N1bSAieWFybi5sb2NrIiB9fQoKICAgICAgLSBydW46IGJpbi90ZXN0LXVpdC5zaAogICAgICAtIHJ1bjogYmluL3Rlc3QtZTJlLnNoCgogICAgICAtIHN0b3JlX3Rlc3RfcmVzdWx0czoKICAgICAgICAgIHBhdGg6IGxvZy90ZXN0LXJlc3VsdHMKICAgICAgLSBzdG9yZV9hcnRpZmFjdHM6CiAgICAgICAgICBwYXRoOiBsb2cvdGVzdC1yZXN1bHRzCiAgICAgICAgICBkZXN0aW5hdGlvbjogdGVzdC1yZXN1bHRzCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjICAg5pS55ZaE6aCF55uu44KS6L+95YqgCiAgIyAtIOWxnuaAp+ioreWumu+8iOaWsOimj+eZu+mMsuODu+e3qOmbhu+8ieeUu+mdouOBp+OAgeWbnuetlOiAheioreWumuOAgeOCteODvOODmeOCpOWbnuetlOiAheOBruODpuODvOOCtuODvOOCkuioreWumgogICMgICBvcGVuIGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9vcGVyYXRpb25zL29yZ2FuaXphdGlvbnMvMTAwL21hZ2VsbGFuX2F0dHJpYnV0ZV9zZXR0aW5ncwogICMgLSBvcGVuIGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9vcGVyYXRpb25zL29yZ2FuaXphdGlvbnMvMTAwL21hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5ncwogICMgICDjg5Xjgqnjg7zjgqvjgrnjgrXjg7zjg5njgqTlrp/mlr3oqK3lrprjgpLmlrDopo/kvZzmiJAKICAjIC0gY2xhc3MgQ3VzdG9tRGF0ZVRpbWUg44GnIG5vdyDjgpLjgrXjg7zjg5njgqTplovlp4vml6Xjga4gOTowMOOAnDk6NTkg44Gu6ZaT44Gr44K744OD44OICiAgIyAtIHJhaWxzIGJhdGNoOm1jc19tYWlsOm1hZ2VsbGFuX2NoZWNrX3N1cnZleQogICMgICBtYWlsX3NlbmRfbWFuYWdlcyDjg4bjg7zjg5bjg6vjgavlm57nrZTogIXjga7jg6bjg7zjgrbjg7zjgpLmipXlhaUKICAjIC0gbWFpbF9zZW5kX21hbmFnZXMg44OG44O844OW44Or44KS6ZaL44GE44Gm44CB5Zue562U6ICF44Gu44Om44O844K244O844KS56K66KqN44O757eo6ZuGCiAgIyAtIHJhaWxzIGJhdGNoOm1jc19zZW5kX21haWw6bWFnZWxsYW5fY2hlY2tfc3VydmV5CiAgIyAgIOODoeODvOODq+OCkuWun+mam+OBq+eZuumAgQogICMgLSDjg6Hjg7zjg6vjga7liLDnnYDjgpLnorroqo3jgZfjgIFVUkzjgpLplovjgY3jgIHjg5Xjgqnjg7zjgqvjgrnjgrXjg7zjg5njgqTjgavlm57nrZTjgZnjgosK</text>
+        <text encoding="base64">d29ya2Zsb3dzOgogIHZlcnNpb246IDIKICBidWlsZF9hbmRfdGVzdDoKICAgIGpvYnM6CiAgICAgIC0gYnVpbGQ6CiAgICAgICAgICBmaWx0ZXJzOgogICAgICAtIHRlc3Q6CiAgICAgICAgICBmaWx0ZXJzOgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">REFUQUJBU0VfTkFNRT1tY3NfdmVyMl9kZXZlbG9wbWVudAo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0dXJuX29mZl9vcmdfY2hhbmdlZFw+</last-search>
+      <last-search encoding="base64">XDxicmFuY2hlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0dXJuX29mZl9vcmdfY2hhbmdlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxicmFuY2hlc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmdfY2hhbmdlZF9hZnRlcl9zdXJ2ZXllZFw+</entry>
-        <entry encoding="base64">XDxvcmdfY2hhbmdlZFw+</entry>
-        <entry encoding="base64">XDx3aGVyZV9tYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmVhbnN3ZXJfcmVxdWVzdFw+</entry>
-        <entry encoding="base64">XDxnZXRfbWFnZWxsYW5fY2hlY2tfc3VydmV5X3JlYW5zd2VyX3JlcXVlc3RfdHlwZVw+</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmVzZW5kX3R5cGVcPg==</entry>
         <entry>10</entry>
         <entry>Indentation</entry>
@@ -420,6 +431,10 @@
         <entry encoding="base64">XDx0dXJuX29mZl9vcmdfY2hhbmdlZF9mbGdcPg==</entry>
         <entry encoding="base64">XDxtYWlsX3R5cGVfaWRcPg==</entry>
         <entry encoding="base64">XDx0dXJuX29mZl9vcmdfY2hhbmdlZFw+</entry>
+        <entry encoding="base64">XDxidWlsZFw+</entry>
+        <entry encoding="base64">XDx0ZXN0XD4=</entry>
+        <entry>build</entry>
+        <entry encoding="base64">XDxicmFuY2hlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
