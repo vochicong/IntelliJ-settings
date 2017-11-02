@@ -210,10 +210,10 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1508666043030">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1509603413849">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/install-dev.sh" timestamp="1509343899929">
         <mark key="[" line="3" column="27" />
@@ -400,17 +400,17 @@
       <jump line="8" column="40" filename="$USER_HOME$/mcs_ver2/bin/update-db-schema.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaApzZXQgLWV4Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>rails s</text>
       </register>
       <register name="-" type="4">
-        <text>8888</text>
+        <text>rails s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZ25vcmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaApzZXQgLWV4Cgo=</text>
+        <text encoding="base64">ICAgIGJpbi9yYWlscyBzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyEvYmluL2Jhc2ggLWkK</text>
