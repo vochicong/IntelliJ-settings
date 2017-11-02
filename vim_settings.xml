@@ -50,6 +50,7 @@
         <mark key="." line="15" column="77" />
         <mark key="^" line="15" column="14" />
       </file>
+      <file name="/schema.rb" timestamp="1509617499968" />
       <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1509533888387">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
@@ -131,12 +132,6 @@
       </file>
       <file name="$USER_HOME$/dev-env/mac/roles/common/tasks/main.yml" timestamp="1508634292406">
         <mark key="[" line="37" column="16" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1509606327758">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="4" column="33" />
-        <mark key="^" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1509599798677">
         <mark key="[" line="10" column="25" />
@@ -255,7 +250,7 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509615449618">
+      <file name="/Dummy.txt" timestamp="1509617897331">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1509189067015">
@@ -290,7 +285,7 @@
         <mark key="^" line="108" column="40" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" timestamp="1509592841438">
+      <file name="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" timestamp="1509617728905">
         <mark key="'" line="543" column="24" />
         <mark key="[" line="543" column="0" />
         <mark key="]" line="543" column="0" />
@@ -407,7 +402,7 @@
         <text>rails s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZ25vcmVcPg==</text>
+        <text>rescue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I0NPTVBJTEVfV0VCUEFDSz10cnVlCg==</text>
@@ -444,15 +439,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZ25vcmVcPg==</last-search>
+      <last-search>rescue</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZ25vcmVcPg==</last-pattern>
+      <last-pattern>rescue</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Indentation</entry>
         <entry>Layout</entry>
         <entry>Indent</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmVhbnN3ZXJfcmVxdWVzdFw+</entry>
@@ -472,6 +466,7 @@
         <entry encoding="base64">XDxicmFuY2hlc1w+</entry>
         <entry encoding="base64">XDxvbmx5XD4=</entry>
         <entry encoding="base64">XDxpZ25vcmVcPg==</entry>
+        <entry>rescue</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
