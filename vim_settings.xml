@@ -132,8 +132,8 @@
       <file name="$USER_HOME$/dev-env/mac/roles/common/tasks/main.yml" timestamp="1508634292406">
         <mark key="[" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1509602053877">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1509606327758">
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="3" column="21" />
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="34" />
@@ -210,10 +210,11 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1509603413849">
+      <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1509605979720">
         <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="8" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/install-dev.sh" timestamp="1509343899929">
         <mark key="[" line="3" column="27" />
@@ -261,12 +262,12 @@
       <file name="/fragment.rb" timestamp="1509189067015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker-sample" timestamp="1509601988973">
+      <file name="$USER_HOME$/mcs_ver2/.env.docker-sample" timestamp="1509606320176">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="14" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.local" timestamp="1509511575979">
         <mark key="[" line="1" column="0" />
@@ -276,8 +277,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509583905002">
-        <mark key="'" line="106" column="15" />
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509606350642">
+        <mark key="'" line="48" column="53" />
         <mark key="[" line="59" column="19" />
         <mark key="]" line="59" column="18" />
         <mark key="." line="59" column="18" />
@@ -298,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
       <jump line="15" column="42" filename="$USER_HOME$/mcs_ver2/Gemfile" />
       <jump line="115" column="11" filename="$USER_HOME$/mcs_ver2/Gemfile" />
       <jump line="3" column="4" filename="$USER_HOME$/mcs_ver2/app/services/magellan_action_plan_result_service.rb" />
@@ -398,10 +398,11 @@
       <jump line="124" column="14" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
       <jump line="65" column="0" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
       <jump line="8" column="40" filename="$USER_HOME$/mcs_ver2/bin/update-db-schema.sh" />
+      <jump line="48" column="53" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rails s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I0NPTVBJTEVfV0VCUEFDSz10cnVlCg==</text>
       </register>
       <register name="-" type="4">
         <text>rails s</text>
@@ -410,7 +411,7 @@
         <text encoding="base64">XDxpZ25vcmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJpbi9yYWlscyBzCg==</text>
+        <text encoding="base64">I0NPTVBJTEVfV0VCUEFDSz10cnVlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyEvYmluL2Jhc2ggLWkK</text>
