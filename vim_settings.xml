@@ -210,10 +210,10 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1509605979720">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+      <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1509615086451">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
         <mark key="^" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/install-dev.sh" timestamp="1509343899929">
@@ -255,8 +255,7 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="/config.yml" timestamp="1509600603004" />
-      <file name="/Dummy.txt" timestamp="1509601467585">
+      <file name="/Dummy.txt" timestamp="1509615449618">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1509189067015">
@@ -402,7 +401,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I0NPTVBJTEVfV0VCUEFDSz10cnVlCg==</text>
+        <text encoding="base64">I2J1bmRsZSBleGVjIGZvcmVtYW4gc3RhcnQgLWYgUHJvY2ZpbGUuZGVidWcK</text>
       </register>
       <register name="-" type="4">
         <text>rails s</text>
@@ -414,31 +413,31 @@
         <text encoding="base64">I0NPTVBJTEVfV0VCUEFDSz10cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2ggLWkK</text>
+        <text encoding="base64">I2J1bmRsZSBleGVjIGZvcmVtYW4gc3RhcnQgLWYgUHJvY2ZpbGUuZGVidWcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YnVuZGxlIGluc3RhbGwK</text>
+        <text encoding="base64">IyAgICBiaW4vcmFpbHMgcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">REFUQUJBU0VfTkFNRT1tY3NfdmVyMl9kZXZlbG9wbWVudAo=</text>
+        <text encoding="base64">IyEvYmluL2Jhc2ggLWkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyB3YXRjaGVyOiAuL2Jpbi93ZWJwYWNrLXdhdGNoZXIK</text>
+        <text encoding="base64">YnVuZGxlIGluc3RhbGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICBicmFuY2hlczoKIyAgICAgIGlnbm9yZTogZGV2ZW52Cgo=</text>
+        <text encoding="base64">REFUQUJBU0VfTkFNRT1tY3NfdmVyMl9kZXZlbG9wbWVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJyYW5jaGVzOgogICAgICBvbmx5OiBkZXZlbnYKCg==</text>
+        <text encoding="base64">IyB3YXRjaGVyOiAuL2Jpbi93ZWJwYWNrLXdhdGNoZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICBicmFuY2hlczoKIyAgICAgIGlnbm9yZTogZGV2ZW52Cgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGJyYW5jaGVzOgogICAgICBvbmx5OiBkZXZlbnYKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJyYW5jaGVzOgogICAgICBpZ25vcmU6IGRldmVudgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
