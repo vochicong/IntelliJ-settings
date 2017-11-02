@@ -64,7 +64,7 @@
       <file name="/Bash" timestamp="1508246395003">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1509602213171">
+      <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1509661661981">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
@@ -202,7 +202,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/install-dev.sh" timestamp="1509343899929">
+      <file name="$USER_HOME$/mcs_ver2/docker/install-dev.sh" timestamp="1509662850656">
         <mark key="[" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.yml" timestamp="1509660826909">
@@ -264,8 +264,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509606350642">
-        <mark key="'" line="48" column="53" />
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509662081139">
+        <mark key="'" line="102" column="4" />
         <mark key="[" line="59" column="19" />
         <mark key="]" line="59" column="18" />
         <mark key="." line="59" column="18" />
@@ -286,11 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="11" filename="$USER_HOME$/mcs_ver2/Gemfile" />
-      <jump line="3" column="4" filename="$USER_HOME$/mcs_ver2/app/services/magellan_action_plan_result_service.rb" />
-      <jump line="46" column="0" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
-      <jump line="73" column="14" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
-      <jump line="120" column="27" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="142" column="25" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="143" column="25" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="144" column="25" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
@@ -386,6 +381,11 @@
       <jump line="8" column="40" filename="$USER_HOME$/mcs_ver2/bin/update-db-schema.sh" />
       <jump line="48" column="53" filename="$USER_HOME$/mcs_ver2/Gemfile" />
       <jump line="28" column="0" filename="$USER_HOME$/mcs_ver2/.env.docker" />
+      <jump line="132" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="38" column="18" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="90" column="7" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="39" column="29" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="102" column="4" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -395,7 +395,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>rescue</text>
+        <text>foreman</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSAkUkFJTFNfRVhUX1BPUlQ6MzAwMAogICAgICAtICRXRUJQQUNLX0VYVF9QT1JUOjgwODAK</text>
@@ -432,15 +432,14 @@
       </register>
     </registers>
     <search>
-      <last-search>rescue</last-search>
+      <last-search>foreman</last-search>
       <last-offset />
-      <last-pattern>rescue</last-pattern>
+      <last-pattern>foreman</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Layout</entry>
         <entry>Indent</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmVhbnN3ZXJfcmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmVzZW5kXD4=</entry>
@@ -460,6 +459,7 @@
         <entry encoding="base64">XDxvbmx5XD4=</entry>
         <entry encoding="base64">XDxpZ25vcmVcPg==</entry>
         <entry>rescue</entry>
+        <entry>foreman</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
