@@ -35,12 +35,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/update-db-schema.sh" timestamp="1509583575773">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509502831321">
         <mark key="'" line="110" column="41" />
         <mark key="[" line="15" column="76" />
@@ -62,12 +56,6 @@
       <file name="/Bash" timestamp="1508246395003">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test-e2e.sh" timestamp="1509535399096">
-        <mark key="[" line="6" column="74" />
-        <mark key="]" line="6" column="100" />
-        <mark key="." line="6" column="100" />
-        <mark key="^" line="6" column="100" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509519404719">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -81,12 +69,6 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="16" column="45" />
-        <mark key="^" line="16" column="45" />
-        <mark key="." line="17" column="31" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" timestamp="1509350686304">
         <mark key="'" line="42" column="9" />
@@ -155,23 +137,11 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/environments/development.rb" timestamp="1509501656324">
-        <mark key="[" line="84" column="30" />
-        <mark key="]" line="80" column="4" />
-        <mark key="^" line="86" column="9" />
-        <mark key="." line="80" column="4" />
-      </file>
       <file name="/Ruby Console" timestamp="1509590767550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test-uit.sh" timestamp="1509535305905">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="100" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/magellan_summary_results/check_surveys/index.jbuilder" timestamp="1509355611416">
         <mark key="[" line="0" column="0" />
@@ -197,12 +167,6 @@
       </file>
       <file name="$USER_HOME$/dev-env/mac/scripts/24-install-ruby.sh" timestamp="1508454399079">
         <mark key="[" line="12" column="37" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1509432386817">
-        <mark key="[" line="6" column="96" />
-        <mark key="]" line="7" column="29" />
-        <mark key="^" line="7" column="29" />
-        <mark key="." line="7" column="29" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1508666043030">
         <mark key="[" line="6" column="0" />
@@ -239,12 +203,6 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/improvements_controller.rb" timestamp="1509435096810">
-        <mark key="[" line="10" column="94" />
-        <mark key="]" line="10" column="94" />
-        <mark key="^" line="10" column="116" />
-        <mark key="." line="10" column="94" />
-      </file>
       <file name="/Dummy.txt" timestamp="1509591225122">
         <mark key="[" line="0" column="0" />
       </file>
@@ -280,18 +238,14 @@
         <mark key="^" line="108" column="40" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" timestamp="1509591421128">
-        <mark key="'" line="535" column="11" />
-        <mark key="[" line="554" column="0" />
-        <mark key="]" line="554" column="0" />
-        <mark key="." line="554" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" timestamp="1509592841438">
+        <mark key="'" line="543" column="24" />
+        <mark key="[" line="543" column="0" />
+        <mark key="]" line="543" column="0" />
+        <mark key="." line="543" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="12" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
-      <jump line="0" column="1970" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" />
-      <jump line="38" column="46" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
-      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sql" />
       <jump line="154" column="114" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
       <jump line="40" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
@@ -382,16 +336,20 @@
       <jump line="62" column="0" filename="$USER_HOME$/mcs_ver2/.env-sample" />
       <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/.env.test" />
       <jump line="106" column="15" filename="$USER_HOME$/mcs_ver2/Gemfile" />
-      <jump line="543" column="8" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="544" column="24" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="556" column="24" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="554" column="0" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="546" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="7" column="3" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="175" column="6" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="190" column="9" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="290" column="4" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="535" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="543" column="24" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQogIHByaXZhdGVfY2xhc3NfbWV0aG9kIDp0dXJuX29mZl9vcmdfY2hhbmdlZAo+Pj4+Pj4+IGZlYXR1cmUvdjIuMgo=</text>
+        <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6dHVybl9vZmZfb3JnX2NoYW5nZWQKCg==</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
@@ -403,31 +361,31 @@
         <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6dHVybl9vZmZfb3JnX2NoYW5nZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQogIHByaXZhdGVfY2xhc3NfbWV0aG9kIDp0dXJuX29mZl9vcmdfY2hhbmdlZAo+Pj4+Pj4+IGZlYXR1cmUvdjIuMgo=</text>
+        <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6dHVybl9vZmZfb3JnX2NoYW5nZWQKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6dHVybl9vZmZfb3JnX2NoYW5nZWRfZmxnCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6dHVybl9vZmZfb3JnX2NoYW5nZWRfZmxnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERhdGVUaW1lLnRvbW9ycm93LnNpbmNlKDkuaG91cnMpCg==</text>
+        <text encoding="base64">PT09PT09PQogIHByaXZhdGVfY2xhc3NfbWV0aG9kIDp0dXJuX29mZl9vcmdfY2hhbmdlZAo+Pj4+Pj4+IGZlYXR1cmUvdjIuMgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjICAg5pS55ZaE6aCF55uu44KS6L+95YqgCiAgIyAtIOWxnuaAp+ioreWumu+8iOaWsOimj+eZu+mMsuODu+e3qOmbhu+8ieeUu+mdouOBp+OAgeWbnuetlOiAheioreWumuOAgeOCteODvOODmeOCpOWbnuetlOiAheOBruODpuODvOOCtuODvOOCkuioreWumgogICMgICBvcGVuIGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9vcGVyYXRpb25zL29yZ2FuaXphdGlvbnMvMTAwL21hZ2VsbGFuX2F0dHJpYnV0ZV9zZXR0aW5ncwogICMgLSBvcGVuIGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9vcGVyYXRpb25zL29yZ2FuaXphdGlvbnMvMTAwL21hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5ncwogICMgICDjg5Xjgqnjg7zjgqvjgrnjgrXjg7zjg5njgqTlrp/mlr3oqK3lrprjgpLmlrDopo/kvZzmiJAKICAjIC0gY2xhc3MgQ3VzdG9tRGF0ZVRpbWUg44GnIG5vdyDjgpLjgrXjg7zjg5njgqTplovlp4vml6Xjga4gOTowMOOAnDk6NTkg44Gu6ZaT44Gr44K744OD44OICiAgIyAtIHJhaWxzIGJhdGNoOm1jc19tYWlsOm1hZ2VsbGFuX2NoZWNrX3N1cnZleQogICMgICBtYWlsX3NlbmRfbWFuYWdlcyDjg4bjg7zjg5bjg6vjgavlm57nrZTogIXjga7jg6bjg7zjgrbjg7zjgpLmipXlhaUKICAjIC0gbWFpbF9zZW5kX21hbmFnZXMg44OG44O844OW44Or44KS6ZaL44GE44Gm44CB5Zue562U6ICF44Gu44Om44O844K244O844KS56K66KqN44O757eo6ZuGCiAgIyAtIHJhaWxzIGJhdGNoOm1jc19zZW5kX21haWw6bWFnZWxsYW5fY2hlY2tfc3VydmV5CiAgIyAgIOODoeODvOODq+OCkuWun+mam+OBq+eZuumAgQogICMgLSDjg6Hjg7zjg6vjga7liLDnnYDjgpLnorroqo3jgZfjgIFVUkzjgpLplovjgY3jgIHjg5Xjgqnjg7zjgqvjgrnjgrXjg7zjg5njgqTjgavlm57nrZTjgZnjgosK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REFUQUJBU0VfTkFNRT1tY3NfdmVyMl9kZXZlbG9wbWVudAo=</text>
+        <text encoding="base64">ICBwcml2YXRlX2NsYXNzX21ldGhvZCA6dHVybl9vZmZfb3JnX2NoYW5nZWRfZmxnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2Jpbi9idW5kbGUgZXhlYyByc3BlYyAtZiBkIC1mIFJzcGVjSnVuaXRGb3JtYXR0ZXIgLS1vdXQgbG9nL3Rlc3QtcmVzdWx0cy9yZXF1ZXN0LnhtbCBzcGVjL3JlcXVlc3RzLwo=</text>
+        <text encoding="base64">ICAgIERhdGVUaW1lLnRvbW9ycm93LnNpbmNlKDkuaG91cnMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWVzdHMvbWFnZWxsYW5fY2hlY2tfc3VydmV5X3NldHRpbmdzX3NwZWMucmIK</text>
+        <text encoding="base64">ICAjICAg5pS55ZaE6aCF55uu44KS6L+95YqgCiAgIyAtIOWxnuaAp+ioreWumu+8iOaWsOimj+eZu+mMsuODu+e3qOmbhu+8ieeUu+mdouOBp+OAgeWbnuetlOiAheioreWumuOAgeOCteODvOODmeOCpOWbnuetlOiAheOBruODpuODvOOCtuODvOOCkuioreWumgogICMgICBvcGVuIGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9vcGVyYXRpb25zL29yZ2FuaXphdGlvbnMvMTAwL21hZ2VsbGFuX2F0dHJpYnV0ZV9zZXR0aW5ncwogICMgLSBvcGVuIGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9vcGVyYXRpb25zL29yZ2FuaXphdGlvbnMvMTAwL21hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5ncwogICMgICDjg5Xjgqnjg7zjgqvjgrnjgrXjg7zjg5njgqTlrp/mlr3oqK3lrprjgpLmlrDopo/kvZzmiJAKICAjIC0gY2xhc3MgQ3VzdG9tRGF0ZVRpbWUg44GnIG5vdyDjgpLjgrXjg7zjg5njgqTplovlp4vml6Xjga4gOTowMOOAnDk6NTkg44Gu6ZaT44Gr44K744OD44OICiAgIyAtIHJhaWxzIGJhdGNoOm1jc19tYWlsOm1hZ2VsbGFuX2NoZWNrX3N1cnZleQogICMgICBtYWlsX3NlbmRfbWFuYWdlcyDjg4bjg7zjg5bjg6vjgavlm57nrZTogIXjga7jg6bjg7zjgrbjg7zjgpLmipXlhaUKICAjIC0gbWFpbF9zZW5kX21hbmFnZXMg44OG44O844OW44Or44KS6ZaL44GE44Gm44CB5Zue562U6ICF44Gu44Om44O844K244O844KS56K66KqN44O757eo6ZuGCiAgIyAtIHJhaWxzIGJhdGNoOm1jc19zZW5kX21haWw6bWFnZWxsYW5fY2hlY2tfc3VydmV5CiAgIyAgIOODoeODvOODq+OCkuWun+mam+OBq+eZuumAgQogICMgLSDjg6Hjg7zjg6vjga7liLDnnYDjgpLnorroqo3jgZfjgIFVUkzjgpLplovjgY3jgIHjg5Xjgqnjg7zjgqvjgrnjgrXjg7zjg5njgqTjgavlm57nrZTjgZnjgosK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q0hST01FX0JST1dTRVJfQklOPS9BcHBsaWNhdGlvbnMvR29vZ2xlIENocm9tZS5hcHAvQ29udGVudHMvTWFjT1MvR29vZ2xlIENocm9tZQo=</text>
+        <text encoding="base64">REFUQUJBU0VfTkFNRT1tY3NfdmVyMl9kZXZlbG9wbWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -442,7 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmdfY2hhbmdlZF9hZnRlcl9zdXJ2ZXllZF90eXBlXD4=</entry>
         <entry encoding="base64">XDxvcmdfY2hhbmdlZF9hZnRlcl9zdXJ2ZXllZFw+</entry>
         <entry encoding="base64">XDxvcmdfY2hhbmdlZFw+</entry>
         <entry encoding="base64">XDx3aGVyZV9tYWdlbGxhbl9jaGVja19zdXJ2ZXlfcmVhbnN3ZXJfcmVxdWVzdFw+</entry>
@@ -461,6 +418,7 @@
         <entry>select2</entry>
         <entry encoding="base64">XDxIRUFEXD4=</entry>
         <entry encoding="base64">XDx0dXJuX29mZl9vcmdfY2hhbmdlZF9mbGdcPg==</entry>
+        <entry encoding="base64">XDxtYWlsX3R5cGVfaWRcPg==</entry>
         <entry encoding="base64">XDx0dXJuX29mZl9vcmdfY2hhbmdlZFw+</entry>
       </history-search>
       <history-cmd>
