@@ -155,7 +155,7 @@
         <mark key="^" line="86" column="9" />
         <mark key="." line="80" column="4" />
       </file>
-      <file name="/Ruby Console" timestamp="1509590767550">
+      <file name="/Ruby Console" timestamp="1509670614465">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -215,6 +215,12 @@
         <mark key="^" line="81" column="57" />
         <mark key="." line="106" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/test.sh" timestamp="1509671403368">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/883eb393-ef85-475c-89b0-6eb519aef74c/console.sql" timestamp="1509197108577">
         <mark key="[" line="0" column="0" />
       </file>
@@ -248,7 +254,7 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509669171732">
+      <file name="/Dummy.txt" timestamp="1509669529702">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1509189067015">
@@ -260,12 +266,12 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1509668455803">
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1509671155876">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="2" column="56" />
+        <mark key="]" line="2" column="48" />
+        <mark key="^" line="2" column="50" />
+        <mark key="." line="2" column="48" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
@@ -289,6 +295,12 @@
         <mark key="[" line="543" column="0" />
         <mark key="]" line="543" column="0" />
         <mark key="." line="543" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1509671194761">
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="3" column="49" />
+        <mark key="^" line="3" column="49" />
+        <mark key="." line="3" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -394,17 +406,17 @@
       <jump line="25" column="5" filename="$USER_HOME$/mcs_ver2/.dockerignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>uit</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29tcGlsZSA=</text>
+        <text>uit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBpOiBiaW4vcmFpbHMgcyAtYiAwLjAuMC4wCg==</text>
+        <text encoding="base64">YmluL3Rlc3QtdWl0LnNoCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
