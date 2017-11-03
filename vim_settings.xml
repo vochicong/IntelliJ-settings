@@ -38,11 +38,11 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Procfile.dev" timestamp="1509667851010">
+      <file name="$USER_HOME$/mcs_ver2/Procfile.dev" timestamp="1509680495839">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+        <mark key="^" line="1" column="28" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509502831321">
         <mark key="'" line="110" column="41" />
@@ -59,11 +59,11 @@
       <file name="/Bash" timestamp="1508246395003">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1509679356709">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1509681397930">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="8" column="33" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/test-e2e.sh" timestamp="1509674499639">
         <mark key="[" line="6" column="0" />
@@ -120,11 +120,12 @@
       <file name="$USER_HOME$/dev-env/mac/roles/common/tasks/main.yml" timestamp="1508634292406">
         <mark key="[" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1509679226901">
+      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1509680414440">
         <mark key="'" line="32" column="29" />
-        <mark key="[" line="64" column="21" />
-        <mark key="]" line="64" column="21" />
-        <mark key="." line="64" column="21" />
+        <mark key="[" line="44" column="75" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1509671971919">
         <mark key="[" line="58" column="0" />
@@ -268,7 +269,7 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1509679409714">
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1509680318706">
         <mark key="'" line="2" column="59" />
         <mark key="[" line="17" column="2" />
         <mark key="]" line="17" column="2" />
@@ -403,10 +404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Procman</text>
+        <text encoding="base64">ZW52IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Procman</text>
+        <text encoding="base64">ZW52IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PSA=</text>
