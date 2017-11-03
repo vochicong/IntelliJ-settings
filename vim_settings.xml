@@ -126,6 +126,9 @@
         <mark key="^" line="14" column="66" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/spec/acceptance/api/v2/operation/users/csv/exports_controller_spec.rb" timestamp="1509730188516">
+        <mark key="[" line="139" column="39" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/Gemfile.byebug" timestamp="1508584057315">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="18" />
@@ -294,6 +297,9 @@
         <mark key="[" line="2" column="57" />
         <mark key="]" line="2" column="57" />
         <mark key="." line="2" column="57" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/spec/acceptance/api/v2/operation/magellan_attribute_settings/csv/exports_controller_spec.rb" timestamp="1509730166213">
+        <mark key="[" line="139" column="39" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509690360684">
         <mark key="'" line="0" column="0" />
