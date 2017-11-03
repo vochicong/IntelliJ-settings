@@ -15,6 +15,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/.env-sample" timestamp="1509668639042" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1508308271392">
         <mark key="[" line="0" column="0" />
       </file>
@@ -127,10 +128,10 @@
       <file name="$USER_HOME$/dev-env/mac/roles/common/tasks/main.yml" timestamp="1508634292406">
         <mark key="[" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1509668388076">
+      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1509668629408">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1509660335820">
+      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1509669170410">
         <mark key="[" line="76" column="13" />
         <mark key="]" line="76" column="13" />
         <mark key="." line="76" column="13" />
@@ -170,10 +171,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1509660648135">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1509669239238">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
       </file>
       <file name="other.xml" timestamp="1509150456203">
         <mark key="[" line="0" column="0" />
@@ -224,6 +225,13 @@
         <mark key="^" line="42" column="21" />
         <mark key="." line="16" column="37" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/.dockerignore" timestamp="1509668700408">
+        <mark key="'" line="25" column="5" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1509588538227">
         <mark key="[" line="0" column="0" />
       </file>
@@ -240,7 +248,7 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509664901920">
+      <file name="/Dummy.txt" timestamp="1509669171732">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1509189067015">
@@ -284,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="25" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="146" column="25" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="109" column="8" filename="$USER_HOME$/mcs_ver2/Gemfile" />
       <jump line="110" column="41" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" />
@@ -384,6 +391,7 @@
       <jump line="13" column="1" filename="$USER_HOME$/mcs_ver2/.env" />
       <jump line="14" column="0" filename="$USER_HOME$/mcs_ver2/.env" />
       <jump line="15" column="0" filename="$USER_HOME$/mcs_ver2/.env" />
+      <jump line="25" column="5" filename="$USER_HOME$/mcs_ver2/.dockerignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -393,7 +401,7 @@
         <text encoding="base64">Q29tcGlsZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSREVCVUdfSURFXD4=</text>
+        <text encoding="base64">XDxsb2NhbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXBpOiBiaW4vcmFpbHMgcyAtYiAwLjAuMC4wCg==</text>
@@ -430,15 +438,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSREVCVUdfSURFXD4=</last-search>
+      <last-search encoding="base64">XDxsb2NhbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSREVCVUdfSURFXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhbFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>MailType</entry>
         <entry encoding="base64">XDx0eXBlX2lkc1w+</entry>
         <entry encoding="base64">XDxNYWlsVHlwZVw+</entry>
         <entry encoding="base64">XDxDSFJPTUVfQlJPV1NFUl9CSU5cPg==</entry>
@@ -458,6 +465,7 @@
         <entry encoding="base64">XDxSQUlMU19FTlZcPg==</entry>
         <entry encoding="base64">XDxDT01QSUxFX1dFQlBBQ0tcPg==</entry>
         <entry encoding="base64">XDxSREVCVUdfSURFXD4=</entry>
+        <entry encoding="base64">XDxsb2NhbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
