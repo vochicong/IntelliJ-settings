@@ -51,12 +51,6 @@
         <mark key="." line="15" column="77" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1509533888387">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/lib/batch/mcs_send_mail/magellan_check_survey_process.rb" timestamp="1509519347045">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="43" />
@@ -71,6 +65,10 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/test-e2e.sh" timestamp="1509674499639">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="38" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509519404719">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -78,12 +76,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508308163368">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.test" timestamp="1509533932551">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
         <mark key="[" line="17" column="31" />
@@ -164,10 +156,11 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test-uit.sh" timestamp="1509598928539">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/bin/test-uit.sh" timestamp="1509674519961">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="17" column="53" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/magellan_summary_results/check_surveys/index.jbuilder" timestamp="1509355611416">
         <mark key="[" line="0" column="0" />
@@ -218,10 +211,10 @@
         <mark key="^" line="81" column="57" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test.sh" timestamp="1509671403368">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
+      <file name="$USER_HOME$/mcs_ver2/bin/test.sh" timestamp="1509674549184">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/883eb393-ef85-475c-89b0-6eb519aef74c/console.sql" timestamp="1509197108577">
@@ -251,13 +244,19 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/test-all.sh" timestamp="1509674539094">
+        <mark key="[" line="9" column="54" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="5" column="83" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/improvements_controller.rb" timestamp="1509435096810">
         <mark key="[" line="10" column="94" />
         <mark key="]" line="10" column="94" />
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509671505965">
+      <file name="/Dummy.txt" timestamp="1509672663792">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1509189067015">
@@ -292,12 +291,6 @@
         <mark key="]" line="150" column="0" />
         <mark key="^" line="108" column="40" />
         <mark key="." line="150" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" timestamp="1509617728905">
-        <mark key="'" line="543" column="24" />
-        <mark key="[" line="543" column="0" />
-        <mark key="]" line="543" column="0" />
-        <mark key="." line="543" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1509672651664">
         <mark key="[" line="13" column="0" />
@@ -409,44 +402,44 @@
       <jump line="25" column="5" filename="$USER_HOME$/mcs_ver2/.dockerignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgdXJsOiA8JT0gRU5WWydEQVRBQkFTRV9VUkwnXSAlPgo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>DATABASE_URL=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBzcGVjL21vZGVscy8gXAogIHNwZWMvcmVxdWVzdHMvY2hlY2tfc3VydmV5c19zcGVjLnJiIFwKICBzcGVjL3JlcXVlc3RzL2ltcHJvdmVtZW50c19zcGVjLnJiIFwKICBzcGVjL3JlcXVlc3RzL21hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5nc19zcGVjLnJiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgdXJsOiA8JT0gRU5WWydEQVRBQkFTRV9VUkwnXSAlPgo=</text>
+        <text encoding="base64">YmluL2J1bmRsZSBleGVjIHJzcGVjIC1mIGQgLWYgUnNwZWNKdW5pdEZvcm1hdHRlciAtLW91dCBsb2cvdGVzdC1yZXN1bHRzL21hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5nc19zcGVjLnhtbCBcCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgdXJsOiA8JT0gRU5WWydEQVRBQkFTRV9VUkwnXS5nc3ViKCdfZGV2ZWxvcG1lbnQ/JywgJz8nKS5nc3ViKCc/JywgJ190ZXN0PycpICU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgdXJsOiA8JT0gRU5WWydEQVRBQkFTRV9VUkwnXSAlPgo=</text>
+        <text encoding="base64">YmluL2J1bmRsZSBleGVjIHJzcGVjIC1mIGQgLWYgUnNwZWNKdW5pdEZvcm1hdHRlciAtLW91dCBsb2cvdGVzdC1yZXN1bHRzL2ltcHJvdmVtZW50c19zcGVjLnhtbCBcCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">REFUQUJBU0VfVVJMPW15c3FsMjovL3Jvb3Q6cGFzc3dvcmRAdGVzdGRiOjMzMDYvbWNzX3ZlcjJfZGJfZW52P2VuY29kaW5nPXV0ZjgmcG9vbD01JnRpbWVvdXQ9NTAwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBEQVRBQkFTRV9VUkw6IG15c3FsMjovL3Jvb3Q6cGFzc3dvcmRAMTI3LjAuMC4xOjMzMDYvbWNzX3ZlcjI/ZW5jb2Rpbmc9dXRmOCZwb29sPTUmdGltZW91dD01MDAwCg==</text>
+        <text encoding="base64">YmluL2J1bmRsZSBleGVjIHJzcGVjIC1mIGQgLWYgUnNwZWNKdW5pdEZvcm1hdHRlciAtLW91dCBsb2cvdGVzdC1yZXN1bHRzL2NoZWNrX3N1cnZleXNfc3BlYy54bWwgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REFUQUJBU0VfVVJMPW15c3FsMjovL3Jvb3Q6cGFzc3dvcmRAMTI3LjAuMC4xOjMzMDYvbWNzX3ZlcjI/ZW5jb2Rpbmc9dXRmOCZwb29sPTUmdGltZW91dD01MDAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBiaW4vd2VicGFjay1kZXYtc2VydmVyCg==</text>
+        <text encoding="base64">I2Jpbi9idW5kbGUgZXhlYyByc3BlYyAtZiBkIC1mIFJzcGVjSnVuaXRGb3JtYXR0ZXIgLS1vdXQgbG9nL3Rlc3QtcmVzdWx0cy9yZXF1ZXN0LnhtbCBzcGVjL3JlcXVlc3RzLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V0VCUEFDS0VSX0RFVl9TRVJWRVJfSE9TVD0wLjAuMC4wCg==</text>
+        <text encoding="base64">IyAgdXJsOiA8JT0gRU5WWydEQVRBQkFTRV9VUkwnXSAlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
