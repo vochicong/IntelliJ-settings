@@ -15,7 +15,7 @@
         <mark key="." line="10" column="56" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/update-gems-webpack.sh" timestamp="1508596384886">
+      <file name="$USER_HOME$/mcs_ver2/bin/update-gems-webpack.sh" timestamp="1509686449575">
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="19" />
         <mark key="^" line="6" column="19" />
@@ -29,12 +29,6 @@
         <mark key="]" line="28" column="50" />
         <mark key="^" line="28" column="50" />
         <mark key="." line="28" column="50" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1509288335028">
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="0" />
-        <mark key="." line="295" column="0" />
-        <mark key="^" line="294" column="54" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/create_resend.jbuilder" timestamp="1509090171814">
         <mark key="[" line="0" column="0" />
@@ -51,6 +45,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/Procfile.dev" timestamp="1509687390301">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/Dockerfile.prod" timestamp="1508593485378">
         <mark key="[" line="26" column="37" />
@@ -81,6 +80,12 @@
       </file>
       <file name="/Bash" timestamp="1508246395003">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1509687315877">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="4" column="71" />
+        <mark key="." line="3" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509071961858">
         <mark key="[" line="0" column="15" />
@@ -196,12 +201,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1509103779985">
-        <mark key="'" line="21" column="17" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="21" column="28" />
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1509686855890">
+        <mark key="'" line="22" column="17" />
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="other.xml" timestamp="1509150456203">
         <mark key="[" line="0" column="0" />
@@ -212,6 +217,11 @@
         <mark key="]" line="2" column="39" />
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/Procfile.webpack-dev" timestamp="1509687383988">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev-env/mac/scripts/24-install-ruby.sh" timestamp="1508454399079">
         <mark key="[" line="12" column="37" />
@@ -292,11 +302,21 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/.env.local" timestamp="1509686879176">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/spec/features/login_spec.rb" timestamp="1508673375503">
         <mark key="[" line="52" column="34" />
         <mark key="]" line="42" column="27" />
         <mark key="." line="42" column="27" />
         <mark key="^" line="42" column="27" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1509686513768">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
@@ -334,6 +354,7 @@
         <mark key="." line="514" column="22" />
         <mark key="^" line="514" column="47" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/db/seeds/users.rb" timestamp="1509685341703" />
       <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1509103846696">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -342,8 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="6" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="10" column="8" filename="$USER_HOME$/mcs_ver2/lib/batch/mcs_mail/magellan_check_survey_process.rb" />
       <jump line="21" column="12" filename="$USER_HOME$/mcs_ver2/lib/batch/mcs_mail/magellan_check_survey_process.rb" />
       <jump line="24" column="15" filename="$USER_HOME$/mcs_ver2/lib/batch/mcs_mail/magellan_check_survey_process.rb" />
       <jump line="177" column="21" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" />
@@ -442,46 +461,48 @@
       <jump line="54" column="18" filename="$USER_HOME$/mcs_ver2/README.md" />
       <jump line="264" column="26" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
       <jump line="267" column="27" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
+      <jump line="18" column="13" filename="$USER_HOME$/mcs_ver2/.env.local" />
+      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/.env.local" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIC5lYWdlcl9sb2FkKDptYWdlbGxhbl9pbXByb3ZlbWVudHMsIDptYWdlbGxhbl9zdW1tYXJ5X2NoYWlucywgOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5ncykK</text>
+        <text encoding="base64">I3NwYTogYmluL3dlYnBhY2stZGV2LXNlcnZlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZnJlcSA9IG1jc3MubWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzLmZpbmRfYnkobWFnZWxsYW5faW1wcm92ZW1lbnRfaWQ6IG1hZ2VsbGFuX2ltcHJvdmVtZW50LmlkKQo=</text>
+        <text encoding="base64">ICAgICAgLSAuZW52LmRvY2tlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIC5lYWdlcl9sb2FkKDptYWdlbGxhbl9pbXByb3ZlbWVudHMsIDptYWdlbGxhbl9zdW1tYXJ5X2NoYWlucywgOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5ncykK</text>
+        <text encoding="base64">I3NwYTogYmluL3dlYnBhY2stZGV2LXNlcnZlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgLnByZWxvYWQoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9mcmVxdWVuY2llcykK</text>
+        <text encoding="base64">c3BhOiBiaW4vd2VicGFjayAtdwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQo=</text>
+        <text encoding="base64">IyBUaGUgZGF0YWJhc2UgbmFtZSB3aWxsIGF1dG9tYXRpY2FsbHkgZ2V0IHRoZSBSYWlscyBlbnZpcm9ubWVudCBhcHBlbmRlZCB0byBpdAojIHN1Y2ggYXM6IG1jc192ZXIyX2RldmVsb3BtZW50IG9yIG1jc192ZXIyX3Byb2R1Y3Rpb24uCkRBVEFCQVNFX1VSTD1teXNxbDI6Ly9yb290OnBhc3N3b3JkQHRlc3RkYjozMzA2L21jc192ZXIyX2Vudj9lbmNvZGluZz11dGY4JnBvb2w9NSZ0aW1lb3V0PTUwMDAKCiMgQVdT6Kit5a6aCiMgUzPnlKjjga7oqK3lrpoobWluaW/nlKjjga5pZCwgcGFzcykKQVdTX0FDQ0VTU19LRVlfSUQ9YTEyMzQ1NjcKQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPWExMjM0NTY3CkFXU19SRUdJT049dXMtZWFzdC0xCkFXU19TM19CVUNLRVQ9bW90aXZhdGlvbi1jbG91ZC1zZWF0dGxlCkFXU19TM19FTkRQT0lOVD1odHRwOi8vbWluaW86OTAwMApBV1NfUzNfSE9TVD1taW5pbwoKIyBXZWJwYWNrCkNPTVBJTEVfV0VCUEFDSz1mYWxzZQpXRUJQQUNLRVJfREVWX1NFUlZFUl9IT1NUPTAuMC4wLjAKCiMgZm9yZW1hbgpMQ19BTEw9Qy5VVEYtOAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fc3VydmV5X2lkOiBzdXJ2ZXlfaWQpLm9yZGVyX2J5X3N0YXJ0ZWRfYXQoJ0FTQycpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzICA9PiAge21hZ2VsbGFuX2ltcHJvdmVtZW50X2lkOiBtYWdlbGxhbl9pbXByb3ZlbWVudC5pZH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAjIC5lYWdlcl9sb2FkKDptYWdlbGxhbl9pbXByb3ZlbWVudHMsIDptYWdlbGxhbl9zdW1tYXJ5X2NoYWlucywgOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5ncykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzICA9PiAge21hZ2VsbGFuX2ltcHJvdmVtZW50X2lkOiBtYWdlbGxhbl9pbXByb3ZlbWVudC5pZH0pCg==</text>
+        <text encoding="base64">ICAgICMgLnByZWxvYWQoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9mcmVxdWVuY2llcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuaW5jbHVkZXMoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9mcmVxdWVuY2llcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAucmVmZXJlbmNlcyg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzICA9PiAge21hZ2VsbGFuX2ltcHJvdmVtZW50X2lkOiBtYWdlbGxhbl9pbXByb3ZlbWVudC5pZH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fc3VydmV5X2lkOiBzdXJ2ZXlfaWQpLm9yZGVyX2J5X3N0YXJ0ZWRfYXQoJ0FTQycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZnJlcSA9IG1jc3MubWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzLmZpbmRfYnkobWFnZWxsYW5faW1wcm92ZW1lbnRfaWQ6IG1hZ2VsbGFuX2ltcHJvdmVtZW50LmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAud2hlcmUobWFnZWxsYW5fY2hlY2tfc3VydmV5X2ZyZXF1ZW5jaWVzICA9PiAge21hZ2VsbGFuX2ltcHJvdmVtZW50X2lkOiBtYWdlbGxhbl9pbXByb3ZlbWVudC5pZH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
