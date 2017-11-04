@@ -9,12 +9,12 @@
         <mark key="." line="6" column="78" />
         <mark key="^" line="6" column="128" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" timestamp="1509757065178">
-        <mark key="'" line="196" column="11" />
-        <mark key="[" line="111" column="33" />
-        <mark key="]" line="111" column="29" />
-        <mark key="." line="10" column="42" />
-        <mark key="^" line="111" column="3" />
+      <file name="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" timestamp="1509759485046">
+        <mark key="'" line="150" column="36" />
+        <mark key="[" line="150" column="36" />
+        <mark key="]" line="150" column="37" />
+        <mark key="^" line="150" column="37" />
+        <mark key="." line="150" column="37" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/update-gems-webpack.sh" timestamp="1509686449575">
         <mark key="[" line="6" column="45" />
@@ -386,32 +386,13 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="10" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="27" column="2" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="247" column="14" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="173" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="246" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="14" column="6" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="67" column="6" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="177" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="163" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="107" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="37" column="22" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="132" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="33" column="11" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="124" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="80" column="30" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="71" column="9" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="88" column="9" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="103" column="46" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="78" column="30" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="7" column="14" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="72" column="14" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="135" column="16" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="5" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="17" column="11" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="189" column="29" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="55" column="7" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="77" column="10" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="79" column="12" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="231" column="14" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
@@ -429,13 +410,11 @@
       <jump line="98" column="40" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="73" column="8" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="69" column="15" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="84" column="27" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="85" column="38" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="89" column="60" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="92" column="12" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="101" column="38" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="76" column="8" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="83" column="10" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="158" column="10" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="161" column="6" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="165" column="38" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
@@ -451,20 +430,16 @@
       <jump line="185" column="24" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="227" column="42" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="36" column="28" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="113" column="23" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="134" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="223" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="23" column="20" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="108" column="15" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="118" column="15" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="150" column="17" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="191" column="17" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="172" column="11" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="184" column="22" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="29" column="7" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="26" column="21" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="197" column="11" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="140" column="4" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="5" column="27" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
@@ -486,71 +461,88 @@
       <jump line="38" column="4" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="82" column="21" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="77" column="4" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
+      <jump line="55" column="10" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="113" column="10" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="135" column="27" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="70" column="24" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="75" column="21" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="83" column="21" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="106" column="10" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="107" column="26" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="130" column="10" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="137" column="26" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="146" column="47" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="159" column="8" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="26" column="40" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="28" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="84" column="29" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="144" column="29" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="151" column="60" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="20" column="21" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="22" column="18" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="95" column="22" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="120" column="22" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="126" column="33" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="127" column="32" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="150" column="36" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>magellan_summary_chain_1</text>
+        <text>be</text>
       </register>
       <register name="-" type="4">
-        <text>magellan_summary_chain_1</text>
+        <text>be</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtc2MxXD4=</text>
+        <text encoding="base64">XDxiZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46IGJpbi90ZXN0LWFsbC5zaAo=</text>
+        <text encoding="base64">ICBsZXQoOmFuc3dlcmVyMCkgeyBjcmVhdGUoOmNvbXBhbnlfdXNlciwgY29tcGFueTogb3JnLCByb2xlOiBjcmVhdGUoOnJvbGVfbG1pX3NhbGVzKSkudXNlciB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBydWJvY29wOmRpc2FibGUgQmxvY2tMZW5ndGgK</text>
+        <text encoding="base64">ICAgICAgbGV0KDpyZXNwb25zZV9mb3JfcmVzZW5kKSB7IHsgImVycm9yIiA9PiAiNDA0IGVycm9yIiB9IH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIyBMb2dpbiBwYWdlCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgbGV0KDpyZXNwb25zZV9mb3JfcmVzZW5kKQoK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzcGVjL21vZGVscy8gXAogIHNwZWMvcmVxdWVzdHMvIFwKICBzcGVjL2FjY2VwdGFuY2UvIFwKICBzcGVjL2ZlYXR1cmVzLwo=</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmluL2J1bmRsZSBleGVjIHJzcGVjIC1mIGQgLWYgUnNwZWNKdW5pdEZvcm1hdHRlciAtLW91dCBsb2cvdGVzdC1yZXN1bHRzL3Rlc3QtdWl0LnhtbCBcCiAgc3BlYy9tb2RlbHMvIFwKICBzcGVjL3JlcXVlc3RzLyBcCiAgc3BlYy9hY2NlcHRhbmNlLwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzcGVjL2FjY2VwdGFuY2UvIFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzcGVjL3JlcXVlc3RzLyBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzcGVjL21vZGVscy8gXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YmluL2J1bmRsZSBleGVjIHJzcGVjIC1mIGQgLWYgUnNwZWNKdW5pdEZvcm1hdHRlciAtLW91dCBsb2cvdGVzdC1yZXN1bHRzL21vZGVscy54bWwgXAo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtc2MxXD4=</last-search>
+      <last-search encoding="base64">XDxiZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtc2MxXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>to be</entry>
-        <entry encoding="base64">XDxqc29uX3BhcnNlXD4=</entry>
-        <entry encoding="base64">XDxnZXRfcGFyYW1cPg==</entry>
-        <entry encoding="base64">XDxyZXNlbmRfcGFyYW1cPg==</entry>
-        <entry>post</entry>
-        <entry encoding="base64">XDxwb3N0X3NldF9yZWFuc3dlcl91c2Vyc1w+</entry>
-        <entry encoding="base64">XDxjcmVhdGVfcmVzZW5kX3BhcmFtXD4=</entry>
         <entry encoding="base64">XDxwb3N0X3JlYW5zd2VyX3VzZXJzXD4=</entry>
         <entry>get</entry>
         <entry encoding="base64">XDxnZXRfcmVhbnN3ZXJfdXNlcnNcPg==</entry>
-        <entry encoding="base64">XDxnZXRfcmVzZW5kX3BhcmFtXD4=</entry>
         <entry encoding="base64">XDxhZG1pbl91c2VyXD4=</entry>
         <entry>login</entry>
         <entry encoding="base64">XDxhZG1pblw+</entry>
@@ -560,6 +552,14 @@
         <entry encoding="base64">XDxCbG9ja0xlbmd0aFw+</entry>
         <entry encoding="base64">XDxjMV9tX3Nfclw+</entry>
         <entry encoding="base64">XDxtc2MxXD4=</entry>
+        <entry encoding="base64">XDxtY3NfcmF3X3Jlc3VsdHNcPg==</entry>
+        <entry encoding="base64">XDxyZXNwb25zZV9mb3JfcmVzZW5kXD4=</entry>
+        <entry encoding="base64">XDxyZVw+</entry>
+        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVfcmVzZW5kX3BhcmFtXD4=</entry>
+        <entry encoding="base64">XDxwYXJhbV9yZXNlbmRcPg==</entry>
+        <entry encoding="base64">XDxnZXRfcmVzZW5kX3BhcmFtXD4=</entry>
+        <entry encoding="base64">XDxiZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
