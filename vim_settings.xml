@@ -294,7 +294,7 @@
         <mark key="." line="77" column="7" />
         <mark key="^" line="77" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509734692065">
+      <file name="/Dummy.txt" timestamp="1509759904073">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -304,6 +304,13 @@
         <mark key="]" line="16" column="62" />
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="62" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1509760922786">
+        <mark key="'" line="140" column="49" />
+        <mark key="[" line="77" column="26" />
+        <mark key="]" line="77" column="26" />
+        <mark key="." line="77" column="26" />
+        <mark key="^" line="73" column="64" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.docker-sample" timestamp="1509103762523">
         <mark key="'" line="6" column="0" />
@@ -386,11 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="46" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="78" column="30" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="7" column="14" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="72" column="14" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="5" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="17" column="11" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="189" column="29" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="77" column="10" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
@@ -486,16 +488,21 @@
       <jump line="126" column="33" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="127" column="32" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="150" column="36" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
+      <jump line="24" column="10" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="73" column="50" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="74" column="15" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="77" column="15" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="140" column="49" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>be</text>
+        <text>s[0]</text>
       </register>
       <register name="-" type="4">
-        <text>be</text>
+        <text>s[0]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiZVw+</text>
+        <text encoding="base64">XDxpbXByb3ZlbWVudHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsZXQoOmFuc3dlcmVyMCkgeyBjcmVhdGUoOmNvbXBhbnlfdXNlciwgY29tcGFueTogb3JnLCByb2xlOiBjcmVhdGUoOnJvbGVfbG1pX3NhbGVzKSkudXNlciB9Cg==</text>
@@ -532,16 +539,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiZVw+</last-search>
+      <last-search encoding="base64">XDxpbXByb3ZlbWVudHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxpbXByb3ZlbWVudHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb3N0X3JlYW5zd2VyX3VzZXJzXD4=</entry>
-        <entry>get</entry>
         <entry encoding="base64">XDxnZXRfcmVhbnN3ZXJfdXNlcnNcPg==</entry>
         <entry encoding="base64">XDxhZG1pbl91c2VyXD4=</entry>
         <entry>login</entry>
@@ -560,6 +565,8 @@
         <entry encoding="base64">XDxwYXJhbV9yZXNlbmRcPg==</entry>
         <entry encoding="base64">XDxnZXRfcmVzZW5kX3BhcmFtXD4=</entry>
         <entry encoding="base64">XDxiZVw+</entry>
+        <entry>pending</entry>
+        <entry encoding="base64">XDxpbXByb3ZlbWVudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
