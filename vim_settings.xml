@@ -282,14 +282,14 @@
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" timestamp="1509789941656">
+      <file name="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" timestamp="1509808670833">
         <mark key="'" line="64" column="21" />
-        <mark key="[" line="111" column="14" />
-        <mark key="]" line="111" column="14" />
-        <mark key="." line="111" column="18" />
-        <mark key="^" line="5" column="11" />
+        <mark key="[" line="117" column="36" />
+        <mark key="]" line="117" column="36" />
+        <mark key="." line="117" column="36" />
+        <mark key="^" line="117" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509804307295">
+      <file name="/Dummy.txt" timestamp="1509808643618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -300,8 +300,11 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="62" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1509803830272">
-        <mark key="[" line="138" column="29" />
+      <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1509808299173">
+        <mark key="[" line="47" column="50" />
+        <mark key="]" line="47" column="50" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="47" column="50" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.docker-sample" timestamp="1509103762523">
         <mark key="'" line="6" column="0" />
@@ -486,16 +489,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBFTlZbJ1RFU1RfRU5WX05VTUJFUiddICU+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBFTlZbJ1RFU1RfRU5WX05VTUJFUiddICU+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>API</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQoOmdvYWxfZXhwZWN0YXRpb24pIHsgMSB9CiAgbGV0KDpnb2FsX3NhdGlzZmFjdGlvbikgeyAyIH0K</text>
+        <text encoding="base64">ICAgIGV4cGVjdChwYWdlKS50byBoYXZlX3NlbGVjdG9yKCdhJywgdGV4dDogJ+eKtuazgeS4gOimp+WHuuWKmycsIHZpc2libGU6IHRydWUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBnZW0gJ3BhcmFsbGVsX3Rlc3RzJwo=</text>
