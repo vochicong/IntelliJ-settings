@@ -289,7 +289,7 @@
         <mark key="." line="111" column="18" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509789072963">
+      <file name="/Dummy.txt" timestamp="1509804307295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -300,12 +300,8 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="62" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1509800329972">
-        <mark key="'" line="134" column="8" />
-        <mark key="[" line="146" column="41" />
-        <mark key="]" line="159" column="49" />
-        <mark key="." line="159" column="49" />
-        <mark key="^" line="159" column="49" />
+      <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1509803830272">
+        <mark key="[" line="138" column="29" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.docker-sample" timestamp="1509103762523">
         <mark key="'" line="6" column="0" />
@@ -341,12 +337,11 @@
         <mark key="." line="50" column="1" />
         <mark key="^" line="50" column="1" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509780832875">
-        <mark key="'" line="62" column="33" />
-        <mark key="[" line="92" column="16" />
-        <mark key="]" line="94" column="16" />
-        <mark key="^" line="94" column="16" />
-        <mark key="." line="94" column="16" />
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509805269632">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="96" column="31" />
+        <mark key="]" line="99" column="22" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/test" timestamp="1508666067414">
         <mark key="[" line="4" column="32" />
@@ -380,32 +375,14 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1509695301791">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="30" />
-        <mark key="^" line="12" column="55" />
-        <mark key="." line="1" column="30" />
+      <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1509805675235">
+        <mark key="[" line="8" column="63" />
+        <mark key="]" line="8" column="63" />
+        <mark key="^" line="8" column="62" />
+        <mark key="." line="8" column="63" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="26" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="37" column="12" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="26" column="7" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="97" column="4" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="15" column="7" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="21" column="12" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="16" column="12" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="73" column="27" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="83" column="20" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="137" column="0" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="18" column="36" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="38" column="79" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="105" column="38" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="132" column="51" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="24" column="68" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="4" column="24" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="70" column="21" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="80" column="21" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="127" column="14" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="9" column="15" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="14" column="43" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
@@ -445,22 +422,18 @@
       <jump line="20" column="55" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="54" column="21" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="64" column="21" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="22" column="31" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="105" column="39" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="49" column="41" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="144" column="59" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="7" column="26" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="9" column="60" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="35" column="81" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="34" column="7" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="36" column="7" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="45" column="29" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="129" column="29" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="58" column="11" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="92" column="11" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="73" column="11" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="118" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="48" column="6" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="64" column="60" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="83" column="11" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
@@ -469,11 +442,9 @@
       <jump line="107" column="23" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="152" column="4" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="123" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="42" column="6" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="50" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="131" column="23" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="37" column="7" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="47" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="63" column="60" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="133" column="34" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="145" column="36" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
@@ -488,80 +459,104 @@
       <jump line="115" column="35" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="135" column="13" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="134" column="8" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="116" column="6" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="196" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="169" column="4" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="42" column="24" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="69" column="100" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="36" column="104" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="5" column="7" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="7" column="59" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="47" column="44" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="122" column="37" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="4" column="8" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="22" column="13" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="24" column="7" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="25" column="51" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="11" column="15" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="12" column="12" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="40" column="20" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="14" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="27" column="43" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="37" column="61" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="89" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="53" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="59" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>survey_item0</text>
+        <text encoding="base64">ICBFTlZbJ1RFU1RfRU5WX05VTUJFUiddICU+</text>
       </register>
       <register name="-" type="4">
-        <text>survey_item0</text>
+        <text encoding="base64">ICBFTlZbJ1RFU1RfRU5WX05VTUJFUiddICU+</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXByb3ZlbWVudFw+</text>
+        <text>API</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsZXQoOmdvYWxfZXhwZWN0YXRpb24pIHsgMSB9CiAgbGV0KDpnb2FsX3NhdGlzZmFjdGlvbikgeyAyIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaW1wcm92ZW1lbnQgPSBjcmVhdGUoOm1hZ2VsbGFuX2ltcHJvdmVtZW50LCBzdXJ2ZXlfaXRlbTogc3VydmV5X2l0ZW0wLCBtYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdDogbV9zX3IpCg==</text>
+        <text encoding="base64">ICBnZW0gJ3BhcmFsbGVsX3Rlc3RzJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQgJ3doZW4gcGFyYW0gaXMgaW52YWxpZCcgZG8KICAgICAgbGV0KDpnb2FsX2V4cGVjdGF0aW9uKSB7IC0xIH0KICAgICAgZml0ICdmYWlscycgZG8KICAgICAgICBwdXRfaW1wcm92ZW1lbnQKICAgICAgICByZXMgPSBKU09OLnBhcnNlKHJlc3BvbnNlLmJvZHkpCiAgICAgIGVuZAogICAgZW5kCiAgICAK</text>
+        <text encoding="base64">CiAgIyBHZW5lcmF0ZSBBUEkgZG9jdW1lbnRhdGlvbiB2aWEgcnNwZWMgYW5kIHZpZXcgdmlhIGFwaXRvbWUKICBnZW0gJ2FwaXRvbWUnCiAgZ2VtICdyc3BlY19hcGlfZG9jdW1lbnRhdGlvbicK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzcG9uc2Uuc3RhdHVzKS50byBlcSAyMDAK</text>
+        <text encoding="base64">ICAjIEdlbmVyYXRlIEFQSSBkb2N1bWVudGF0aW9uIHZpYSByc3BlYyBhbmQgdmlldyB2aWEgYXBpdG9tZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiBjaGVjayB2YWx1ZQo=</text>
+        <text encoding="base64">IyBHZW5lcmF0ZSBBUEkgZG9jdW1lbnRhdGlvbiB2aWEgcnNwZWMgYW5kIHZpZXcgdmlhIGFwaXRvbWUKZ2VtICdhcGl0b21lJwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVzID0gSlNPTi5wYXJzZShyZXNwb25zZS5ib2R5KQo=</text>
+        <text encoding="base64">IyBHZW5lcmF0ZSBBUEkgZG9jdW1lbnRhdGlvbiB2aWEgcnNwZWMgYW5kIHZpZXcgdmlhIGFwaXRvbWUKZ2VtICdhcGl0b21lJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtICdyc3BlY19hcGlfZG9jdW1lbnRhdGlvbicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDpzZXR0aW5nMSkgeyAxIH0K</text>
+        <text encoding="base64">ICBnZW0gJ2FwaXRvbWUnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVzID0gSlNPTi5wYXJzZShyZXNwb25zZS5ib2R5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbXByb3ZlbWVudFw+</last-search>
+      <last-search>API</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXByb3ZlbWVudFw+</last-pattern>
+      <last-pattern>API</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtcmVzdWx0Mlw+</entry>
-        <entry encoding="base64">XDxtX2lfMVw+</entry>
-        <entry encoding="base64">XDxtX2lcPg==</entry>
-        <entry encoding="base64">XDxtYWdlbGxhbl9pbXByb3ZlbWVudFw+</entry>
-        <entry encoding="base64">XDxtcmVzdWx0MVw+</entry>
-        <entry encoding="base64">XDxzdXJ2ZXlfaXRlbV9rYWlzaGFcPg==</entry>
-        <entry encoding="base64">XDxhY29tcGFueVw+</entry>
-        <entry encoding="base64">XDxjb21wYW55MFw+</entry>
-        <entry encoding="base64">XDxhdXNlclw+</entry>
-        <entry encoding="base64">XDxzdXJ2ZXlfaXRlbVw+</entry>
-        <entry encoding="base64">XDxtYWdlbGxhbl9zdXJ2ZXlcPg==</entry>
-        <entry encoding="base64">XDxzZXR0aW5nMVw+</entry>
-        <entry encoding="base64">XDxzZXR0aW5nM1w+</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0X2Zvcl9jcmVhdGVcPg==</entry>
         <entry encoding="base64">XDxkeW5hbWljX3BhcmFtc19jb2xsZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxnb2FsX2V4cGVjdGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxiZVw+</entry>
         <entry>m_imp</entry>
         <entry encoding="base64">XDxpbXByb3ZlbWVudFw+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0X2Zvcl91cGRhdGVcPg==</entry>
+        <entry encoding="base64">XDxmb3JtYXRfdXBkYXRlX3BhcmFtc1w+</entry>
+        <entry encoding="base64">XDxkZWZcPg==</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0X2Zvcl9jcmVhdGVcPg==</entry>
+        <entry encoding="base64">XDxEYXRlXD4=</entry>
+        <entry encoding="base64">XDxjdXJyZW50X2NvbXBhbnlcPg==</entry>
+        <entry encoding="base64">XDxjb21wYW55MFw+</entry>
+        <entry encoding="base64">XDxjdXJyZW50X3VzZXJcPg==</entry>
+        <entry encoding="base64">XDxtYWdlbGxhbl9zdW1tYXJ5X2NoYWluXD4=</entry>
+        <entry>produc</entry>
+        <entry>unicorn</entry>
+        <entry>puma</entry>
+        <entry>generate</entry>
+        <entry>API</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
