@@ -195,7 +195,7 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1509797385675">
+      <file name="/Ruby Console" timestamp="1509798941453">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/test-uit.sh" timestamp="1509755644656">
@@ -300,11 +300,12 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="62" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1509797428715">
-        <mark key="[" line="72" column="107" />
-        <mark key="]" line="72" column="107" />
-        <mark key="^" line="76" column="38" />
-        <mark key="." line="72" column="107" />
+      <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1509799394881">
+        <mark key="'" line="63" column="60" />
+        <mark key="[" line="138" column="6" />
+        <mark key="]" line="129" column="4" />
+        <mark key="." line="129" column="4" />
+        <mark key="^" line="129" column="4" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.docker-sample" timestamp="1509103762523">
         <mark key="'" line="6" column="0" />
@@ -387,21 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="18" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="95" column="22" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="120" column="22" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="126" column="33" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="127" column="32" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="150" column="36" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="24" column="10" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="74" column="15" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="77" column="15" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="140" column="49" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="63" column="24" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="60" column="4" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="72" column="23" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="103" column="23" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="138" column="27" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="146" column="22" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="156" column="22" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="135" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
@@ -470,12 +456,10 @@
       <jump line="54" column="21" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="64" column="21" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="22" column="31" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="50" column="31" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="105" column="39" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="49" column="41" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="133" column="41" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="144" column="59" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="7" column="26" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="9" column="60" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="35" column="81" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
@@ -485,48 +469,65 @@
       <jump line="129" column="29" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="58" column="11" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="92" column="11" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="83" column="54" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="73" column="11" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="118" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="48" column="6" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="64" column="60" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="83" column="11" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="110" column="9" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="120" column="44" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="107" column="23" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="112" column="21" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="152" column="4" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="123" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="42" column="6" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="50" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="115" column="6" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="131" column="23" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="37" column="7" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="47" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
+      <jump line="63" column="60" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>day.next_week</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmVzID0gSlNPTi5wYXJzZShyZXNwb25zZS5ib2R5KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>day.next_week</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnb2FsX2V4cGVjdGF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQoOnNldHRpbmcxKSB7IGNyZWF0ZSg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X3NldHRpbmcsIG1hZ2VsbGFuX3N1cnZleTogbXN1cnZleSwgc3RhcnRlZF9hdDogRGF0ZS50b2RheS5wcmV2X21vbnRoKSB9CiAgbGV0KDpzZXR0aW5nMikgeyBjcmVhdGUoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5nLCBtYWdlbGxhbl9zdXJ2ZXk6IG1zdXJ2ZXksIHN0YXJ0ZWRfYXQ6IERhdGUudG9kYXkpIH0K</text>
+        <text encoding="base64">ICAgICAgcmVzID0gSlNPTi5wYXJzZShyZXNwb25zZS5ib2R5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBlbmRpbmcgJ2h0dHBzOi8vZ2l0aHViLmNvbS9sbWktbWNzL21jc192ZXIyL2NvbW1pdC9mNDc1N2Q3ZTY4MzMyMTVmZDczOTQ4M2UwN2NmYmVhZDA5MTcxYmNiJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0KDpzZXR0aW5nMSkgeyAxIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIyBsZXQoOnNldHRpbmcyKSB7IGNyZWF0ZSg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X3NldHRpbmcsIG1hZ2VsbGFuX3N1cnZleTogbXN1cnZleSwgc3RhcnRlZF9hdDogRGF0ZS50b2RheSkgfQo=</text>
+        <text encoding="base64">ICAgICAgcmVzID0gSlNPTi5wYXJzZShyZXNwb25zZS5ib2R5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDpnb2FsX2V4cGVjdGF0aW9uKSB7IDEgfQogICAgICBsZXQoOmdvYWxfc2F0aXNmYWN0aW9uKSB7IDIgfQo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdF9mb3JfdXBkYXRlKHApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQoOnNldHRpbmcxKSB7IGNyZWF0ZSg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X3NldHRpbmcsIG1hZ2VsbGFuX3N1cnZleTogbXN1cnZleSwgc3RhcnRlZF9hdDogRGF0ZS50b2RheSkgfQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRleHQgJ3doZW4gcGFyYW0gaXMgdmFsaWQgJyBkbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDpnb2FsX2V4cGVjdGF0aW9uKSB7IDEgfQogICAgICBsZXQoOmdvYWxfc2F0aXNmYWN0aW9uKSB7IDIgfQo=</text>
+        <text encoding="base64">ICAgIGJlZm9yZSBkbwogICAgZW5kCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlKDptYWdlbGxhbl9jaGVja19zdXJ2ZXlfZnJlcXVlbmN5LAogICAgICAgICAgICAgbWFnZWxsYW5fY2hlY2tfc3VydmV5X3NldHRpbmdfaWQ6IHNldHRpbmcxLmlkLAogICAgICAgICAgICAgbWFnZWxsYW5faW1wcm92ZW1lbnQ6IGltcHJvdmVtZW50KQogICAgICBjcmVhdGUoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9mcmVxdWVuY3ksCiAgICAgICAgICAgICBtYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZ19pZDogc2V0dGluZzIuaWQsCiAgICAgICAgICAgICBtYWdlbGxhbl9pbXByb3ZlbWVudDogaW1wcm92ZW1lbnQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQoOmZzX3NldHRpbmdzKSBkbwogICAgWwogICAgICBjcmVhdGUoOm1hZ2VsbGFuX2NoZWNrX3N1cnZleV9zZXR0aW5nLCBtYWdlbGxhbl9zdXJ2ZXk6IG1hZ2VsbGFuX3N1cnZleSwgc3RhcnRlZF9hdDogIjIwMTctMTAtMDEiKSwKICAgICAgY3JlYXRlKDptYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZywgbWFnZWxsYW5fc3VydmV5OiBtYWdlbGxhbl9zdXJ2ZXksIHN0YXJ0ZWRfYXQ6ICIyMDE3LTExLTAxIiksCiAgICAgIGNyZWF0ZSg6bWFnZWxsYW5fY2hlY2tfc3VydmV5X3NldHRpbmcsIG1hZ2VsbGFuX3N1cnZleTogbWFnZWxsYW5fc3VydmV5LCBzdGFydGVkX2F0OiAiMjAxNy0xMi0wMSIpLAogICAgXQo=</text>
+        <text encoding="base64">ICAgIGltcHJvdmVtZW50ID0gY3JlYXRlKDptYWdlbGxhbl9pbXByb3ZlbWVudCwgc3VydmV5X2l0ZW06IHN1cnZleV9pdGVtMCwgbWFnZWxsYW5fc3VtbWFyeV9yZXN1bHQ6IG1fc19yKQo=</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
@@ -541,10 +542,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtY3Nzc1w+</entry>
-        <entry encoding="base64">XDxjdXJyZW50X2NvbXBhbnlcPg==</entry>
-        <entry encoding="base64">XDxjb21wYW55X3VzZXJcPg==</entry>
-        <entry encoding="base64">XDxhZG1pbl91c2VyXD4=</entry>
         <entry encoding="base64">XDxtX3Nfclw+</entry>
         <entry encoding="base64">XDxtX3Nfcl8xXD4=</entry>
         <entry encoding="base64">XDxtcmVzdWx0Mlw+</entry>
@@ -560,6 +557,10 @@
         <entry encoding="base64">XDxtYWdlbGxhbl9zdXJ2ZXlcPg==</entry>
         <entry encoding="base64">XDxzZXR0aW5nMVw+</entry>
         <entry encoding="base64">XDxzZXR0aW5nM1w+</entry>
+        <entry encoding="base64">XDxpbXByb3ZlbWVudFw+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0X2Zvcl9jcmVhdGVcPg==</entry>
+        <entry encoding="base64">XDxkeW5hbWljX3BhcmFtc19jb2xsZWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxnb2FsX2V4cGVjdGF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
