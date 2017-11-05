@@ -1014,22 +1014,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/erubi-1.6.1/lib" />
       </SOURCES>
     </library>
-    <library name="eventmachine (v1.2.5, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.5/java" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.5/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.5/rakelib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.5/tests" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.5/java" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.5/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.5/rakelib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.5/tests" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.5/lib" />
-      </SOURCES>
-    </library>
     <library name="eventmachine (v1.2.5, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/eventmachine-1.2.5/tests" />
@@ -1146,14 +1130,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/factory_girl_rails-4.8.0/features" />
       </SOURCES>
     </library>
-    <library name="faraday (v0.13.1, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/faraday-0.13.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/faraday-0.13.1/lib" />
-      </SOURCES>
-    </library>
     <library name="faraday (v0.13.1, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/faraday-0.13.1/lib" />
@@ -1162,28 +1138,12 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/faraday-0.13.1/lib" />
       </SOURCES>
     </library>
-    <library name="faraday_middleware (v0.10.1, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/faraday_middleware-0.10.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/faraday_middleware-0.10.1/lib" />
-      </SOURCES>
-    </library>
     <library name="faraday_middleware (v0.10.1, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/faraday_middleware-0.10.1/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/faraday_middleware-0.10.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="faye-websocket (v0.10.7, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/faye-websocket-0.10.7/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/faye-websocket-0.10.7/lib" />
       </SOURCES>
     </library>
     <library name="faye-websocket (v0.10.7, Remote: ruby-2.4.2-p198 (1)) [gem]">
@@ -2888,14 +2848,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/multi_json-1.12.2/lib" />
       </SOURCES>
     </library>
-    <library name="multipart-post (v2.0.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/multipart-post-2.0.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/multipart-post-2.0.0/lib" />
-      </SOURCES>
-    </library>
     <library name="multipart-post (v2.0.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/multipart-post-2.0.0/lib" />
@@ -4190,14 +4142,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/bundler/gems/shoulda-matchers-4970253779a9/doc_config" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/bundler/gems/shoulda-matchers-4970253779a9/script" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/bundler/gems/shoulda-matchers-4970253779a9/tasks" />
-      </SOURCES>
-    </library>
-    <library name="slack-api (v1.6.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/slack-api-1.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/slack-api-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="slack-api (v1.6.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
