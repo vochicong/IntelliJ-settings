@@ -210,12 +210,12 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1509688953867">
-        <mark key="'" line="22" column="17" />
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-        <mark key="^" line="19" column="15" />
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1509876612711">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/support/features.rb" timestamp="1509731590414">
         <mark key="[" line="5" column="31" />
@@ -265,6 +265,9 @@
         <mark key="]" line="42" column="21" />
         <mark key="^" line="42" column="21" />
         <mark key="." line="16" column="37" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/.dockerignore" timestamp="1509876680834">
+        <mark key="'" line="17" column="7" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/db/seeds/development/csv_import.rb" timestamp="1508714677018">
         <mark key="[" line="3" column="0" />
@@ -352,11 +355,12 @@
         <mark key="." line="50" column="1" />
         <mark key="^" line="50" column="1" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509874406089">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-        <mark key="^" line="132" column="20" />
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509876898548">
+        <mark key="'" line="79" column="5" />
+        <mark key="[" line="79" column="15" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="80" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/test" timestamp="1508666067414">
         <mark key="[" line="4" column="32" />
@@ -398,11 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="21" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="105" column="39" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="49" column="41" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="144" column="59" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
-      <jump line="9" column="60" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="35" column="81" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="34" column="7" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="45" column="29" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
@@ -498,63 +497,65 @@
       <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="132" column="35" filename="$USER_HOME$/mcs_ver2/Gemfile" />
       <jump line="138" column="7" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/.dockerignore" />
+      <jump line="21" column="1" filename="$USER_HOME$/mcs_ver2/.dockerignore" />
+      <jump line="17" column="7" filename="$USER_HOME$/mcs_ver2/.dockerignore" />
+      <jump line="137" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="79" column="5" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>development test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>development test</text>
       </register>
       <register name="/" type="4">
-        <text>debase</text>
+        <text encoding="base64">XDxzbGFja1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICMgYXJnczogJXdbaGVhZGxlc3MgZGlzYWJsZS1ncHUgLS1uby1zYW5kYm94IC0td2luZG93LXNpemU9MTkwMCwxMDgwXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBkZWJ1ZyB3aXRoIFJ1YnlNaW5lCiMgZ3JvdXAgOnJkZWJ1ZyBkbwojICAgZ2VtICdydWJ5LWRlYnVnLWlkZScKIyAgIGdlbSAnZGViYXNlJwojIGVuZAoK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIFsgIiRSREVCVUdfSURFIiA9IHRydWUgXSA7IHRoZW4KICAgICAgICBiaW4vYnVuZGxlIC0td2l0aCByZGVidWcKICAgICAgICBiaW4vYnVuZGxlIGV4ZWMgZ2VtIHVuaW5zdGFsbCBieWVidWcKICAgICAgICBiaW4vcmRlYnVnLnNoCiAgICBlbHNlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiNTbGFja+mAmuefpQogIGdlbSAnc2xhY2stYXBpJwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">I1NsYWNr6YCa55+lCiAgZ2VtICdzbGFjay1hcGknCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBkZWJ1ZyB3aXRoIFJ1YnlNaW5lCiMgZ3JvdXAgOnJkZWJ1ZyBkbwojICAgZ2VtICdydWJ5LWRlYnVnLWlkZScKIyAgIGdlbSAnZGViYXNlJwojIGVuZAoK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIGlmIFsgIiRSREVCVUdfSURFIiA9IHRydWUgXSA7IHRoZW4KICAgICAgICBiaW4vYnVuZGxlIC0td2l0aCByZGVidWcKICAgICAgICBiaW4vYnVuZGxlIGV4ZWMgZ2VtIHVuaW5zdGFsbCBieWVidWcKICAgICAgICBiaW4vcmRlYnVnLnNoCiAgICBlbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgJ1NlbGVuaXVtOjpXZWJEcml2ZXI6OkVycm9yOiBkb3dubG9hZCBidXR0b24gaXMgbm90IGNsaWNrYWJsZS4gT3RoZXIgZWxlbWVudCB3b3VsZCByZWNlaXZlIHRoZSBjbGljayAobG9hZGluZy1pbWFnZSknCg==</text>
+        <text encoding="base64">ICAgIGZpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBlbmRpbmcgJ1NlbGVuaXVtOjpXZWJEcml2ZXI6OkVycm9yOiBkb3dubG9hZCBidXR0b24gaXMgbm90IGNsaWNrYWJsZS4gT3RoZXIgZWxlbWVudCB3b3VsZCByZWNlaXZlIHRoZSBjbGljayAobG9hZGluZy1pbWFnZSknCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoJ2EnLCB0ZXh0OiBsaW5rX3RleHQsIHZpc2libGU6IHRydWUpCg==</text>
+        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpbmsgPSBmaW5kX2xpbmsoJ+eKtuazgeS4gOimp+WHuuWKmycpCg==</text>
+        <text encoding="base64">ICAgICMgJ1NlbGVuaXVtOjpXZWJEcml2ZXI6OkVycm9yOiBkb3dubG9hZCBidXR0b24gaXMgbm90IGNsaWNrYWJsZS4gT3RoZXIgZWxlbWVudCB3b3VsZCByZWNlaXZlIHRoZSBjbGljayAobG9hZGluZy1pbWFnZSknCg==</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
       </register>
     </registers>
     <search>
-      <last-search>debase</last-search>
+      <last-search encoding="base64">XDxzbGFja1w+</last-search>
       <last-offset />
-      <last-pattern>debase</last-pattern>
+      <last-pattern encoding="base64">XDxzbGFja1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50X2NvbXBhbnlcPg==</entry>
-        <entry encoding="base64">XDxjdXJyZW50X3VzZXJcPg==</entry>
-        <entry encoding="base64">XDxtYWdlbGxhbl9zdW1tYXJ5X2NoYWluXD4=</entry>
         <entry>produc</entry>
         <entry>unicorn</entry>
         <entry>puma</entry>
@@ -572,6 +573,9 @@
         <entry>root</entry>
         <entry>sce</entry>
         <entry>debase</entry>
+        <entry>bundle</entry>
+        <entry>slack</entry>
+        <entry encoding="base64">XDxzbGFja1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
