@@ -17,56 +17,11 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/rails_helper.rb" timestamp="1509881541127">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/create_resend.jbuilder" timestamp="1509090171814">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/Procfile.dev" timestamp="1509688313046">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="1" column="37" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509861866043">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1508684042027">
-        <mark key="[" line="62" column="72" />
-        <mark key="]" line="62" column="72" />
-        <mark key="." line="62" column="72" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/bundle" timestamp="1509889945845">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="71" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/lib/batch/mcs_send_mail/magellan_check_survey_process.rb" timestamp="1509017349411">
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="13" column="43" />
-        <mark key="." line="13" column="43" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1509874315720">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509071961858">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.test" timestamp="1508597582226">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" timestamp="1509197777988">
         <mark key="'" line="267" column="27" />
@@ -133,16 +88,6 @@
         <mark key="^" line="97" column="15" />
         <mark key="." line="97" column="15" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-test.sh" timestamp="1508595422160">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/user.rb" timestamp="1509018749323">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/spec/support/capybara.rb" timestamp="1509894848862">
         <mark key="'" line="17" column="28" />
         <mark key="[" line="6" column="33" />
@@ -169,11 +114,6 @@
         <mark key="^" line="2" column="41" />
       </file>
       <file name="/install-test.sh" timestamp="1509898876367" />
-      <file name="$USER_HOME$/mcs_ver2/Procfile.webpack-dev" timestamp="1509688299375">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/docker/clean.sh" timestamp="1509899418147">
         <mark key="[" line="4" column="28" />
       </file>
@@ -182,21 +122,6 @@
         <mark key="]" line="6" column="38" />
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="46" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.test.local" timestamp="1509881392935">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1509688662491">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/docker-compose.yml" timestamp="1509887579969">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docs/API仕様書/A022-API:Operations:Organizations:id:MagellanCheckSurveySettings.md" timestamp="1509090745602">
         <mark key="'" line="73" column="45" />
@@ -227,30 +152,20 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1509197132730">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test-all.sh" timestamp="1509756156604">
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="/dummy.sql" timestamp="1509849939193">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/Gemfile.lock" timestamp="1509897938507">
         <mark key="'" line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" timestamp="1509868597464">
+      <file name="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" timestamp="1509902722727">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+        <mark key="[" line="118" column="2" />
+        <mark key="]" line="118" column="2" />
+        <mark key="." line="118" column="2" />
         <mark key="^" line="126" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509896052342">
+      <file name="/Dummy.txt" timestamp="1509900765267">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -417,11 +332,11 @@
       <jump line="94" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIGdlbSAnY2hyb21lZHJpdmVyLWhlbHBlcicK</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3VkbyA=</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>rspec</text>
