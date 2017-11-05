@@ -16,11 +16,11 @@
         <mark key="^" line="150" column="37" />
         <mark key="." line="150" column="37" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/update-gems-webpack.sh" timestamp="1509686449575">
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="6" column="19" />
+      <file name="$USER_HOME$/mcs_ver2/bin/update-gems-webpack.sh" timestamp="1509874562706">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="5" column="57" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/frontend/javascript/stores/modules/organization.js" timestamp="1509096400167">
         <mark key="[" line="28" column="59" />
@@ -50,11 +50,11 @@
         <mark key="]" line="1" column="37" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Dockerfile.prod" timestamp="1508593485378">
-        <mark key="[" line="26" column="37" />
-        <mark key="]" line="26" column="38" />
+      <file name="$USER_HOME$/mcs_ver2/Dockerfile.prod" timestamp="1509874367598">
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="30" />
         <mark key="^" line="26" column="3" />
-        <mark key="." line="26" column="38" />
+        <mark key="." line="26" column="30" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509861866043">
         <mark key="[" line="15" column="0" />
@@ -77,11 +77,10 @@
         <mark key="]" line="13" column="43" />
         <mark key="." line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1509690995363">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="15" column="7" />
+      <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1509874315720">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/test-e2e.sh" timestamp="1509755623829">
         <mark key="[" line="7" column="1" />
@@ -248,10 +247,10 @@
         <mark key="^" line="81" column="57" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Dockerfile" timestamp="1508593591655">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/Dockerfile" timestamp="1509874520800">
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="28" column="10" />
         <mark key="^" line="27" column="88" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_download_support.rb" timestamp="1509076129467">
@@ -299,7 +298,7 @@
         <mark key="." line="126" column="0" />
         <mark key="^" line="126" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509868834491">
+      <file name="/Dummy.txt" timestamp="1509874644872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -353,11 +352,10 @@
         <mark key="." line="50" column="1" />
         <mark key="^" line="50" column="1" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509850656826">
-        <mark key="'" line="131" column="7" />
-        <mark key="[" line="132" column="18" />
-        <mark key="]" line="132" column="18" />
-        <mark key="." line="132" column="18" />
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509874406089">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
         <mark key="^" line="132" column="20" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/test" timestamp="1508666067414">
@@ -392,7 +390,7 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1509847530074">
+      <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1509868866779">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="51" />
         <mark key="^" line="7" column="28" />
@@ -400,8 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="28" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
-      <jump line="20" column="55" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="64" column="21" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="105" column="39" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="49" column="41" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
@@ -500,61 +496,62 @@
       <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/config/routes.rb" />
       <jump line="118" column="1" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" />
+      <jump line="132" column="35" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="138" column="7" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>development test</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>development test</text>
       </register>
       <register name="/" type="4">
-        <text>sce</text>
+        <text>debase</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICMgYXJnczogJXdbaGVhZGxlc3MgZGlzYWJsZS1ncHUgLS1uby1zYW5kYm94IC0td2luZG93LXNpemU9MTkwMCwxMDgwXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBkZWJ1ZyB3aXRoIFJ1YnlNaW5lCiMgZ3JvdXAgOnJkZWJ1ZyBkbwojICAgZ2VtICdydWJ5LWRlYnVnLWlkZScKIyAgIGdlbSAnZGViYXNlJwojIGVuZAoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIGlmIFsgIiRSREVCVUdfSURFIiA9IHRydWUgXSA7IHRoZW4KICAgICAgICBiaW4vYnVuZGxlIC0td2l0aCByZGVidWcKICAgICAgICBiaW4vYnVuZGxlIGV4ZWMgZ2VtIHVuaW5zdGFsbCBieWVidWcKICAgICAgICBiaW4vcmRlYnVnLnNoCiAgICBlbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgJ1NlbGVuaXVtOjpXZWJEcml2ZXI6OkVycm9yOiBkb3dubG9hZCBidXR0b24gaXMgbm90IGNsaWNrYWJsZS4gT3RoZXIgZWxlbWVudCB3b3VsZCByZWNlaXZlIHRoZSBjbGljayAobG9hZGluZy1pbWFnZSknCg==</text>
+        <text encoding="base64">ICAgIGZpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBlbmRpbmcgJ1NlbGVuaXVtOjpXZWJEcml2ZXI6OkVycm9yOiBkb3dubG9hZCBidXR0b24gaXMgbm90IGNsaWNrYWJsZS4gT3RoZXIgZWxlbWVudCB3b3VsZCByZWNlaXZlIHRoZSBjbGljayAobG9hZGluZy1pbWFnZSknCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoJ2EnLCB0ZXh0OiBsaW5rX3RleHQsIHZpc2libGU6IHRydWUpCg==</text>
+        <text encoding="base64">ICAgICMgYmluZGluZy5wcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbmsgPSBmaW5kX2xpbmsoJ+eKtuazgeS4gOimp+WHuuWKmycpCg==</text>
+        <text encoding="base64">ICAgICMgJ1NlbGVuaXVtOjpXZWJEcml2ZXI6OkVycm9yOiBkb3dubG9hZCBidXR0b24gaXMgbm90IGNsaWNrYWJsZS4gT3RoZXIgZWxlbWVudCB3b3VsZCByZWNlaXZlIHRoZSBjbGljayAobG9hZGluZy1pbWFnZSknCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgIHBlbmRpbmcgJ1NlbGVuaXVtOjpXZWJEcml2ZXI6OkVycm9yOiBkb3dubG9hZCBidXR0b24gaXMgbm90IGNsaWNrYWJsZS4gT3RoZXIgZWxlbWVudCB3b3VsZCByZWNlaXZlIHRoZSBjbGljayAobG9hZGluZy1pbWFnZSknCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICMgZXhwZWN0KHBhZ2UpLnRvIGhhdmVfc2VsZWN0b3IoJ2EnLCB0ZXh0OiBsaW5rX3RleHQsIHZpc2libGU6IHRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kIGRvCg==</text>
+        <text encoding="base64">ICAgIGxpbmsgPSBmaW5kX2xpbmsoJ+eKtuazgeS4gOimp+WHuuWKmycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
       </register>
     </registers>
     <search>
-      <last-search>sce</last-search>
+      <last-search>debase</last-search>
       <last-offset />
-      <last-pattern>sce</last-pattern>
+      <last-pattern>debase</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEYXRlXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50X2NvbXBhbnlcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50X3VzZXJcPg==</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9zdW1tYXJ5X2NoYWluXD4=</entry>
@@ -574,6 +571,7 @@
         <entry encoding="base64">XDxjb21wYW55MFw+</entry>
         <entry>root</entry>
         <entry>sce</entry>
+        <entry>debase</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
