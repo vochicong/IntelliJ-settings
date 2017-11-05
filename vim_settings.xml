@@ -281,11 +281,11 @@
       <file name="$USER_HOME$/mcs_ver2/config/routes.rb" timestamp="1509851680350">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509896998646">
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509900666377">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
         <mark key="^" line="119" column="29" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" timestamp="1509017508472">
         <mark key="'" line="0" column="0" />
@@ -417,8 +417,8 @@
       <jump line="94" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3VkbyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAjIGdlbSAnY2hyb21lZHJpdmVyLWhlbHBlcicK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3VkbyA=</text>
@@ -430,31 +430,31 @@
         <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YnJldyBsaW5rIC0tb3ZlcndyaXRlIGNocm9tZWRyaXZlcgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">YnJldyBpbnN0YWxsIGNocm9tZWRyaXZlcgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAjIGdlbSAnY2hyb21lZHJpdmVyLWhlbHBlcicK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">YnJldyBsaW5rIC0tb3ZlcndyaXRlIGNocm9tZWRyaXZlcgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">YnJldyBpbnN0YWxsIGNocm9tZWRyaXZlcgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">I2V4cG9ydCBQQVRIPS91c3IvbGliL2Nocm9taXVtOiRQQVRICg==</text>
+        <text encoding="base64">ICAjIGdlbSAnY2hyb21lZHJpdmVyLWhlbHBlcicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBhcHQtZ2V0IGluc3RhbGwgLXFxIGNocm9taXVtCg==</text>
+        <text encoding="base64">I2V4cG9ydCBQQVRIPS91c3IvbGliL2Nocm9taXVtOiRQQVRICg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">IyBhcHQtZ2V0IGluc3RhbGwgLXFxIGNocm9taXVtCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">I2FwdC1nZXQgaW5zdGFsbCAtcXEgbGliZ2NvbmYtMi00ICMgZm9yIGdlbSBjaHJvbWVkcml2ZXItaGVscGVyCg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">IyAKIyAKIyAKIwojIAojIAojIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">VVNFUiByb290Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">VVNFUiByb290Cg==</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
