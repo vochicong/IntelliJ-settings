@@ -56,7 +56,7 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509288408627">
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509861866043">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -203,7 +203,7 @@
         <mark key="^" line="17" column="36" />
         <mark key="." line="17" column="38" />
       </file>
-      <file name="/Ruby Console" timestamp="1509860878777">
+      <file name="/Ruby Console" timestamp="1509861934713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/test-uit.sh" timestamp="1509755644656">
@@ -293,12 +293,12 @@
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" timestamp="1509860862981">
+      <file name="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" timestamp="1509861931639">
         <mark key="'" line="117" column="29" />
-        <mark key="[" line="128" column="4" />
-        <mark key="]" line="128" column="7" />
-        <mark key="." line="128" column="7" />
-        <mark key="^" line="128" column="7" />
+        <mark key="[" line="124" column="30" />
+        <mark key="]" line="125" column="29" />
+        <mark key="." line="125" column="29" />
+        <mark key="^" line="125" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1509811421875">
         <mark key="[" line="0" column="0" />
@@ -504,11 +504,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/config/routes.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxpbmsgPSBmaW5kX2xpbmsoJ+eKtuazgeS4gOimp+WHuuWKmycpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>root</text>
@@ -517,31 +517,31 @@
         <text encoding="base64">ICAgICAgICAgICMgYXJnczogJXdbaGVhZGxlc3MgZGlzYWJsZS1ncHUgLS1uby1zYW5kYm94IC0td2luZG93LXNpemU9MTkwMCwxMDgwXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgIGxpbmsgPSBmaW5kX2xpbmsoJ+eKtuazgeS4gOimp+WHuuWKmycpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kIGRvCg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQhKDptcmVzdWx0MikgeyBjcmVhdGUoOm1hZ2VsbGFuX3N1bW1hcnlfcmVzdWx0LCBtYWdlbGxhbl9zdXJ2ZXk6IG1zdXJ2ZXksIGF0dHJpYnV0ZV9uYW1lOiAnMjDku6MtMicpIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBsZXQhKDp0ZXN0X2RhdGEpIGRvCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBiYWNrZ3JvdW5kIGRvCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBsZXQhKDptcmVzdWx0MikgeyBjcmVhdGUoOm1hZ2VsbGFuX3N1bW1hcnlfcmVzdWx0LCBtYWdlbGxhbl9zdXJ2ZXk6IG1zdXJ2ZXksIGF0dHJpYnV0ZV9uYW1lOiAnMjDku6MtMicpIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBsZXQhKDp0ZXN0X2RhdGEpIGRvCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kIGRvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQoOmN1c2VyKSB7IGNyZWF0ZSg6Y29tcGFueV91c2VyLCByb2xlOiBjcmVhdGUoOnJvbGVfbG1pX2FkbWluKSwgdXNlcjogdXNlcjApIH0K</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>285</text>
