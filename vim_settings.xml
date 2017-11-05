@@ -82,6 +82,9 @@
         <mark key="^" line="117" column="9" />
         <mark key="." line="117" column="9" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/spec/acceptance/api/v2/operation/users/csv/exports_controller_spec.rb" timestamp="1509730188516">
+        <mark key="[" line="139" column="39" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" timestamp="1509090158532">
         <mark key="'" line="2" column="74" />
         <mark key="[" line="133" column="0" />
@@ -110,11 +113,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/install-test.sh" timestamp="1509896863144">
+      <file name="$USER_HOME$/mcs_ver2/docker/install-test.sh" timestamp="1509899873257">
         <mark key="'" line="6" column="20" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+        <mark key="^" line="6" column="43" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1509891575720">
         <mark key="[" line="4" column="0" />
@@ -146,6 +150,9 @@
         <mark key="^" line="17" column="39" />
         <mark key="." line="6" column="34" />
       </file>
+      <file name="/Ruby Console" timestamp="1509861934713">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1509887574479">
         <mark key="'" line="22" column="17" />
         <mark key="[" line="4" column="0" />
@@ -161,10 +168,14 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="41" />
       </file>
+      <file name="/install-test.sh" timestamp="1509898876367" />
       <file name="$USER_HOME$/mcs_ver2/Procfile.webpack-dev" timestamp="1509688299375">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/docker/clean.sh" timestamp="1509899418147">
+        <mark key="[" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.build.yml" timestamp="1509892739880">
         <mark key="[" line="6" column="38" />
@@ -207,6 +218,9 @@
         <mark key="^" line="42" column="21" />
         <mark key="." line="16" column="37" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/.dockerignore" timestamp="1509876680834">
+        <mark key="'" line="17" column="7" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/.circleci/Dockerfile" timestamp="1509893251256">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="0" />
@@ -223,8 +237,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile.lock" timestamp="1509897104068">
-        <mark key="'" line="135" column="4" />
+      <file name="/dummy.sql" timestamp="1509849939193">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/Gemfile.lock" timestamp="1509897938507">
+        <mark key="'" line="94" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/features/check_surveys_download_report_spec.rb" timestamp="1509868597464">
         <mark key="'" line="0" column="0" />
@@ -258,11 +275,11 @@
         <mark key="." line="49" column="17" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1509881805364">
+      <file name="$USER_HOME$/mcs_ver2/spec/acceptance/api/v2/operation/magellan_attribute_settings/csv/exports_controller_spec.rb" timestamp="1509730166213">
+        <mark key="[" line="139" column="39" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/config/routes.rb" timestamp="1509851680350">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="20" column="41" />
-        <mark key="." line="20" column="41" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509896998646">
         <mark key="[" line="122" column="0" />
@@ -298,7 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="34" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="145" column="36" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="21" column="34" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
       <jump line="27" column="25" filename="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" />
@@ -398,16 +414,17 @@
       <jump line="405" column="4" filename="$USER_HOME$/mcs_ver2/Gemfile.lock" />
       <jump line="558" column="6" filename="$USER_HOME$/mcs_ver2/Gemfile.lock" />
       <jump line="135" column="4" filename="$USER_HOME$/mcs_ver2/Gemfile.lock" />
+      <jump line="94" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YnJldyBsaW5rIC0tb3ZlcndyaXRlIGNocm9tZWRyaXZlcgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3VkbyA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cXEg</text>
+        <text encoding="base64">c3VkbyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGlsZHByb2Nlc3NcPg==</text>
+        <text>rspec</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZQo=</text>
@@ -444,9 +461,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGlsZHByb2Nlc3NcPg==</last-search>
+      <last-search>rspec</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGlsZHByb2Nlc3NcPg==</last-pattern>
+      <last-pattern>rspec</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -467,11 +484,11 @@
         <entry>rails</entry>
         <entry>rake</entry>
         <entry>rails-rspec</entry>
-        <entry>rspec</entry>
         <entry encoding="base64">XDxyc3BlY1w+</entry>
         <entry encoding="base64">XDxjaHJvbWVkcml2ZXJcPg==</entry>
         <entry encoding="base64">XDxtaW5pX3BvcnRpbGUyXD4=</entry>
         <entry encoding="base64">XDxjaGlsZHByb2Nlc3NcPg==</entry>
+        <entry>rspec</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
