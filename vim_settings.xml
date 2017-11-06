@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" timestamp="1509701656139">
-        <mark key="'" line="203" column="10" />
-        <mark key="[" line="202" column="8" />
-        <mark key="]" line="202" column="8" />
-        <mark key="." line="202" column="8" />
-        <mark key="^" line="210" column="41" />
+        <mark key="'" line="204" column="10" />
+        <mark key="[" line="203" column="8" />
+        <mark key="]" line="203" column="8" />
+        <mark key="." line="203" column="8" />
+        <mark key="^" line="211" column="41" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1508308271392">
         <mark key="[" line="0" column="0" />
@@ -212,14 +212,14 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.production" timestamp="1509958304236">
+      <file name="$USER_HOME$/mcs_ver2/.env.production" timestamp="1509960972854">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="104" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509960590873">
+      <file name="/Dummy.txt" timestamp="1509960873651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1509189067015">
