@@ -27,8 +27,11 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Procfile.dev" timestamp="1509683619742">
+      <file name="$USER_HOME$/mcs_ver2/Procfile.dev" timestamp="1510019283218">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509502831321">
         <mark key="'" line="110" column="41" />
@@ -37,11 +40,16 @@
         <mark key="." line="15" column="77" />
         <mark key="^" line="15" column="14" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1510019363647">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Bash" timestamp="1508246395003">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1509684162976">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1510019317511">
+        <mark key="[" line="14" column="15" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="67" />
         <mark key="." line="1" column="0" />
@@ -220,7 +228,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509965188786">
+      <file name="/Dummy.txt" timestamp="1510019099607">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1509189067015">
@@ -232,13 +240,24 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/routes.rb" timestamp="1509957600617" />
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510019358856">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="16" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1509965815137">
+      <file name="$USER_HOME$/mcs_ver2/spec/spec_helper.rb" timestamp="1510018778316">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="17" column="65" />
+        <mark key="^" line="17" column="65" />
+        <mark key="." line="17" column="65" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1510018788395">
         <mark key="'" line="101" column="0" />
-        <mark key="[" line="37" column="0" />
+        <mark key="[" line="131" column="37" />
         <mark key="]" line="37" column="86" />
         <mark key="." line="59" column="18" />
         <mark key="^" line="59" column="18" />
@@ -360,17 +379,17 @@
       <jump line="101" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">V0VCUEFDS0VSX0RFVl9TRVJWRVJfSE9TVD0wLjAuMC4wClJBSUxTX0RFVl9TRVJWRVJfSE9TVD0wLjAuMC4wCg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>0.0.0.0</text>
       </register>
       <register name="/" type="4">
         <text>paral</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REFUQUJBU0VfVVJMPW15c3FsMjovL3Jvb3Q6cGFzc3dvcmRAMTI3LjAuMC4xOjMzMDYvbWNzX3ZlcjJfcHJvZHVjdGlvbj9lbmNvZGluZz11dGY4JnBvb2w9NSZ0aW1lb3V0PTUwMDAK</text>
+        <text encoding="base64">V0VCUEFDS0VSX0RFVl9TRVJWRVJfSE9TVD0wLjAuMC4wClJBSUxTX0RFVl9TRVJWRVJfSE9TVD0wLjAuMC4wCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB1cmw6IDwlPSBFTlZbJ0RBVEFCQVNFX1VSTCddICU+Cg==</text>
