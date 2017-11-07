@@ -205,11 +205,12 @@
       <file name="$USER_HOME$/mcs_ver2/.env.production.local" timestamp="1509958412352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" timestamp="1510051390213">
-        <mark key="[" line="124" column="62" />
-        <mark key="]" line="124" column="43" />
-        <mark key="." line="124" column="43" />
-        <mark key="^" line="124" column="57" />
+      <file name="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" timestamp="1510054498922">
+        <mark key="'" line="13" column="41" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="9" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" timestamp="1509089176994">
         <mark key="'" line="72" column="35" />
@@ -254,7 +255,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510052780779">
+      <file name="/Dummy.txt" timestamp="1510054601500">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -303,11 +304,11 @@
         <mark key="^" line="108" column="40" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/services/magellan_check_surveys/result_service.rb" timestamp="1510052805902">
-        <mark key="[" line="75" column="28" />
-        <mark key="]" line="75" column="20" />
-        <mark key="^" line="75" column="20" />
-        <mark key="." line="75" column="20" />
+      <file name="$USER_HOME$/mcs_ver2/app/services/magellan_check_surveys/result_service.rb" timestamp="1510054659990">
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="75" column="3" />
+        <mark key="^" line="75" column="3" />
+        <mark key="." line="75" column="3" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1509965840222">
         <mark key="[" line="1" column="46" />
@@ -317,8 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="7" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="270" column="4" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="54" column="9" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="167" column="24" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="162" column="31" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
@@ -417,19 +416,21 @@
       <jump line="2" column="14" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
       <jump line="44" column="68" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
       <jump line="48" column="53" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
+      <jump line="23" column="0" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="13" column="41" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>を</text>
+        <text>未実施のフォーカスサーベイの結果は取得しない。</text>
       </register>
       <register name="-" type="4">
-        <text>を</text>
+        <text>未実施のフォーカスサーベイの結果は取得しない。</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZ3NcPg==</text>
+        <text encoding="base64">XDxjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZV9tYXhfY291bnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c3BhOiBiaW4vd2VicGFjay1kZXYtc2VydmVyIC0tbm8taW5mbwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y2hlY2tfc3VydmV5X3N0YXJ0X2RhdGVfbWF4X2NvdW50IA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgVE9ETzog5pyq5a6f5pa944Gu44OV44Kp44O844Kr44K544K144O844OZ44Kk44Gu57WQ5p6c44KS5Y+W5b6X44GX44Gq44GE44GT44GoCg==</text>
@@ -463,16 +464,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZ3NcPg==</last-search>
+      <last-search encoding="base64">XDxjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZV9tYXhfY291bnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZ3NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZV9tYXhfY291bnRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>foreman</entry>
-        <entry encoding="base64">XDxSQUlMU19FTlZcPg==</entry>
         <entry encoding="base64">XDxDT01QSUxFX1dFQlBBQ0tcPg==</entry>
         <entry encoding="base64">XDxSREVCVUdfSURFXD4=</entry>
         <entry encoding="base64">XDxsb2NhbFw+</entry>
@@ -491,6 +490,8 @@
         <entry>rspec</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdHNcPg==</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZ3NcPg==</entry>
+        <entry>目標</entry>
+        <entry encoding="base64">XDxjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZV9tYXhfY291bnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
