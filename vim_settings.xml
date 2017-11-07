@@ -10,6 +10,7 @@
         <mark key="." line="203" column="8" />
         <mark key="^" line="211" column="41" />
       </file>
+      <file name="/improvements_controller.rb" timestamp="1510042837474" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1508308271392">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,10 +50,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1510036089486">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="15" column="2" />
-        <mark key="^" line="15" column="2" />
-        <mark key="." line="15" column="2" />
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="14" column="2" />
+        <mark key="." line="14" column="2" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.docker.local" timestamp="1510039335321">
         <mark key="[" line="0" column="0" />
@@ -82,12 +83,12 @@
         <mark key="." line="119" column="4" />
         <mark key="^" line="343" column="9" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510038912111">
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510039704707">
         <mark key="'" line="68" column="50" />
-        <mark key="[" line="152" column="32" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="73" column="40" />
+        <mark key="[" line="195" column="11" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
+        <mark key="^" line="195" column="28" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" timestamp="1509090158532">
         <mark key="'" line="2" column="74" />
@@ -164,6 +165,7 @@
       <file name="$USER_HOME$/dev-env/mac/scripts/24-install-ruby.sh" timestamp="1508454399079">
         <mark key="[" line="12" column="37" />
       </file>
+      <file name="/improvements_spec.rb" timestamp="1510042096903" />
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1509432386817">
         <mark key="[" line="6" column="96" />
         <mark key="]" line="7" column="29" />
@@ -241,8 +243,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510038922098">
+      <file name="/Dummy.txt" timestamp="1510042963345">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
+        <mark key="[" line="167" column="17" />
       </file>
       <file name="/fragment.rb" timestamp="1509189067015">
         <mark key="[" line="0" column="0" />
@@ -398,10 +403,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">MjAyMyA=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">MjAyMyA=</text>
       </register>
       <register name="/" type="4">
         <text>rspec</text>
