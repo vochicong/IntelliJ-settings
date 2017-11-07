@@ -942,6 +942,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/diffy-3.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="docile (v1.1.5, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/docile-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/docile-1.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="dotenv (v2.2.1, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/dotenv-2.2.1/lib" />
@@ -4204,6 +4212,30 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/bundler/gems/shoulda-matchers-4970253779a9/doc_config" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/bundler/gems/shoulda-matchers-4970253779a9/script" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/bundler/gems/shoulda-matchers-4970253779a9/tasks" />
+      </SOURCES>
+    </library>
+    <library name="simplecov (v0.15.1, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/simplecov-0.15.1/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/simplecov-0.15.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/simplecov-0.15.1/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/simplecov-0.15.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="simplecov-html (v0.10.2, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/simplecov-html-0.10.2/public" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/simplecov-html-0.10.2/views" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/simplecov-html-0.10.2/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/simplecov-html-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/simplecov-html-0.10.2/public" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/simplecov-html-0.10.2/views" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/simplecov-html-0.10.2/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/simplecov-html-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="slack-api (v1.6.0, rbenv: 2.4.2) [gem]">
