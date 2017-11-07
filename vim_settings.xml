@@ -27,11 +27,11 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Procfile.dev" timestamp="1510019283218">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="20" />
+      <file name="$USER_HOME$/mcs_ver2/Procfile.dev" timestamp="1510036780499">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="31" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1509502831321">
         <mark key="'" line="110" column="41" />
@@ -48,7 +48,7 @@
       <file name="/Bash" timestamp="1508246395003">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1510035426611">
+      <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1510036089486">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="15" column="2" />
         <mark key="^" line="15" column="2" />
@@ -241,7 +241,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510034841991">
+      <file name="/Dummy.txt" timestamp="1510036082840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1509189067015">
@@ -396,17 +396,17 @@
       <jump line="34" column="0" filename="$USER_HOME$/mcs_ver2/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAuZW52LmRvY2tlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MjAyMyA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>rspec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAuZW52LmRvY2tlcgo=</text>
+        <text encoding="base64">YXBpOiBiaW4vcmFpbHMuc2VydmVyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
