@@ -25,11 +25,6 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/services/magellan_summary_result_service.rb" timestamp="1510050645274">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/update-db-schema.sh" timestamp="1509602109801">
         <mark key="'" line="8" column="40" />
         <mark key="[" line="0" column="0" />
@@ -49,11 +44,6 @@
         <mark key="^" line="25" column="18" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1510019363647">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/Bash" timestamp="1508246395003">
         <mark key="[" line="0" column="0" />
       </file>
@@ -62,11 +52,6 @@
         <mark key="]" line="14" column="2" />
         <mark key="^" line="14" column="2" />
         <mark key="." line="14" column="2" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker.local" timestamp="1510039335321">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/update" timestamp="1510125848612">
         <mark key="[" line="24" column="0" />
@@ -134,7 +119,7 @@
       <file name="$USER_HOME$/dev-env/mac/roles/common/tasks/main.yml" timestamp="1508634292406">
         <mark key="[" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510129404065">
+      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510132962864">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -291,7 +276,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510128840555">
+      <file name="/Dummy.txt" timestamp="1510132965277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
