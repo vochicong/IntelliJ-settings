@@ -10,7 +10,6 @@
         <mark key="." line="203" column="8" />
         <mark key="^" line="211" column="41" />
       </file>
-      <file name="/improvements_controller.rb" timestamp="1510042837474" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1508308271392">
         <mark key="[" line="0" column="0" />
       </file>
@@ -19,7 +18,6 @@
         <mark key="[" line="235" column="40" />
         <mark key="]" line="235" column="40" />
         <mark key="." line="235" column="40" />
-        <mark key="^" line="309" column="33" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/services/magellan_summary_result_service.rb" timestamp="1510050645274">
         <mark key="[" line="20" column="8" />
@@ -39,12 +37,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1510052275502">
-        <mark key="'" line="24" column="5" />
-        <mark key="[" line="15" column="76" />
-        <mark key="]" line="15" column="77" />
-        <mark key="." line="15" column="77" />
-        <mark key="^" line="15" column="14" />
+      <file name="$USER_HOME$/mcs_ver2/Dockerfile.prod" timestamp="1510127079846">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="18" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1510019363647">
         <mark key="[" line="0" column="0" />
@@ -64,6 +61,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/update" timestamp="1510125848612">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="41" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508308163368">
         <mark key="[" line="0" column="0" />
@@ -102,6 +103,12 @@
         <mark key="." line="133" column="0" />
         <mark key="^" line="127" column="23" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/bundle.prod" timestamp="1510126814026">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="3" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1508743121988">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,10 +119,16 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/bundle.dev" timestamp="1510126777826">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="3" column="37" />
+        <mark key="^" line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/dev-env/mac/roles/common/tasks/main.yml" timestamp="1508634292406">
         <mark key="[" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510039112128">
+      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510126195050">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -157,6 +170,10 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/config/unicorn.rb" timestamp="1510126128737" />
+      <file name="$USER_HOME$/mcs_ver2/mac/install.sh" timestamp="1510126697336">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="other.xml" timestamp="1509150456203">
         <mark key="[" line="0" column="0" />
       </file>
@@ -170,7 +187,6 @@
       <file name="$USER_HOME$/dev-env/mac/scripts/24-install-ruby.sh" timestamp="1508454399079">
         <mark key="[" line="12" column="37" />
       </file>
-      <file name="/improvements_spec.rb" timestamp="1510042096903" />
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1509432386817">
         <mark key="[" line="6" column="96" />
         <mark key="]" line="7" column="29" />
@@ -183,8 +199,8 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/install-dev.sh" timestamp="1509662850656">
-        <mark key="[" line="3" column="27" />
+      <file name="$USER_HOME$/mcs_ver2/docker/install-dev.sh" timestamp="1510105187255">
+        <mark key="[" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docs/API仕様書/A022-API:Operations:Organizations:id:MagellanCheckSurveySettings.md" timestamp="1509090745602">
         <mark key="'" line="73" column="45" />
@@ -202,8 +218,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/883eb393-ef85-475c-89b0-6eb519aef74c/console.sql" timestamp="1509197108577">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.production.local" timestamp="1509958412352">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/.env.production.local" timestamp="1510126964838">
+        <mark key="[" line="1" column="63" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" timestamp="1510054498922">
         <mark key="'" line="13" column="41" />
@@ -255,7 +274,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510054601500">
+      <file name="/Dummy.txt" timestamp="1510126905672">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -290,12 +309,12 @@
         <mark key="^" line="17" column="65" />
         <mark key="." line="19" column="2" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1510035176211">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="132" column="39" />
-        <mark key="]" line="132" column="39" />
-        <mark key="." line="132" column="39" />
-        <mark key="^" line="132" column="68" />
+      <file name="$USER_HOME$/mcs_ver2/bin/deploy-unicorn" timestamp="1510126024113">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" timestamp="1509533865747">
         <mark key="'" line="107" column="0" />
@@ -318,11 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="9" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="167" column="24" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="162" column="31" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
-      <jump line="68" column="88" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
-      <jump line="161" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
       <jump line="56" column="83" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
       <jump line="55" column="83" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
       <jump line="111" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
@@ -418,62 +432,65 @@
       <jump line="48" column="53" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="13" column="41" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="28" column="0" filename="$USER_HOME$/mcs_ver2/bin/deploy-unicorn" />
+      <jump line="6" column="6" filename="$USER_HOME$/mcs_ver2/bin/deploy-unicorn" />
+      <jump line="2" column="0" filename="$USER_HOME$/mcs_ver2/bin/deploy-unicorn" />
+      <jump line="12" column="0" filename="$USER_HOME$/mcs_ver2/bin/deploy-unicorn" />
+      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/mac/install.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>未実施のフォーカスサーベイの結果は取得しない。</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">REFUQUJBU0VfVVJMPW15c3FsMjovL3Jvb3Q6cGFzc3dvcmRAMTI3LjAuMC4xOjMzMDYvbWNzX3ZlcjJfYWJjP2VuY29kaW5nPXV0ZjgmcG9vbD01JnRpbWVvdXQ9NTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>未実施のフォーカスサーベイの結果は取得しない。</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZV9tYXhfY291bnRcPg==</text>
+        <text>yarn</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y2hlY2tfc3VydmV5X3N0YXJ0X2RhdGVfbWF4X2NvdW50IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">REFUQUJBU0VfVVJMPW15c3FsMjovL3Jvb3Q6cGFzc3dvcmRAMTI3LjAuMC4xOjMzMDYvbWNzX3ZlcjJfYWJjP2VuY29kaW5nPXV0ZjgmcG9vbD01JnRpbWVvdXQ9NTAwMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzog5pyq5a6f5pa944Gu44OV44Kp44O844Kr44K544K144O844OZ44Kk44Gu57WQ5p6c44KS5Y+W5b6X44GX44Gq44GE44GT44GoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgUFJKX01DU19WRVIyLTIwMTMg44OV44Kp44O844Kr44K544K144O844OZ44Kk5a6f5pa954q25rOB44GuRXhjZWzjg6zjgqTjgqLjgqbjg4jltKnjgowK</text>
+        <text encoding="base64">ZGVwbG95Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09NUElMRV9XRUJQQUNLPWZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyDotbfli5XmmYLjgasgYmluL3dlYnBhY2sg44KS6KGM44GG44GL44Gp44GG44GLCkNPTVBJTEVfV0VCUEFDSz10cnVlCgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBpOiBiaW4vcmFpbHMgc2VydmVyIC1iIDAuMC4wLjAK</text>
+        <text encoding="base64">ZnVuY3Rpb24gZGVwbG95KCkgewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOX1dFQlBBQ0tFUl9ERVY9dHJ1ZQo=</text>
+        <text encoding="base64">ICBlY2hvICdzdGFydCB1bmljb3JuJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyB3ZWJwYWNrLWRldi1zZXJ2ZXIg44KS5L2/44GG44GL44Gp44GG44GLClJVTl9XRUJQQUNLRVJfREVWPWZhbHNlCgo=</text>
+        <text encoding="base64">ICBiaW4vcmFpbHMgbG9nOmNsZWFyIHRtcDpjbGVhcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyB3ZWJwYWNrLWRldi1zZXJ2ZXIg44GM5Yip55So44GZ44KLSVAKV0VCUEFDS0VSX0RFVl9TRVJWRVJfSE9TVD0wLjAuMC4wCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZV9tYXhfY291bnRcPg==</last-search>
+      <last-search>yarn</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZV9tYXhfY291bnRcPg==</last-pattern>
+      <last-pattern>yarn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDT01QSUxFX1dFQlBBQ0tcPg==</entry>
-        <entry encoding="base64">XDxSREVCVUdfSURFXD4=</entry>
         <entry encoding="base64">XDxsb2NhbFw+</entry>
         <entry encoding="base64">PSA=</entry>
         <entry encoding="base64">XDxSQUlMU19FWFRfUE9SVFw+</entry>
@@ -492,6 +509,8 @@
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZ3NcPg==</entry>
         <entry>目標</entry>
         <entry encoding="base64">XDxjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZV9tYXhfY291bnRcPg==</entry>
+        <entry encoding="base64">XDxXT1JLX0RJUlw+</entry>
+        <entry>yarn</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
