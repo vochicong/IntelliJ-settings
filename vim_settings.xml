@@ -142,10 +142,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1510193178410">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1510216796926">
+        <mark key="[" line="121" column="20" />
+        <mark key="]" line="121" column="32" />
+        <mark key="." line="121" column="32" />
+        <mark key="^" line="120" column="19" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.gitignore" timestamp="1510035113670">
         <mark key="'" line="35" column="0" />
@@ -292,7 +293,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510210318732">
+      <file name="/Dummy.txt" timestamp="1510216381510">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -471,10 +472,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>.*/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>.*/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZ25vcmVcPg==</text>
@@ -483,31 +484,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBvbmx5OiAvXmJ1aWxkLWRvY2tlci4qLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZ25vcmU6IC9eYnVpbGQtZG9ja2VyLiovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBidWlsZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZ25vcmU6IGJ1aWxkLWRvY2tlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcXVpcmVzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZ25vcmU6IGRldmVudgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZ25vcmU6IC9eYnVpbGQtZG9ja2VyLiovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJhbmNoZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZ25vcmU6IGJ1aWxkLWRvY2tlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJhbmNoZXM6CiAgICAgICAgICAgICAgaWdub3JlOiBkZXZlbnYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZ25vcmU6IGRldmVudgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YmluL3lhcm4gaW5zdGFsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJhbmNoZXM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YmluL3JhaWxzIGFzc2V0czpwcmVjb21waWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJhbmNoZXM6CiAgICAgICAgICAgICAgaWdub3JlOiBkZXZlbnYK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">YmluL3lhcm4gaW5zdGFsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2Jpbi95YXJuIGluc3RhbGwgLS1ub24taW50ZXJhY3RpdmUgLS1wcm9kdWN0aW9uCg==</text>
+        <text encoding="base64">YmluL3JhaWxzIGFzc2V0czpwcmVjb21waWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
