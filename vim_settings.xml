@@ -233,12 +233,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" timestamp="1510225583625">
-        <mark key="'" line="28" column="6" />
-        <mark key="[" line="108" column="61" />
-        <mark key="]" line="108" column="72" />
-        <mark key="^" line="108" column="72" />
-        <mark key="." line="108" column="72" />
+      <file name="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" timestamp="1510226987217">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" timestamp="1509089176994">
         <mark key="'" line="72" column="35" />
@@ -366,17 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="2" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
-      <jump line="29" column="7" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
-      <jump line="32" column="26" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
-      <jump line="155" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
-      <jump line="37" column="4" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
-      <jump line="108" column="31" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
-      <jump line="23" column="4" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
-      <jump line="175" column="4" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="192" column="36" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="216" column="56" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="253" column="9" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="257" column="38" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="188" column="36" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="45" column="58" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
@@ -466,66 +453,71 @@
       <jump line="155" column="53" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="152" column="19" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="28" column="6" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="100" column="36" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="101" column="35" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="105" column="65" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="106" column="43" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="129" column="26" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="109" column="65" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="102" column="16" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="103" column="44" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="123" column="50" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="124" column="72" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="115" column="16" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZhbHV0X2JvZHlfc3R5bGVcPg==</text>
+        <text>default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdGF0aW9uX3Jlc3VsdHMuY29uY2F0KFsiIl0gKiBuX2VtcHR5KQogICAgICAgICAgICAgICAgZXhwZWN0YXRpb25fcmVzdWx0X3N0eWxlcy5jb25jYXQoW2RlZmFsdXRfYm9keV9zdHlsZV0gKiBuX2VtcHR5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaGVhZGVyX2xpbmVfc3R5bGVzIDw8IGRlZmFsdXRfYm9keV9zdHlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5fZW1wdHkudGltZXMgZG8K</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgc2F0aXNmYWN0aW9uX3Jlc3VsdHMgPDwgIiIKICAgICAgICAgICAgICAgICAgc2F0aXNmYWN0aW9uX3Jlc3VsdF9zdHlsZXMgPDwgZGVmYWx1dF9ib2R5X3N0eWxlCiAgICAgICAgICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgc2F0aXNmYWN0aW9uX3Jlc3VsdHMgPDwgIiIKICAgICAgICAgICAgICAgICAgc2F0aXNmYWN0aW9uX3Jlc3VsdF9zdHlsZXMgPDwgZGVmYWx1dF9ib2R5X3N0eWxlCiAgICAgICAgICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGFjdGlvbl9wbGFuX2l0ZW0uc2F0aXNmYWN0aW9ucy5wcmVzZW50Pwo=</text>
       </register>
       <register name="6" type="8">
         <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgZXhwZWN0YXRpb25fcmVzdWx0cyA8PCAiIgogICAgICAgICAgICAgICAgICBleHBlY3RhdGlvbl9yZXN1bHRfc3R5bGVzIDw8IGRlZmFsdXRfYm9keV9zdHlsZQogICAgICAgICAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZAo=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGFjdGlvbl9wbGFuX2l0ZW0uZXhwZWN0YXRpb25zLnByZXNlbnQ/Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgaGVhZGVyX2xpbmVzIDw8ICIiCiAgICAgICAgICAgICAgICAgIGhlYWRlcl9saW5lX3N0eWxlcyA8PCBkZWZhbHV0X2JvZHlfc3R5bGUKICAgICAgICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5fZW1wdHkudGltZXMgZG8KICAgICAgICAgICAgICAgICAgc2F0aXNmYWN0aW9uX3Jlc3VsdHMgPDwgIiIKICAgICAgICAgICAgICAgICAgc2F0aXNmYWN0aW9uX3Jlc3VsdF9zdHlsZXMgPDwgZGVmYWx1dF9ib2R5X3N0eWxlCiAgICAgICAgICAgICAgICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZhbHV0X2JvZHlfc3R5bGVcPg==</last-search>
+      <last-search>default</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZhbHV0X2JvZHlfc3R5bGVcPg==</last-pattern>
+      <last-pattern>default</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>env</entry>
-        <entry>dot</entry>
-        <entry encoding="base64">XDxwcm9kdWN0aW9uXD4=</entry>
-        <entry>api</entry>
-        <entry encoding="base64">XDxBQ1RJVkVfUkVDT1JEX1FVRVJZX1RSQUNFXD4=</entry>
-        <entry>pro</entry>
         <entry>paral</entry>
         <entry>profile</entry>
         <entry>rack</entry>
@@ -533,13 +525,19 @@
         <entry encoding="base64">XDxtYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdHNcPg==</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZ3NcPg==</entry>
         <entry>目標</entry>
-        <entry encoding="base64">XDxjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZV9tYXhfY291bnRcPg==</entry>
         <entry encoding="base64">XDxXT1JLX0RJUlw+</entry>
         <entry>yarn</entry>
         <entry>dev</entry>
         <entry encoding="base64">XDxpZ25vcmVcPg==</entry>
         <entry>-</entry>
+        <entry encoding="base64">XDxjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZXNcPg==</entry>
+        <entry encoding="base64">XDxsZW5ndGhcPg==</entry>
+        <entry encoding="base64">XDxuX2NoZWNrX3N1cnZleVw+</entry>
         <entry encoding="base64">XDxkZWZhbHV0X2JvZHlfc3R5bGVcPg==</entry>
+        <entry encoding="base64">XDxjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZV9tYXhfY291bnRcPg==</entry>
+        <entry encoding="base64">XDxuX2VtcHR5XD4=</entry>
+        <entry encoding="base64">XDxkZWZhdWx0X2JvZHlfc3R5bGVcPg==</entry>
+        <entry>default</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
