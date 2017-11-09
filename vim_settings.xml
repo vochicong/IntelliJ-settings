@@ -193,12 +193,12 @@
       <file name="other.xml" timestamp="1509150456203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/lib/custom_date_time.rb" timestamp="1510214810922">
+      <file name="$USER_HOME$/mcs_ver2/lib/custom_date_time.rb" timestamp="1510221093422">
         <mark key="'" line="7" column="56" />
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="4" />
-        <mark key="^" line="12" column="28" />
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="23" />
       </file>
       <file name="$USER_HOME$/dev-env/mac/scripts/24-install-ruby.sh" timestamp="1508454399079">
         <mark key="[" line="12" column="37" />
@@ -470,10 +470,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.*/</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>.*/</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZ25vcmVcPg==</text>
