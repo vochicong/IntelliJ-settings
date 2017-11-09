@@ -26,9 +26,9 @@
         <mark key="." line="8" column="25" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/services/magellan_summary_result_service.rb" timestamp="1510050645274">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/update-db-schema.sh" timestamp="1509602109801">
         <mark key="'" line="8" column="40" />
@@ -102,7 +102,6 @@
         <mark key="." line="206" column="38" />
         <mark key="^" line="206" column="38" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.erdconfig" timestamp="1510196405132" />
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" timestamp="1509090158532">
         <mark key="'" line="2" column="74" />
         <mark key="[" line="133" column="0" />
@@ -143,10 +142,9 @@
         <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1510193178410">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="124" column="18" />
-        <mark key="." line="125" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.gitignore" timestamp="1510035113670">
         <mark key="'" line="35" column="0" />
@@ -239,13 +237,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" timestamp="1510054498922">
-        <mark key="'" line="13" column="41" />
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
-        <mark key="^" line="13" column="9" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/lib/mcs_csv/magellan_viewable_users_csv_upload_support.rb" timestamp="1509089176994">
         <mark key="'" line="72" column="35" />
@@ -343,7 +334,7 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1510196770550" />
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1510208854870" />
       <file name="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" timestamp="1509533865747">
         <mark key="'" line="107" column="0" />
         <mark key="[" line="150" column="0" />
