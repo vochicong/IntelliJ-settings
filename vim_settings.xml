@@ -192,11 +192,11 @@
       <file name="other.xml" timestamp="1509150456203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/lib/custom_date_time.rb" timestamp="1509590008121">
+      <file name="$USER_HOME$/mcs_ver2/lib/custom_date_time.rb" timestamp="1510214810922">
         <mark key="'" line="7" column="56" />
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="28" />
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
         <mark key="^" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/dev-env/mac/scripts/24-install-ruby.sh" timestamp="1508454399079">
@@ -292,7 +292,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510192779002">
+      <file name="/Dummy.txt" timestamp="1510210318732">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -335,7 +335,7 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1510210250131">
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1510214783318">
         <mark key="[" line="120" column="63" />
         <mark key="]" line="119" column="1" />
         <mark key="^" line="119" column="1" />
@@ -471,10 +471,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IyA=</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZ25vcmVcPg==</text>
