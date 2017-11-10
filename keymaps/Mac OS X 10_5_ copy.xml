@@ -1,0 +1,6 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="IntroduceConstant" />
+  <action id="org.jetbrains.plugins.ruby.rails.console.RunRailsConsoleAction">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+</keymap>
