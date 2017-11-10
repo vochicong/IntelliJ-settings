@@ -161,10 +161,12 @@
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
-        <mark key="^" line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/unicorn.rb" timestamp="1510128414042">
-        <mark key="[" line="14" column="40" />
+      <file name="$USER_HOME$/mcs_ver2/config/unicorn.rb" timestamp="1510296414909">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="other.xml" timestamp="1509150456203">
         <mark key="[" line="0" column="0" />
@@ -230,10 +232,11 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/lib/tasks/unicorn.rake" timestamp="1510131070208">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
+      <file name="$USER_HOME$/mcs_ver2/lib/tasks/unicorn.rake" timestamp="1510296279902">
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="40" column="16" />
+        <mark key="." line="40" column="16" />
+        <mark key="^" line="40" column="50" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn.prod" timestamp="1510133748772">
         <mark key="[" line="10" column="0" />
@@ -336,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="58" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
       <jump line="156" column="50" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
       <jump line="250" column="36" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
@@ -436,13 +438,14 @@
       <jump line="115" column="16" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="137" column="33" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="138" column="33" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
+      <jump line="15" column="0" filename="$USER_HOME$/mcs_ver2/config/unicorn.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>depends_on</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>depends_on</text>
+        <text encoding="base64">RU5WWyJSQUlMU19ST09UIl0gKyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXRpc2ZhY3Rpb25zXD4=</text>
@@ -451,31 +454,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGlvbl9wbGFuX2l0ZW0uc2F0aXNmYWN0aW9ucy5lYWNoX3dpdGhfaW5kZXggZG8gfHNhdGlzZmFjdGlvbiwganwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBQUkpfTUNTX1ZFUjItMjAxMyDjg5Xjgqnjg7zjgqvjgrnjgrXjg7zjg5njgqTlrp/mlr3nirbms4Hjga5FeGNlbOODrOOCpOOCouOCpuODiOW0qeOCjAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">YXBwX3BhdGggPSBSYWlscy5yb290Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBQUkpfTUNTX1ZFUjItMjAxMyDjg5Xjgqnjg7zjgqvjgrnjgrXjg7zjg5njgqTlrp/mlr3nirbms4Hjga5FeGNlbOODrOOCpOOCouOCpuODiOW0qeOCjAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGFjdGlvbl9wbGFuX2l0ZW0uc2F0aXNmYWN0aW9ucy5wcmVzZW50Pwo=</text>
-      </register>
-      <register name="7" type="8">
+      <register name="6" type="8">
         <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGFjdGlvbl9wbGFuX2l0ZW0uZXhwZWN0YXRpb25zLnByZXNlbnQ/Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGFjdGlvbl9wbGFuX2l0ZW0uc2F0aXNmYWN0aW9ucy5wcmVzZW50Pwo=</text>
+      </register>
+      <register name="9" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
