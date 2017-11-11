@@ -119,11 +119,11 @@
       <file name="$USER_HOME$/mcs_ver2/bin/rails.server" timestamp="1510248874888">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1510385005689">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="4" />
+      <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1510386541156">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="49" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -144,11 +144,11 @@
       <jump line="80" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>dotenv</text>
