@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/mcs_ver2/config/webpacker.yml" timestamp="1510248763987">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/config/environments/development.rb" timestamp="1510385910244">
+        <mark key="[" line="89" column="5" />
+        <mark key="]" line="91" column="37" />
+        <mark key="^" line="91" column="37" />
+        <mark key="." line="91" column="37" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.prod.yml" timestamp="1510251175164">
         <mark key="[" line="10" column="0" />
@@ -16,6 +17,7 @@
       <file name="/Ruby Console" timestamp="1510382509989">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/config/environments/production.rb" timestamp="1510385933631" />
       <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1510252448441">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="43" column="34" />
@@ -23,27 +25,12 @@
         <mark key="^" line="43" column="37" />
         <mark key="." line="43" column="37" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/update-gems-webpack.sh" timestamp="1510250527953">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/mac/install.sh" timestamp="1510250451753">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/server.sh" timestamp="1510247565147">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="22" column="4" />
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.test.local" timestamp="1510250356765">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/Dockerfile.prod" timestamp="1510253053046">
         <mark key="[" line="10" column="0" />
@@ -54,11 +41,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker.local" timestamp="1510250340666">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1510253147706">
         <mark key="'" line="22" column="0" />
@@ -88,13 +70,9 @@
       <file name="/dummy.sql" timestamp="1510253102934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510385243640">
+      <file name="$USER_HOME$/mcs_ver2/.env.production" timestamp="1510385335570" />
+      <file name="/Dummy.txt" timestamp="1510385885028">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510250352882">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/secrets.yml" timestamp="1510385283255">
         <mark key="[" line="31" column="0" />
@@ -113,12 +91,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510250322337">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510385291170">
+      <file name="$USER_HOME$/mcs_ver2/docker/installers/install-wait-for-it.sh" timestamp="1510249836730" />
+      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510385514468">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -129,6 +103,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1510244246430" />
       <file name="$USER_HOME$/mcs_ver2/bin/foreman.sh" timestamp="1510247579264">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
