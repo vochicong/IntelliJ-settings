@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/mcs_ver2/config/webpacker.yml" timestamp="1510248763987">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/environments/development.rb" timestamp="1510385910244">
         <mark key="[" line="89" column="5" />
         <mark key="]" line="91" column="37" />
@@ -25,12 +30,32 @@
         <mark key="^" line="43" column="37" />
         <mark key="." line="43" column="37" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/config/unicorn.rb" timestamp="1510388677911">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/update-gems-webpack.sh" timestamp="1510250527953">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/mac/install.sh" timestamp="1510250451753">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/server.sh" timestamp="1510247565147">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="22" column="4" />
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/.env.test.local" timestamp="1510250356765">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/Dockerfile.prod" timestamp="1510253053046">
         <mark key="[" line="10" column="0" />
@@ -41,6 +66,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/.env.docker.local" timestamp="1510250340666">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1510253147706">
         <mark key="'" line="22" column="0" />
@@ -74,6 +104,11 @@
       <file name="/Dummy.txt" timestamp="1510385885028">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510250352882">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/secrets.yml" timestamp="1510385283255">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -92,6 +127,11 @@
         <mark key="." line="6" column="46" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/installers/install-wait-for-it.sh" timestamp="1510249836730" />
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510250322337">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510385514468">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -145,10 +185,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>8080</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text>dotenv</text>
