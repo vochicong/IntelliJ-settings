@@ -9,11 +9,11 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/compose/nginx-unicorn.yml" timestamp="1510484417611">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="7" />
+      <file name="$USER_HOME$/mcs_ver2/docker/compose/nginx-unicorn.yml" timestamp="1510486517446">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="19" column="37" />
       </file>
       <file name="/.env" timestamp="1510403452878" />
       <file name="$USER_HOME$/mcs_ver2/bin/update-gems-webpack.sh" timestamp="1510473957553">
@@ -167,18 +167,17 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/nginx/conf.d/rails.conf" timestamp="1510471525892">
+      <file name="$USER_HOME$/mcs_ver2/docker/nginx/conf.d/rails.conf" timestamp="1510486538047">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
         <mark key="^" line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/bin/up-nginx-unicorn" timestamp="1510482447399">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="11" column="32" />
+      <file name="$USER_HOME$/mcs_ver2/docker/bin/up-nginx-unicorn" timestamp="1510486301199">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/installers/wait-for-it.sh" timestamp="1510249666398">
         <mark key="[" line="4" column="81" />
@@ -296,44 +295,44 @@
       <jump line="90" column="7" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBiaW4vcmFrZSB1bmljb3JuOnN0YXJ0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>factory</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSB0b3VjaCBsb2cvc3RkZXJyLmxvZyAmJiBiaW4vcmFrZSB1bmljb3JuOnN0YXJ0ICYgdGFpbCAtZiBsb2cvc3RkZXJyLmxvZwo=</text>
+        <text encoding="base64">ICAgICAgLSB1bmljb3JuX3NvY2s6L2FwcC90bXAvc29ja2V0cy8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBiaW4vcmFrZSB1bmljb3JuOnN0YXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgLSB1bmljb3JuX3NvY2s6L3Zhci93d3cvbWNzX3ZlcjIvdG1wL3NvY2tldHMvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXNjICJTdGFydCB1bmljb3JuIGluIGZvcmVncm91bmQiCiAgdGFzayg6c3RhcnQtZm9yZWdyb3VuZCkgewogICAgY29uZmlnID0gUmFpbHMucm9vdC5qb2luKCdjb25maWcnLCAndW5pY29ybi5yYicpCiAgICBzaCAiUkFJTFNfUk9PVD0je1JhaWxzLnJvb3R9IHVuaWNvcm4gLWMgI3tjb25maWd9IC1FICN7UmFpbHMuZW52fSIKICB9Cgo=</text>
+        <text encoding="base64">IyAgICAgIC0gdG91Y2ggbG9nL3N0ZGVyci5sb2cgJiYgYmluL3Jha2UgdW5pY29ybjpzdGFydCAmIHRhaWwgLWYgbG9nL3N0ZGVyci5sb2cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZW0gJ2ZhY3RvcnlfZ2lybF9yYWlscycK</text>
+        <text encoding="base64">cm0gLWYgL2FwcC90bXAvcGlkcy91bmljb3JuLnBpZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LWYgZG9ja2VyL2NvbXBvc2Uvd2VicGFjay55bWwgdXAK</text>
+        <text encoding="base64">ICAgICAgLSBiaW4vcmFrZSB1bmljb3JuOnN0YXJ0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgZG93biAtdiAtLXJlbW92ZS1vcnBoYW5zCg==</text>
+        <text encoding="base64">ICBkZXNjICJTdGFydCB1bmljb3JuIGluIGZvcmVncm91bmQiCiAgdGFzayg6c3RhcnQtZm9yZWdyb3VuZCkgewogICAgY29uZmlnID0gUmFpbHMucm9vdC5qb2luKCdjb25maWcnLCAndW5pY29ybi5yYicpCiAgICBzaCAiUkFJTFNfUk9PVD0je1JhaWxzLnJvb3R9IHVuaWNvcm4gLWMgI3tjb25maWd9IC1FICN7UmFpbHMuZW52fSIKICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgdXAgLWQK</text>
+        <text encoding="base64">ICBnZW0gJ2ZhY3RvcnlfZ2lybF9yYWlscycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3NlZCAtaS5iYWsgJ3MvIyBsb2FkLyAgbG9hZC8nIGRiL3NlZWRzLnJiCg==</text>
+        <text encoding="base64">LWYgZG9ja2VyL2NvbXBvc2Uvd2VicGFjay55bWwgdXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YmluL2luaXRkYgo=</text>
+        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgZG93biAtdiAtLXJlbW92ZS1vcnBoYW5zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgdXAgLWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
