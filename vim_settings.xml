@@ -197,11 +197,11 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/bin/up-nginx-unicorn" timestamp="1510462220372">
-        <mark key="[" line="6" column="106" />
-        <mark key="]" line="6" column="106" />
-        <mark key="." line="6" column="106" />
-        <mark key="^" line="6" column="109" />
+      <file name="$USER_HOME$/mcs_ver2/docker/bin/up-nginx-unicorn" timestamp="1510476398928">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/installers/wait-for-it.sh" timestamp="1510249666398">
         <mark key="[" line="4" column="81" />
@@ -210,7 +210,7 @@
         <mark key="." line="6" column="38" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.production" timestamp="1510400252070" />
-      <file name="/Dummy.txt" timestamp="1510474539395">
+      <file name="/Dummy.txt" timestamp="1510475136692">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/secrets.yml" timestamp="1510406415005">
@@ -232,7 +232,7 @@
         <mark key="^" line="3" column="64" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510446018962">
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510474923452">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -322,11 +322,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/mcs_ver2/.env.rails.prod" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgdXAgLWQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWYg</text>
       </register>
       <register name="-" type="4">
-        <text>rails db:setup</text>
+        <text encoding="base64">aWYg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhc3RvcmVcPg==</text>
