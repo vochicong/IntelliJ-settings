@@ -60,6 +60,13 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/docker/installers/install-rbenv.sh" timestamp="1510446267204">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="8" column="50" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1510250532682">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -102,25 +109,15 @@
         <mark key="^" line="6" column="44" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/image/google-ruby/Dockerfile" timestamp="1510441588210">
-        <mark key="'" line="25" column="41" />
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="18" column="27" />
+      <file name="$USER_HOME$/mcs_ver2/docker/image/google-ruby/Dockerfile" timestamp="1510446424205">
+        <mark key="'" line="6" column="0" />
+        <mark key="^" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/Dockerfile" timestamp="1510439171234">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="31" />
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.dockerignore" timestamp="1510395136512">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="35" column="21" />
-        <mark key="^" line="35" column="21" />
-        <mark key="." line="35" column="21" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/lib/tasks/unicorn.rake" timestamp="1510370596744">
         <mark key="[" line="7" column="0" />
@@ -160,10 +157,11 @@
         <mark key="^" line="3" column="64" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510402257320">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510446018962">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/rails.server" timestamp="1510248874888">
         <mark key="[" line="1" column="0" />
@@ -196,55 +194,59 @@
       <jump line="18" column="4" filename="$USER_HOME$/mcs_ver2/docker/image/google-ruby/Dockerfile" />
       <jump line="21" column="35" filename="$USER_HOME$/mcs_ver2/docker/image/google-ruby/Dockerfile" />
       <jump line="31" column="41" filename="$USER_HOME$/mcs_ver2/docker/image/google-ruby/Dockerfile" />
+      <jump line="15" column="0" filename="$USER_HOME$/mcs_ver2/.env.docker" />
+      <jump line="46" column="0" filename="$USER_HOME$/mcs_ver2/docker/image/google-ruby/Dockerfile" />
+      <jump line="6" column="0" filename="$USER_HOME$/mcs_ver2/docker/image/google-ruby/Dockerfile" />
+      <jump line="3" column="0" filename="$USER_HOME$/mcs_ver2/docker/installers/install-rbenv.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QVJHIEJVTkRMRVJfVkVSU0lPTiAxLjE2LjAK</text>
+        <text encoding="base64">QVJHIFJFUVVFU1RFRF9SVUJZX1ZFUlNJT049IjIuNC4yIgpBUkcgQlVORExFUl9WRVJTSU9OPSIxLjE2LjAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ENV</text>
+        <text>docker/installers/ \</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCVU5ETEVSX1ZFUlNJT05cPg==</text>
+        <text encoding="base64">XDxXT1JLRElSXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJiZW52IGdsb2JhbCAkREVGQVVMVF9SVUJZX1ZFUlNJT04gJiYgXAo=</text>
+        <text encoding="base64">ICAgICBkb2NrZXIvaW5zdGFsbGVycy8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QVJHIEJVTkRMRVJfVkVSU0lPTiAxLjE2LjAK</text>
+        <text encoding="base64">QVJHIFJFUVVFU1RFRF9SVUJZX1ZFUlNJT049IjIuNC4yIgpBUkcgQlVORExFUl9WRVJTSU9OPSIxLjE2LjAiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIHJiZW52IGluc3RhbGwgJERFRkFVTFRfUlVCWV9WRVJTSU9OICYmIFwKICAgIHJiZW52IGdsb2JhbCAkREVGQVVMVF9SVUJZX1ZFUlNJT04gJiYgXAogICAgZ2VtIGluc3RhbGwgYnVuZGxlciAtLXZlcnNpb24gJEJVTkRMRVJfVkVSU0lPTiAmJiBcCiAgICByYmVudiByZWhhc2gKCg==</text>
+        <text encoding="base64">QVJHIFJFUVVFU1RFRF9SVUJZX1ZFUlNJT049IjIuNC4yIgpBUkcgQlVORExFUl9WRVJTSU9OPSIxLjE2LjAiCkNPUFkgZG9ja2VyL2luc3RhbGxlcnMvaW5zdGFsbC1yYmVudi5zaCBkb2NrZXIvaW5zdGFsbGVycy8gXApSVU4gZG9ja2VyL2luc3RhbGxlcnMvaW5zdGFsbC1yYmVudi5zaAoK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">RU5WIERFRkFVTFRfUlVCWV9WRVJTSU9OIDIuNC4yCg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RU5WIERFRkFVTFRfUlVCWV9WRVJTSU9OIDIuNC4yCkVOViBCVU5ETEVSX1ZFUlNJT04gMS4xNi4wClJVTiByYmVudiBpbnN0YWxsICRERUZBVUxUX1JVQllfVkVSU0lPTiAmJiBcCiAgICByYmVudiBnbG9iYWwgJERFRkFVTFRfUlVCWV9WRVJTSU9OICYmIFwKICAgIGdlbSBpbnN0YWxsIGJ1bmRsZXIgLS12ZXJzaW9uICRCVU5ETEVSX1ZFUlNJT04gJiYgXAogICAgcmJlbnYgcmVoYXNoCgo=</text>
+        <text encoding="base64">Q09QWSBkb2NrZXIvaW5zdGFsbGVycyAK</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgYXB0LWdldCBpbnN0YWxsIC15IC1xIGdjcC1ydWJ5LSR7UkVRVUVTVEVEX1JVQllfVkVSU0lPTn0gXAogICAgICB8fCAoY2QgL3JiZW52L3BsdWdpbnMvcnVieS1idWlsZCBcCiAgICAgICAgJiYgZ2l0IHB1bGwgXAogICAgICAgICYmIHJiZW52IGluc3RhbGwgLXMgJHtSRVFVRVNURURfUlVCWV9WRVJTSU9OfSkgXAogICAgICAmJiByYmVudiBnbG9iYWwgJHtSRVFVRVNURURfUlVCWV9WRVJTSU9OfSBcCiAgICAgICYmIGdlbSBpbnN0YWxsIGJ1bmRsZXIgLS12ZXJzaW9uICR7QlVORExFUl9WRVJTSU9OfTsgXAogICAgZmkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJiZW52IHJlaGFzaCAmJiBcCg==</text>
+        <text encoding="base64">ICBnaXQgcHVsbCAK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjZCAvcmJlbnYvcGx1Z2lucy9ydWJ5LWJ1aWxkIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Q09QWSBiaW4vYnVuZGxlIGJpbi9idW5kbGUuZGV2IGJpbi8K</text>
+      <register name="8" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q09QWSBkb2NrZXIvYmluL2J1bmRsZSBkb2NrZXIvYmluLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCVU5ETEVSX1ZFUlNJT05cPg==</last-search>
+      <last-search encoding="base64">XDxXT1JLRElSXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCVU5ETEVSX1ZFUlNJT05cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxXT1JLRElSXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -257,6 +259,7 @@
         <entry>dev</entry>
         <entry>ENV</entry>
         <entry encoding="base64">XDxCVU5ETEVSX1ZFUlNJT05cPg==</entry>
+        <entry encoding="base64">XDxXT1JLRElSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
