@@ -4,6 +4,7 @@
       <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
