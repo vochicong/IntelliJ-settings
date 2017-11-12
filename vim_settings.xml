@@ -92,12 +92,6 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/installers/install-rbenv.sh" timestamp="1510447876675">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="5" column="48" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/initdb" timestamp="1510474704233">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -197,11 +191,11 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/bin/up-nginx-unicorn" timestamp="1510476398928">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="26" />
-        <mark key="^" line="6" column="26" />
+      <file name="$USER_HOME$/mcs_ver2/docker/bin/up-nginx-unicorn" timestamp="1510477281898">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/installers/wait-for-it.sh" timestamp="1510249666398">
         <mark key="[" line="4" column="81" />
@@ -210,7 +204,7 @@
         <mark key="." line="6" column="38" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.production" timestamp="1510400252070" />
-      <file name="/Dummy.txt" timestamp="1510475136692">
+      <file name="/Dummy.txt" timestamp="1510477241571">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/secrets.yml" timestamp="1510406415005">
@@ -249,8 +243,8 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1510368517681">
-        <mark key="'" line="85" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1510477255824">
+        <mark key="'" line="90" column="7" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -320,16 +314,18 @@
       <jump line="7" column="6" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
       <jump line="43" column="0" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
       <jump line="6" column="0" filename="$USER_HOME$/mcs_ver2/.env.rails.prod" />
+      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="90" column="7" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYg</text>
+        <text>rails db:setup&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYg</text>
+        <text>rails db:setup&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhc3RvcmVcPg==</text>
+        <text>factory</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSB1bmljb3JuX3NvY2s6L3Zhci93d3cvbWNzX3ZlcjIvdG1wL3NvY2tldHMvdW5pY29ybi5zb2NrCg==</text>
@@ -366,9 +362,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhc3RvcmVcPg==</last-search>
+      <last-search>factory</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhc3RvcmVcPg==</last-pattern>
+      <last-pattern>factory</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -387,6 +383,8 @@
         <entry encoding="base64">XDx1bmljb3JuXD4=</entry>
         <entry encoding="base64">XDx3ZWJwYWNrXD4=</entry>
         <entry encoding="base64">XDxkYXRhc3RvcmVcPg==</entry>
+        <entry>Factory</entry>
+        <entry>factory</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
