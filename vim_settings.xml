@@ -13,6 +13,11 @@
       <file name="/a.dummy" timestamp="1510405333720">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/update-gems-webpack.sh" timestamp="1510250527953">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/application.rb" timestamp="1510405487673">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -39,6 +44,11 @@
         <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/installers/install.sh" timestamp="1510439724930" />
+      <file name="$USER_HOME$/mcs_ver2/.env.docker.local" timestamp="1510250340666">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1510253147706">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="5" column="0" />
@@ -52,7 +62,17 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510250352882">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/environment.rb" timestamp="1510405303867" />
+      <file name="$USER_HOME$/mcs_ver2/docker/installers/install-bundler.sh" timestamp="1510447895577">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/docker/installers/install-wait-for-it.sh" timestamp="1510249836730" />
       <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510406186279">
         <mark key="[" line="1" column="2" />
@@ -60,12 +80,11 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/installers/install-rbenv.sh" timestamp="1510446267204">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="8" column="50" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/docker/installers/install-rbenv.sh" timestamp="1510447876675">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1510250532682">
         <mark key="[" line="5" column="0" />
@@ -80,8 +99,10 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.gitignore" timestamp="1510395125424" />
-      <file name="$USER_HOME$/mcs_ver2/config/environments/development.rb" timestamp="1510401346191">
-        <mark key="^" line="89" column="37" />
+      <file name="$USER_HOME$/mcs_ver2/config/webpacker.yml" timestamp="1510248763987">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.prod.yml" timestamp="1510251175164">
         <mark key="[" line="10" column="0" />
@@ -103,15 +124,33 @@
         <mark key="^" line="43" column="37" />
         <mark key="." line="43" column="37" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/config/unicorn.rb" timestamp="1510397653507">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/mac/install.sh" timestamp="1510250451753">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.build.yml" timestamp="1510439433549">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="31" />
         <mark key="^" line="6" column="44" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/image/google-ruby/Dockerfile" timestamp="1510446424205">
+      <file name="$USER_HOME$/mcs_ver2/.env.test.local" timestamp="1510250356765">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/docker/image/google-ruby/Dockerfile" timestamp="1510447940865">
         <mark key="'" line="6" column="0" />
-        <mark key="^" line="16" column="40" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="24" column="36" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/Dockerfile" timestamp="1510439171234">
         <mark key="[" line="0" column="0" />
@@ -201,43 +240,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QVJHIFJFUVVFU1RFRF9SVUJZX1ZFUlNJT049IjIuNC4yIgpBUkcgQlVORExFUl9WRVJTSU9OPSIxLjE2LjAiCg==</text>
+        <text encoding="base64">QVJHIFJFUVVFU1RFRF9SVUJZX1ZFUlNJT049IjIuNC4yIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>docker/installers/ \</text>
+        <text>rbenv</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXT1JLRElSXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICBkb2NrZXIvaW5zdGFsbGVycy8K</text>
+      <register name="0" type="4">
+        <text encoding="base64">RU5WIEJVTkRMRVJfVkVSU0lPTj0iMS4xNi4wIgpDT1BZIGRvY2tlci9pbnN0YWxsZXJzL2luc3RhbGwtcmJlbnYuc2ggXAogICAgIGRvY2tlci9pbnN0YWxsZXJzLwpSVU4gZG9ja2VyL2luc3RhbGxlcnMvaW5zdGFsbC1yYmVudi5zaAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QVJHIFJFUVVFU1RFRF9SVUJZX1ZFUlNJT049IjIuNC4yIgpBUkcgQlVORExFUl9WRVJTSU9OPSIxLjE2LjAiCg==</text>
+        <text encoding="base64">QVJHIFJFUVVFU1RFRF9SVUJZX1ZFUlNJT049IjIuNC4yIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QVJHIFJFUVVFU1RFRF9SVUJZX1ZFUlNJT049IjIuNC4yIgpBUkcgQlVORExFUl9WRVJTSU9OPSIxLjE2LjAiCkNPUFkgZG9ja2VyL2luc3RhbGxlcnMvaW5zdGFsbC1yYmVudi5zaCBkb2NrZXIvaW5zdGFsbGVycy8gXApSVU4gZG9ja2VyL2luc3RhbGxlcnMvaW5zdGFsbC1yYmVudi5zaAoK</text>
+        <text encoding="base64">RU5WIEJVTkRMRVJfVkVSU0lPTj0iMS4xNi4wIgo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">dGVzdCAhIC14IC9yYmVudi92ZXJzaW9ucy8ke1JFUVVFU1RFRF9SVUJZX1ZFUlNJT059L2Jpbi9ydWJ5ICYmIFwKICBhcHQtZ2V0IGluc3RhbGwgLXkgLXEgZ2NwLXJ1YnktJHtSRVFVRVNURURfUlVCWV9WRVJTSU9OfSB8fCBcCiAgcmJlbnYgaW5zdGFsbCAtcyAke1JFUVVFU1RFRF9SVUJZX1ZFUlNJT059ICYmIHJiZW52IHJlaGFzaAoKcmJlbnYgZ2xvYmFsICR7UkVRVUVTVEVEX1JVQllfVkVSU0lPTn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09QWSBkb2NrZXIvaW5zdGFsbGVycyAK</text>
+        <text encoding="base64">Z2VtIGluc3RhbGwgYnVuZGxlciAtLXZlcnNpb24gJHtCVU5ETEVSX1ZFUlNJT059CnJiZW52IHJlaGFzaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXB0LWdldCBpbnN0YWxsIC15IC1xIGdjcC1ydWJ5LSR7UkVRVUVTVEVEX1JVQllfVkVSU0lPTn0gXAogICAgICB8fCAoY2QgL3JiZW52L3BsdWdpbnMvcnVieS1idWlsZCBcCiAgICAgICAgJiYgZ2l0IHB1bGwgXAogICAgICAgICYmIHJiZW52IGluc3RhbGwgLXMgJHtSRVFVRVNURURfUlVCWV9WRVJTSU9OfSkgXAogICAgICAmJiByYmVudiBnbG9iYWwgJHtSRVFVRVNURURfUlVCWV9WRVJTSU9OfSBcCiAgICAgICYmIGdlbSBpbnN0YWxsIGJ1bmRsZXIgLS12ZXJzaW9uICR7QlVORExFUl9WRVJTSU9OfTsgXAogICAgZmkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBnaXQgcHVsbCAK</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjZCAvcmJlbnYvcGx1Z2lucy9ydWJ5LWJ1aWxkIAo=</text>
+        <text encoding="base64">ZmkK</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IAogCiAKIAog</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVJHIFJFUVVFU1RFRF9SVUJZX1ZFUlNJT049IjIuNC4yIgpBUkcgQlVORExFUl9WRVJTSU9OPSIxLjE2LjAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
