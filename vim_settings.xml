@@ -34,9 +34,11 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/compose/webpack.yml" timestamp="1510462403429">
+      <file name="$USER_HOME$/mcs_ver2/docker/compose/webpack.yml" timestamp="1510463932525">
         <mark key="'" line="2" column="9" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/Dockerfile.prod" timestamp="1510253053046">
         <mark key="[" line="10" column="0" />
@@ -122,11 +124,12 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1510462396632">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="3" column="9" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1510464036204">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="52" column="2" />
+        <mark key="]" line="52" column="2" />
+        <mark key="." line="52" column="2" />
+        <mark key="^" line="54" column="22" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/unicorn.rb" timestamp="1510397653507">
         <mark key="[" line="4" column="0" />
@@ -228,6 +231,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1510368517681">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1510405657408">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
@@ -281,55 +290,60 @@
       <jump line="14" column="0" filename="$USER_HOME$/mcs_ver2/docker/compose/webpack.yml" />
       <jump line="13" column="59" filename="$USER_HOME$/mcs_ver2/docker/compose/webpack.yml" />
       <jump line="1" column="9" filename="$USER_HOME$/mcs_ver2/docker/compose/webpack.yml" />
+      <jump line="42" column="2" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
+      <jump line="5" column="0" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
+      <jump line="51" column="0" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
+      <jump line="7" column="6" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
+      <jump line="43" column="0" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkb2NrZXIvYmluL3VwCg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">LSAKLSAKLSAKLSAKLSAKLSAKLSAKLSA=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>:/app/.bundle</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3ZWJwYWNrXD4=</text>
+        <text encoding="base64">XDxkYXRhc3RvcmVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgICBkb2NrZXIvYmluL3VwCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgLSBub2RlX21vZHVsZXM6L2FwcC9ub2RlX21vZHVsZXMKICAgICAgLSB3ZWJwYWNrX3BhY2tzOi9hcHAvcHVibGljL3BhY2tzCiAgICAgIC0gd2VicGFja19wYWNrc190ZXN0Oi9hcHAvcHVibGljL3BhY2tzLXRlc3QKICAgICAgLSBhc3NldHM6L2FwcC9wdWJsaWMvYXNzZXRzCiAgICAgIC0gbG9nOi9hcHAvbG9nCiAgICAgIC0gdG1wOi9hcHAvdG1wCiAgICAgIC0gYnVuZGxlOi9hcHAvdmVuZG9yL2J1bmRsZQogICAgICAtIGJ1bmRsZV9jb25maWc6L2FwcC8uYnVuZGxlCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgZXhlYyBhcHAgYmluL3dlYnBhY2stZGV2LXNlcnZlcgo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">LSAKLSAKLSAKLSAKLSAKLSAKLSAKLSA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgIyBNWVNRTF9QV0TjgpLoqK3lrprjgZfjgarjgYTjgZPjgajvvIExMjcuMC4wLjHku6XlpJbjgYvjgonmjqXntprjgafjgY3jgarjgY/jgarjgaPjgabjgZfjgb7jgYbjgIIKICB0ZXN0ZGI6CiAgICBpbWFnZTogbWFyaWFkYjo1LjUKICAgIHZvbHVtZXM6CiAgICAgIC0gL3Zhci9saWIvbXlzcWwKICAgIGVudmlyb25tZW50OgogICAgICAtIE1ZU1FMX1JPT1RfUEFTU1dPUkQ9cGFzc3dvcmQKICAgIHBvcnRzOgogICAgICAtIDMzMDY6MzMwNgoKICBtaW5pbzoKICAgIGltYWdlOiAnbWluaW8vbWluaW8nCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBNSU5JT19BQ0NFU1NfS0VZPWExMjM0NTY3CiAgICAgIC0gTUlOSU9fU0VDUkVUX0tFWT1hMTIzNDU2NwogICAgcG9ydHM6CiAgICAgIC0gIjkwMDA6OTAwMCIKICAgIGNvbW1hbmQ6IHNlcnZlciAvZGF0YQogICAgdm9sdW1lczoKICAgICAgLSAnLi90bXAvbWluaW86L2RhdGEnCgogIGRhdGFzdG9yZToKICAgIGltYWdlOiBidXN5Ym94CiAgICB2b2x1bWVzOgogICAgICAtIC46L2FwcAogICAgICAtIC9hcHAvbm9kZV9tb2R1bGVzCiAgICAgIC0gL2FwcC9wdWJsaWMvcGFja3MKICAgICAgLSAvYXBwL3B1YmxpYy9wYWNrcy10ZXN0CiAgICAgIC0gL2FwcC9wdWJsaWMvYXNzZXRzCiAgICAgIC0gL2FwcC9sb2cKICAgICAgLSAvYXBwL3RtcAogICAgICAtIC9hcHAvdmVuZG9yL2J1bmRsZQogICAgICAtIC9hcHAvLmJ1bmRsZQogICAgICAtIH4vLnNzaDovcm9vdC8uc3NoCgo=</text>
+        <text encoding="base64">ICAgICAgLSB0bXA6L2FwcC90bXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhcHA6CiAgICB3b3JraW5nX2RpcjogL2FwcAogICAgdm9sdW1lc19mcm9tOgogICAgICAtIGRhdGFzdG9yZQogICAgZW52X2ZpbGU6CiAgICAgIC0gLmVudi5kb2NrZXIKICAgICAgLSAuZW52LmRvY2tlci5sb2NhbAogICAgZGVwZW5kc19vbjoKICAgICAgLSBtaW5pbwogICAgICAtIHRlc3RkYgogICAgZW50cnlwb2ludDoKICAgICAgLSAvdXNyL2xvY2FsL2Jpbi93YWl0LWZvci1pdC5zaAogICAgICAtIHRlc3RkYjozMzA2CiAgICAgIC0gLS0KICAgICAgLSBiaW4vc2VydmVyCiAgICB0dHk6IHRydWUgICAgICAgICAgICMgYnllYnVn55SoCiAgICBzdGRpbl9vcGVuOiB0cnVlICAgICMgYnllYnVn55SoCgo=</text>
+        <text encoding="base64">ICAgICAgLSBsb2c6L2FwcC9sb2cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBidW5kbGVfY29uZmlnOi9hcHAvLmJ1bmRsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmVyc2lvbjogJzInCg==</text>
+        <text encoding="base64">ICAgICAgLSBidW5kbGU6L2FwcC92ZW5kb3IvYnVuZGxlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3ZWJwYWNrOgogICAgaW1hZ2U6ICRET0NLRVJfSU1BR0VfREVWCiAgICB2b2x1bWVzX2Zyb206CiAgICAgIC0gZGF0YXN0b3JlCiAgICBlbnZfZmlsZToKICAgICAgLSAuZW52LmRvY2tlcgogICAgICAtIC5lbnYuZG9ja2VyLmxvY2FsCiAgICBwb3J0czoKICAgICAgLSAkV0VCUEFDS19FWFRfUE9SVDo4MDgwCiAgICBlbnRyeXBvaW50OgogICAgICAtIGJhc2gKICAgICAgLSAtYwogICAgICAtIGJpbi91cGRhdGUtZ2Vtcy13ZWJwYWNrLnNoICYmIGJpbi93ZWJwYWNrLWRldi1zZXJ2ZXIKCg==</text>
+        <text encoding="base64">ICAgICAgLSB+Ly5zc2g6L3Jvb3QvLnNzaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogZG9ja2VyL25naW54L0RvY2tlcmZpbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgdXAK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgdXAgLWQK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gbm9kZV9tb2R1bGVzOi9hcHAvbm9kZV9tb2R1bGVzCiAgICAgIC0gd2VicGFja19wYWNrczovYXBwL3B1YmxpYy9wYWNrcwogICAgICAtIHdlYnBhY2tfcGFja3NfdGVzdDovYXBwL3B1YmxpYy9wYWNrcy10ZXN0CiAgICAgIC0gYXNzZXRzOi9hcHAvcHVibGljL2Fzc2V0cwogICAgICAtIGxvZzovYXBwL2xvZwogICAgICAtIHRtcDovYXBwL3RtcAogICAgICAtIGJ1bmRsZTovYXBwL3ZlbmRvci9idW5kbGUKICAgICAgLSBidW5kbGVfY29uZmlnOi9hcHAvLmJ1bmRsZQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3ZWJwYWNrXD4=</last-search>
+      <last-search encoding="base64">XDxkYXRhc3RvcmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3ZWJwYWNrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhc3RvcmVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -347,6 +361,7 @@
         <entry encoding="base64">XDxyb290XD4=</entry>
         <entry encoding="base64">XDx1bmljb3JuXD4=</entry>
         <entry encoding="base64">XDx3ZWJwYWNrXD4=</entry>
+        <entry encoding="base64">XDxkYXRhc3RvcmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
