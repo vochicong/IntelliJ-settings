@@ -9,10 +9,11 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/compose/nginx-unicorn.yml" timestamp="1510461878375">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
+      <file name="$USER_HOME$/mcs_ver2/docker/compose/nginx-unicorn.yml" timestamp="1510473139051">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="20" column="61" />
+        <mark key="." line="20" column="61" />
+        <mark key="^" line="20" column="61" />
       </file>
       <file name="/.env" timestamp="1510403452878" />
       <file name="$USER_HOME$/mcs_ver2/bin/update-gems-webpack.sh" timestamp="1510250527953">
@@ -124,12 +125,12 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1510464036204">
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1510471488083">
         <mark key="'" line="51" column="0" />
-        <mark key="[" line="52" column="2" />
-        <mark key="]" line="52" column="2" />
-        <mark key="." line="52" column="2" />
-        <mark key="^" line="54" column="22" />
+        <mark key="[" line="59" column="16" />
+        <mark key="]" line="60" column="14" />
+        <mark key="." line="60" column="14" />
+        <mark key="^" line="60" column="14" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/unicorn.rb" timestamp="1510397653507">
         <mark key="[" line="4" column="0" />
@@ -183,7 +184,7 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/nginx/conf.d/rails.conf" timestamp="1510460789132">
+      <file name="$USER_HOME$/mcs_ver2/docker/nginx/conf.d/rails.conf" timestamp="1510471525892">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -203,7 +204,7 @@
         <mark key="." line="6" column="38" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.production" timestamp="1510400252070" />
-      <file name="/Dummy.txt" timestamp="1510462274655">
+      <file name="/Dummy.txt" timestamp="1510473242269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/secrets.yml" timestamp="1510406415005">
@@ -231,11 +232,20 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/.env.rails.prod" timestamp="1510472555029">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1510368517681">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/rails.server" timestamp="1510473249344">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1510405657408">
         <mark key="[" line="1" column="11" />
@@ -295,46 +305,47 @@
       <jump line="51" column="0" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
       <jump line="7" column="6" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
       <jump line="43" column="0" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
+      <jump line="6" column="0" filename="$USER_HOME$/mcs_ver2/.env.rails.prod" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">LSAKLSAKLSAKLSAKLSAKLSAKLSAKLSA=</text>
+      <register name="&quot;" type="4">
+        <text>RAILS_ENV=production</text>
       </register>
       <register name="-" type="4">
-        <text>:/app/.bundle</text>
+        <text>RAILS_ENV=production</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhc3RvcmVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgLSBub2RlX21vZHVsZXM6L2FwcC9ub2RlX21vZHVsZXMKICAgICAgLSB3ZWJwYWNrX3BhY2tzOi9hcHAvcHVibGljL3BhY2tzCiAgICAgIC0gd2VicGFja19wYWNrc190ZXN0Oi9hcHAvcHVibGljL3BhY2tzLXRlc3QKICAgICAgLSBhc3NldHM6L2FwcC9wdWJsaWMvYXNzZXRzCiAgICAgIC0gbG9nOi9hcHAvbG9nCiAgICAgIC0gdG1wOi9hcHAvdG1wCiAgICAgIC0gYnVuZGxlOi9hcHAvdmVuZG9yL2J1bmRsZQogICAgICAtIGJ1bmRsZV9jb25maWc6L2FwcC8uYnVuZGxlCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLSB1bmljb3JuX3NvY2s6L3Zhci93d3cvbWNzX3ZlcjIvdG1wL3NvY2tldHMvdW5pY29ybi5zb2NrCg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">LSAKLSAKLSAKLSAKLSAKLSAKLSAKLSA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSB0bXA6L2FwcC90bXAK</text>
+        <text encoding="base64">CkRBVEFCQVNFX1VSTD1teXNxbDI6Ly9yb290OnBhc3N3b3JkQHRlc3RkYjozMzA2L21jc192ZXIyX2RldmVsb3BtZW50P2VuY29kaW5nPXV0ZjgmcG9vbD01JnRpbWVvdXQ9NTAwMAoKQVdTX0FDQ0VTU19LRVlfSUQ9YTEyMzQ1NjcKQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPWExMjM0NTY3CkFXU19SRUdJT049dXMtZWFzdC0xCkFXU19TM19CVUNLRVQ9bW90aXZhdGlvbi1jbG91ZC1zZWF0dGxlCkFXU19TM19FTkRQT0lOVD1odHRwOi8vbWluaW86OTAwMApBV1NfUzNfSE9TVD1taW5pbwoKV0VCUEFDS0VSX0RFVl9TRVJWRVJfSE9TVD0wLjAuMC4wCgpMQ19BTEw9Qy5VVEYtOApMQU5HPUMuVVRGLTgKCkNIUk9NRV9CUk9XU0VSX0JJTj0vdXNyL2Jpbi9nb29nbGUtY2hyb21lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBsb2c6L2FwcC9sb2cK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBidW5kbGVfY29uZmlnOi9hcHAvLmJ1bmRsZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBidW5kbGU6L2FwcC92ZW5kb3IvYnVuZGxlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSB+Ly5zc2g6L3Jvb3QvLnNzaAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">SU5fRE9DS0VSPXRydWUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLSAtLQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLSB0ZXN0ZGI6MzMwNgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgLSAvdXNyL2xvY2FsL2Jpbi93YWl0LWZvci1pdC5zaAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gbm9kZV9tb2R1bGVzOi9hcHAvbm9kZV9tb2R1bGVzCiAgICAgIC0gd2VicGFja19wYWNrczovYXBwL3B1YmxpYy9wYWNrcwogICAgICAtIHdlYnBhY2tfcGFja3NfdGVzdDovYXBwL3B1YmxpYy9wYWNrcy10ZXN0CiAgICAgIC0gYXNzZXRzOi9hcHAvcHVibGljL2Fzc2V0cwogICAgICAtIGxvZzovYXBwL2xvZwogICAgICAtIHRtcDovYXBwL3RtcAogICAgICAtIGJ1bmRsZTovYXBwL3ZlbmRvci9idW5kbGUKICAgICAgLSBidW5kbGVfY29uZmlnOi9hcHAvLmJ1bmRsZQoK</text>
+        <text encoding="base64">ICAgICAgLSBsb2c6L2FwcC9sb2cKICAgICAgLSB0bXA6L2FwcC90bXAKICAgICAgLSBidW5kbGU6L2FwcC92ZW5kb3IvYnVuZGxlCiAgICAgIC0gYnVuZGxlX2NvbmZpZzovYXBwLy5idW5kbGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
