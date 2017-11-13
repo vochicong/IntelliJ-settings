@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/mcs_ver2/docker/compose/nginx-unicorn.yml" timestamp="1510551182940" />
       <file name="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" timestamp="1509701656139">
         <mark key="'" line="204" column="10" />
         <mark key="[" line="203" column="8" />
@@ -43,10 +44,9 @@
         <mark key="^" line="25" column="18" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1510019363647">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/.env.development" timestamp="1510551407403">
+        <mark key="[" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="/Bash" timestamp="1508246395003">
         <mark key="[" line="0" column="0" />
@@ -79,17 +79,18 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510549672827">
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510552239016">
         <mark key="'" line="68" column="50" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+        <mark key="[" line="145" column="3" />
+        <mark key="]" line="145" column="3" />
+        <mark key="." line="145" column="3" />
+        <mark key="^" line="149" column="2" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/unicorn.server" timestamp="1510549259646">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="40" />
+      <file name="$USER_HOME$/mcs_ver2/bin/unicorn.server" timestamp="1510551302594">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_check_survey_settings_controller.rb" timestamp="1509090158532">
         <mark key="'" line="2" column="74" />
@@ -193,6 +194,7 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
+      <file name="/.env.docker" timestamp="1510551641817" />
       <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1509684085687">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -289,6 +291,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1510551346244">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
         <mark key="[" line="167" column="17" />
       </file>
@@ -301,7 +306,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510549750512">
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510551379997">
         <mark key="[" line="21" column="8" />
         <mark key="]" line="21" column="41" />
         <mark key="." line="21" column="41" />
@@ -453,43 +458,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Dockerで確認できるように</text>
+        <text>：</text>
       </register>
       <register name="-" type="4">
-        <text>Dockerで確認できるように</text>
+        <text>：</text>
       </register>
       <register name="/" type="4">
         <text>vochicong</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAkUkFJTFNfRVhUX1BPUlQ6MzAwMAo=</text>
+        <text encoding="base64">ICAgIFJBSUxTX0VOVj1wcm9kdWN0aW9uIGJpbi91bmljb3JuLnNlcnZlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44Gq44GK44CBIGAuZW52LmRvY2tlcmAg44Gr44GvIAo=</text>
+        <text encoding="base64">LSBSYWlscyBzZXJ2ZXIsIHVuaWNvcm46IDMwMDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmluL3VwZGF0ZS1nZW1zLXdlYnBhY2suc2gK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwX3BhdGggPSBSYWlscy5yb290Cg==</text>
+        <text encoding="base64">44Gq44GK44CBIGAuZW52LmRvY2tlcmAg44Gr44GvIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBQUkpfTUNTX1ZFUjItMjAxMyDjg5Xjgqnjg7zjgqvjgrnjgrXjg7zjg5njgqTlrp/mlr3nirbms4Hjga5FeGNlbOODrOOCpOOCouOCpuODiOW0qeOCjAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">YXBwX3BhdGggPSBSYWlscy5yb290Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBQUkpfTUNTX1ZFUjItMjAxMyDjg5Xjgqnjg7zjgqvjgrnjgrXjg7zjg5njgqTlrp/mlr3nirbms4Hjga5FeGNlbOODrOOCpOOCouOCpuODiOW0qeOCjAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGFjdGlvbl9wbGFuX2l0ZW0uc2F0aXNmYWN0aW9ucy5wcmVzZW50Pwo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
