@@ -117,14 +117,14 @@
       <file name="$USER_HOME$/dev-env/mac/roles/common/tasks/main.yml" timestamp="1508634292406">
         <mark key="[" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510132962864">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510541773297">
+        <mark key="'" line="12" column="20" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1510216796926">
+      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1510541877069">
         <mark key="[" line="121" column="20" />
         <mark key="]" line="121" column="32" />
         <mark key="." line="121" column="32" />
@@ -162,11 +162,8 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/unicorn.rb" timestamp="1510296414909">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/config/unicorn.rb" timestamp="1510541541244">
+        <mark key="'" line="18" column="0" />
       </file>
       <file name="other.xml" timestamp="1509150456203">
         <mark key="[" line="0" column="0" />
@@ -232,11 +229,11 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/lib/tasks/unicorn.rake" timestamp="1510296279902">
-        <mark key="[" line="40" column="16" />
-        <mark key="]" line="40" column="16" />
-        <mark key="." line="40" column="16" />
-        <mark key="^" line="40" column="50" />
+      <file name="$USER_HOME$/mcs_ver2/lib/tasks/unicorn.rake" timestamp="1510541593389">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="6" column="50" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn.prod" timestamp="1510133748772">
         <mark key="[" line="10" column="0" />
@@ -272,7 +269,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510303477867">
+      <file name="/Dummy.txt" timestamp="1510541774390">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -293,7 +290,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510039326345">
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510541495744">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
@@ -342,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
       <jump line="156" column="50" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
       <jump line="250" column="36" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
       <jump line="254" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
@@ -442,16 +438,17 @@
       <jump line="137" column="33" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="138" column="33" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="15" column="0" filename="$USER_HOME$/mcs_ver2/config/unicorn.rb" />
+      <jump line="12" column="20" filename="$USER_HOME$/mcs_ver2/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHx0LCBhcmdzfA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RU5WWyJSQUlMU19ST09UIl0gKyA=</text>
+        <text encoding="base64">IHx0LCBhcmdzfA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXRpc2ZhY3Rpb25zXD4=</text>
+        <text>vochicong</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGlvbl9wbGFuX2l0ZW0uc2F0aXNmYWN0aW9ucy5lYWNoX3dpdGhfaW5kZXggZG8gfHNhdGlzZmFjdGlvbiwganwK</text>
@@ -488,15 +485,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXRpc2ZhY3Rpb25zXD4=</last-search>
+      <last-search>vochicong</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXRpc2ZhY3Rpb25zXD4=</last-pattern>
+      <last-pattern>vochicong</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>profile</entry>
         <entry>rack</entry>
         <entry>rspec</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdHNcPg==</entry>
@@ -516,6 +512,7 @@
         <entry encoding="base64">XDxkZWZhdWx0X2JvZHlfc3R5bGVcPg==</entry>
         <entry>default</entry>
         <entry encoding="base64">XDxzYXRpc2ZhY3Rpb25zXD4=</entry>
+        <entry>vochicong</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
