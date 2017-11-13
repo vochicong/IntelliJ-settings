@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/mcs_ver2/docker/compose/nginx-unicorn.yml" timestamp="1510551182940" />
+      <file name="$USER_HOME$/mcs_ver2/docker/compose/nginx-unicorn.yml" timestamp="1510557558785">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn" timestamp="1510130895614">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="25" />
@@ -37,10 +41,10 @@
         <mark key="^" line="14" column="2" />
         <mark key="." line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker.local" timestamp="1510549221320">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="25" />
-        <mark key="." line="2" column="25" />
+      <file name="$USER_HOME$/mcs_ver2/.env.docker.local" timestamp="1510557588578">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
@@ -152,6 +156,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/docker/nginx/conf.d/rails.conf" timestamp="1510556548516" />
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn.prod" timestamp="1510133748772">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -182,7 +187,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510555535312">
+      <file name="/Dummy.txt" timestamp="1510555580152">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/initializers/apitome.rb" timestamp="1509957609515">
@@ -191,9 +196,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510551379997">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="41" />
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510557582335">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="19" />
         <mark key="." line="21" column="41" />
         <mark key="^" line="21" column="41" />
       </file>
@@ -202,6 +207,10 @@
         <mark key="]" line="19" column="2" />
         <mark key="^" line="17" column="65" />
         <mark key="." line="19" column="2" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/.env.rails.prod" timestamp="1510557570598">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/services/magellan_check_surveys/result_service.rb" timestamp="1510228282518">
         <mark key="[" line="75" column="4" />
@@ -326,16 +335,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UkFJTFNfRU5WPWRldmVsb3BtZW50ClJBQ0tfRU5WPWRldmVsb3BtZW50CkFQUF9FTlY9ZGV2ZWxvcG1lbnQK</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>rails.prod</text>
       </register>
       <register name="/" type="4">
         <text>vochicong</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyDjg63jg7zjg4njg5Djg6njg7PjgrXjg7woQVdTIEVMQikg6YWN5LiL44Gn5L2/44GG5aC05ZCI44Gv44CBdHJ1ZeOBq+ioreWumuOBmeOCi+OBk+OBqO+8gQojIElQ5oyH5a6a44Gn55u05o6l44Ki44Kv44K744K55aC05ZCI44Gv44CBYC5lbnYucHJvZHVjdGlvbi5sb2NhbGAg44GnZmFsc2XjgavoqK3lrprjgZnjgovjgZPjgajvvIEK</text>
+        <text encoding="base64">UkFJTFNfRU5WPWRldmVsb3BtZW50ClJBQ0tfRU5WPWRldmVsb3BtZW50CkFQUF9FTlY9ZGV2ZWxvcG1lbnQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
