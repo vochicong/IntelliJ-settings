@@ -8,12 +8,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/application.rb" timestamp="1510568634323">
+      <file name="$USER_HOME$/mcs_ver2/config/application.rb" timestamp="1510570588532">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="49" column="68" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="50" column="68" />
+        <mark key="]" line="50" column="68" />
+        <mark key="^" line="50" column="67" />
+        <mark key="." line="50" column="68" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1508308271392">
         <mark key="[" line="0" column="0" />
@@ -101,7 +101,7 @@
       <file name="$USER_HOME$/dev-env/mac/roles/common/tasks/main.yml" timestamp="1508634292406">
         <mark key="[" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510568347435">
+      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510570574726">
         <mark key="'" line="12" column="20" />
         <mark key="[" line="75" column="14" />
         <mark key="]" line="75" column="14" />
@@ -146,6 +146,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/config/unicorn.rb" timestamp="1510569791739">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="other.xml" timestamp="1509150456203">
         <mark key="[" line="0" column="0" />
@@ -387,11 +393,11 @@
       <jump line="46" column="16" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBnY2xvdWQgZG9ja2VyIC0tIHB1bGwgZ2NyLmlvL2Nsb3VkLW1hcmtldHBsYWNlL2dvb2dsZS9ydWJ5QHNoYTI1Njo5NjkxZTNmMWI2ZTBiMzI4MDAxM2FmZjVmMDJmNTRhNjQwYzFjNGI1NmVmMDA1N2ViMGZmNjRlM2I1ZTQ1ZTk4Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICMgdG8gdXNlIGVuY3J5cHRlZCBzZWNyZXRzIGluIHJha2UgdGFza3M=</text>
       </register>
       <register name="-" type="4">
-        <text>@sha256:9691e3f1b6e0b3280013aff5f02f54a640c1c4b56ef0057eb0ff64e3b5e45e98</text>
+        <text encoding="base64">ICMgdG8gdXNlIGVuY3J5cHRlZCBzZWNyZXRzIGluIHJha2UgdGFza3M=</text>
       </register>
       <register name="/" type="4">
         <text>vochicong</text>
