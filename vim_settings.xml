@@ -21,9 +21,9 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/compose/webpack.yml" timestamp="1510630110320">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="19" />
+      <file name="$USER_HOME$/mcs_ver2/docker/compose/webpack.yml" timestamp="1510655378951">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="30" />
         <mark key="." line="21" column="18" />
         <mark key="^" line="21" column="18" />
       </file>
@@ -62,12 +62,12 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510560209082">
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510655691049">
         <mark key="'" line="68" column="50" />
-        <mark key="[" line="145" column="3" />
-        <mark key="]" line="145" column="3" />
-        <mark key="." line="145" column="3" />
-        <mark key="^" line="149" column="2" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="142" column="36" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn.server" timestamp="1510551302594">
         <mark key="[" line="3" column="26" />
@@ -123,17 +123,23 @@
         <mark key="." line="82" column="5" />
         <mark key="^" line="82" column="47" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1510640001706">
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1510655399251">
         <mark key="'" line="46" column="16" />
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="19" />
-        <mark key="." line="31" column="19" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="24" column="9" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/unicorn.rb" timestamp="1510571225628">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="7" column="73" />
         <mark key="]" line="7" column="11" />
         <mark key="." line="7" column="11" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/docker/bin/webpack-dev-server" timestamp="1510655200658">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1509432386817">
         <mark key="[" line="6" column="96" />
@@ -375,43 +381,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyDoqq3jgb/ovrzjgb/ph43oppYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyA=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>vochicong</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyDoqq3jgb/ovrzjgb/ph43oppYK</text>
+        <text encoding="base64">ICAgIGRvY2tlci9iaW4vdXAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyDoqq3jgb/ovrzjgb/ph43oppYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyDoqq3jgb/ovrzjgb/ph43oppYK</text>
+        <text encoding="base64">V2VicGFjayDjga7jg5vjg4Pjg4jjgrPjg7Pjg5HjgqTjg6vjgpLliKnnlKjjgZfjgZ/jgYTloLTlkIjjga/jgIHliKXjgr/jg7zjg5/jg4rjg6vjgYvjgonmrKHjgpLlrp/ooYzjgZfjgabjgY/jgaDjgZXjgYTjgIIKCiAgICBkb2NrZXIvYmluL3dlYnBhY2stZGV2LXNlcnZlcgoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">WyAtZiAuZW52LmRvY2tlci5sb2NhbCBdIHx8IHRvdWNoIC5lbnYuZG9ja2VyLmxvY2FsCg==</text>
+        <text encoding="base64">VnVlIGpz6Zai6YCj44Gu44Ko44Op44O844GnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I1JBSUxTX1JPT1Q9L1VzZXJzL2Nvbmd2Yy9tY3NfdmVyMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UkFJTFNfUk9PVD0vVXNlcnMvY29uZ3ZjL21jc192ZXIyCg==</text>
+        <text encoding="base64">WyAtZiAuZW52LmRvY2tlci5sb2NhbCBdIHx8IHRvdWNoIC5lbnYuZG9ja2VyLmxvY2FsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBnY2xvdWQgZG9ja2VyIC0tIHB1bGwgZ2NyLmlvL2Nsb3VkLW1hcmtldHBsYWNlL2dvb2dsZS9ydWJ5QHNoYTI1Njo5NjkxZTNmMWI2ZTBiMzI4MDAxM2FmZjVmMDJmNTRhNjQwYzFjNGI1NmVmMDA1N2ViMGZmNjRlM2I1ZTQ1ZTk4Cg==</text>
+        <text encoding="base64">IyDoqq3jgb/ovrzjgb/ph43oppYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2Nsb3VkIGRvY2tlciAtLSBwdWxsIGdjci5pby9jbG91ZC1tYXJrZXRwbGFjZS9nb29nbGUvcnVieUBzaGEyNTY6OTY5MWUzZjFiNmUwYjMyODAwMTNhZmY1ZjAyZjU0YTY0MGMxYzRiNTZlZjAwNTdlYjBmZjY0ZTNiNWU0NWU5OAo=</text>
+        <text encoding="base64">IyDoqq3jgb/ovrzjgb/ph43oppYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2Nsb3VkIGRvY2tlciAtLSBwdWxsIGdjci5pby9jbG91ZC1tYXJrZXRwbGFjZS9nb29nbGUvcnVieQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
