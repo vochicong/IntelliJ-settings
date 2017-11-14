@@ -147,11 +147,11 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/db/sql/show_variables.sql" timestamp="1510640431436">
-        <mark key="[" line="5" column="98" />
-        <mark key="]" line="5" column="98" />
-        <mark key="^" line="5" column="98" />
-        <mark key="." line="5" column="98" />
+      <file name="$USER_HOME$/mcs_ver2/db/sql/show_variables.sql" timestamp="1510647529050">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.yml" timestamp="1510543243464">
         <mark key="[" line="6" column="24" />
@@ -204,11 +204,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f04e354b-bca5-4633-ba90-334842028864/console.sql" timestamp="1510639946237">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="9" />
-        <mark key="^" line="3" column="9" />
-        <mark key="." line="3" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f04e354b-bca5-4633-ba90-334842028864/console.sql" timestamp="1510646291863">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1510639996328">
         <mark key="[" line="0" column="0" />
@@ -373,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5.5</text>
+        <text encoding="base64">ICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>5.5</text>
+        <text encoding="base64">ICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>vochicong</text>
