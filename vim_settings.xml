@@ -92,19 +92,18 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config.ru" timestamp="1510715647544">
+      <file name="$USER_HOME$/mcs_ver2/config.ru" timestamp="1510716273575">
         <mark key="'" line="15" column="65" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="12" column="79" />
+        <mark key="[" line="12" column="65" />
+        <mark key="]" line="12" column="65" />
         <mark key="^" line="19" column="21" />
-        <mark key="." line="19" column="21" />
+        <mark key="." line="12" column="65" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510716123430">
+      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510716955916">
         <mark key="'" line="75" column="16" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1510541877069">
         <mark key="[" line="121" column="20" />
@@ -112,11 +111,8 @@
         <mark key="." line="121" column="32" />
         <mark key="^" line="120" column="19" />
       </file>
-      <file name="/Ruby Console" timestamp="1510225345575">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
+      <file name="/Ruby Console" timestamp="1510716548902">
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/test-uit.sh" timestamp="1509674519961">
         <mark key="[" line="6" column="0" />
@@ -209,12 +205,12 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.production" timestamp="1510555516058">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="2" column="16" />
+      <file name="$USER_HOME$/mcs_ver2/.env.production" timestamp="1510717254169">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f04e354b-bca5-4633-ba90-334842028864/console.sql" timestamp="1510646291863">
         <mark key="[" line="17" column="18" />
@@ -391,52 +387,49 @@
       <jump line="75" column="16" filename="$USER_HOME$/mcs_ver2/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>UNICORN
-UNICORN
-UNICORN
-UNICORN</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J10mLnRvX2kgfHwgMjU2KSAqICgxMDI0KioyKSk=</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvb21fbWF4XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bWF4X3JlcXVlc3RfbWluID0gIEVOVlsnVU5JQ09STl9NQVhfUkVRVUVTVF9NSU4nXSYudG9faSB8fCAzMDcyCm1heF9yZXF1ZXN0X21heCA9ICBFTlZbJ1VOSUNPUk5fTUFYX1JFUVVFU1RfTUFYJ10mLnRvX2kgfHwgNDA5NgoKIyBNYXggcmVxdWVzdHMgcGVyIHdvcmtlcgp1c2UgVW5pY29ybjo6V29ya2VyS2lsbGVyOjpNYXhSZXF1ZXN0cywgbWF4X3JlcXVlc3RfbWluLCBtYXhfcmVxdWVzdF9tYXgKCm1lbW9yeV9saW1pdF9taW4gPSAoKEVOVlsnVU5JQ09STl9NRU1PUllfTElNSVRfTUlOJ10mLnRvX2kgfHwgMTkyKSAqICgxMDI0KioyKSkKbWVtb3J5X2xpbWl0X21heCA9ICgoRU5WWydVTklDT1JOX01FTU9SWV9MSU1JVF9NQVgnXSYudG9faSB8fCAyNTYpICogKDEwMjQqKjIpKQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyDjg6/jg7zjgqvjg7zjgpLjg6rjgrXjgqTjgq/jg6vjgZnjgovliY3jga7jg6rjgq/jgqjjgrnjg4jkuIrpmZAK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBVbmljb3Ju44KEUHVtYeOBruODr+ODvOOCq+ODvO+8iOODl+ODreOCu+OCue+8ieaVsOOCkuaMh+WumgpXRUJfQ09OQ1VSUkVOQ1k9MwoKIyDjg6/jg7zjgqvjg7zjgpLjg6rjgrXjgqTjgq/jg6vjgZnjgovliY3jga7jg6rjgq/jgqjjgrnjg4jkuIrpmZAKV09SS0VSX1JFQ1lDTEVfTUFYX1JFUVVFU1RfTUlOPTMwNzIKV09SS0VSX1JFQ1lDTEVfTUFYX1JFUVVFU1RfTUFYPTQwOTYKCiMg44Ov44O844Kr44O844KS44Oq44K144Kk44Kv44Or44GZ44KL5YmN44Gu44Oh44Oi44Oq5L2/55So6YeP44Oq44Of44OD44OIKE1CKQpXT1JLRVJfUkVDWUNMRV9NRU1PUllfTElNSVRfTUlOPTE5MgpXT1JLRVJfUkVDWUNMRV9NRU1PUllfTElNSVRfTUFYPTI1Ngo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="8">
         <text>UNICORN
 UNICORN
 UNICORN
 UNICORN</text>
       </register>
-      <register name="2" type="8">
+      <register name="5" type="8">
         <text>memory_limit_min = ((ENV['
 memory_limit_max = ((ENV['</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiMgTWF4IHJlcXVlc3RzIHBlciB3b3JrZXIKdXNlIFVuaWNvcm46OldvcmtlcktpbGxlcjo6TWF4UmVxdWVzdHMsIG1heF9yZXF1ZXN0X21pbiwgbWF4X3JlcXVlc3RfbWF4Cgo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text encoding="base64">J10mLnRvX2kgfHwgMzA3MgonXSYudG9faSB8fCA0MDk2</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text>max_request_min =  ENV['
 max_request_max =  ENV['</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBXb3JrZXJzIGFyZSBmb3JrZWQgd2Vic2VydmVyIHByb2Nlc3Nlcwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Iwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBwcm9jZXNzZXMpLgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBXb3JrZXJzIGRvIG5vdCB3b3JrIG9uIEpSdWJ5IG9yIFdpbmRvd3MgKGJvdGggb2Ygd2hpY2ggZG8gbm90IHN1cHBvcnQK</text>
+        <text encoding="base64">IyBXb3JrZXJzIGFyZSBmb3JrZWQgd2Vic2VydmVyIHByb2Nlc3Nlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
