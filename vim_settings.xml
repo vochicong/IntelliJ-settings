@@ -54,10 +54,10 @@
         <mark key="^" line="14" column="2" />
         <mark key="." line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker.local" timestamp="1510567634464">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/.env.docker.local" timestamp="1510717944487">
+        <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
@@ -92,7 +92,7 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config.ru" timestamp="1510716273575">
+      <file name="$USER_HOME$/mcs_ver2/config.ru" timestamp="1510717925617">
         <mark key="'" line="15" column="65" />
         <mark key="[" line="12" column="65" />
         <mark key="]" line="12" column="65" />
@@ -388,10 +388,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvb21fbWF4XD4=</text>
