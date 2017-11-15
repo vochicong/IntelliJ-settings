@@ -104,9 +104,9 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1510728001901">
+      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1510728726786">
         <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+        <mark key="]" line="34" column="28" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="87" />
       </file>
@@ -391,7 +391,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9ja2VyL2Jpbi9idWlsZAo=</text>
       </register>
       <register name="-" type="4">
         <text>docker/image/google-ruby/Dockerfile</text>
@@ -403,28 +403,28 @@
         <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogZG9ja2VyL2ltYWdlL2dvb2dsZS1ydWJ5L0RvY2tlcmZpbGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9ja2VyL2Jpbi9idWlsZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwX3Jvb3QgKFJhaWxzLnJvb3QpIOOCkiBjb25maWcvdW5pY29ybi5yYiDjga4gcGF0aCDjgYvjgonnrpflh7oK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwX3Jvb3QgKFJhaWxzLnJvb3QpIOOCkiBjb25maWcvdW5pY29ybi5yYiDjga4gcGF0aCDjgYvjgonnrpflh7oK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBNYXggbWVtb3J5IHNpemUgKFJTUykgcGVyIHdvcmtlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBNYXggbWVtb3J5IHNpemUgKFJTUykgcGVyIHdvcmtlcgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWF4X3JlcXVlc3RfbWluID0gRU5WWydXT1JLRVJfUkVDWUNMRV9NQVhfUkVRVUVTVF9NSU4nXSYudG9faQptYXhfcmVxdWVzdF9tYXggPSBFTlZbJ1dPUktFUl9SRUNZQ0xFX01BWF9SRVFVRVNUX01BWCddJi50b19pCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWF4X3JlcXVlc3RfbWluID0gRU5WWydXT1JLRVJfUkVDWUNMRV9NQVhfUkVRVUVTVF9NSU4nXSYudG9faQptYXhfcmVxdWVzdF9tYXggPSBFTlZbJ1dPUktFUl9SRUNZQ0xFX01BWF9SRVFVRVNUX01BWCddJi50b19pCgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
