@@ -1,6 +1,8 @@
 <application>
   <component name="UISettings">
+    <option name="ANIMATE_WINDOWS" value="false" />
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="DISABLE_MNEMONICS" value="false" />
     <option name="FONT_FACE" value=".SFNSText-Regular" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
