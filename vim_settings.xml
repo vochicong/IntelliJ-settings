@@ -74,6 +74,13 @@
       <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510736271867">
         <mark key="'" line="140" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" timestamp="1510741626813">
+        <mark key="'" line="36" column="3" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="36" column="3" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn.server" timestamp="1510736664494">
         <mark key="[" line="7" column="52" />
         <mark key="]" line="7" column="52" />
@@ -173,11 +180,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/deploy/bin/deploy-unicorn" timestamp="1510740781820">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/deploy/bin/deploy-unicorn" timestamp="1510741074768">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/compose/build.yml" timestamp="1510727984872">
         <mark key="[" line="7" column="0" />
@@ -229,7 +236,7 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510736224151">
+      <file name="/Dummy.txt" timestamp="1510741031050">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.local" timestamp="1510571199228">
@@ -298,14 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="546" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="7" column="3" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="175" column="6" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="190" column="9" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="290" column="4" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="535" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="543" column="24" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="113" column="8" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
       <jump line="66" column="5" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
       <jump line="118" column="8" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
       <jump line="9" column="5" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
@@ -398,65 +397,68 @@
       <jump line="16" column="17" filename="$USER_HOME$/mcs_ver2/config.ru" />
       <jump line="140" column="0" filename="$USER_HOME$/mcs_ver2/README.md" />
       <jump line="3" column="0" filename="$USER_HOME$/mcs_ver2/deploy/bin/deploy-batch" />
+      <jump line="33" column="0" filename="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" />
+      <jump line="36" column="0" filename="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" />
+      <jump line="81" column="8" filename="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" />
+      <jump line="37" column="0" filename="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" />
+      <jump line="2" column="4" filename="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" />
+      <jump line="41" column="3" filename="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" />
+      <jump line="42" column="3" filename="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bin/bundle exec whenever -i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>bin/bundle exec whenever -i</text>
+        <text>bundle.prod</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXT1JLX0RJUlw+</text>
+        <text encoding="base64">XDxrZWVwYWxpdmVfdGltZW91dFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogZG9ja2VyL2ltYWdlL2dvb2dsZS1ydWJ5L0RvY2tlcmZpbGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmluL3JhaWxzIGRiOnNlZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBGb3IgbW9yZSBpbmZvcm1hdGlvbiBvbiBjb25maWd1cmF0aW9uLCBzZWU6CiMgICAqIE9mZmljaWFsIEVuZ2xpc2ggRG9jdW1lbnRhdGlvbjogaHR0cDovL25naW54Lm9yZy9lbi9kb2NzLwojICAgKiBPZmZpY2lhbCBSdXNzaWFuIERvY3VtZW50YXRpb246IGh0dHA6Ly9uZ2lueC5vcmcvcnUvZG9jcy8KCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmkK</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUgL2V0Yy9uZ2lueC9jb25mLmQvKi5jb25mOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgLS13aXRob3V0IHByb2R1Y3Rpb24K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgLS1wYXRoIHZlbmRvci9idW5kbGUK</text>
+        <text encoding="base64">aHR0cCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAnd2hlbmV2ZXInCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAnc2VlZCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWNobyAnbW9kdWxlIHVwZGF0ZScK</text>
+        <text encoding="base64">ICAgIGtlZXBhbGl2ZV90aW1lb3V0ICA2NTsK</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXT1JLX0RJUlw+</last-search>
+      <last-search encoding="base64">XDxrZWVwYWxpdmVfdGltZW91dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXT1JLX0RJUlw+</last-pattern>
+      <last-pattern encoding="base64">XDxrZWVwYWxpdmVfdGltZW91dFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dev</entry>
-        <entry encoding="base64">XDxpZ25vcmVcPg==</entry>
-        <entry>-</entry>
-        <entry encoding="base64">XDxjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZXNcPg==</entry>
-        <entry encoding="base64">XDxsZW5ndGhcPg==</entry>
         <entry encoding="base64">XDxuX2NoZWNrX3N1cnZleVw+</entry>
         <entry encoding="base64">XDxkZWZhbHV0X2JvZHlfc3R5bGVcPg==</entry>
         <entry encoding="base64">XDxjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZV9tYXhfY291bnRcPg==</entry>
@@ -472,6 +474,11 @@
         <entry>rigepole</entry>
         <entry>ridgepole</entry>
         <entry encoding="base64">XDxXT1JLX0RJUlw+</entry>
+        <entry encoding="base64">XDxlcnJvcl9sb2dcPg==</entry>
+        <entry encoding="base64">XDxwaWRcPg==</entry>
+        <entry encoding="base64">XDxldmVudHNcPg==</entry>
+        <entry encoding="base64">XDxnemlwXD4=</entry>
+        <entry encoding="base64">XDxrZWVwYWxpdmVfdGltZW91dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
