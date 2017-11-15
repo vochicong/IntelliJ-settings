@@ -92,12 +92,12 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config.ru" timestamp="1510717925617">
+      <file name="$USER_HOME$/mcs_ver2/config.ru" timestamp="1510722175016">
         <mark key="'" line="15" column="65" />
-        <mark key="[" line="12" column="65" />
-        <mark key="]" line="12" column="65" />
-        <mark key="^" line="19" column="21" />
-        <mark key="." line="12" column="65" />
+        <mark key="[" line="17" column="66" />
+        <mark key="]" line="11" column="80" />
+        <mark key="^" line="11" column="80" />
+        <mark key="." line="11" column="80" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510716955916">
         <mark key="'" line="75" column="16" />
@@ -177,11 +177,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.production.local" timestamp="1510571203383">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/.env.production.local" timestamp="1510722094357">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="12" column="23" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/lib/tasks/unicorn.rake" timestamp="1510571212431">
         <mark key="[" line="5" column="11" />
@@ -205,12 +205,12 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.production" timestamp="1510717254169">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/.env.production" timestamp="1510722067969">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="18" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f04e354b-bca5-4633-ba90-334842028864/console.sql" timestamp="1510646291863">
         <mark key="[" line="17" column="18" />
@@ -253,11 +253,12 @@
         <mark key="^" line="17" column="65" />
         <mark key="." line="19" column="2" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1510714006952">
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1510722362657">
         <mark key="'" line="86" column="7" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+        <mark key="[" line="87" column="29" />
+        <mark key="]" line="86" column="26" />
+        <mark key="." line="86" column="26" />
+        <mark key="^" line="86" column="26" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/services/magellan_check_surveys/result_service.rb" timestamp="1510228282518">
         <mark key="[" line="75" column="4" />
@@ -388,48 +389,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvb21fbWF4XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyDjg6/jg7zjgqvjg7zjgpLjg6rjgrXjgqTjgq/jg6vjgZnjgovliY3jga7jg6rjgq/jgqjjgrnjg4jkuIrpmZAK</text>
+        <text encoding="base64">V09SS0VSX1JFQ1lDTEVfVkVSQk9TRT1mYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyDjg6/jg7zjgqvjg7zjgpLjg6rjgrXjgqTjgq/jg6vjgZnjgovliY3jga7jg6Hjg6Ljg6rkvb/nlKjph4/jg6rjg5/jg4Pjg4goTUIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBVbmljb3Ju44KEUHVtYeOBruODr+ODvOOCq+ODvO+8iOODl+ODreOCu+OCue+8ieaVsOOCkuaMh+WumgpXRUJfQ09OQ1VSUkVOQ1k9MwoKIyDjg6/jg7zjgqvjg7zjgpLjg6rjgrXjgqTjgq/jg6vjgZnjgovliY3jga7jg6rjgq/jgqjjgrnjg4jkuIrpmZAKV09SS0VSX1JFQ1lDTEVfTUFYX1JFUVVFU1RfTUlOPTMwNzIKV09SS0VSX1JFQ1lDTEVfTUFYX1JFUVVFU1RfTUFYPTQwOTYKCiMg44Ov44O844Kr44O844KS44Oq44K144Kk44Kv44Or44GZ44KL5YmN44Gu44Oh44Oi44Oq5L2/55So6YeP44Oq44Of44OD44OIKE1CKQpXT1JLRVJfUkVDWUNMRV9NRU1PUllfTElNSVRfTUlOPTE5MgpXT1JLRVJfUkVDWUNMRV9NRU1PUllfTElNSVRfTUFYPTI1Ngo=</text>
+        <text encoding="base64">IyDjg6/jg7zjgqvjg7zjgpLjg6rjgrXjgqTjgq/jg6vjgZnjgovliY3jga7jg6rjgq/jgqjjgrnjg4jkuIrpmZAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">IyBVbmljb3Ju44KEUHVtYeOBruODr+ODvOOCq+ODvO+8iOODl+ODreOCu+OCue+8ieaVsOOCkuaMh+Wumgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dmVyYm9zZQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="2">
+        <text encoding="base64">IyBVbmljb3Ju44KEUHVtYeOBruODr+ODvOOCq+ODvO+8iOODl+ODreOCu+OCue+8ieaVsOOCkuaMh+WumgpXRUJfQ09OQ1VSUkVOQ1k9MwoKIyDjg6/jg7zjgqvjg7zjgpLjg6rjgrXjgqTjgq/jg6vjgZnjgovliY3jga7jg6rjgq/jgqjjgrnjg4jkuIrpmZAKV09SS0VSX1JFQ1lDTEVfTUFYX1JFUVVFU1RfTUlOPTMwNzIKV09SS0VSX1JFQ1lDTEVfTUFYX1JFUVVFU1RfTUFYPTQwOTYKCiMg44Ov44O844Kr44O844KS44Oq44K144Kk44Kv44Or44GZ44KL5YmN44Gu44Oh44Oi44Oq5L2/55So6YeP44Oq44Of44OD44OIKE1CKQpXT1JLRVJfUkVDWUNMRV9NRU1PUllfTElNSVRfTUlOPTE5MgpXT1JLRVJfUkVDWUNMRV9NRU1PUllfTElNSVRfTUFYPTI1Ngo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="8">
         <text>UNICORN
 UNICORN
 UNICORN
 UNICORN</text>
       </register>
-      <register name="5" type="8">
+      <register name="9" type="8">
         <text>memory_limit_min = ((ENV['
 memory_limit_max = ((ENV['</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiMgTWF4IHJlcXVlc3RzIHBlciB3b3JrZXIKdXNlIFVuaWNvcm46OldvcmtlcktpbGxlcjo6TWF4UmVxdWVzdHMsIG1heF9yZXF1ZXN0X21pbiwgbWF4X3JlcXVlc3RfbWF4Cgo=</text>
-      </register>
-      <register name="7" type="8">
-        <text encoding="base64">J10mLnRvX2kgfHwgMzA3MgonXSYudG9faSB8fCA0MDk2</text>
-      </register>
-      <register name="8" type="8">
-        <text>max_request_min =  ENV['
-max_request_max =  ENV['</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyBXb3JrZXJzIGFyZSBmb3JrZWQgd2Vic2VydmVyIHByb2Nlc3Nlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
