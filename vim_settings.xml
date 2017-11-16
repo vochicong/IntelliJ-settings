@@ -43,6 +43,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/update-db-schema.sh" timestamp="1510823616499">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="19" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/Dockerfile.prod" timestamp="1510290968135">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -61,12 +65,12 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510821846574">
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510823494909">
         <mark key="'" line="140" column="0" />
-        <mark key="[" line="161" column="13" />
-        <mark key="]" line="155" column="23" />
-        <mark key="^" line="155" column="23" />
-        <mark key="." line="155" column="23" />
+        <mark key="[" line="155" column="20" />
+        <mark key="]" line="155" column="37" />
+        <mark key="^" line="155" column="37" />
+        <mark key="." line="155" column="37" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" timestamp="1510742666487">
         <mark key="[" line="31" column="0" />
@@ -162,6 +166,10 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/docker/compose/build.yml" timestamp="1510727984872">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="52" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/deploy/bin/deploy-batch" timestamp="1510740710052">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="8" column="0" />
@@ -248,6 +256,12 @@
         <mark key="^" line="17" column="65" />
         <mark key="." line="19" column="2" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/docker/bin/exec" timestamp="1510823626826">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/services/magellan_check_surveys/result_service.rb" timestamp="1510228282518">
         <mark key="[" line="75" column="4" />
         <mark key="]" line="75" column="4" />
@@ -263,7 +277,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/bin/storybook" timestamp="1510821676292">
+      <file name="$USER_HOME$/mcs_ver2/docker/bin/storybook" timestamp="1510823470427">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
@@ -380,16 +394,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>up-nginx-unicorn</text>
+        <text encoding="base64">ICMtLWRyeS1ydW4=</text>
       </register>
       <register name="-" type="4">
-        <text>up-nginx-unicorn</text>
+        <text encoding="base64">ICMtLWRyeS1ydW4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZWVwYWxpdmVfdGltZW91dFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRvY2tlci9iaW4vdXAtbmdpbngtdW5pY29ybgo=</text>
+        <text encoding="base64">ICAgICIkQCIgIy0tZHJ5LXJ1bgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAogICAgdXBzdHJlYW0gdW5pY29ybi1zZXJ2ZXIgewogICAgICAgIHNlcnZlciB1bml4Oi92YXIvd3d3L21jc192ZXIyL3RtcC9zb2NrZXRzL3VuaWNvcm4uc29jawogICAgfQogICAgCiAgICBzZXJ2ZXIgewogICAgICAgIHJvb3QgIC92YXIvd3d3L21jc192ZXIyL3B1YmxpYzsKICAgIH0K</text>
