@@ -65,12 +65,12 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510823494909">
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510824006881">
         <mark key="'" line="140" column="0" />
-        <mark key="[" line="155" column="20" />
-        <mark key="]" line="155" column="37" />
+        <mark key="[" line="155" column="11" />
+        <mark key="]" line="155" column="11" />
         <mark key="^" line="155" column="37" />
-        <mark key="." line="155" column="37" />
+        <mark key="." line="155" column="11" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" timestamp="1510742666487">
         <mark key="[" line="31" column="0" />
@@ -394,10 +394,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICMtLWRyeS1ydW4=</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMtLWRyeS1ydW4=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZWVwYWxpdmVfdGltZW91dFw+</text>
