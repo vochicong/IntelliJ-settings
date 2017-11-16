@@ -4608,6 +4608,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="sentry-raven (v2.7.1, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.1/exe" />
+      </SOURCES>
+    </library>
     <library name="shellany (v0.0.1, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/shellany-0.0.1/lib" />
