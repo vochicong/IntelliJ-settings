@@ -236,7 +236,9 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511158221012" />
+      <file name="/Dummy.txt" timestamp="1511159845273">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/environments/test.rb" timestamp="1511159015855">
         <mark key="'" line="13" column="9" />
         <mark key="[" line="15" column="38" />
@@ -278,9 +280,9 @@
       <file name="$USER_HOME$/mcs_ver2/spec/spec_helper.rb" timestamp="1511159398785">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="21" column="25" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/exec" timestamp="1510823626826">
         <mark key="[" line="3" column="28" />
