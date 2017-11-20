@@ -63,6 +63,12 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1511149104373">
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="43" />
+        <mark key="^" line="219" column="43" />
+        <mark key="." line="219" column="43" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" timestamp="1510742666487">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -79,7 +85,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/slack-coverage.sh" timestamp="1511147185867">
+      <file name="$USER_HOME$/mcs_ver2/bin/slack-coverage.sh" timestamp="1511147830213">
         <mark key="[" line="6" column="301" />
         <mark key="]" line="5" column="6" />
         <mark key="^" line="5" column="6" />
@@ -219,7 +225,7 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511146284121">
+      <file name="/Dummy.txt" timestamp="1511147204623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.local" timestamp="1510571199228">
