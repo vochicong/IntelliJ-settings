@@ -79,6 +79,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="40" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/slack-coverage.sh" timestamp="1511147185867">
+        <mark key="[" line="6" column="301" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/bundle.dev" timestamp="1510737953229">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="4" column="3" />
@@ -213,7 +219,7 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511146234351">
+      <file name="/Dummy.txt" timestamp="1511146284121">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.local" timestamp="1510571199228">
