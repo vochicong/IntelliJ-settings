@@ -15,11 +15,9 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/survey_chains_controller.rb" timestamp="1510821499274" />
       <file name="/Dummy.jql" timestamp="1510735425517">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/webpack.yml" timestamp="1510822032458" />
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn" timestamp="1510130895614">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="25" />
@@ -65,13 +63,6 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510824006881">
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="155" column="11" />
-        <mark key="]" line="155" column="11" />
-        <mark key="^" line="155" column="37" />
-        <mark key="." line="155" column="11" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" timestamp="1510742666487">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -94,7 +85,6 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config.ru" timestamp="1510813325349" />
       <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1510728726786">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="28" />
@@ -223,7 +213,7 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510821772129">
+      <file name="/Dummy.txt" timestamp="1511146234351">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.local" timestamp="1510571199228">
