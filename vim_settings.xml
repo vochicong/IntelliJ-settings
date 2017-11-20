@@ -72,15 +72,14 @@
         <mark key="." line="17" column="31" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.test" timestamp="1511163359321">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1511149104373">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="43" />
-        <mark key="^" line="219" column="43" />
-        <mark key="." line="219" column="43" />
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1511164099239">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/nginx/nginx.conf" timestamp="1510742666487">
         <mark key="[" line="31" column="0" />
@@ -272,7 +271,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1511163340436">
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1511163820618">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="30" column="17" />
         <mark key="]" line="33" column="18" />
@@ -285,12 +284,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/spec_helper.rb" timestamp="1511163396660">
+      <file name="$USER_HOME$/mcs_ver2/spec/spec_helper.rb" timestamp="1511163967644">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/exec" timestamp="1510823626826">
         <mark key="[" line="3" column="28" />
@@ -430,10 +429,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIFJhaWxzLmFwcGxpY2F0aW9uLmVhZ2VyX2xvYWQhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3BlY19oZWxwZXIg</text>
+        <text>注意点として、</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -442,31 +441,31 @@
         <text encoding="base64">IyDjgrPjg7zjg4njgqvjg5Djg6zjg4PjgrjjgpLoqIjmuKwKQ09ERV9DT1ZFUkFHRT10cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIFJhaWxzLmFwcGxpY2F0aW9uLmVhZ2VyX2xvYWQhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyDjgrPjg7zjg4njgqvjg5Djg6zjg4PjgrjjgpLoqIjmuKwKQ09ERV9DT1ZFUkFHRT10cnVlCg==</text>
+        <text encoding="base64">44G+44Gf44CBQ2lyY2xlQ0njgafjg4bjgrnjg4jjgYzntYLjgo/jgovjgajjgIHjgrPjg7zjg4njgqvjg5Djg6zjg4Pjgrjjga5VUkzjgYxTbGFja+OBq+mAmuefpeOBleOCjOOBvuOBmeOAggo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBpZiBFTlZbJ0NPREVfQ09WRVJBR0UnXQojICAgcmVxdWlyZSAnc2ltcGxlY292JwojICAgU2ltcGxlQ292LnN0YXJ0ICdyYWlscycKIyAgIHAgJ3NwcmluZyByZXF1aXJlZCBzaW1wbGVjb3YnCiMgZW5kCgo=</text>
+        <text encoding="base64">ICAjIFJhaWxzLmFwcGxpY2F0aW9uLmVhZ2VyX2xvYWQhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2V4cG9ydCBDT0RFX0NPVkVSQUdFPXRydWUK</text>
+        <text encoding="base64">IyDjgrPjg7zjg4njgqvjg5Djg6zjg4PjgrjjgpLoqIjmuKwKQ09ERV9DT1ZFUkFHRT10cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyDjgrPjg7zjg4njgqvjg5Djg6zjg4PjgrjjgpLoqIjmuKwK</text>
+        <text encoding="base64">IyBpZiBFTlZbJ0NPREVfQ09WRVJBR0UnXQojICAgcmVxdWlyZSAnc2ltcGxlY292JwojICAgU2ltcGxlQ292LnN0YXJ0ICdyYWlscycKIyAgIHAgJ3NwcmluZyByZXF1aXJlZCBzaW1wbGVjb3YnCiMgZW5kCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IENPREVfQ09WRVJBR0U9dHJ1ZQo=</text>
+        <text encoding="base64">I2V4cG9ydCBDT0RFX0NPVkVSQUdFPXRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIFJhaWxzLmFwcGxpY2F0aW9uLmVhZ2VyX2xvYWQhCg==</text>
+        <text encoding="base64">IyDjgrPjg7zjg4njgqvjg5Djg6zjg4PjgrjjgpLoqIjmuKwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIFJhaWxzLmFwcGxpY2F0aW9uLmVhZ2VyX2xvYWQhCg==</text>
+        <text encoding="base64">ZXhwb3J0IENPREVfQ09WRVJBR0U9dHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAjIFJhaWxzLmFwcGxpY2F0aW9uLmVhZ2VyX2xvYWQhCg==</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
