@@ -236,14 +236,12 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511158109738">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/config/environments/test.rb" timestamp="1511158103803">
+      <file name="/Dummy.txt" timestamp="1511158221012" />
+      <file name="$USER_HOME$/mcs_ver2/config/environments/test.rb" timestamp="1511159015855">
         <mark key="'" line="13" column="9" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
         <mark key="^" line="14" column="44" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.local" timestamp="1510571199228">
@@ -257,12 +255,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/spring.rb" timestamp="1511157679332">
+      <file name="$USER_HOME$/mcs_ver2/config/spring.rb" timestamp="1511159411564">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="5" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510727628137">
         <mark key="'" line="18" column="14" />
@@ -277,12 +275,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/spec_helper.rb" timestamp="1511157797590">
+      <file name="$USER_HOME$/mcs_ver2/spec/spec_helper.rb" timestamp="1511159398785">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="21" column="1" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/exec" timestamp="1510823626826">
         <mark key="[" line="3" column="28" />
@@ -422,10 +420,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3ByaW5nIA==</text>
+        <text encoding="base64">c3BlY19oZWxwZXIg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3ByaW5nIA==</text>
+        <text encoding="base64">c3BlY19oZWxwZXIg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
