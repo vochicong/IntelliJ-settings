@@ -23,6 +23,9 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="44" column="55" />
       </file>
+      <file name="/Dummy.jql" timestamp="1510735425517">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn" timestamp="1510130895614">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="25" />
@@ -70,17 +73,8 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.test" timestamp="1511247832440">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1511250649137">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
-        <mark key="^" line="217" column="46" />
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1511256601118">
+        <mark key="[" line="218" column="73" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/bundle.prod" timestamp="1510738023302">
         <mark key="[" line="3" column="40" />
@@ -131,6 +125,9 @@
         <mark key="]" line="82" column="5" />
         <mark key="." line="82" column="5" />
         <mark key="^" line="82" column="47" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1510822047326">
+        <mark key="[" line="22" column="30" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/rds-security" timestamp="1511233804683">
         <mark key="[" line="9" column="0" />
@@ -220,7 +217,9 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511250814995" />
+      <file name="/Dummy.txt" timestamp="1511250940643">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/environments/test.rb" timestamp="1511247878162">
         <mark key="'" line="13" column="9" />
         <mark key="[" line="12" column="42" />
@@ -272,6 +271,9 @@
         <mark key="]" line="75" column="4" />
         <mark key="^" line="75" column="3" />
         <mark key="." line="75" column="4" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/rails.server" timestamp="1510736579229">
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="/README.md" timestamp="1511249659156" />
       <file name="$USER_HOME$/mcs_ver2/docker-compose.unicorn.yml" timestamp="1510129102493">
