@@ -127,6 +127,7 @@
         <mark key="]" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/spec/support/capybara.rb" timestamp="1511227085178" />
       <file name="$USER_HOME$/mcs_ver2/bin/test-uit.sh" timestamp="1509674519961">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="17" column="53" />
@@ -238,13 +239,18 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/.env.production" timestamp="1511229803427">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f04e354b-bca5-4633-ba90-334842028864/console.sql" timestamp="1510646291863">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511159845273">
+      <file name="/Dummy.txt" timestamp="1511164178766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/environments/test.rb" timestamp="1511159015855">
@@ -428,11 +434,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/mcs_ver2/.env.docker" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>20</text>
       </register>
       <register name="-" type="4">
-        <text>注意点として、</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
