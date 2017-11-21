@@ -5,6 +5,7 @@
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern="tmp1" type="PLAIN_TEXT" />
       <mapping pattern="unicorn" type="PLAIN_TEXT" />
       <mapping pattern="rds-security" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
