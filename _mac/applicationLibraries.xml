@@ -358,6 +358,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/axlsx-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="axlsx (v2.1.0.pre@776037, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/bundler/gems/axlsx-776037c0fc79/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/bundler/gems/axlsx-776037c0fc79/lib" />
+      </SOURCES>
+    </library>
     <library name="axlsx_rails (v0.5.1, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/axlsx_rails-0.5.1/lib" />
@@ -3042,6 +3050,16 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/mime-types-data-3.2016.0521/lib" />
       </SOURCES>
     </library>
+    <library name="mimemagic (v0.3.2, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mimemagic-0.3.2/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mimemagic-0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mimemagic-0.3.2/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mimemagic-0.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="mini_mime (v0.1.4, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mini_mime-0.1.4/bench" />
@@ -4512,6 +4530,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/rubyzip-1.0.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/rubyzip-1.0.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.1, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.1/samples" />
       </SOURCES>
     </library>
     <library name="safe_yaml (v1.0.4, rbenv: 2.4.2) [gem]">

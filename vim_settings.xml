@@ -19,10 +19,6 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/application.rb" timestamp="1511156016592">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="55" />
-      </file>
       <file name="/Dummy.jql" timestamp="1510735425517">
         <mark key="[" line="0" column="0" />
       </file>
@@ -67,6 +63,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/Gemfile.lock" timestamp="1511319739052" />
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="16" column="45" />
@@ -266,12 +263,12 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1511319345148">
-        <mark key="'" line="74" column="5" />
-        <mark key="[" line="55" column="13" />
-        <mark key="]" line="74" column="103" />
-        <mark key="^" line="74" column="103" />
-        <mark key="." line="74" column="103" />
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1511320492373">
+        <mark key="'" line="75" column="5" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="75" column="103" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/services/magellan_check_surveys/result_service.rb" timestamp="1510228282518">
         <mark key="[" line="75" column="4" />
@@ -405,11 +402,11 @@
       <jump line="74" column="5" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gem 'rubyzip'</text>
       </register>
       <register name="-" type="4">
-        <text>たの時、`gem simplecov`によってコードカバレッジが `coverage/index.html` に作成されます。</text>
+        <text>gem 'rubyzip'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxheGxzeFw+</text>
