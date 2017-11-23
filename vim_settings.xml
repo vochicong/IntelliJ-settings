@@ -6,13 +6,6 @@
       <file name="$USER_HOME$/mcs_ver2/docker/exec" timestamp="1511437269555">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/application.rb" timestamp="1510570588532">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="68" />
-        <mark key="]" line="50" column="68" />
-        <mark key="^" line="50" column="67" />
-        <mark key="." line="50" column="68" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/update-gems-webpack.sh" timestamp="1511437336708">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -121,7 +114,7 @@
         <mark key="." line="13" column="50" />
       </file>
       <file name="/update-gems-webpack.sh" timestamp="1511437348760" />
-      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1511446993220">
+      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1511447934713">
         <mark key="'" line="96" column="10" />
         <mark key="[" line="116" column="31" />
         <mark key="]" line="106" column="11" />
@@ -185,7 +178,7 @@
       <file name="$USER_HOME$/mcs_ver2/docker/install-dev.sh" timestamp="1510105187255">
         <mark key="[" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker-compose.yml" timestamp="1510543243464">
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.yml" timestamp="1511448855879">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
@@ -196,10 +189,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/image/google-ruby/Dockerfile" timestamp="1511436559882">
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="29" column="13" />
-        <mark key="." line="29" column="13" />
+      <file name="$USER_HOME$/mcs_ver2/docker/image/google-ruby/Dockerfile" timestamp="1511448834244">
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="13" />
+        <mark key="." line="30" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/883eb393-ef85-475c-89b0-6eb519aef74c/console.sql" timestamp="1509197108577">
         <mark key="[" line="0" column="0" />
@@ -234,13 +227,6 @@
         <mark key="]" line="10" column="94" />
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.production" timestamp="1510555516058">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="2" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f04e354b-bca5-4633-ba90-334842028864/console.sql" timestamp="1510565640585">
         <mark key="[" line="4" column="70" />
