@@ -243,6 +243,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/docker/installers/install-dev.sh" timestamp="1511423214225">
+        <mark key="[" line="9" column="42" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510567560287">
         <mark key="'" line="1" column="11" />
       </file>
@@ -381,17 +387,17 @@
       <jump line="46" column="16" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAiJExPR19GSUxFX0NIQU5HRVMiID09IHRydWUg44Gq44KJIAo=</text>
+      <register name="&quot;" type="4">
+        <text>try</text>
       </register>
       <register name="-" type="4">
-        <text>suspend</text>
+        <text>try</text>
       </register>
       <register name="/" type="4">
         <text>vochicong</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">WyAiJExPR19GSUxFX0NIQU5HRVMiID09IHRydWUgXSAmJiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIC1xcSBvcGVuc3NoLWNsaWVudCAjIGZvciBDSSBjb2RlIGNoZWNrb3V0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyAiJExPR19GSUxFX0NIQU5HRVMiID09IHRydWUg44Gq44KJIAo=</text>
