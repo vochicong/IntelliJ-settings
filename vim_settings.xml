@@ -95,11 +95,16 @@
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="14" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1511416054192">
-        <mark key="[" line="9" column="53" />
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="9" column="4" />
-        <mark key="." line="9" column="4" />
+      <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1511422118530">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1511420933889">
+        <mark key="[" line="125" column="14" />
+        <mark key="]" line="122" column="18" />
+        <mark key="^" line="122" column="18" />
+        <mark key="." line="125" column="18" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/up" timestamp="1510035763854">
         <mark key="[" line="2" column="31" />
@@ -377,43 +382,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46IGJpbi90ZXN0LXByZS5zaAo=</text>
+        <text encoding="base64">IyAiJExPR19GSUxFX0NIQU5HRVMiID09IHRydWUg44Gq44KJIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>-test</text>
+        <text>suspend</text>
       </register>
       <register name="/" type="4">
         <text>vochicong</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46IGJpbi9idW5kbGUuZGV2CiAgICAgIC0gcnVuOiBiaW4vcmFpbHMgZGI6c2V0dXAKICAgICAgLSBydW46IGJpbi9yYWlscyBhc3NldHM6cHJlY29tcGlsZSAjIG5lZWQgZGI6c2V0dXAgZG9uZSBiZWZvcmVoYW5kCiAgICAgIC0gcnVuOiBta2RpciAtcCBsb2cvdGVzdC1yZXN1bHRzCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">WyAiJExPR19GSUxFX0NIQU5HRVMiID09IHRydWUgXSAmJiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46IGJpbi90ZXN0LXByZS5zaAo=</text>
+        <text encoding="base64">IyAiJExPR19GSUxFX0NIQU5HRVMiID09IHRydWUg44Gq44KJIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAvYXBwL3B1YmxpYy9wYWNrcwo=</text>
+        <text encoding="base64">Q01EPSdnaXQgbHMtZmlsZXMgLiAtLWlnbm9yZWQgLS1leGNsdWRlLXN0YW5kYXJkIC0tb3RoZXJzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46IGJpbi90ZXN0LWFsbC5zaAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5hbWU6IENhY2hlIHdlYnBhY2tlciBhc3NldHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAvYXBwL3B1YmxpYy9wYWNrcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLSBydW46IGJpbi90ZXN0LXByZS5zaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAvYXBwL3B1YmxpYy9wYWNrcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I1JBSUxTX1JPT1Q9L1VzZXJzL2Nvbmd2Yy9tY3NfdmVyMgo=</text>
+        <text encoding="base64">ICAgICAgLSBydW46IGJpbi90ZXN0LWFsbC5zaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UkFJTFNfUk9PVD0vVXNlcnMvY29uZ3ZjL21jc192ZXIyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBnY2xvdWQgZG9ja2VyIC0tIHB1bGwgZ2NyLmlvL2Nsb3VkLW1hcmtldHBsYWNlL2dvb2dsZS9ydWJ5QHNoYTI1Njo5NjkxZTNmMWI2ZTBiMzI4MDAxM2FmZjVmMDJmNTRhNjQwYzFjNGI1NmVmMDA1N2ViMGZmNjRlM2I1ZTQ1ZTk4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
