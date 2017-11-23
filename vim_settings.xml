@@ -68,6 +68,12 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1511442289347">
+        <mark key="[" line="216" column="46" />
+        <mark key="]" line="215" column="0" />
+        <mark key="^" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn.server" timestamp="1510551302594">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="4" column="0" />
@@ -109,17 +115,18 @@
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="14" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1511439783110">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1511442683859">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="50" />
+        <mark key="." line="13" column="50" />
       </file>
       <file name="/update-gems-webpack.sh" timestamp="1511437348760" />
-      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1511440271750">
-        <mark key="[" line="109" column="33" />
-        <mark key="]" line="142" column="18" />
-        <mark key="^" line="142" column="18" />
-        <mark key="." line="142" column="18" />
+      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1511442692335">
+        <mark key="'" line="96" column="10" />
+        <mark key="[" line="103" column="13" />
+        <mark key="]" line="106" column="11" />
+        <mark key="^" line="106" column="11" />
+        <mark key="." line="106" column="11" />
       </file>
       <file name="vim_settings.xml" timestamp="1509182218889">
         <mark key="[" line="0" column="0" />
@@ -241,7 +248,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511440310766">
+      <file name="/Dummy.txt" timestamp="1511441931634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -298,14 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="36" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="107" column="0" filename="$USER_HOME$/mcs_ver2/app/models/mail_type.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/.env.development" />
-      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/.env-sample" />
-      <jump line="62" column="0" filename="$USER_HOME$/mcs_ver2/.env-sample" />
-      <jump line="106" column="15" filename="$USER_HOME$/mcs_ver2/Gemfile" />
-      <jump line="544" column="24" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="556" column="24" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="554" column="0" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="546" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="7" column="3" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
@@ -398,62 +397,68 @@
       <jump line="17" column="11" filename="$USER_HOME$/mcs_ver2/.env.docker" />
       <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/config/application.rb" />
       <jump line="46" column="16" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
+      <jump line="104" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="138" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="26" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="32" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="37" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="47" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="70" column="9" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="96" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYg</text>
+        <text>`simplecov`は</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYg</text>
+        <text>`simplecov`は</text>
       </register>
       <register name="/" type="4">
-        <text>digest</text>
+        <text encoding="base64">XDxjb21tYW5kXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBiaW4vcmFpbHMgZGI6Y3JlYXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGltZSBiaW4vcmFpbHMgZGI6Y3JlYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbW1hbmQ6IHwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgWyAiJENPREVfQ09WRVJBR0UiID09IHRydWUgXTsgdGhlbgogIHRpbWUgYmluL3JhaWxzIGRiOnNldHVwCmVsc2UKICB0aW1lIGJpbi9yYWlscyBkYjpjcmVhdGUKZmkK</text>
+        <text encoding="base64">ICAgICAgICAgIG5hbWU6IFByZXBhcmUgREIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBTaW1wbGVDb3YgbmVlZCBkYjpzZXR1cCBkb25lIGJlZm9yZWhhbmQK</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBDT0RFX0NPVkVSQUdFOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2Jpbi9yYWlscyBhc3NldHM6cHJlY29tcGlsZQo=</text>
+        <text encoding="base64">dGltZSBiaW4vcmFpbHMgZGI6Y3JlYXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgWyAiJENPREVfQ09WRVJBR0UiID09IHRydWUgXTsgdGhlbgogIHRpbWUgYmluL3JhaWxzIGRiOnNldHVwCmVsc2UKICB0aW1lIGJpbi9yYWlscyBkYjpjcmVhdGUKZmkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I3RpbWUgYmluL3JhaWxzIGFzc2V0czpwcmVjb21waWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">I1sgIiRMT0dfRklMRV9DSEFOR0VTIiA9PSB0cnVlIF0gJiYgZXZhbCAkQ01EID4gdG1wL2FmdGVyX2Fzc2V0c19wcmVjb21waWxlLmxvZwo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
       </register>
     </registers>
     <search>
-      <last-search>digest</last-search>
+      <last-search encoding="base64">XDxjb21tYW5kXD4=</last-search>
       <last-offset />
-      <last-pattern>digest</last-pattern>
+      <last-pattern encoding="base64">XDxjb21tYW5kXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rspec</entry>
-        <entry encoding="base64">XDxtYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdHNcPg==</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZ3NcPg==</entry>
         <entry>目標</entry>
         <entry encoding="base64">XDxXT1JLX0RJUlw+</entry>
@@ -472,6 +477,8 @@
         <entry encoding="base64">XDxzYXRpc2ZhY3Rpb25zXD4=</entry>
         <entry>vochicong</entry>
         <entry>digest</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry encoding="base64">XDxjb21tYW5kXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
