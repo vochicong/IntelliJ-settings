@@ -258,14 +258,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/apitome-0.1.0/config" />
       </SOURCES>
     </library>
-    <library name="archive-zip (v0.7.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/archive-zip-0.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/archive-zip-0.7.0/lib" />
-      </SOURCES>
-    </library>
     <library name="archive-zip (v0.7.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/archive-zip-0.7.0/lib" />
@@ -524,22 +516,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bullet-5.6.1/tasks" />
       </SOURCES>
     </library>
-    <library name="bundler (v1.15.4, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.15.4/task" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.15.4/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.15.4/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.15.4/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.15.4/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.15.4/task" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.15.4/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.15.4/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.15.4/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.15.4/man" />
-      </SOURCES>
-    </library>
     <library name="bundler (v1.15.4, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/-472249588/gems/bundler-1.15.4/task" />
@@ -590,13 +566,11 @@
     </library>
     <library name="byebug (v9.1.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/byebug-9.1.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/byebug-9.1.0/lib" />
@@ -690,14 +664,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/CFPropertyList-2.3.5/lib" />
       </SOURCES>
     </library>
-    <library name="childprocess (v0.7.1, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/childprocess-0.7.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/childprocess-0.7.1/lib" />
-      </SOURCES>
-    </library>
     <library name="childprocess (v0.7.1, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/childprocess-0.7.1/lib" />
@@ -720,18 +686,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/choice-0.2.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="chromedriver-helper (v1.1.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.1.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.1.0/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.1.0/concourse" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.1.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.1.0/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/chromedriver-helper-1.1.0/concourse" />
       </SOURCES>
     </library>
     <library name="chromedriver-helper (v1.1.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
@@ -896,16 +850,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/crass-1.0.2/lib" />
       </SOURCES>
     </library>
-    <library name="database_rewinder (v0.8.2, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/database_rewinder-0.8.2/gemfiles" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/database_rewinder-0.8.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/database_rewinder-0.8.2/gemfiles" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/database_rewinder-0.8.2/lib" />
-      </SOURCES>
-    </library>
     <library name="database_rewinder (v0.8.2, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/database_rewinder-0.8.2/gemfiles" />
@@ -914,54 +858,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/database_rewinder-0.8.2/gemfiles" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/database_rewinder-0.8.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase (v0.2.1, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.1/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.1/ext" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.1/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.1/ext" />
-      </SOURCES>
-    </library>
-    <library name="debase (v0.2.2.beta10, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta10/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta10/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase (v0.2.2.beta11, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/ext" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/ext" />
-      </SOURCES>
-    </library>
-    <library name="debase-ruby_core_source (v0.9.10, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.9.10/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.9.10/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase-ruby_core_source (v0.9.11, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debase-ruby_core_source/0.9.11" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.9.11/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debase-ruby_core_source/0.9.11" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.9.11/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.3, rbenv: 2.4.2) [gem]">
@@ -1030,18 +926,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/did_you_mean-1.0.0/benchmark" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="did_you_mean (v1.1.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/evaluation" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/benchmark" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/evaluation" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/benchmark" />
       </SOURCES>
     </library>
     <library name="did_you_mean (v1.1.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
@@ -1154,6 +1038,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/erubi-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="erubis (v2.7.0, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/erubis-2.7.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/erubis-2.7.0/benchmark" />
       </SOURCES>
     </library>
     <library name="eventmachine (v1.2.5, rbenv: 2.4.2) [gem]">
@@ -2580,14 +2480,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/2.4.0/rinda" />
       </SOURCES>
     </library>
-    <library name="io-like (v0.3.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/io-like-0.3.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/io-like-0.3.0/lib" />
-      </SOURCES>
-    </library>
     <library name="io-like (v0.3.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/io-like-0.3.0/lib" />
@@ -2948,14 +2840,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/memory_profiler-0.9.8/lib" />
       </SOURCES>
     </library>
-    <library name="method_source (v0.8.2, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/method_source-0.8.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/method_source-0.8.2/lib" />
-      </SOURCES>
-    </library>
     <library name="method_source (v0.8.2, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/method_source-0.8.2/lib" />
@@ -3032,16 +2916,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/mini_mime-0.1.4/bin" />
       </SOURCES>
     </library>
-    <library name="mini_portile2 (v2.2.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mini_portile2-2.2.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mini_portile2-2.2.0/concourse" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mini_portile2-2.2.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mini_portile2-2.2.0/concourse" />
-      </SOURCES>
-    </library>
     <library name="mini_portile2 (v2.2.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/mini_portile2-2.2.0/lib" />
@@ -3060,14 +2934,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mini_portile2-2.3.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mini_portile2-2.3.0/concourse" />
-      </SOURCES>
-    </library>
-    <library name="minitest (v5.10.1, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/minitest-5.10.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/minitest-5.10.1/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.10.1, Remote: ruby-2.4.2-p198 (1)) [gem]">
@@ -3186,16 +3052,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/nenv-0.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="net-telnet (v0.1.1, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/bin" />
-      </SOURCES>
-    </library>
     <library name="net-telnet (v0.1.1, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/-472249588/gems/net-telnet-0.1.1/lib" />
@@ -3252,24 +3108,6 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/nokogiri-1.5.6/ext" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/nokogiri-1.5.6/bin" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/nokogiri-1.5.6/tasks" />
-      </SOURCES>
-    </library>
-    <library name="nokogiri (v1.8.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/suppressions" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/patches" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/tasks" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/suppressions" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/patches" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/tasks" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.8.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
@@ -3444,16 +3282,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/power_assert-0.2.6/lib" />
       </SOURCES>
     </library>
-    <library name="power_assert (v0.4.1, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/benchmarks" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/benchmarks" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/lib" />
-      </SOURCES>
-    </library>
     <library name="power_assert (v0.4.1, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/-472249588/gems/power_assert-0.4.1/benchmarks" />
@@ -3522,16 +3350,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/prawn-table-0.2.2/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/prawn-table-0.2.2/manual" />
-      </SOURCES>
-    </library>
-    <library name="pry (v0.10.4, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/pry-0.10.4/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/pry-0.10.4/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/pry-0.10.4/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/pry-0.10.4/bin" />
       </SOURCES>
     </library>
     <library name="pry (v0.10.4, Remote: ruby-2.4.2-p198 (1)) [gem]">
@@ -3660,20 +3478,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/public_suffix-3.0.0/data" />
       </SOURCES>
     </library>
-    <library name="puma (v3.10.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.10.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.10.0/tools" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.10.0/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.10.0/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.10.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.10.0/tools" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.10.0/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/puma-3.10.0/bin" />
-      </SOURCES>
-    </library>
     <library name="puma (v3.10.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/puma-3.10.0/lib" />
@@ -3714,14 +3518,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/rack-2.0.3/contrib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/rack-2.0.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/rack-2.0.3/bin" />
-      </SOURCES>
-    </library>
-    <library name="rack-mini-profiler (v0.10.6, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rack-mini-profiler-0.10.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rack-mini-profiler-0.10.6/lib" />
       </SOURCES>
     </library>
     <library name="rack-mini-profiler (v0.10.6@b03b89, rbenv: 2.4.2) [gem]">
@@ -3898,18 +3694,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-10.4.2/rakelib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-10.4.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-10.4.2/bin" />
-      </SOURCES>
-    </library>
-    <library name="rake (v12.0.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.0.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.0.0/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.0.0/exe" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.0.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.0.0/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.0.0/exe" />
       </SOURCES>
     </library>
     <library name="rake (v12.0.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
@@ -4116,14 +3900,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/rmagick-2.16.0/deprecated" />
       </SOURCES>
     </library>
-    <library name="rspec (v3.6.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-3.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-3.6.0/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec (v3.6.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/rspec-3.6.0/lib" />
@@ -4138,16 +3914,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-3.7.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec-core (v3.6.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/exe" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-core-3.6.0/exe" />
       </SOURCES>
     </library>
     <library name="rspec-core (v3.6.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
@@ -4168,14 +3934,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-core-3.7.0/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-core-3.7.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec-expectations (v3.6.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-expectations (v3.6.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
@@ -4218,14 +3976,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/rspec-its-1.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec-mocks (v3.6.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-mocks-3.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-mocks-3.6.0/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec-mocks (v3.6.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/rspec-mocks-3.6.0/lib" />
@@ -4242,14 +3992,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-mocks-3.7.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec-rails (v3.6.1, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-rails-3.6.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-rails-3.6.1/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec-rails (v3.6.1, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/rspec-rails-3.6.1/lib" />
@@ -4264,14 +4006,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-rails-3.7.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec-support (v3.6.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-support-3.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-support-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.6.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
@@ -4298,14 +4032,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec_api_documentation-5.0.0/templates" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec_api_documentation-5.0.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec_junit_formatter (v0.2.3, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec_junit_formatter-0.2.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec_junit_formatter-0.2.3/lib" />
       </SOURCES>
     </library>
     <library name="rspec_junit_formatter (v0.2.3, Remote: ruby-2.4.2-p198 (1)) [gem]">
@@ -4374,30 +4100,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/rubocop-git-0.1.3/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/rubocop-git-0.1.3/gemfiles" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/rubocop-git-0.1.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="ruby-debug-ide (v0.6.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.0/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.0/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.0/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.0/bin" />
-      </SOURCES>
-    </library>
-    <library name="ruby-debug-ide (v0.6.1.beta9, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta9/lib" />
       </SOURCES>
     </library>
     <library name="ruby-graphviz (v1.2.3, rbenv: 2.4.2) [gem]">
@@ -4576,14 +4278,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/select2-rails-4.0.3/vendor" />
       </SOURCES>
     </library>
-    <library name="selenium-webdriver (v3.5.2, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.5.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.5.2/lib" />
-      </SOURCES>
-    </library>
     <library name="selenium-webdriver (v3.5.2, Remote: ruby-2.4.2-p198 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/selenium-webdriver-3.5.2/lib" />
@@ -4690,14 +4384,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/slack-api-1.6.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="slop (v3.6.0, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/slop-3.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/slop-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="slop (v3.6.0, Remote: ruby-2.4.2-p198 (1)) [gem]">
@@ -4834,16 +4520,6 @@
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/test-unit-3.1.5/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/test-unit-3.1.5/sample" />
-      </SOURCES>
-    </library>
-    <library name="test-unit (v3.2.3, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/sample" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/sample" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.2.3, Remote: ruby-2.4.2-p198 (1)) [gem]">
@@ -5308,16 +4984,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/xml-simple-1.1.5/lib" />
-      </SOURCES>
-    </library>
-    <library name="xmlrpc (v0.2.1, rbenv: 2.4.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/bin" />
       </SOURCES>
     </library>
     <library name="xmlrpc (v0.2.1, Remote: ruby-2.4.2-p198 (1)) [gem]">

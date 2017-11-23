@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/mcs_ver2/docker/compose/nginx-unicorn.yml" timestamp="1510567688218">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/config/application.rb" timestamp="1510570588532">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="68" />
@@ -65,13 +60,6 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1510560209082">
-        <mark key="'" line="68" column="50" />
-        <mark key="[" line="145" column="3" />
-        <mark key="]" line="145" column="3" />
-        <mark key="." line="145" column="3" />
-        <mark key="^" line="149" column="2" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn.server" timestamp="1510551302594">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="4" column="0" />
@@ -102,17 +90,17 @@
         <mark key="[" line="37" column="16" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510570574726">
-        <mark key="'" line="12" column="20" />
-        <mark key="[" line="75" column="14" />
-        <mark key="]" line="75" column="14" />
-        <mark key="." line="75" column="14" />
-        <mark key="^" line="75" column="14" />
+        <mark key="[" line="87" column="14" />
+        <mark key="]" line="87" column="14" />
+        <mark key="." line="87" column="14" />
+        <mark key="^" line="87" column="14" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1510541877069">
-        <mark key="[" line="121" column="20" />
-        <mark key="]" line="121" column="32" />
-        <mark key="." line="121" column="32" />
-        <mark key="^" line="120" column="19" />
+      <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1511402802237" />
+      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1511403684367">
+        <mark key="[" line="101" column="72" />
+        <mark key="]" line="103" column="52" />
+        <mark key="^" line="103" column="52" />
+        <mark key="." line="103" column="52" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/up" timestamp="1510035763854">
         <mark key="[" line="2" column="31" />
@@ -134,12 +122,6 @@
         <mark key="]" line="17" column="53" />
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/config/environments/production.rb" timestamp="1510568479323">
-        <mark key="[" line="82" column="5" />
-        <mark key="]" line="82" column="5" />
-        <mark key="." line="82" column="5" />
-        <mark key="^" line="82" column="47" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1510568645905">
         <mark key="'" line="45" column="16" />
@@ -165,8 +147,6 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="/.env.docker" timestamp="1510551641817" />
-      <file name="$USER_HOME$/mcs_ver2/docker/image/official-ruby/Dockerfile.prod" timestamp="1510553300687" />
       <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1509684085687">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -206,7 +186,6 @@
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/nginx/conf.d/rails.conf" timestamp="1510556548516" />
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn.prod" timestamp="1510133748772">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -246,7 +225,6 @@
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
         <mark key="[" line="167" column="17" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/secrets.yml" timestamp="1510568048640" />
       <file name="/fragment.rb" timestamp="1509189067015">
         <mark key="[" line="0" column="0" />
       </file>
@@ -262,11 +240,7 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1510567560287">
-        <mark key="'" line="20" column="11" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="47" />
-        <mark key="." line="3" column="47" />
-        <mark key="^" line="3" column="47" />
+        <mark key="'" line="1" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
@@ -403,44 +377,44 @@
       <jump line="46" column="16" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RU5WLmZldGNoKCJSQUlMU19ST09UIil7IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSBydW46IGJpbi90ZXN0LXByZS5zaAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RU5WLmZldGNoKCJSQUlMU19ST09UIil7IA==</text>
+        <text>-test</text>
       </register>
       <register name="/" type="4">
         <text>vochicong</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyDmmpflj7fljJbjgZXjgozjgZ/jgrfjg7zjgq/jg6zjg4Pjg4ggY29uZmlnL3NlY3JldHMueW1sLmVuYyDjgpLliKnnlKjjgZnjgovloLTlkIjjga7mmpflj7fpjbUKIyDjgarjgYrjgIHoqK3lrprjgZnjgovjgavjga8gYEVESVRPUj12aW0gYmluL3JhaWxzIHNlY3JldHM6ZWRpdGAg44KS5a6f6KGM44GX44Gm44GP44Gg44GV44GE44CCClJBSUxTX01BU1RFUl9LRVk9Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46IGJpbi9idW5kbGUuZGV2CiAgICAgIC0gcnVuOiBiaW4vcmFpbHMgZGI6c2V0dXAKICAgICAgLSBydW46IGJpbi9yYWlscyBhc3NldHM6cHJlY29tcGlsZSAjIG5lZWQgZGI6c2V0dXAgZG9uZSBiZWZvcmVoYW5kCiAgICAgIC0gcnVuOiBta2RpciAtcCBsb2cvdGVzdC1yZXN1bHRzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I1JBSUxTX1JPT1Q9L1VzZXJzL2Nvbmd2Yy9tY3NfdmVyMgo=</text>
+        <text encoding="base64">ICAgICAgLSBydW46IGJpbi90ZXN0LXByZS5zaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UkFJTFNfUk9PVD0vVXNlcnMvY29uZ3ZjL21jc192ZXIyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAvYXBwL3B1YmxpYy9wYWNrcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBnY2xvdWQgZG9ja2VyIC0tIHB1bGwgZ2NyLmlvL2Nsb3VkLW1hcmtldHBsYWNlL2dvb2dsZS9ydWJ5QHNoYTI1Njo5NjkxZTNmMWI2ZTBiMzI4MDAxM2FmZjVmMDJmNTRhNjQwYzFjNGI1NmVmMDA1N2ViMGZmNjRlM2I1ZTQ1ZTk4Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46IGJpbi90ZXN0LWFsbC5zaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z2Nsb3VkIGRvY2tlciAtLSBwdWxsIGdjci5pby9jbG91ZC1tYXJrZXRwbGFjZS9nb29nbGUvcnVieUBzaGEyNTY6OTY5MWUzZjFiNmUwYjMyODAwMTNhZmY1ZjAyZjU0YTY0MGMxYzRiNTZlZjAwNTdlYjBmZjY0ZTNiNWU0NWU5OAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2Nsb3VkIGRvY2tlciAtLSBwdWxsIGdjci5pby9jbG91ZC1tYXJrZXRwbGFjZS9nb29nbGUvcnVieQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSB+Ly5zc2g6L3Jvb3QvLnNzaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcHJvZHVjdGlvbiBlbnYg44Gq44KJIHNlY3JldHMueW1sLmVuYyDjgpLoqq3jgoAK</text>
+        <text encoding="base64">I1JBSUxTX1JPT1Q9L1VzZXJzL2Nvbmd2Yy9tY3NfdmVyMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyDmmpflj7fpjbUgYGNvbmZpZy9zZWNyZXRzLnltbC5rZXlgIOOBjOW/heimgeOBp+OBmeOAggo=</text>
+        <text encoding="base64">UkFJTFNfUk9PVD0vVXNlcnMvY29uZ3ZjL21jc192ZXIyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVhZF9lbmNyeXB0ZWRfc2VjcmV0cwo=</text>
+        <text encoding="base64">IyBnY2xvdWQgZG9ja2VyIC0tIHB1bGwgZ2NyLmlvL2Nsb3VkLW1hcmtldHBsYWNlL2dvb2dsZS9ydWJ5QHNoYTI1Njo5NjkxZTNmMWI2ZTBiMzI4MDAxM2FmZjVmMDJmNTRhNjQwYzFjNGI1NmVmMDA1N2ViMGZmNjRlM2I1ZTQ1ZTk4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
