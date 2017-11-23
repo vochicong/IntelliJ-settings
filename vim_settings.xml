@@ -85,6 +85,12 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/slack-coverage.sh" timestamp="1511440420986">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1508743121988">
         <mark key="[" line="0" column="0" />
       </file>
@@ -103,16 +109,17 @@
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="14" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1511437322531">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1511439783110">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1511437214257">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="103" column="31" />
-        <mark key="." line="92" column="0" />
+      <file name="/update-gems-webpack.sh" timestamp="1511437348760" />
+      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1511440271750">
+        <mark key="[" line="109" column="33" />
+        <mark key="]" line="142" column="18" />
+        <mark key="^" line="142" column="18" />
+        <mark key="." line="142" column="18" />
       </file>
       <file name="vim_settings.xml" timestamp="1509182218889">
         <mark key="[" line="0" column="0" />
@@ -234,7 +241,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511436700006">
+      <file name="/Dummy.txt" timestamp="1511440310766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -393,44 +400,44 @@
       <jump line="46" column="16" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2Jpbi9yYWlscyBhc3NldHM6cHJlY29tcGlsZQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgbmVlZCBkYjpzZXR1cCBkb25lIGJlZm9yZWhhbmQ=</text>
+        <text encoding="base64">aWYg</text>
       </register>
       <register name="/" type="4">
         <text>digest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YmluL3lhcm4gaW5zdGFsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBiaW4vcmFpbHMgZGI6Y3JlYXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2Jpbi9yYWlscyBhc3NldHM6cHJlY29tcGlsZQo=</text>
+        <text encoding="base64">dGltZSBiaW4vcmFpbHMgZGI6Y3JlYXRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgWyAiJENPREVfQ09WRVJBR0UiID09IHRydWUgXTsgdGhlbgogIHRpbWUgYmluL3JhaWxzIGRiOnNldHVwCmVsc2UKICB0aW1lIGJpbi9yYWlscyBkYjpjcmVhdGUKZmkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3RpbWUgYmluL3JhaWxzIGFzc2V0czpwcmVjb21waWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">I1sgIiRMT0dfRklMRV9DSEFOR0VTIiA9PSB0cnVlIF0gJiYgZXZhbCAkQ01EID4gdG1wL2FmdGVyX2Fzc2V0c19wcmVjb21waWxlLmxvZwo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I3RpbWUgYmluL3JhaWxzIGRiOnNldHVwICMgZGI6Y3JlYXRlIGlzIG5vdCBlbm91Z2ggZm9yIGxhdGVyIGFzc2V0cyBwcmVjb21wbGF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBDT0RFX0NPVkVSQUdFOiB0cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgRGlzYWJsZSAyIGxpbmVzIGFib3ZlIHRvIHNoYXJlIGNhY2hlIGFjY3Jvc3MgZ2l0IGJyYW5jaGVzCg==</text>
+        <text encoding="base64">I2Jpbi9yYWlscyBhc3NldHM6cHJlY29tcGlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgLSBhc3NldHMte3sgLkJyYW5jaCB9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gYXNzZXRzLXt7IC5CcmFuY2ggfX0te3sgLlJldmlzaW9uIH19Cg==</text>
+        <text encoding="base64">I3RpbWUgYmluL3JhaWxzIGFzc2V0czpwcmVjb21waWxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46IGJpbi9yYWlscyBkYjpjcmVhdGUK</text>
+        <text encoding="base64">I1sgIiRMT0dfRklMRV9DSEFOR0VTIiA9PSB0cnVlIF0gJiYgZXZhbCAkQ01EID4gdG1wL2FmdGVyX2Fzc2V0c19wcmVjb21waWxlLmxvZwo=</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
