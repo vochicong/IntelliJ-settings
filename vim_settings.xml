@@ -95,12 +95,11 @@
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="14" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1511402802237" />
-      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1511403684367">
-        <mark key="[" line="101" column="72" />
-        <mark key="]" line="103" column="52" />
-        <mark key="^" line="103" column="52" />
-        <mark key="." line="103" column="52" />
+      <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1511405041084">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/up" timestamp="1510035763854">
         <mark key="[" line="2" column="31" />
