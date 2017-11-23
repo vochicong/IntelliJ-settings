@@ -95,22 +95,27 @@
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="14" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1511422118530">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1511430580810">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1511427726922">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1511430838779">
+        <mark key="[" line="107" column="17" />
+        <mark key="]" line="107" column="17" />
         <mark key="^" line="123" column="18" />
-        <mark key="." line="92" column="0" />
+        <mark key="." line="107" column="17" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/bin/up" timestamp="1510035763854">
         <mark key="[" line="2" column="31" />
       </file>
       <file name="vim_settings.xml" timestamp="1509182218889">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/config/webpacker.yml" timestamp="1511430904031">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/environments/development.rb" timestamp="1510281469362">
         <mark key="[" line="87" column="30" />
@@ -388,43 +393,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gYXNzZXRzLXt7IC5CcmFuY2ggfX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>try</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>vochicong</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIC1xcSBvcGVuc3NoLWNsaWVudCAjIGZvciBDSSBjb2RlIGNoZWNrb3V0Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46IGJpbi9yYWlscyBkYjpzZXR1cAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gYXNzZXRzLXt7IC5CcmFuY2ggfX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gYXNzZXRzLXt7IC5CcmFuY2ggfX0te3sgLlJldmlzaW9uIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gYXNzZXRzLXt7IC5CcmFuY2ggfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdoZW46IGFsd2F5cwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gYXNzZXRzLXt7IC5CcmFuY2ggfX0te3sgLlJldmlzaW9uIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAiJExPR19GSUxFX0NIQU5HRVMiID09IHRydWUg44Gq44KJIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHdoZW46IGFsd2F5cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q01EPSdnaXQgbHMtZmlsZXMgLiAtLWlnbm9yZWQgLS1leGNsdWRlLXN0YW5kYXJkIC0tb3RoZXJzJwo=</text>
+        <text encoding="base64">IyAiJExPR19GSUxFX0NIQU5HRVMiID09IHRydWUg44Gq44KJIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWU6IENhY2hlIHdlYnBhY2tlciBhc3NldHMK</text>
+        <text encoding="base64">Q01EPSdnaXQgbHMtZmlsZXMgLiAtLWlnbm9yZWQgLS1leGNsdWRlLXN0YW5kYXJkIC0tb3RoZXJzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAvYXBwL3B1YmxpYy9wYWNrcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5hbWU6IENhY2hlIHdlYnBhY2tlciBhc3NldHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46IGJpbi90ZXN0LXByZS5zaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAvYXBwL3B1YmxpYy9wYWNrcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAvYXBwL3B1YmxpYy9wYWNrcwo=</text>
+        <text encoding="base64">ICAgICAgLSBydW46IGJpbi90ZXN0LXByZS5zaAo=</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
