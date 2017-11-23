@@ -1132,6 +1132,32 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="factory_bot (v4.8.2, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot-4.8.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot-4.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot-4.8.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot-4.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="factory_bot_rails (v4.8.2, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.8.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.8.2/tmp" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.8.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.8.2/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.8.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.8.2/tmp" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.8.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.8.2/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_girl (v4.8.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_girl-4.8.0/lib" />
@@ -2152,6 +2178,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/formatador-0.2.5/tests" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/1885660426/1865654124/gems/formatador-0.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="get_process_mem (v0.2.1, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/get_process_mem-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/get_process_mem-0.2.1/lib" />
       </SOURCES>
     </library>
     <library name="globalid (v0.4.0, rbenv: 2.4.2) [gem]">
@@ -4294,6 +4328,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/selenium-webdriver-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="sentry-raven (v2.7.1, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.1/exe" />
+      </SOURCES>
+    </library>
     <library name="shellany (v0.0.1, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/shellany-0.0.1/lib" />
@@ -4814,6 +4858,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/unicorn-5.3.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/unicorn-5.3.1/man" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/unicorn-5.3.1/Documentation" />
+      </SOURCES>
+    </library>
+    <library name="unicorn-worker-killer (v0.4.4, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/unicorn-worker-killer-0.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/unicorn-worker-killer-0.4.4/lib" />
       </SOURCES>
     </library>
     <library name="uniform_notifier (v1.10.0, rbenv: 2.4.2) [gem]">
