@@ -108,19 +108,6 @@
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="14" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test-pre.sh" timestamp="1511442683859">
-        <mark key="[" line="13" column="50" />
-        <mark key="]" line="13" column="50" />
-        <mark key="." line="13" column="50" />
-      </file>
-      <file name="/update-gems-webpack.sh" timestamp="1511437348760" />
-      <file name="$USER_HOME$/mcs_ver2/.circleci/config.yml" timestamp="1511447934713">
-        <mark key="'" line="96" column="10" />
-        <mark key="[" line="116" column="31" />
-        <mark key="]" line="106" column="11" />
-        <mark key="^" line="106" column="11" />
-        <mark key="." line="106" column="11" />
-      </file>
       <file name="vim_settings.xml" timestamp="1509182218889">
         <mark key="[" line="0" column="0" />
       </file>
@@ -144,7 +131,6 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/environments/production.rb" timestamp="1511431276567" />
       <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1510568645905">
         <mark key="'" line="45" column="16" />
         <mark key="[" line="7" column="0" />
@@ -254,13 +240,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/bin/shell" timestamp="1511437257815" />
-      <file name="$USER_HOME$/mcs_ver2/docker/installers/install-dev.sh" timestamp="1511423255703">
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="33" />
-        <mark key="^" line="9" column="33" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
       </file>
@@ -276,7 +255,6 @@
         <mark key="^" line="75" column="3" />
         <mark key="." line="75" column="4" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/rails.server" timestamp="1511436170245" />
       <file name="$USER_HOME$/mcs_ver2/docker-compose.unicorn.yml" timestamp="1510129102493">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
