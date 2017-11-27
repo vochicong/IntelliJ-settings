@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/mcs_ver2/docker/exec" timestamp="1511437269555">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/mailers/notice_mailer.rb" timestamp="1511758244088" />
       <file name="$USER_HOME$/mcs_ver2/bin/update-gems-webpack.sh" timestamp="1511437336708">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -134,7 +135,7 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1510568645905">
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1511759878708">
         <mark key="'" line="45" column="16" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -145,6 +146,12 @@
         <mark key="[" line="7" column="73" />
         <mark key="]" line="7" column="11" />
         <mark key="." line="7" column="11" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/mac/install.sh" timestamp="1511760475229">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="other.xml" timestamp="1509150456203">
         <mark key="[" line="0" column="0" />
@@ -223,7 +230,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511441931634">
+      <file name="/Dummy.txt" timestamp="1511758185046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -375,43 +382,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`simplecov`は</text>
+        <text encoding="base64">IHlhcm4=</text>
       </register>
       <register name="-" type="4">
-        <text>`simplecov`は</text>
+        <text encoding="base64">IHlhcm4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tYW5kXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBiaW4vcmFpbHMgZGI6Y3JlYXRlCg==</text>
+        <text encoding="base64">YnJldyBpbnN0YWxsIGltYWdlbWFnaWNrQDYgeWFybgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbW1hbmQ6IHwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWU6IFByZXBhcmUgREIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBTaW1wbGVDb3YgbmVlZCBkYjpzZXR1cCBkb25lIGJlZm9yZWhhbmQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dGltZSBiaW4vcmFpbHMgZGI6Y3JlYXRlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aWYgWyAiJENPREVfQ09WRVJBR0UiID09IHRydWUgXTsgdGhlbgogIHRpbWUgYmluL3JhaWxzIGRiOnNldHVwCmVsc2UKICB0aW1lIGJpbi9yYWlscyBkYjpjcmVhdGUKZmkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">YnJldyBsaW5rIC0tZm9yY2UgaW1hZ2VtYWdpY2tANgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">YnJldyBpbnN0YWxsIG1hcmlhZGJAMTAuMAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbW1hbmQ6IHwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5hbWU6IFByZXBhcmUgREIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBTaW1wbGVDb3YgbmVlZCBkYjpzZXR1cCBkb25lIGJlZm9yZWhhbmQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">dGltZSBiaW4vcmFpbHMgZGI6Y3JlYXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
