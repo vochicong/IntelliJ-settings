@@ -148,10 +148,7 @@
         <mark key="." line="7" column="11" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/mac/install.sh" timestamp="1511760475229">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-        <mark key="^" line="9" column="0" />
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="other.xml" timestamp="1509150456203">
         <mark key="[" line="0" column="0" />
@@ -193,6 +190,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/883eb393-ef85-475c-89b0-6eb519aef74c/console.sql" timestamp="1509197108577">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/magellan_check_survey_report.html.erb" timestamp="1511763087914" />
       <file name="$USER_HOME$/mcs_ver2/.env.production.local" timestamp="1510571203383">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -230,7 +228,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511758185046">
+      <file name="/Dummy.txt" timestamp="1511763536883">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -271,6 +269,13 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" timestamp="1511763936197">
+        <mark key="'" line="350" column="12" />
+        <mark key="[" line="355" column="80" />
+        <mark key="]" line="355" column="79" />
+        <mark key="^" line="355" column="79" />
+        <mark key="." line="355" column="79" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1510567421766">
         <mark key="[" line="1" column="45" />
         <mark key="]" line="1" column="46" />
@@ -279,11 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="554" column="0" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="546" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="7" column="3" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="175" column="6" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="190" column="9" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="290" column="4" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="535" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="543" column="24" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
@@ -379,6 +379,11 @@
       <jump line="47" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
       <jump line="70" column="9" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
       <jump line="96" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
+      <jump line="570" column="68" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="356" column="4" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="561" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="336" column="73" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="350" column="12" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -388,7 +393,7 @@
         <text encoding="base64">IHlhcm4=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21tYW5kXD4=</text>
+        <text encoding="base64">XDxmaWxlX3BhdGhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YnJldyBpbnN0YWxsIGltYWdlbWFnaWNrQDYgeWFybgo=</text>
@@ -425,16 +430,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21tYW5kXD4=</last-search>
+      <last-search encoding="base64">XDxmaWxlX3BhdGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21tYW5kXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlX3BhdGhcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWdlbGxhbl9jaGVja19zdXJ2ZXlfc2V0dGluZ3NcPg==</entry>
-        <entry>目標</entry>
         <entry encoding="base64">XDxXT1JLX0RJUlw+</entry>
         <entry>yarn</entry>
         <entry>dev</entry>
@@ -453,6 +456,8 @@
         <entry>digest</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxjb21tYW5kXD4=</entry>
+        <entry encoding="base64">XDxnZXRfZm9jdXNfc3VydmV5X3Jlc3VsdF9saXN0XD4=</entry>
+        <entry encoding="base64">XDxmaWxlX3BhdGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
