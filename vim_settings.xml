@@ -73,6 +73,7 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" timestamp="1511836335176" />
       <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1511442289347">
         <mark key="[" line="216" column="46" />
         <mark key="]" line="215" column="0" />
@@ -120,6 +121,7 @@
         <mark key="." line="87" column="14" />
         <mark key="^" line="87" column="14" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/lib/batch/mcs_mail/magellan_check_survey_answer_expired_process.rb" timestamp="1511836536193" />
       <file name="vim_settings.xml" timestamp="1509182218889">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,12 +150,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/config/unicorn.rb" timestamp="1510571225628">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="7" column="73" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/mac/install.sh" timestamp="1511760475229">
         <mark key="[" line="8" column="0" />
@@ -236,7 +232,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511776712175">
+      <file name="/Dummy.txt" timestamp="1511836511725">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -277,7 +273,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" timestamp="1511776537637">
+      <file name="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" timestamp="1511836083105">
         <mark key="'" line="350" column="12" />
         <mark key="[" line="577" column="12" />
         <mark key="]" line="577" column="16" />
