@@ -115,12 +115,14 @@
       <file name="$USER_HOME$/dev-env/mac/roles/common/tasks/main.yml" timestamp="1508634292406">
         <mark key="[" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1510570574726">
-        <mark key="[" line="87" column="14" />
-        <mark key="]" line="87" column="14" />
-        <mark key="." line="87" column="14" />
-        <mark key="^" line="87" column="14" />
+      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1511848407521">
+        <mark key="'" line="58" column="41" />
+        <mark key="[" line="59" column="36" />
+        <mark key="]" line="59" column="36" />
+        <mark key="." line="59" column="39" />
+        <mark key="^" line="45" column="19" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/lib/batch/mcs_mail/magellan_check_survey_report_process.rb" timestamp="1511836804429" />
       <file name="$USER_HOME$/mcs_ver2/lib/batch/mcs_mail/magellan_check_survey_answer_expired_process.rb" timestamp="1511836536193" />
       <file name="vim_settings.xml" timestamp="1509182218889">
         <mark key="[" line="0" column="0" />
@@ -232,7 +234,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511836511725">
+      <file name="/Dummy.txt" timestamp="1511848536385">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -273,13 +275,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" timestamp="1511836083105">
-        <mark key="'" line="350" column="12" />
-        <mark key="[" line="577" column="12" />
-        <mark key="]" line="577" column="16" />
-        <mark key="^" line="577" column="16" />
-        <mark key="." line="577" column="16" />
-      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" timestamp="1511836083105" />
       <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1510567421766">
         <mark key="[" line="1" column="45" />
         <mark key="]" line="1" column="46" />
@@ -288,18 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="59" filename="$USER_HOME$/mcs_ver2/.env.docker" />
-      <jump line="2" column="0" filename="$USER_HOME$/mcs_ver2/bin/server" />
-      <jump line="210" column="10" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="203" column="10" filename="$USER_HOME$/mcs_ver2/spec/requests/magellan_check_survey_settings_spec.rb" />
-      <jump line="112" column="0" filename="$USER_HOME$/mcs_ver2/README.md" />
-      <jump line="116" column="29" filename="$USER_HOME$/mcs_ver2/README.md" />
-      <jump line="38" column="18" filename="$USER_HOME$/mcs_ver2/Gemfile" />
-      <jump line="80" column="6" filename="$USER_HOME$/mcs_ver2/README.md" />
-      <jump line="65" column="22" filename="$USER_HOME$/mcs_ver2/README.md" />
-      <jump line="68" column="50" filename="$USER_HOME$/mcs_ver2/README.md" />
-      <jump line="32" column="17" filename="$USER_HOME$/mcs_ver2/.gitignore" />
-      <jump line="20" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
       <jump line="32" column="7" filename="$USER_HOME$/mcs_ver2/Gemfile" />
       <jump line="33" column="8" filename="$USER_HOME$/mcs_ver2/Gemfile" />
       <jump line="79" column="11" filename="$USER_HOME$/mcs_ver2/Gemfile" />
@@ -388,16 +372,28 @@
       <jump line="46" column="43" filename="$USER_HOME$/mcs_ver2/app/views/notice_mailer/magellan_check_survey_report.html.erb" />
       <jump line="47" column="46" filename="$USER_HOME$/mcs_ver2/app/views/notice_mailer/magellan_check_survey_report.html.erb" />
       <jump line="48" column="50" filename="$USER_HOME$/mcs_ver2/app/views/notice_mailer/magellan_check_survey_report.html.erb" />
+      <jump line="59" column="36" filename="$USER_HOME$/mcs_ver2/.env" />
+      <jump line="45" column="19" filename="$USER_HOME$/mcs_ver2/.env" />
+      <jump line="46" column="19" filename="$USER_HOME$/mcs_ver2/.env" />
+      <jump line="47" column="18" filename="$USER_HOME$/mcs_ver2/.env" />
+      <jump line="48" column="27" filename="$USER_HOME$/mcs_ver2/.env" />
+      <jump line="49" column="26" filename="$USER_HOME$/mcs_ver2/.env" />
+      <jump line="51" column="24" filename="$USER_HOME$/mcs_ver2/.env" />
+      <jump line="54" column="43" filename="$USER_HOME$/mcs_ver2/.env" />
+      <jump line="55" column="38" filename="$USER_HOME$/mcs_ver2/.env" />
+      <jump line="56" column="48" filename="$USER_HOME$/mcs_ver2/.env" />
+      <jump line="57" column="43" filename="$USER_HOME$/mcs_ver2/.env" />
+      <jump line="58" column="41" filename="$USER_HOME$/mcs_ver2/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>satisfaction</text>
+        <text>tmp</text>
       </register>
       <register name="-" type="4">
-        <text>satisfaction</text>
+        <text>tmp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXRpc2ZhY3Rpb25cPg==</text>
+        <text encoding="base64">XDx0bXBcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpPuODnuOCvOODqeODs+OCteODvOODmeOCpOWun+aWveaXpSA8JT0gYXR0cmlidXRlWzpyZXBvcnRfZGF0ZV0gJT48L2xpPgo=</text>
@@ -434,15 +430,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXRpc2ZhY3Rpb25cPg==</last-search>
+      <last-search encoding="base64">XDx0bXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXRpc2ZhY3Rpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0bXBcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuX2NoZWNrX3N1cnZleVw+</entry>
         <entry encoding="base64">XDxkZWZhbHV0X2JvZHlfc3R5bGVcPg==</entry>
         <entry encoding="base64">XDxuX2VtcHR5XD4=</entry>
         <entry encoding="base64">XDxkZWZhdWx0X2JvZHlfc3R5bGVcPg==</entry>
@@ -462,6 +457,7 @@
         <entry encoding="base64">XDxzdXJ2ZXlfcmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxleHBlY3RhdGlvblw+</entry>
         <entry encoding="base64">XDxzYXRpc2ZhY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDx0bXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
