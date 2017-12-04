@@ -205,7 +205,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512365509884">
+      <file name="/Dummy.txt" timestamp="1512365774233">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -223,8 +223,8 @@
       <file name="$USER_HOME$/mcs_ver2/docker/installers/install-dev.sh" timestamp="1511849197524">
         <mark key="[" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1512365754834">
-        <mark key="[" line="13" column="11" />
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1512366589080">
+        <mark key="[" line="13" column="29" />
         <mark key="]" line="13" column="11" />
         <mark key="^" line="14" column="11" />
         <mark key="." line="13" column="11" />
