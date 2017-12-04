@@ -128,10 +128,11 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1512363798815">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1512369899611">
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="54" column="12" />
+        <mark key="." line="54" column="12" />
+        <mark key="^" line="54" column="12" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/mac/install.sh" timestamp="1511760475229">
         <mark key="[" line="8" column="0" />
@@ -372,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>'./tmp/minio:</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>'./tmp/minio:</text>
       </register>
       <register name="/" type="4">
         <text>xlsx_pac</text>
