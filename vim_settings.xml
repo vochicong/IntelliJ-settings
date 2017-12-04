@@ -146,12 +146,12 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" timestamp="1512389565751">
-        <mark key="'" line="23" column="46" />
-        <mark key="[" line="13" column="66" />
-        <mark key="]" line="13" column="66" />
-        <mark key="." line="13" column="66" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" timestamp="1512390995121">
+        <mark key="'" line="16" column="27" />
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/dev-env/mac/scripts/24-install-ruby.sh" timestamp="1508454399079">
         <mark key="[" line="12" column="37" />
@@ -252,6 +252,7 @@
         <mark key="^" line="75" column="3" />
         <mark key="." line="75" column="4" />
       </file>
+      <file name="/carrierwave.rb" timestamp="1512390793036" />
       <file name="$USER_HOME$/mcs_ver2/bin/rails.server" timestamp="1512363698321">
         <mark key="]" line="4" column="38" />
         <mark key="^" line="4" column="38" />
@@ -271,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="14" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
       <jump line="44" column="68" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
       <jump line="48" column="53" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
@@ -370,47 +370,48 @@
       <jump line="16" column="67" filename="$USER_HOME$/mcs_ver2/bin/mkdir.sh" />
       <jump line="10" column="26" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
       <jump line="11" column="39" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
-      <jump line="23" column="46" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
+      <jump line="23" column="0" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
+      <jump line="15" column="27" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICMgcHVibGljLXJlYWQ=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBpZiBNSU5JTwogIGNvbmZpZy5mb2dfY3JlZGVudGlhbHNbOmVuZHBvaW50XSA9CiAgICBFTlZbJ0FXU19TM19FTkRQT0lOVCddIAogIGNvbmZpZy5mb2dfY3JlZGVudGlhbHNbOmhvc3RdID0KICAgIEVOVlsnQVdTX1MzX0hPU1QnXSBpZiBFTlZbJ0FXU19TM19IT1NUJ10ucHJlc2VudD8K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgcHVibGljLXJlYWQ=</text>
+        <text>if ENV['AWS_S3_ENDPOINT'].present?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBV1NfUzNfSE9TVFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgRU5WWydBV1NfUzNfRU5EUE9JTlQnXS50b19zLmluY2x1ZGU/ICdtaW5pbycK</text>
+        <text encoding="base64">aWYgTUlOSU8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IEVOVlsnQVdTX1MzX0VORFBPSU5UJ10udG9fcy5pbmNsdWRlPyAnbWluaW8nCg==</text>
+        <text encoding="base64">ICBpZiBNSU5JTwogIGNvbmZpZy5mb2dfY3JlZGVudGlhbHNbOmVuZHBvaW50XSA9CiAgICBFTlZbJ0FXU19TM19FTkRQT0lOVCddIAogIGNvbmZpZy5mb2dfY3JlZGVudGlhbHNbOmhvc3RdID0KICAgIEVOVlsnQVdTX1MzX0hPU1QnXSBpZiBFTlZbJ0FXU19TM19IT1NUJ10ucHJlc2VudD8K</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">TUlOSU8gPSBFTlZbJ0FXU19TM19FTkRQT0lOVCddLnRvX3MuaW5jbHVkZT8gJ21pbmlvJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIyBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">IEVOVlsnQVdTX1MzX0VORFBPSU5UJ10udG9fcy5pbmNsdWRlPyAnbWluaW8nCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">QVdTX1JFR0lPTj11cy1lYXN0LTEK</text>
+      <register name="4" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6IEVOVlsnQVdTX1MzX0hPU1QnXSwK</text>
+        <text encoding="base64">ICAgICAgIyBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZHBvaW50OiBFTlZbJ0FXU19TM19FTkRQT0lOVCddLAo=</text>
+        <text encoding="base64">QVdTX1JFR0lPTj11cy1lYXN0LTEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbmRwb2ludDogRU5WWydBV1NfUzNfRU5EUE9JTlQnXSwK</text>
+        <text encoding="base64">ICAgIGhvc3Q6IEVOVlsnQVdTX1MzX0hPU1QnXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIGVuZHBvaW50OiBFTlZbJ0FXU19TM19FTkRQT0lOVCddLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmRwb2ludDogRU5WWydBV1NfUzNfRU5EUE9JTlQnXSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
