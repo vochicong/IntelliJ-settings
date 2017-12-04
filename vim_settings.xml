@@ -46,11 +46,11 @@
         <mark key="^" line="14" column="2" />
         <mark key="." line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker.local" timestamp="1510567634464">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/.env.docker.local" timestamp="1512386052822">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="7" column="12" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/mkdir.sh" timestamp="1512362953490">
         <mark key="'" line="1" column="67" />
@@ -100,7 +100,7 @@
       <file name="$USER_HOME$/dev-env/mac/roles/common/tasks/main.yml" timestamp="1508634292406">
         <mark key="[" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1512365433869">
+      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1512375722266">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="39" />
@@ -128,11 +128,11 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1512369899611">
-        <mark key="[" line="54" column="14" />
-        <mark key="]" line="54" column="12" />
-        <mark key="." line="54" column="12" />
-        <mark key="^" line="54" column="12" />
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1512375813665">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="12" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/mac/install.sh" timestamp="1511760475229">
         <mark key="[" line="8" column="0" />
@@ -146,7 +146,7 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" timestamp="1512368569248">
+      <file name="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" timestamp="1512384715322">
         <mark key="[" line="28" column="55" />
         <mark key="]" line="28" column="55" />
         <mark key="." line="28" column="55" />
@@ -156,9 +156,9 @@
         <mark key="[" line="12" column="37" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1512364734575">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1509684085687">
         <mark key="[" line="12" column="0" />
@@ -212,7 +212,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512368295230">
+      <file name="/Dummy.txt" timestamp="1512384960384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -230,7 +230,7 @@
       <file name="$USER_HOME$/mcs_ver2/docker/installers/install-dev.sh" timestamp="1511849197524">
         <mark key="[" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1512371726193">
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1512386033915">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="13" column="29" />
         <mark key="^" line="12" column="22" />
@@ -373,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'./tmp/minio:</text>
+        <text>minio</text>
       </register>
       <register name="-" type="4">
-        <text>'./tmp/minio:</text>
+        <text>minio</text>
       </register>
       <register name="/" type="4">
         <text>xlsx_pac</text>
