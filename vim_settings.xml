@@ -145,6 +145,12 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" timestamp="1512368569248">
+        <mark key="[" line="28" column="55" />
+        <mark key="]" line="28" column="55" />
+        <mark key="." line="28" column="55" />
+        <mark key="^" line="28" column="58" />
+      </file>
       <file name="$USER_HOME$/dev-env/mac/scripts/24-install-ruby.sh" timestamp="1508454399079">
         <mark key="[" line="12" column="37" />
       </file>
@@ -205,7 +211,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512365774233">
+      <file name="/Dummy.txt" timestamp="1512368295230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -223,11 +229,11 @@
       <file name="$USER_HOME$/mcs_ver2/docker/installers/install-dev.sh" timestamp="1511849197524">
         <mark key="[" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1512366589080">
+      <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1512369124329">
         <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="11" />
-        <mark key="^" line="14" column="11" />
-        <mark key="." line="13" column="11" />
+        <mark key="]" line="13" column="29" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="13" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1508743998076">
         <mark key="[" line="0" column="0" />
@@ -366,10 +372,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>xlsx_pac</text>
