@@ -53,11 +53,7 @@
         <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/mkdir.sh" timestamp="1512362953490">
-        <mark key="'" line="14" column="67" />
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="21" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="3" column="21" />
+        <mark key="'" line="1" column="67" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508308163368">
         <mark key="[" line="0" column="0" />
@@ -132,6 +128,11 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1512363798815">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/mac/install.sh" timestamp="1511760475229">
         <mark key="[" line="8" column="0" />
       </file>
@@ -147,8 +148,8 @@
       <file name="$USER_HOME$/dev-env/mac/scripts/24-install-ruby.sh" timestamp="1508454399079">
         <mark key="[" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1512360737468">
-        <mark key="[" line="118" column="35" />
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1512363958813">
+        <mark key="[" line="134" column="30" />
         <mark key="]" line="7" column="29" />
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
@@ -205,7 +206,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512360691739">
+      <file name="/Dummy.txt" timestamp="1512363578975">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -243,6 +244,11 @@
         <mark key="]" line="75" column="4" />
         <mark key="^" line="75" column="3" />
         <mark key="." line="75" column="4" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/rails.server" timestamp="1512363698321">
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="38" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.unicorn.yml" timestamp="1510129102493">
         <mark key="[" line="5" column="0" />
@@ -360,17 +366,17 @@
       <jump line="16" column="67" filename="$USER_HOME$/mcs_ver2/bin/mkdir.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.docker</text>
       </register>
       <register name="-" type="4">
-        <text>=tmp/reports/magellan/data_sheet/</text>
+        <text>.docker</text>
       </register>
       <register name="/" type="4">
         <text>xlsx_pac</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNoZWNrX3N1cnZleV9zdGFydF9kYXRlX21heF9jb3VudCA9IFtAY2hlY2tfc3VydmV5X3N0YXJ0X2RhdGVfbWF4X2NvdW50LCAxXS5tYXgK</text>
+        <text encoding="base64">ICAgICAgLSAuZW52LmRvY2tlcgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -400,7 +406,7 @@
         <text encoding="base64">ICAjIEBjaGVja19zdXJ2ZXlfc3RhcnRfZGF0ZV9tYXhfY291bnQ6IOOAjOaUueWWhOmgheebruaOqOenu+OAjeOBruWIl+aVsOOAgQogICMg44Gk44G+44KK44CB44Gd44KM44Ge44KM44Gu5pS55ZaE6aCF55uu44Gu44OV44Kp44O844Kr44K544K144O844OZ44Kk5a6f5pa95riI44Gu5pyA5aSn5pWwCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wqa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -434,8 +440,8 @@
         <entry>xlsx_pac</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>wqa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
