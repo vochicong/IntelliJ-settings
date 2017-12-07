@@ -64,11 +64,12 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1511442289347">
-        <mark key="[" line="216" column="46" />
-        <mark key="]" line="215" column="0" />
-        <mark key="^" line="215" column="0" />
-        <mark key="." line="215" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1512625966724">
+        <mark key="'" line="108" column="4" />
+        <mark key="[" line="229" column="58" />
+        <mark key="]" line="223" column="34" />
+        <mark key="." line="223" column="33" />
+        <mark key="^" line="223" column="32" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn.server" timestamp="1510551302594">
         <mark key="[" line="3" column="26" />
@@ -111,12 +112,11 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.rubocop.yml" timestamp="1512623732189">
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="70" column="7" />
-        <mark key="]" line="70" column="12" />
-        <mark key="." line="70" column="12" />
-        <mark key="^" line="70" column="12" />
+      <file name="$USER_HOME$/mcs_ver2/.rubocop.yml" timestamp="1512625598360">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="69" column="12" />
       </file>
       <file name="vim_settings.xml" timestamp="1509182218889">
         <mark key="[" line="0" column="0" />
@@ -278,16 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="53" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
-      <jump line="23" column="0" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="13" column="41" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="28" column="0" filename="$USER_HOME$/mcs_ver2/bin/deploy-unicorn" />
-      <jump line="6" column="6" filename="$USER_HOME$/mcs_ver2/bin/deploy-unicorn" />
-      <jump line="2" column="0" filename="$USER_HOME$/mcs_ver2/bin/deploy-unicorn" />
-      <jump line="12" column="0" filename="$USER_HOME$/mcs_ver2/bin/deploy-unicorn" />
-      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/mac/install.sh" />
-      <jump line="19" column="33" filename="$USER_HOME$/mcs_ver2/docker-compose.unicorn.yml" />
-      <jump line="6" column="0" filename="$USER_HOME$/mcs_ver2/docker-compose.unicorn.yml" />
       <jump line="1" column="12" filename="$USER_HOME$/mcs_ver2/.env.local" />
       <jump line="127" column="14" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
       <jump line="125" column="14" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
@@ -378,61 +368,70 @@
       <jump line="23" column="0" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
       <jump line="15" column="27" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
       <jump line="0" column="8" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
+      <jump line="218" column="0" filename="$USER_HOME$/mcs_ver2/README.md" />
+      <jump line="51" column="39" filename="$USER_HOME$/mcs_ver2/README.md" />
+      <jump line="81" column="22" filename="$USER_HOME$/mcs_ver2/README.md" />
+      <jump line="82" column="17" filename="$USER_HOME$/mcs_ver2/README.md" />
+      <jump line="84" column="46" filename="$USER_HOME$/mcs_ver2/README.md" />
+      <jump line="89" column="8" filename="$USER_HOME$/mcs_ver2/README.md" />
+      <jump line="96" column="4" filename="$USER_HOME$/mcs_ver2/README.md" />
+      <jump line="100" column="4" filename="$USER_HOME$/mcs_ver2/README.md" />
+      <jump line="104" column="4" filename="$USER_HOME$/mcs_ver2/README.md" />
+      <jump line="108" column="4" filename="$USER_HOME$/mcs_ver2/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+      <register name="&quot;" type="4">
+        <text>を</text>
       </register>
       <register name="-" type="4">
-        <text>15行</text>
+        <text>を</text>
       </register>
       <register name="/" type="4">
-        <text>Length</text>
+        <text>docker</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgTUlOSU8K</text>
+        <text encoding="base64">R2l044Kz44Of44OD44OI44GZ44KL5YmN44Gr5aSJ5pu0566H5omA44KS44OB44Kn44OD44Kv44GZ44KL44Gr44Gv44CBCgogICAgYmluL3J1Ym9jb3AtZ2l0Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+        <text encoding="base64">IyDjg4fjg5Xjgqnjg6vjg4jvvJogaHR0cHM6Ly9naXRodWIuY29tL2JiYXRzb3YvcnVib2NvcC9ibG9iL21hc3Rlci9jb25maWcvZGVmYXVsdC55bWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiBNSU5JTwogIGNvbmZpZy5mb2dfY3JlZGVudGlhbHNbOmVuZHBvaW50XSA9CiAgICBFTlZbJ0FXU19TM19FTkRQT0lOVCddIAogIGNvbmZpZy5mb2dfY3JlZGVudGlhbHNbOmhvc3RdID0KICAgIEVOVlsnQVdTX1MzX0hPU1QnXSBpZiBFTlZbJ0FXU19TM19IT1NUJ10ucHJlc2VudD8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TUlOSU8gPSBFTlZbJ0FXU19TM19FTkRQT0lOVCddLnRvX3MuaW5jbHVkZT8gJ21pbmlvJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IEVOVlsnQVdTX1MzX0VORFBPSU5UJ10udG9fcy5pbmNsdWRlPyAnbWluaW8nCg==</text>
+        <text encoding="base64">IyMjIOWPguiAgwotIFtSdWJ5IOOCueOCv+OCpOODq+OCrOOCpOODiV0oaHR0cHM6Ly9naXRodWIuY29tL2ZvcnRpc3NpbW8xOTk3L3J1Ynktc3R5bGUtZ3VpZGUvYmxvYi9qYXBhbmVzZS9SRUFETUUuamEubWQpCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">LSBbLnJ1Ym9jb3AueW1sXSgucnVib2NvcC55bWwpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyBiaW5kaW5nLnByeQo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">44CACuOAgArjgIA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QVdTX1JFR0lPTj11cy1lYXN0LTEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6IEVOVlsnQVdTX1MzX0hPU1QnXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZHBvaW50OiBFTlZbJ0FXU19TM19FTkRQT0lOVCddLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Length</last-search>
+      <last-search>docker</last-search>
       <last-offset />
-      <last-pattern>Length</last-pattern>
+      <last-pattern>docker</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vochicong</entry>
         <entry>digest</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxjb21tYW5kXD4=</entry>
@@ -452,6 +451,7 @@
         <entry encoding="base64">XDxlbmRwb2ludFw+</entry>
         <entry encoding="base64">XDxBV1NfUzNfSE9TVFw+</entry>
         <entry>Length</entry>
+        <entry>docker</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
