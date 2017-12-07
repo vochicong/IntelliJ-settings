@@ -40,16 +40,13 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/mkdir.sh" timestamp="1512362953490">
-        <mark key="'" line="1" column="67" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="16" column="45" />
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1512627146452">
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1512627323831">
         <mark key="'" line="108" column="4" />
         <mark key="[" line="240" column="0" />
         <mark key="]" line="240" column="0" />
@@ -80,7 +77,7 @@
         <mark key="^" line="1" column="40" />
         <mark key="." line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/bundle.dev" timestamp="1510126777826">
+      <file name="$USER_HOME$/mcs_ver2/bin/bundle.dev" timestamp="1512638023077">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="4" column="3" />
         <mark key="." line="3" column="37" />
@@ -101,6 +98,11 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/rubocop" timestamp="1512638403732">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/Ruby Console" timestamp="1512098787782">
         <mark key="[" line="0" column="0" />
@@ -157,6 +159,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/rubocop-git" timestamp="1512638396874">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/.env.production.local" timestamp="1510571203383">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -182,9 +189,6 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512627224863">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/config/initializers/apitome.rb" timestamp="1509957609515">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -208,11 +212,6 @@
         <mark key="]" line="75" column="4" />
         <mark key="^" line="75" column="3" />
         <mark key="." line="75" column="4" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/rails.server" timestamp="1512363698321">
-        <mark key="]" line="4" column="38" />
-        <mark key="^" line="4" column="38" />
-        <mark key="." line="4" column="38" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.unicorn.yml" timestamp="1510129102493">
         <mark key="[" line="5" column="0" />
@@ -334,7 +333,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>docker</text>
@@ -349,16 +348,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W1J1Ynnjgrnjgr/jgqTjg6vjgqzjgqTjg4ldKGh0dHBzOi8vZ2l0aHViLmNvbS9mb3J0aXNzaW1vMTk5Ny9ydWJ5LXN0eWxlLWd1aWRlL2Jsb2IvamFwYW5lc2UvUkVBRE1FLmphLm1kKQo=</text>
+        <text encoding="base64">ZWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">44Oq44Oz44Kv77yaCg==</text>
+        <text encoding="base64">aWYgWyAiJElOX0RPQ0tFUiIgPT0gdHJ1ZSBdOyB0aGVuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBbZ3VhcmQtcnVib2NvcF0oaHR0cHM6Ly9naXRodWIuY29tL3l1amluYWtheWFtYS9ndWFyZC1ydWJvY29wKQo=</text>
+        <text encoding="base64">c2V0IC14Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBbcnVib2NvcC1yc3BlY10oaHR0cHM6Ly9naXRodWIuY29tL2JhY2t1cy9ydWJvY29wLXJzcGVjKQo=</text>
+        <text encoding="base64">UkVBRE1F6L+96KiYIFBST0RVQ1QtMTQ0MiAwaCA1Nm0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -367,7 +366,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">44Gd44Gu5LuW44Gr44Gk44GE44Gm44Gv44CBUnVieeOCueOCv+OCpOODq+OCrOOCpOODieOBquOBqeOCkuWPguiAg+OBq+OBl+OBpuOBj+OBoOOBleOBhOOAggo=</text>
+        <text encoding="base64">W1J1Ynnjgrnjgr/jgqTjg6vjgqzjgqTjg4ldKGh0dHBzOi8vZ2l0aHViLmNvbS9mb3J0aXNzaW1vMTk5Ny9ydWJ5LXN0eWxlLWd1aWRlL2Jsb2IvamFwYW5lc2UvUkVBRE1FLmphLm1kKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
