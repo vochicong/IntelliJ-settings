@@ -91,7 +91,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1508743121988">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1512619714668">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1512620803591">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="1" column="40" />
         <mark key="^" line="1" column="40" />
@@ -110,6 +110,13 @@
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/.rubocop.yml" timestamp="1512623732189">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="70" column="7" />
+        <mark key="]" line="70" column="12" />
+        <mark key="." line="70" column="12" />
+        <mark key="^" line="70" column="12" />
       </file>
       <file name="vim_settings.xml" timestamp="1509182218889">
         <mark key="[" line="0" column="0" />
@@ -271,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="68" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
       <jump line="48" column="53" filename="$USER_HOME$/mcs_ver2/app/models/magellan_check_survey_setting.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="13" column="41" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
@@ -371,61 +377,61 @@
       <jump line="11" column="39" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
       <jump line="15" column="27" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
+      <jump line="0" column="8" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpZiBNSU5JTwogIGNvbmZpZy5mb2dfY3JlZGVudGlhbHNbOmVuZHBvaW50XSA9CiAgICBFTlZbJ0FXU19TM19FTkRQT0lOVCddIAogIGNvbmZpZy5mb2dfY3JlZGVudGlhbHNbOmhvc3RdID0KICAgIEVOVlsnQVdTX1MzX0hPU1QnXSBpZiBFTlZbJ0FXU19TM19IT1NUJ10ucHJlc2VudD8K</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>if ENV['AWS_S3_ENDPOINT'].present?</text>
+        <text>15行</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBV1NfUzNfSE9TVFw+</text>
+        <text>Length</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aWYgTUlOSU8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZiBNSU5JTwogIGNvbmZpZy5mb2dfY3JlZGVudGlhbHNbOmVuZHBvaW50XSA9CiAgICBFTlZbJ0FXU19TM19FTkRQT0lOVCddIAogIGNvbmZpZy5mb2dfY3JlZGVudGlhbHNbOmhvc3RdID0KICAgIEVOVlsnQVdTX1MzX0hPU1QnXSBpZiBFTlZbJ0FXU19TM19IT1NUJ10ucHJlc2VudD8K</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TUlOSU8gPSBFTlZbJ0FXU19TM19FTkRQT0lOVCddLnRvX3MuaW5jbHVkZT8gJ21pbmlvJwo=</text>
+        <text encoding="base64">ICBpZiBNSU5JTwogIGNvbmZpZy5mb2dfY3JlZGVudGlhbHNbOmVuZHBvaW50XSA9CiAgICBFTlZbJ0FXU19TM19FTkRQT0lOVCddIAogIGNvbmZpZy5mb2dfY3JlZGVudGlhbHNbOmhvc3RdID0KICAgIEVOVlsnQVdTX1MzX0hPU1QnXSBpZiBFTlZbJ0FXU19TM19IT1NUJ10ucHJlc2VudD8K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">TUlOSU8gPSBFTlZbJ0FXU19TM19FTkRQT0lOVCddLnRvX3MuaW5jbHVkZT8gJ21pbmlvJwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">IEVOVlsnQVdTX1MzX0VORFBPSU5UJ10udG9fcy5pbmNsdWRlPyAnbWluaW8nCg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIyBiaW5kaW5nLnByeQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QVdTX1JFR0lPTj11cy1lYXN0LTEK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGhvc3Q6IEVOVlsnQVdTX1MzX0hPU1QnXSwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZHBvaW50OiBFTlZbJ0FXU19TM19FTkRQT0lOVCddLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbmRwb2ludDogRU5WWydBV1NfUzNfRU5EUE9JTlQnXSwK</text>
+        <text encoding="base64">ICAgIGVuZHBvaW50OiBFTlZbJ0FXU19TM19FTkRQT0lOVCddLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBV1NfUzNfSE9TVFw+</last-search>
+      <last-search>Length</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBV1NfUzNfSE9TVFw+</last-pattern>
+      <last-pattern>Length</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYXRpc2ZhY3Rpb25zXD4=</entry>
         <entry>vochicong</entry>
         <entry>digest</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
@@ -445,6 +451,7 @@
         <entry>xlsx_pac</entry>
         <entry encoding="base64">XDxlbmRwb2ludFw+</entry>
         <entry encoding="base64">XDxBV1NfUzNfSE9TVFw+</entry>
+        <entry>Length</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
