@@ -91,6 +91,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1508743121988">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1512619714668">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/bundle.dev" timestamp="1510126777826">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="4" column="3" />
@@ -128,6 +134,7 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_chain.rb" timestamp="1512614004489" />
       <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1512375813665">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="12" />
@@ -185,9 +192,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" timestamp="1512554011275">
-        <mark key="[" line="303" column="20" />
-      </file>
       <file name="/dummy.sql" timestamp="1510558182244">
         <mark key="[" line="0" column="0" />
       </file>
@@ -209,7 +213,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512387648686">
+      <file name="/Dummy.txt" timestamp="1512613988456">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/requests/improvements_spec.rb" timestamp="1510042656903">
@@ -248,7 +252,6 @@
         <mark key="^" line="75" column="3" />
         <mark key="." line="75" column="4" />
       </file>
-      <file name="/carrierwave.rb" timestamp="1512390793036" />
       <file name="$USER_HOME$/mcs_ver2/bin/rails.server" timestamp="1512363698321">
         <mark key="]" line="4" column="38" />
         <mark key="^" line="4" column="38" />
