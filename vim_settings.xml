@@ -119,6 +119,13 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="/index.jbuilder" timestamp="1512698604280" />
+      <file name="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" timestamp="1512717821738">
+        <mark key="'" line="20" column="22" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="16" column="45" />
@@ -186,6 +193,12 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1512718067286">
+        <mark key="'" line="100" column="6" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1512387681473">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -196,6 +209,10 @@
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/config/routes.rb" timestamp="1512718237806">
+        <mark key="'" line="124" column="30" />
+        <mark key="[" line="119" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/spec/spec_helper.rb" timestamp="1510035198058">
         <mark key="[" line="19" column="2" />
@@ -228,14 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="14" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
-      <jump line="151" column="76" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="155" column="53" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="152" column="19" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="100" column="36" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="101" column="35" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="105" column="65" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="106" column="43" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="129" column="26" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="109" column="65" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="102" column="16" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
@@ -328,64 +337,68 @@
       <jump line="108" column="4" filename="$USER_HOME$/mcs_ver2/README.md" />
       <jump line="44" column="26" filename="/magellan_check_survey_answer_expired_process.rb" />
       <jump line="47" column="72" filename="/magellan_check_survey_answer_expired_process.rb" />
+      <jump line="123" column="30" filename="$USER_HOME$/mcs_ver2/config/routes.rb" />
+      <jump line="42" column="42" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
+      <jump line="71" column="2" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
+      <jump line="101" column="46" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
+      <jump line="4" column="0" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
+      <jump line="11" column="46" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
+      <jump line="20" column="22" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
+      <jump line="98" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIOWxnuaAp+OBruWAi+WIpee3qOmbhgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>Read</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXByb3ZlbWVudFw+</text>
+        <text encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cCBNSU5JT19FTkFCTEVECg==</text>
+        <text encoding="base64">ICAjIOWxnuaAp+OBruWAi+WIpeeZu+mMsgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIOWxnuaAp+OBruWAi+WIpee3qOmbhgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgWyAiJElOX0RPQ0tFUiIgPT0gdHJ1ZSBdOyB0aGVuCg==</text>
+        <text encoding="base64">ZWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2V0IC14Cg==</text>
+        <text encoding="base64">aWYgWyAiJElOX0RPQ0tFUiIgPT0gdHJ1ZSBdOyB0aGVuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UkVBRE1F6L+96KiYIFBST0RVQ1QtMTQ0MiAwaCA1Nm0K</text>
+        <text encoding="base64">c2V0IC14Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UkVBRE1F6L+96KiYIFBST0RVQ1QtMTQ0MiAwaCA1Nm0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W1J1Ynnjgrnjgr/jgqTjg6vjgqzjgqTjg4ldKGh0dHBzOi8vZ2l0aHViLmNvbS9mb3J0aXNzaW1vMTk5Ny9ydWJ5LXN0eWxlLWd1aWRlL2Jsb2IvamFwYW5lc2UvUkVBRE1FLmphLm1kKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbXByb3ZlbWVudFw+</last-search>
+      <last-search encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXByb3ZlbWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
-        <entry encoding="base64">XDxjb21tYW5kXD4=</entry>
-        <entry encoding="base64">XDxmaWxlX3BhdGhcPg==</entry>
-        <entry encoding="base64">XDx1cF9hbmRfZG93bl9zYXRpc2ZhY3Rpb25fcmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxnZXRfZm9jdXNfc3VydmV5X3Jlc3VsdF9saXN0XD4=</entry>
         <entry encoding="base64">XDxmb2N1c19zdXJ2ZXlfcmVzdWx0XD4=</entry>
@@ -402,6 +415,10 @@
         <entry>Length</entry>
         <entry>docker</entry>
         <entry encoding="base64">XDxpbXByb3ZlbWVudFw+</entry>
+        <entry>sc_op</entry>
+        <entry encoding="base64">XDxDU1ZcPg==</entry>
+        <entry>CSV</entry>
+        <entry encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
