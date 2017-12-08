@@ -119,12 +119,12 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="/index.jbuilder" timestamp="1512698604280" />
-      <file name="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" timestamp="1512717821738">
-        <mark key="'" line="20" column="22" />
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" timestamp="1512721338198">
+        <mark key="'" line="26" column="22" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="5" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
         <mark key="[" line="17" column="31" />
@@ -193,7 +193,7 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1512718067286">
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1512721309916">
         <mark key="'" line="100" column="6" />
         <mark key="[" line="20" column="11" />
         <mark key="]" line="41" column="0" />
@@ -347,17 +347,17 @@
       <jump line="98" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIOWxnuaAp+OBruWAi+WIpee3qOmbhgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="-" type="4">
-        <text>Read</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAjIOWxnuaAp+OBruWAi+WIpeeZu+mMsgo=</text>
+        <text encoding="base64">IyMgQnVsayBDcmVhdGUvVXBkYXRlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAjIOWxnuaAp+OBruWAi+WIpee3qOmbhgo=</text>
