@@ -71,6 +71,11 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/ruby-tips/.gitignore" timestamp="1512837864489">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/Procfile.dev" timestamp="1510037652197">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -137,6 +142,12 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="5" column="83" />
       </file>
+      <file name="$USER_HOME$/ruby-tips/mixin-comparable-enumerable.rb" timestamp="1512838147064">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="5" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="59" column="2" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/improvements_controller.rb" timestamp="1509435096810">
         <mark key="[" line="10" column="94" />
         <mark key="]" line="10" column="94" />
@@ -148,6 +159,9 @@
         <mark key="]" line="4" column="9" />
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1512838215208">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1512627323831">
         <mark key="'" line="108" column="4" />
@@ -180,11 +194,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1512835235132">
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-        <mark key="^" line="6" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1512836293378">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="59" column="38" />
+        <mark key="]" line="59" column="39" />
+        <mark key="." line="59" column="39" />
+        <mark key="^" line="59" column="39" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/bundle.dev" timestamp="1512638023077">
         <mark key="[" line="3" column="38" />
@@ -244,8 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="26" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="109" column="65" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="102" column="16" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="103" column="44" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="123" column="50" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
@@ -344,37 +357,39 @@
       <jump line="11" column="46" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
       <jump line="20" column="22" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
       <jump line="98" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
+      <jump line="7" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" />
+      <jump line="16" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHV0cyBzbWFsbF9iYWxsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHV0cyA=</text>
       </register>
       <register name="-" type="4">
-        <text>then</text>
+        <text>puts</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</text>
+        <text encoding="base64">XDxjb2xvclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMgQnVsayBDcmVhdGUvVXBkYXRlCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHV0cyA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHV0cyBzbWFsbF9iYWxsCg==</text>
+        <text encoding="base64">bWl4aW4tY29tcGFyYWJsZS1lbnVtZXJhYmxlLnJiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">bWl4aW4tY29tcGFyYWJsZS1lbnVtZXJhYmxlLmlweW5iCg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">cCAKcCAKcCAKcCAKcCAKcCA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">KFsxNSwgMjUsIDQ1LCA2MCwgMTAwXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHV0cyBzbWFsbF9iYWxsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">cCAKcCAKcCAKcCAKcCAKcCA=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -390,15 +405,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</last-search>
+      <last-search encoding="base64">XDxjb2xvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjb2xvclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxnZXRfZm9jdXNfc3VydmV5X3Jlc3VsdF9saXN0XD4=</entry>
         <entry encoding="base64">XDxmb2N1c19zdXJ2ZXlfcmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxsYXN0X2ZvY3VzX3N1cnZleV9yZXN1bHRcPg==</entry>
@@ -418,6 +432,7 @@
         <entry encoding="base64">XDxDU1ZcPg==</entry>
         <entry>CSV</entry>
         <entry encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</entry>
+        <entry encoding="base64">XDxjb2xvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
