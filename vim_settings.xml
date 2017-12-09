@@ -180,10 +180,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1512823770021">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1512835235132">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/bundle.dev" timestamp="1512638023077">
         <mark key="[" line="3" column="38" />
@@ -346,7 +347,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHV0cyBzbWFsbF9iYWxsCg==</text>
       </register>
       <register name="-" type="4">
         <text>then</text>
@@ -358,13 +359,13 @@
         <text encoding="base64">IyMgQnVsayBDcmVhdGUvVXBkYXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHV0cyBzbWFsbF9iYWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">cCAKcCAKcCAKcCAKcCAKcCA=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -376,7 +377,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIOWxnuaAp+OBruWAi+WIpee3qOmbhgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
