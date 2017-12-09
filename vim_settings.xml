@@ -180,11 +180,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1512620803591">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="29" column="40" />
-        <mark key="^" line="29" column="40" />
-        <mark key="." line="29" column="40" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1512822592184">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/bundle.dev" timestamp="1512638023077">
         <mark key="[" line="3" column="38" />
@@ -346,11 +345,11 @@
       <jump line="98" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">OiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>then</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</text>
@@ -359,7 +358,7 @@
         <text encoding="base64">IyMgQnVsayBDcmVhdGUvVXBkYXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIOWxnuaAp+OBruWAi+WIpee3qOmbhgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -368,22 +367,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgWyAiJElOX0RPQ0tFUiIgPT0gdHJ1ZSBdOyB0aGVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0IC14Cg==</text>
+        <text encoding="base64">ICAjIOWxnuaAp+OBruWAi+WIpee3qOmbhgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UkVBRE1F6L+96KiYIFBST0RVQ1QtMTQ0MiAwaCA1Nm0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
