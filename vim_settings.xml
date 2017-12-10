@@ -41,6 +41,9 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="12" />
       </file>
+      <file name="$USER_HOME$/ruby-tips/notebook.sh" timestamp="1512865159661">
+        <mark key="[" line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/lib/custom_date_time.rb" timestamp="1512098837993">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="35" />
@@ -123,6 +126,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/ruby-tips/class_instance_attributes.rb" timestamp="1512865021153" />
       <file name="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" timestamp="1512721946903">
         <mark key="'" line="26" column="22" />
         <mark key="[" line="5" column="0" />
@@ -159,9 +163,6 @@
         <mark key="]" line="4" column="9" />
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512838215208">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1512627323831">
         <mark key="'" line="108" column="4" />
@@ -228,6 +229,7 @@
         <mark key="'" line="124" column="30" />
         <mark key="[" line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/ruby-tips/class_object_attributes.rb" timestamp="1512864997349" />
       <file name="$USER_HOME$/mcs_ver2/spec/spec_helper.rb" timestamp="1510035198058">
         <mark key="[" line="19" column="2" />
         <mark key="]" line="19" column="2" />
@@ -361,11 +363,11 @@
       <jump line="16" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHV0cyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">TWl4aW4gKENvbXBhcmFibGUsIEVudW1lcmFibGUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>puts</text>
+        <text>Animal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2xvclw+</text>
@@ -374,25 +376,25 @@
         <text encoding="base64">cHV0cyA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWl4aW4tY29tcGFyYWJsZS1lbnVtZXJhYmxlLnJiCg==</text>
+        <text encoding="base64">TWl4aW4gKENvbXBhcmFibGUsIEVudW1lcmFibGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWl4aW4tY29tcGFyYWJsZS1lbnVtZXJhYmxlLmlweW5iCg==</text>
+        <text encoding="base64">bWl4aW4tY29tcGFyYWJsZS1lbnVtZXJhYmxlLnJiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KFsxNSwgMjUsIDQ1LCA2MCwgMTAwXSkK</text>
+        <text encoding="base64">bWl4aW4tY29tcGFyYWJsZS1lbnVtZXJhYmxlLmlweW5iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHV0cyBzbWFsbF9iYWxsCg==</text>
+        <text encoding="base64">KFsxNSwgMjUsIDQ1LCA2MCwgMTAwXSkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">cHV0cyBzbWFsbF9iYWxsCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">cCAKcCAKcCAKcCAKcCAKcCA=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
