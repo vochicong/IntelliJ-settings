@@ -125,12 +125,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" timestamp="1512971552948">
-        <mark key="'" line="22" column="21" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="14" column="27" />
+      <file name="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" timestamp="1512988415918">
+        <mark key="[" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
         <mark key="[" line="17" column="31" />
@@ -156,7 +152,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512966447131">
+      <file name="/Dummy.txt" timestamp="1512987809693">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1512627323831">
@@ -202,7 +198,7 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1512721309916">
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1512986279135">
         <mark key="'" line="100" column="6" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -253,11 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="72" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="115" column="16" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="137" column="33" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="138" column="33" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="15" column="0" filename="$USER_HOME$/mcs_ver2/config/unicorn.rb" />
       <jump line="12" column="20" filename="$USER_HOME$/mcs_ver2/.env" />
       <jump line="17" column="11" filename="$USER_HOME$/mcs_ver2/.env.docker" />
       <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/config/application.rb" />
@@ -353,6 +344,11 @@
       <jump line="278" column="0" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
       <jump line="14" column="22" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
       <jump line="23" column="21" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
+      <jump line="44" column="60" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
+      <jump line="89" column="60" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
+      <jump line="101" column="20" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
+      <jump line="43" column="54" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
+      <jump line="100" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -362,7 +358,7 @@
         <text>String</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOdW1iZXJcPg==</text>
+        <text encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">fCBgYXR0cmlidXRlYCAgfCBTdHJpbmcgfCAqIHwgIHwg5bGe5oCnIHwgICB8CnwgYGF0dHJpYnV0ZUdyb3VwYCAgfCBTdHJpbmcgIHwgKiB8ICB8IOWxnuaAp+OCsOODq+ODvOODlyB8ICAgfAp8IGBwcmV2QXR0cmlidXRlYCB8IFN0cmluZyB8ICB8ICAgfCDliY3lm57lsZ7mgKcgfCAgfAp8IGBhY3Rpb25QbGFuVXNlck5hbWVgICB8IFN0cmluZyB8ICAgfCAgIHwg44Ki44Kv44K344On44Oz44OX44Op44Oz5ouF5b2T6ICF5ZCNICB8ICAgfHwK</text>
@@ -399,16 +395,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOdW1iZXJcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOdW1iZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb2N1c19zdXJ2ZXlfcmVzdWx0XD4=</entry>
-        <entry encoding="base64">XDxsYXN0X2ZvY3VzX3N1cnZleV9yZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxzdXJ2ZXlfcmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxleHBlY3RhdGlvblw+</entry>
         <entry encoding="base64">XDxzYXRpc2ZhY3Rpb25cPg==</entry>
@@ -424,9 +418,11 @@
         <entry>sc_op</entry>
         <entry encoding="base64">XDxDU1ZcPg==</entry>
         <entry>CSV</entry>
-        <entry encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</entry>
         <entry encoding="base64">XDxDcmVhdGVcPg==</entry>
         <entry encoding="base64">XDxOdW1iZXJcPg==</entry>
+        <entry encoding="base64">XDxtYWdlbGxhbl9zdXJ2ZXlcPg==</entry>
+        <entry encoding="base64">XDxhdHRyaWJ1dGVcPg==</entry>
+        <entry encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
