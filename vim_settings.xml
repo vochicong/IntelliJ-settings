@@ -125,11 +125,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" timestamp="1512970800185">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" timestamp="1512971552948">
+        <mark key="'" line="22" column="21" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="14" column="27" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
         <mark key="[" line="17" column="31" />
@@ -252,9 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="16" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="103" column="44" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
-      <jump line="123" column="50" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="124" column="72" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="115" column="16" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="137" column="33" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
@@ -352,61 +350,63 @@
       <jump line="98" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
       <jump line="8" column="8" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
       <jump line="2" column="3" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
+      <jump line="278" column="0" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
+      <jump line="14" column="22" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
+      <jump line="23" column="21" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDcmVhdGVcPg==</text>
+        <text encoding="base64">XDxOdW1iZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMgQnVsayBDcmVhdGUvVXBkYXRlCg==</text>
+        <text encoding="base64">fCBgYXR0cmlidXRlYCAgfCBTdHJpbmcgfCAqIHwgIHwg5bGe5oCnIHwgICB8CnwgYGF0dHJpYnV0ZUdyb3VwYCAgfCBTdHJpbmcgIHwgKiB8ICB8IOWxnuaAp+OCsOODq+ODvOODlyB8ICAgfAp8IGBwcmV2QXR0cmlidXRlYCB8IFN0cmluZyB8ICB8ICAgfCDliY3lm57lsZ7mgKcgfCAgfAp8IGBhY3Rpb25QbGFuVXNlck5hbWVgICB8IFN0cmluZyB8ICAgfCAgIHwg44Ki44Kv44K344On44Oz44OX44Op44Oz5ouF5b2T6ICF5ZCNICB8ICAgfHwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+        <text encoding="base64">fCBgYXR0cmlidXRlR3JvdXBgICB8IFN0cmluZyAgfCAqIHwgIHwg5bGe5oCn44Kw44Or44O844OXIHwgICB8Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMgQnVsayBDcmVhdGUvVXBkYXRlCgpDU1bjgqLjg4Pjg5fjg63jg7zjg4njgavjgojjgovlsZ7mgKfkuIDmi6znmbvpjLLjg7vlpInmm7QKCg==</text>
+        <text encoding="base64">fCBgYXR0cmlidXRlYCAgICB8IEZpbGUgICB8ICogICAgICAgIHwgICAgICAgIHwgQ1NW44OV44Kh44Kk44OrICAgICAgICAgICAgICAgICAgICB8ICAgICAgIHwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgQ3JlYXRlCgrlsZ7mgKfjga7lgIvliKXnmbvpjLIgCgpUT0RPOiDlhajkvZPlsZ7mgKfjga7lr77lv5wgUFJPRFVDVC03NTIKCiMjIEJ1bGsgQ3JlYXRlL1VwZGF0ZQoKQ1NW44Ki44OD44OX44Ot44O844OJ44Gr44KI44KL5bGe5oCn5LiA5ous55m76Yyy44O75aSJ5pu0Cgo=</text>
+        <text encoding="base64">fCBgdmFsaWRhdGVgICAgIHwgQm9vbGVhbiAgIHwgKiAgICAgICAgfCAgICAgICAgfCAgICAgICAgICAgICAgICAgICAgIHwgICAgICAgfAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fCBgcGVyZm9ybWAgICAgfCBFbnVtICAgfCAgICAgICAgICB8ICAgICAgICB8IOmdnuWQjOacn+WHpueQhuOBqOWQjOacn+WHpueQhuOBruWIh+abv+OBjOOBp+OBjeOBvuOBmSB8bGF0ZXIgKGRlZmF1bHQp77ya6Z2e5ZCM5pyf5Yem55CGPGJyPm5vdzog5ZCM5pyf5Yem55CG77yIR0VU44Gu5a6M5LqG44Os44K544Od44Oz44K544GM6L+U5Y2044GV44KM44G+44GZ77yJfHwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+        <text encoding="base64">IyMjIFtQT1NUXSBgYXBpL3YyL29wZXJhdGlvbnMvb3JnYW5pemF0aW9ucy86aWQvbWFnZWxsYW5fYXR0cmlidXRlX3NldHRpbmdzL2Nzdi9pbXBvcnRzYArlsZ7mgKfkuIDmi6znmbvpjLLjga7jgZ/jgoHjga5FbmRwb2ludOOBp+OBmeOAggo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIOWxnuaAp+OBruWAi+WIpee3qOmbhgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgQnVsayBDcmVhdGUvVXBkYXRlCgpDU1bjgqLjg4Pjg5fjg63jg7zjg4njgavjgojjgovlsZ7mgKfkuIDmi6znmbvpjLLjg7vlpInmm7QKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDcmVhdGVcPg==</last-search>
+      <last-search encoding="base64">XDxOdW1iZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDcmVhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxOdW1iZXJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfZm9jdXNfc3VydmV5X3Jlc3VsdF9saXN0XD4=</entry>
         <entry encoding="base64">XDxmb2N1c19zdXJ2ZXlfcmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxsYXN0X2ZvY3VzX3N1cnZleV9yZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxzdXJ2ZXlfcmVzdWx0XD4=</entry>
@@ -426,6 +426,7 @@
         <entry>CSV</entry>
         <entry encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</entry>
         <entry encoding="base64">XDxDcmVhdGVcPg==</entry>
+        <entry encoding="base64">XDxOdW1iZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
