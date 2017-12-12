@@ -40,12 +40,12 @@
         <mark key="^" line="25" column="18" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" timestamp="1513063675560">
-        <mark key="'" line="17" column="2" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" timestamp="1513067900826">
+        <mark key="'" line="18" column="2" />
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="17" column="42" />
+        <mark key="^" line="17" column="42" />
+        <mark key="." line="17" column="42" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1510036089486">
         <mark key="[" line="13" column="15" />
@@ -370,10 +370,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29tcGFueT0gQ29tcGFueS5maW5kX2J5KGNvZGU6IDEwMDAwMDAwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgYXR0cmlidXRlX2tleTogYXR0cmlidXRlX2tleQo=</text>
       </register>
       <register name="-" type="4">
-        <text>company: company</text>
+        <text>attribute_key</text>
       </register>
       <register name="/" type="4">
         <text>Align</text>
@@ -382,31 +382,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICBjb21wYW55OiBDb21wYW55LmZpbmRfYnkoY29kZTogMTAwMDAwMDAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29tcGFueT0gQ29tcGFueS5maW5kX2J5KGNvZGU6IDEwMDAwMDAwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgYXR0cmlidXRlX2tleTogYXR0cmlidXRlX2tleQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjcmVhdGUgOm1hZ2VsbGFuX3N1cnZleSwgCiAgICAgICAgICAgICAgICAgY29tcGFueTogQ29tcGFueS5maW5kX2J5KGNvZGU6IDEwMDAwMDAwMCkKCg==</text>
+        <text encoding="base64">Y29tcGFueT0gQ29tcGFueS5maW5kX2J5KGNvZGU6IDEwMDAwMDAwMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjcmVhdGUgOm1hZ2VsbGFuX3N1cnZleSwgCiAgICAgICAgICAgICAgICAgY29tcGFueTogQ29tcGFueS5maW5kX2J5KGNvZGU6IDEwMDAwMDAwMCkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29tcGFueV9jb2RlID0gMTAwMDAwMDAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29tcGFueV9jb2RlID0gOTAwMDk5OTEwMAo=</text>
+        <text encoding="base64">Y29tcGFueV9jb2RlID0gMTAwMDAwMDAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29tcGFueV9jb2RlID0gOTAwMDk5OTEwMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5jbHVkZSBGYWN0b3J5Qm90OjpTeW50YXg6Ok1ldGhvZHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW5jbHVkZSBGYWN0b3J5Qm90OjpTeW50YXg6Ok1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
