@@ -40,12 +40,12 @@
         <mark key="^" line="25" column="18" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" timestamp="1513069363891">
+      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" timestamp="1513070056955">
         <mark key="'" line="24" column="2" />
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="29" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="16" column="2" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1510036089486">
         <mark key="[" line="13" column="15" />
@@ -369,11 +369,11 @@
       <jump line="50" column="15" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Align</text>
