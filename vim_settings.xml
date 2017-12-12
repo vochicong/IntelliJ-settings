@@ -88,7 +88,11 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/assets/javascripts/services/resources.coffee" timestamp="1512957952568" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.rb" timestamp="1513052237946">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/Dockerfile.prod" timestamp="1510290968135">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -118,15 +122,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docs/API仕様書/A023-API:Operations:Organizetions:id:SurveyChains.md" timestamp="1512957866983" />
       <file name="$USER_HOME$/mcs_ver2/.env.production.local" timestamp="1510571203383">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" timestamp="1512988415918">
-        <mark key="[" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
         <mark key="[" line="17" column="31" />
@@ -198,10 +198,10 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1512986279135">
-        <mark key="'" line="100" column="6" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1513052700948">
+        <mark key="'" line="105" column="6" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1512387681473">
         <mark key="[" line="11" column="0" />
@@ -223,7 +223,6 @@
         <mark key="^" line="17" column="65" />
         <mark key="." line="19" column="2" />
       </file>
-      <file name="/A025-API:Organizations:id:MagellanAttributeSettings.md" timestamp="1512970795628" />
       <file name="$USER_HOME$/mcs_ver2/app/services/magellan_check_surveys/result_service.rb" timestamp="1510228282518">
         <mark key="[" line="75" column="4" />
         <mark key="]" line="75" column="4" />
@@ -352,43 +351,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29tcGFueV9pZCA9IGN1cnJlbnRfY29tcGFueS5pZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">fCBgYXR0cmlidXRlYCAgfCBTdHJpbmcgfCAqIHwgIHwg5bGe5oCnIHwgICB8CnwgYGF0dHJpYnV0ZUdyb3VwYCAgfCBTdHJpbmcgIHwgKiB8ICB8IOWxnuaAp+OCsOODq+ODvOODlyB8ICAgfAp8IGBwcmV2QXR0cmlidXRlYCB8IFN0cmluZyB8ICB8ICAgfCDliY3lm57lsZ7mgKcgfCAgfAp8IGBhY3Rpb25QbGFuVXNlck5hbWVgICB8IFN0cmluZyB8ICAgfCAgIHwg44Ki44Kv44K344On44Oz44OX44Op44Oz5ouF5b2T6ICF5ZCNICB8ICAgfHwK</text>
+        <text encoding="base64">c3VydmV5ID0gTWFnZWxsYW5TdXJ2ZXkuZmluZF9sYXRlc3RfbWFnZWxsYW5fc3VydmV5X2J5X2NvbXBhbnlfaWQoY3VycmVudF9jb21wYW55LmlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29tcGFueV9pZCA9IGN1cnJlbnRfY29tcGFueS5pZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fCBgYXR0cmlidXRlR3JvdXBgICB8IFN0cmluZyAgfCAqIHwgIHwg5bGe5oCn44Kw44Or44O844OXIHwgICB8Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">fCBgYXR0cmlidXRlYCAgICB8IEZpbGUgICB8ICogICAgICAgIHwgICAgICAgIHwgQ1NW44OV44Kh44Kk44OrICAgICAgICAgICAgICAgICAgICB8ICAgICAgIHwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fCBgdmFsaWRhdGVgICAgIHwgQm9vbGVhbiAgIHwgKiAgICAgICAgfCAgICAgICAgfCAgICAgICAgICAgICAgICAgICAgIHwgICAgICAgfAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fCBgcGVyZm9ybWAgICAgfCBFbnVtICAgfCAgICAgICAgICB8ICAgICAgICB8IOmdnuWQjOacn+WHpueQhuOBqOWQjOacn+WHpueQhuOBruWIh+abv+OBjOOBp+OBjeOBvuOBmSB8bGF0ZXIgKGRlZmF1bHQp77ya6Z2e5ZCM5pyf5Yem55CGPGJyPm5vdzog5ZCM5pyf5Yem55CG77yIR0VU44Gu5a6M5LqG44Os44K544Od44Oz44K544GM6L+U5Y2044GV44KM44G+44GZ77yJfHwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyMjIFtQT1NUXSBgYXBpL3YyL29wZXJhdGlvbnMvb3JnYW5pemF0aW9ucy86aWQvbWFnZWxsYW5fYXR0cmlidXRlX3NldHRpbmdzL2Nzdi9pbXBvcnRzYArlsZ7mgKfkuIDmi6znmbvpjLLjga7jgZ/jgoHjga5FbmRwb2ludOOBp+OBmeOAggo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fCBgYXR0cmlidXRlR3JvdXBgICB8IFN0cmluZyAgfCAqIHwgIHwg5bGe5oCn44Kw44Or44O844OXIHwgICB8Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fCBgYXR0cmlidXRlYCAgICB8IEZpbGUgICB8ICogICAgICAgIHwgICAgICAgIHwgQ1NW44OV44Kh44Kk44OrICAgICAgICAgICAgICAgICAgICB8ICAgICAgIHwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fCBgdmFsaWRhdGVgICAgIHwgQm9vbGVhbiAgIHwgKiAgICAgICAgfCAgICAgICAgfCAgICAgICAgICAgICAgICAgICAgIHwgICAgICAgfAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fCBgcGVyZm9ybWAgICAgfCBFbnVtICAgfCAgICAgICAgICB8ICAgICAgICB8IOmdnuWQjOacn+WHpueQhuOBqOWQjOacn+WHpueQhuOBruWIh+abv+OBjOOBp+OBjeOBvuOBmSB8bGF0ZXIgKGRlZmF1bHQp77ya6Z2e5ZCM5pyf5Yem55CGPGJyPm5vdzog5ZCM5pyf5Yem55CG77yIR0VU44Gu5a6M5LqG44Os44K544Od44Oz44K544GM6L+U5Y2044GV44KM44G+44GZ77yJfHwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyMjIFtQT1NUXSBgYXBpL3YyL29wZXJhdGlvbnMvb3JnYW5pemF0aW9ucy86aWQvbWFnZWxsYW5fYXR0cmlidXRlX3NldHRpbmdzL2Nzdi9pbXBvcnRzYArlsZ7mgKfkuIDmi6znmbvpjLLjga7jgZ/jgoHjga5FbmRwb2ludOOBp+OBmeOAggo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgQnVsayBDcmVhdGUvVXBkYXRlCgpDU1bjgqLjg4Pjg5fjg63jg7zjg4njgavjgojjgovlsZ7mgKfkuIDmi6znmbvpjLLjg7vlpInmm7QKCg==</text>
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
