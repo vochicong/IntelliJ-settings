@@ -4,41 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/mcs_ver2/spec/factories/magellan_summary_results.rb" timestamp="1513057510543" />
-      <file name="$USER_HOME$/mcs_ver2/config/webpacker.yml" timestamp="1511764582455">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/user.rb" timestamp="1512967425514">
-        <mark key="[" line="720" column="0" />
-        <mark key="]" line="720" column="0" />
-        <mark key="." line="720" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/seeds.rb" timestamp="1513057151462">
         <mark key="[" line="14" column="46" />
         <mark key="]" line="14" column="46" />
         <mark key="." line="14" column="46" />
         <mark key="^" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/rubocop" timestamp="1512638403732">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/Ruby Console" timestamp="1512098787782">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test-uit.sh" timestamp="1509674519961">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="17" column="53" />
-        <mark key="^" line="6" column="37" />
-        <mark key="." line="6" column="37" />
-      </file>
-      <file name="/magellan_check_survey_answer_expired_process.rb" timestamp="1512698807825">
-        <mark key="'" line="47" column="72" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/notice_mailer/magellan_check_survey_report.html.erb" timestamp="1511776667439">
         <mark key="'" line="48" column="50" />
@@ -47,53 +17,17 @@
         <mark key="." line="49" column="41" />
         <mark key="^" line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1512375813665">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-        <mark key="^" line="16" column="12" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/lib/custom_date_time.rb" timestamp="1512098837993">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" timestamp="1512548418027">
-        <mark key="'" line="16" column="27" />
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="0" column="21" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn" timestamp="1510130895614">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="25" />
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.rb" timestamp="1512626499971">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1512388748685">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/Procfile.dev" timestamp="1510037652197">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1509684085687">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.rb" timestamp="1513052237946">
         <mark key="[" line="2" column="0" />
@@ -106,18 +40,12 @@
         <mark key="^" line="25" column="18" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test.sh" timestamp="1509674549184">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" timestamp="1513059245194">
-        <mark key="'" line="17" column="2" />
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="14" column="2" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="14" column="2" />
+      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" timestamp="1513062237150">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1510036089486">
         <mark key="[" line="13" column="15" />
@@ -131,45 +59,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/rubocop-git" timestamp="1512638396874">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.env.production.local" timestamp="1510571203383">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="16" column="45" />
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/test-all.sh" timestamp="1509674539094">
-        <mark key="[" line="9" column="54" />
-        <mark key="]" line="11" column="36" />
-        <mark key="." line="11" column="36" />
-        <mark key="^" line="5" column="83" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/improvements_controller.rb" timestamp="1509435096810">
-        <mark key="[" line="10" column="94" />
-        <mark key="]" line="10" column="94" />
-        <mark key="^" line="10" column="116" />
-        <mark key="." line="10" column="94" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f04e354b-bca5-4633-ba90-334842028864/console.sql" timestamp="1510565640585">
-        <mark key="[" line="4" column="70" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="9" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513057733648">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/csv_import.rb" timestamp="1513056686973" />
       <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1512627323831">
         <mark key="'" line="108" column="4" />
         <mark key="[" line="272" column="0" />
@@ -196,12 +91,6 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/initializers/apitome.rb" timestamp="1509957609515">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1512620803591">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="1" column="40" />
@@ -214,6 +103,129 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1512375722266">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/.rubocop.yml" timestamp="1513061083669">
+        <mark key="'" line="50" column="15" />
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/config/webpacker.yml" timestamp="1511764582455">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/models/user.rb" timestamp="1512967425514">
+        <mark key="[" line="720" column="0" />
+        <mark key="]" line="720" column="0" />
+        <mark key="." line="720" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/rubocop" timestamp="1512638403732">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Ruby Console" timestamp="1512098787782">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/test-uit.sh" timestamp="1509674519961">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="17" column="53" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+      </file>
+      <file name="/magellan_check_survey_answer_expired_process.rb" timestamp="1512698807825">
+        <mark key="'" line="47" column="72" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1512375813665">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/lib/custom_date_time.rb" timestamp="1512098837993">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" timestamp="1512548418027">
+        <mark key="'" line="16" column="27" />
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="0" column="21" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.rb" timestamp="1512626499971">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1512388748685">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1509684085687">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/test.sh" timestamp="1509674549184">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/rubocop-git" timestamp="1512638396874">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/.env.production.local" timestamp="1510571203383">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/test-all.sh" timestamp="1509674539094">
+        <mark key="[" line="9" column="54" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="5" column="83" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/improvements_controller.rb" timestamp="1509435096810">
+        <mark key="[" line="10" column="94" />
+        <mark key="]" line="10" column="94" />
+        <mark key="^" line="10" column="116" />
+        <mark key="." line="10" column="94" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f04e354b-bca5-4633-ba90-334842028864/console.sql" timestamp="1510565640585">
+        <mark key="[" line="4" column="70" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1513062179001">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/csv_import.rb" timestamp="1513056686973" />
+      <file name="$USER_HOME$/mcs_ver2/db/seeds/test_seeds/matsumoto_test_data.rb" timestamp="1513062173394" />
+      <file name="$USER_HOME$/mcs_ver2/config/initializers/apitome.rb" timestamp="1509957609515">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1513052700948">
         <mark key="'" line="105" column="6" />
         <mark key="]" line="46" column="0" />
@@ -225,14 +237,10 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1512375722266">
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="36" />
-        <mark key="." line="9" column="39" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/config/routes.rb" timestamp="1512729491083">
         <mark key="[" line="119" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/db/seeds/test_seeds/matsumoto_test_data2.rb" timestamp="1513062200611" />
       <file name="$USER_HOME$/mcs_ver2/spec/spec_helper.rb" timestamp="1510035198058">
         <mark key="[" line="19" column="2" />
         <mark key="]" line="19" column="2" />
@@ -244,11 +252,6 @@
         <mark key="]" line="75" column="4" />
         <mark key="^" line="75" column="3" />
         <mark key="." line="75" column="4" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.rubocop.yml" timestamp="1512625598360">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.unicorn.yml" timestamp="1510129102493">
         <mark key="[" line="5" column="0" />
@@ -264,12 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="11" filename="$USER_HOME$/mcs_ver2/.env.docker" />
-      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/config/application.rb" />
-      <jump line="46" column="16" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
-      <jump line="104" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
-      <jump line="138" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
-      <jump line="26" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
       <jump line="32" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
       <jump line="37" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
       <jump line="47" column="10" filename="$USER_HOME$/mcs_ver2/.circleci/config.yml" />
@@ -364,62 +361,66 @@
       <jump line="43" column="54" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
       <jump line="100" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
       <jump line="14" column="2" filename="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" />
+      <jump line="137" column="15" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
+      <jump line="21" column="0" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
+      <jump line="24" column="0" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
+      <jump line="27" column="0" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
+      <jump line="42" column="8" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
+      <jump line="50" column="15" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y3JlYXRlIDptYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdCwgbWFnZWxsYW5fc3VydmV5OiBzdXJ2ZXksCiAgICAgICByZWNvcmRfdHlwZTogOnJlY29yZF9hbGwsIGF0dHJpYnV0ZV9uYW1lOiAi5YWo5L2T5bGe5oCnMSIK</text>
+      <register name="&quot;" type="4">
+        <text>株式会社サンプル商事</text>
       </register>
       <register name="-" type="4">
-        <text>attribute</text>
+        <text>株式会社サンプル商事</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</text>
+        <text>Align</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3JlYXRlIDptYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdCwgbWFnZWxsYW5fc3VydmV5OiBzdXJ2ZXksCiAgICAgICByZWNvcmRfdHlwZTogOnJlY29yZF9hbGwsIGF0dHJpYnV0ZV9uYW1lOiAi5YWo5L2T5bGe5oCnMSIK</text>
+        <text encoding="base64">Y29tcGFueV9jb2RlID0gOTAwMDk5OTEwMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29tcGFueV9jb2RlID0gOTAwMDk5OTEwMAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZSBGYWN0b3J5Qm90OjpTeW50YXg6Ok1ldGhvZHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bl9hdHRyaWJ1dGVzID0gMTAxCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIHJlY29yZF90eXBlOiA6cmVjb3JkX2FsbCwgYXR0cmlidXRlX25hbWU6ICLlhajkvZPlsZ7mgKcyIgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29tcGFueV9jb2RlID0gOTAwMDk5OTEwMCAjIOagquW8j+S8muekvuOCteODs+ODl+ODq+WVhuS6iwo=</text>
+        <text encoding="base64">Y3JlYXRlIDptYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdCwgbWFnZWxsYW5fc3VydmV5OiBzdXJ2ZXksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIHJvbGU6IFJvbGUuZmluZCgxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHVzZXI6IFVzZXIuZmluZCgxKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</last-search>
+      <last-search>Align</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</last-pattern>
+      <last-pattern>Align</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdXJ2ZXlfcmVzdWx0XD4=</entry>
-        <entry encoding="base64">XDxleHBlY3RhdGlvblw+</entry>
         <entry encoding="base64">XDxzYXRpc2ZhY3Rpb25cPg==</entry>
         <entry encoding="base64">XDx0bXBcPg==</entry>
         <entry encoding="base64">XDxjb2x1bW5fd2lkdGhzXD4=</entry>
@@ -438,6 +439,8 @@
         <entry encoding="base64">XDxtYWdlbGxhbl9zdXJ2ZXlcPg==</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVcPg==</entry>
         <entry encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</entry>
+        <entry>Layout</entry>
+        <entry>Align</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
