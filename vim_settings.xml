@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/mcs_ver2/spec/factories/magellan_summary_results.rb" timestamp="1513057431413" />
       <file name="$USER_HOME$/mcs_ver2/config/webpacker.yml" timestamp="1511764582455">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -12,6 +13,12 @@
         <mark key="[" line="720" column="0" />
         <mark key="]" line="720" column="0" />
         <mark key="." line="720" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/seeds.rb" timestamp="1513057151462">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/rubocop" timestamp="1512638403732">
         <mark key="[" line="3" column="0" />
@@ -105,6 +112,13 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" timestamp="1513057115864">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1510036089486">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="14" column="2" />
@@ -152,9 +166,10 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512987809693">
+      <file name="/Dummy.txt" timestamp="1513056557362">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/csv_import.rb" timestamp="1513056686973" />
       <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1512627323831">
         <mark key="'" line="108" column="4" />
         <mark key="[" line="272" column="0" />
@@ -248,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="20" filename="$USER_HOME$/mcs_ver2/.env" />
       <jump line="17" column="11" filename="$USER_HOME$/mcs_ver2/.env.docker" />
       <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/config/application.rb" />
       <jump line="46" column="16" filename="$USER_HOME$/mcs_ver2/docker-compose.override.yml" />
@@ -348,46 +362,47 @@
       <jump line="101" column="20" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
       <jump line="43" column="54" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
       <jump line="100" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
+      <jump line="14" column="2" filename="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29tcGFueV9pZCA9IGN1cnJlbnRfY29tcGFueS5pZAo=</text>
+      <register name="&quot;" type="4">
+        <text>csv_import</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>csv_import</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3VydmV5ID0gTWFnZWxsYW5TdXJ2ZXkuZmluZF9sYXRlc3RfbWFnZWxsYW5fc3VydmV5X2J5X2NvbXBhbnlfaWQoY3VycmVudF9jb21wYW55LmlkKQo=</text>
+        <text encoding="base64">bG9hZChSYWlscy5yb290LmpvaW4oJ2RiJywgJ3NlZWRzJywgJ2R1bW15JywgJ2Nzdl9pbXBvcnQucmInKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29tcGFueV9pZCA9IGN1cnJlbnRfY29tcGFueS5pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29tcGFueV9jb2RlID0gOTAwMDk5OTEwMCAjIOagquW8j+S8muekvuOCteODs+ODl+ODq+WVhuS6iwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fCBgYXR0cmlidXRlR3JvdXBgICB8IFN0cmluZyAgfCAqIHwgIHwg5bGe5oCn44Kw44Or44O844OXIHwgICB8Cg==</text>
+        <text encoding="base64">ICAgICAgIHJvbGU6IFJvbGUuZmluZCgxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fCBgYXR0cmlidXRlYCAgICB8IEZpbGUgICB8ICogICAgICAgIHwgICAgICAgIHwgQ1NW44OV44Kh44Kk44OrICAgICAgICAgICAgICAgICAgICB8ICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgIHVzZXI6IFVzZXIuZmluZCgxKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fCBgdmFsaWRhdGVgICAgIHwgQm9vbGVhbiAgIHwgKiAgICAgICAgfCAgICAgICAgfCAgICAgICAgICAgICAgICAgICAgIHwgICAgICAgfAo=</text>
+        <text encoding="base64">IyDjgqLjgq/jgrfjg6fjg7Pjg5fjg6njg7Pmi4XlvZPogIUKY3JlYXRlIDpjb21wYW55X3VzZXIsCiAgICAgICBjb21wYW55OiBDb21wYW55LmZpbmRfYnkoY29kZTogY29tcGFueV9jb2RlKSwKICAgICAgIHVzZXI6IFVzZXIuZmluZF9ieShlbWFpbDogJ2thaXplbjMuc2VhdHRsZUBzZWF0dGxlY29uc3VsdGluZy5jby5qcCcpLAogICAgICAgcm9sZTogUm9sZS5maW5kKDUpCgojIOODnuODjeODvOOCuOODoeODs+ODiOiyrOS7u+iAhQpjcmVhdGUgOmNvbXBhbnlfdXNlciwKICAgICAgIGNvbXBhbnk6IENvbXBhbnkuZmluZF9ieShjb2RlOiBjb21wYW55X2NvZGUpLAogICAgICAgdXNlcjogVXNlci5maW5kX2J5KGVtYWlsOiAnY2VvMS5zZWF0dGxlQHNlYXR0bGVjb25zdWx0aW5nLmNvLmpwJyksCiAgICAgICByb2xlOiBSb2xlLmZpbmQoMykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fCBgcGVyZm9ybWAgICAgfCBFbnVtICAgfCAgICAgICAgICB8ICAgICAgICB8IOmdnuWQjOacn+WHpueQhuOBqOWQjOacn+WHpueQhuOBruWIh+abv+OBjOOBp+OBjeOBvuOBmSB8bGF0ZXIgKGRlZmF1bHQp77ya6Z2e5ZCM5pyf5Yem55CGPGJyPm5vdzog5ZCM5pyf5Yem55CG77yIR0VU44Gu5a6M5LqG44Os44K544Od44Oz44K544GM6L+U5Y2044GV44KM44G+44GZ77yJfHwK</text>
+        <text encoding="base64">IyDjgrfjgrnjg4bjg6DnrqHnkIbogIUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjIFtQT1NUXSBgYXBpL3YyL29wZXJhdGlvbnMvb3JnYW5pemF0aW9ucy86aWQvbWFnZWxsYW5fYXR0cmlidXRlX3NldHRpbmdzL2Nzdi9pbXBvcnRzYArlsZ7mgKfkuIDmi6znmbvpjLLjga7jgZ/jgoHjga5FbmRwb2ludOOBp+OBmeOAggo=</text>
+        <text encoding="base64">IyDjgrXjg7Pjg5fjg6tDU1bjgpLjgqTjg7Pjg53jg7zjg4jjgZnjgovjgZ/jgoHjga7jgrXjg7Pjg5fjg6vkvIHmpa3jgpLkvZzmiJAKY29tcGFueV9jb2RlID0gOTAwMDk5OTEwMApjcmVhdGUgOmNvbXBhbnksIGNvZGU6IGNvbXBhbnlfY29kZSwgbmFtZTogIuagquW8j+S8muekvuOCteODs+ODl+ODq+WVhuS6iyIsIHVzZXJfbGltaXRzOiAyMDAKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29tcGFueV9pZCA9IGN1cnJlbnRfY29tcGFueS5pZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
