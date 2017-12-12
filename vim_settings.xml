@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/mcs_ver2/spec/factories/magellan_summary_results.rb" timestamp="1513057431413" />
+      <file name="$USER_HOME$/mcs_ver2/spec/factories/magellan_summary_results.rb" timestamp="1513057510543" />
       <file name="$USER_HOME$/mcs_ver2/config/webpacker.yml" timestamp="1511764582455">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -112,12 +112,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" timestamp="1513057115864">
-        <mark key="'" line="13" column="2" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" timestamp="1513059245194">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="14" column="2" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1510036089486">
         <mark key="[" line="13" column="15" />
@@ -166,7 +166,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513056557362">
+      <file name="/Dummy.txt" timestamp="1513057733648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/csv_import.rb" timestamp="1513056686973" />
@@ -177,6 +177,7 @@
         <mark key="^" line="263" column="0" />
         <mark key="." line="272" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/spec/requests/survey_chains_spec.rb" timestamp="1513058723273" />
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn.server" timestamp="1510551302594">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="4" column="0" />
@@ -365,44 +366,44 @@
       <jump line="14" column="2" filename="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>csv_import</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y3JlYXRlIDptYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdCwgbWFnZWxsYW5fc3VydmV5OiBzdXJ2ZXksCiAgICAgICByZWNvcmRfdHlwZTogOnJlY29yZF9hbGwsIGF0dHJpYnV0ZV9uYW1lOiAi5YWo5L2T5bGe5oCnMSIK</text>
       </register>
       <register name="-" type="4">
-        <text>csv_import</text>
+        <text>attribute</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfYXR0cmlidXRlX3BhcmFtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9hZChSYWlscy5yb290LmpvaW4oJ2RiJywgJ3NlZWRzJywgJ2R1bW15JywgJ2Nzdl9pbXBvcnQucmInKSkK</text>
+        <text encoding="base64">Y3JlYXRlIDptYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdCwgbWFnZWxsYW5fc3VydmV5OiBzdXJ2ZXksCiAgICAgICByZWNvcmRfdHlwZTogOnJlY29yZF9hbGwsIGF0dHJpYnV0ZV9uYW1lOiAi5YWo5L2T5bGe5oCnMSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29tcGFueV9jb2RlID0gOTAwMDk5OTEwMCAjIOagquW8j+S8muekvuOCteODs+ODl+ODq+WVhuS6iwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHJvbGU6IFJvbGUuZmluZCgxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHVzZXI6IFVzZXIuZmluZCgxKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyDjgqLjgq/jgrfjg6fjg7Pjg5fjg6njg7Pmi4XlvZPogIUKY3JlYXRlIDpjb21wYW55X3VzZXIsCiAgICAgICBjb21wYW55OiBDb21wYW55LmZpbmRfYnkoY29kZTogY29tcGFueV9jb2RlKSwKICAgICAgIHVzZXI6IFVzZXIuZmluZF9ieShlbWFpbDogJ2thaXplbjMuc2VhdHRsZUBzZWF0dGxlY29uc3VsdGluZy5jby5qcCcpLAogICAgICAgcm9sZTogUm9sZS5maW5kKDUpCgojIOODnuODjeODvOOCuOODoeODs+ODiOiyrOS7u+iAhQpjcmVhdGUgOmNvbXBhbnlfdXNlciwKICAgICAgIGNvbXBhbnk6IENvbXBhbnkuZmluZF9ieShjb2RlOiBjb21wYW55X2NvZGUpLAogICAgICAgdXNlcjogVXNlci5maW5kX2J5KGVtYWlsOiAnY2VvMS5zZWF0dGxlQHNlYXR0bGVjb25zdWx0aW5nLmNvLmpwJyksCiAgICAgICByb2xlOiBSb2xlLmZpbmQoMykK</text>
+        <text encoding="base64">bl9hdHRyaWJ1dGVzID0gMTAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyDjgrfjgrnjg4bjg6DnrqHnkIbogIUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyDjgrXjg7Pjg5fjg6tDU1bjgpLjgqTjg7Pjg53jg7zjg4jjgZnjgovjgZ/jgoHjga7jgrXjg7Pjg5fjg6vkvIHmpa3jgpLkvZzmiJAKY29tcGFueV9jb2RlID0gOTAwMDk5OTEwMApjcmVhdGUgOmNvbXBhbnksIGNvZGU6IGNvbXBhbnlfY29kZSwgbmFtZTogIuagquW8j+S8muekvuOCteODs+ODl+ODq+WVhuS6iyIsIHVzZXJfbGltaXRzOiAyMDAKCg==</text>
+        <text encoding="base64">Y29tcGFueV9jb2RlID0gOTAwMDk5OTEwMCAjIOagquW8j+S8muekvuOCteODs+ODl+ODq+WVhuS6iwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29tcGFueV9pZCA9IGN1cnJlbnRfY29tcGFueS5pZAo=</text>
+        <text encoding="base64">ICAgICAgIHJvbGU6IFJvbGUuZmluZCgxKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHVzZXI6IFVzZXIuZmluZCgxKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
