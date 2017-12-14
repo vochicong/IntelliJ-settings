@@ -41,6 +41,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd64721e-effb-4723-a8b6-ba6f4a0f308d/console.sql" timestamp="1513230698842">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="14" column="42" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/webpacker.yml" timestamp="1511764582455">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -193,11 +199,11 @@
       <jump line="141" column="16" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/bundler/gems/shoulda-matchers-4970253779a9/lib/shoulda/matchers/active_model/validation_matcher.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#{company.id}</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>#{company.id}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRyaWJ1dGVcPg==</text>
@@ -206,31 +212,31 @@
         <text encoding="base64">ICAgICAgICAgbWFnZWxsYW5fc3VydmV5OiBAc3VydmV5LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHdoZXJlIG1zMi5jb21wYW55X2lkID0gI3tjb21wYW55LmlkfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAxMDHku7bku6XkuIrjga7lsZ7mgKfjgpLkvZzjgosK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bWF4X2F0dHJfbm8gPSBNYWdlbGxhblN1bW1hcnlSZXN1bHQubWF4aW11bSg6YXR0cmlidXRlX25vKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyAxMDHku7bku6XkuIrjga7lsZ7mgKfjgpLkvZzjgosK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bWF4X2F0dHJfbm8gPSBNYWdlbGxhblN1bW1hcnlSZXN1bHQubWF4aW11bSg6YXR0cmlidXRlX25vKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">QHN1cnZleSA9IE1hZ2VsbGFuU3VydmV5LmZpbmQoMTAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgYXR0cmlidXRlX2tleTogYXR0cmlidXRlX2tleQo=</text>
+        <text encoding="base64">QHN1cnZleSA9IE1hZ2VsbGFuU3VydmV5LmZpbmQoMTAxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29tcGFueT0gQ29tcGFueS5maW5kX2J5KGNvZGU6IDEwMDAwMDAwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgYXR0cmlidXRlX2tleTogYXR0cmlidXRlX2tleQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjcmVhdGUgOm1hZ2VsbGFuX3N1cnZleSwgCiAgICAgICAgICAgICAgICAgY29tcGFueTogQ29tcGFueS5maW5kX2J5KGNvZGU6IDEwMDAwMDAwMCkKCg==</text>
+        <text encoding="base64">Y29tcGFueT0gQ29tcGFueS5maW5kX2J5KGNvZGU6IDEwMDAwMDAwMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
