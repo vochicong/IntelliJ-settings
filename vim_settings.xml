@@ -143,7 +143,7 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_chain.rb" timestamp="1513306089409">
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_chain.rb" timestamp="1513307275212">
         <mark key="'" line="187" column="14" />
         <mark key="[" line="76" column="4" />
         <mark key="]" line="77" column="6" />
@@ -238,8 +238,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1513220621015">
-        <mark key="'" line="7" column="39" />
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1513311986133">
+        <mark key="'" line="24" column="14" />
+        <mark key="[" line="22" column="89" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1512387681473">
         <mark key="[" line="11" column="0" />
@@ -279,12 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="81" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="352" column="34" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="353" column="36" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="354" column="29" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
-      <jump line="11" column="0" filename="$USER_HOME$/mcs_ver2/app/views/notice_mailer/magellan_check_survey_report.html.erb" />
-      <jump line="587" column="8" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="593" column="68" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="557" column="11" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
       <jump line="594" column="68" filename="$USER_HOME$/mcs_ver2/app/models/mail_send_manage.rb" />
@@ -379,6 +374,12 @@
       <jump line="67" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_chain.rb" />
       <jump line="71" column="11" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_chain.rb" />
       <jump line="182" column="14" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_chain.rb" />
+      <jump line="38" column="14" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
+      <jump line="7" column="159" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
+      <jump line="8" column="49" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
+      <jump line="13" column="59" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
+      <jump line="23" column="14" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -388,7 +389,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGxfY2hhaW5lZFw+</text>
+        <text encoding="base64">XDxwYXJhbXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlbGYubWFnZWxsYW5fc3VydmV5X2hhc19ub3RfYmVlbl9jaGFpbmVkPyhjb21wYW55LCBmYWxzZSkK</text>
@@ -425,15 +426,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbGxfY2hhaW5lZFw+</last-search>
+      <last-search encoding="base64">XDxwYXJhbXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGxfY2hhaW5lZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJhbXNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>xlsx_pac</entry>
         <entry encoding="base64">XDxlbmRwb2ludFw+</entry>
         <entry encoding="base64">XDxBV1NfUzNfSE9TVFw+</entry>
         <entry>Length</entry>
@@ -453,6 +453,7 @@
         <entry encoding="base64">XDxtYWdlbGxhbl9zdXJ2ZXlfaGFzX2JlZW5fY2hhaW5lZFw+</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9zdXJ2ZXlfaGFzX25vdF9iZWVuX2NoYWluZWRcPg==</entry>
         <entry encoding="base64">XDxhbGxfY2hhaW5lZFw+</entry>
+        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
