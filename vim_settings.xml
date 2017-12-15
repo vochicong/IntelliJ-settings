@@ -228,7 +228,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513315965198">
+      <file name="/Dummy.txt" timestamp="1513316026175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -239,13 +239,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1513315979651">
-        <mark key="'" line="94" column="52" />
-        <mark key="[" line="92" column="9" />
-        <mark key="]" line="102" column="6" />
-        <mark key="^" line="102" column="7" />
-        <mark key="." line="102" column="6" />
-      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1513317207823" />
       <file name="$USER_HOME$/mcs_ver2/config/initializers/snakeizer.rb" timestamp="1513315129995">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="14" column="3" />
@@ -404,11 +398,11 @@
       <jump line="3" column="6" filename="$USER_HOME$/mcs_ver2/config/initializers/camelizer.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QVBJ5a6f6KOF77yc5bGe5oCn5YCL5Yil55m76Yyy77yc5YmN5Zue5bGe5oCn44O744Ki44Kv44K344On44Oz44OX44Op44Oz5ouF5b2T6ICFCg==</text>
+      <register name="&quot;" type="4">
+        <text>API実装＜属性個別登録＜前回属性・アクションプラン担当</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>API実装＜属性個別登録＜前回属性・アクションプラン担当</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtXD4=</text>
