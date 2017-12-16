@@ -1,11 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '~/Library/Preferences/RubyMine2017.3/scratches/scratch.rb'" />
-    <option name="defaultScopeName" value="File '~/Library/Preferences/RubyMine2017.3/scratches/scratch.rb'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/Library/Preferences/RubyMine2017.3/scratches/scratch.rb'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
   </component>
 </application>
