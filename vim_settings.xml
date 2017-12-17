@@ -108,7 +108,6 @@
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="22" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/initializers/snakelizer.rb" timestamp="1513314666384" />
       <file name="vim_settings.xml" timestamp="1513248046890">
         <mark key="[" line="0" column="0" />
       </file>
@@ -227,6 +226,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" timestamp="1513508616518">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/initializers/apitome.rb" timestamp="1509957609515">
         <mark key="[" line="0" column="0" />
@@ -399,10 +403,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>API実装＜属性個別登録＜前回属性・アクションプラン担当</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>API実装＜属性個別登録＜前回属性・アクションプラン担当</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtc3JfYXJ5XD4=</text>
