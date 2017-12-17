@@ -96,6 +96,12 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="39" />
       </file>
+      <file name="$USER_HOME$/rails-json-api/app/controllers/users_controller.rb" timestamp="1513514497055">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="31" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd64721e-effb-4723-a8b6-ba6f4a0f308d/console.sql" timestamp="1513233399673">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="18" column="22" />
@@ -126,7 +132,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1513314808243">
+      <file name="/Ruby Console" timestamp="1513514202782">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="0" />
@@ -144,9 +150,6 @@
         <mark key="]" line="77" column="6" />
         <mark key="^" line="77" column="6" />
         <mark key="." line="77" column="6" />
-      </file>
-      <file name="/magellan_check_survey_answer_expired_process.rb" timestamp="1512698807825">
-        <mark key="'" line="47" column="72" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1512375813665">
         <mark key="[" line="16" column="14" />
@@ -190,6 +193,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/rails-json-api/config/initializers/json_param_key_transform.rb" timestamp="1513514428679">
+        <mark key="[" line="3" column="50" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/rubocop-git" timestamp="1512638396874">
         <mark key="[" line="3" column="0" />
@@ -270,9 +278,6 @@
         <mark key="]" line="19" column="2" />
         <mark key="^" line="17" column="65" />
         <mark key="." line="19" column="2" />
-      </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/bundler/gems/shoulda-matchers-4970253779a9/lib/shoulda/matchers/active_model/validation_matcher.rb" timestamp="1513220706664">
-        <mark key="'" line="141" column="16" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/services/magellan_check_surveys/result_service.rb" timestamp="1510228282518">
         <mark key="[" line="75" column="4" />
@@ -407,43 +412,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, only: [:show, :update, :destroy]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, only: [:show, :update, :destroy]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcmFtID0gewogICAgICBmdWxsX25hbWU6ICdNaWNoYWwgSmFja3NvbicsCiAgICAgIGVtYWlsX2FkZHJlc3M6ICdtaWNoYWxlQGdtYWlsLmNvbScKICAgIH0K</text>
+        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDpzZXRfdXNlciwgb25seTogWzpzaG93LCA6dXBkYXRlLCA6ZGVzdHJveV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhcmFtWzplbWFpbF9hZGRyZXNzXSA9ICdqYWNrQGdtYWlsLmNvbScK</text>
+        <text encoding="base64">IyBGaWxlOiBjb25maWcvaW5pdGlhbGl6ZXJzL2pzb25fcGFyYW1fa2V5X3RyYW5zZm9ybS5yYgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcmFtWzpmdWxsX25hbWVdID0gJ01pY2hhbGUgSmFjaycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhcmFtWzppZF0gPSB1c2VyLmlkCg==</text>
+        <text encoding="base64">QWN0aW9uRGlzcGF0Y2g6OlJlcXVlc3QucGFyYW1ldGVyX3BhcnNlcnNbOmpzb25dID0gLT4ocmF3X3Bvc3QpIHsKICBkYXRhID0gQWN0aXZlU3VwcG9ydDo6SlNPTi5kZWNvZGUocmF3X3Bvc3QpCiAgZGF0YSA9IHsgX2pzb246IGRhdGEgfSB1bmxlc3MgZGF0YS5pc19hPyhIYXNoKQoKICAjIFRyYW5zZm9ybSBjYW1lbENhc2UgcGFyYW0ga2V5cyB0byBzbmFrZV9jYXNlOgogIGRhdGEuZGVlcF90cmFuc2Zvcm1fa2V5cyEoJjp1bmRlcnNjb3JlKQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGljb24gJ2RlZmF1bHQtaWNvbjEucG5nJwo=</text>
+        <text encoding="base64">ICAjIE1vZGlmaWVkIGZyb20gYWN0aW9uX2Rpc3BhdGNoL2h0dHAvcGFyYW1ldGVycy5yYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkX3JlZ2lzdGVyZWRfYXQgVGltZS5ub3cK</text>
+        <text encoding="base64">ICAgIHBhcmFtWzplbWFpbF9hZGRyZXNzXSA9ICdqYWNrQGdtYWlsLmNvbScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkIHsgZ2VuZXJhdGUgOnBhc3N3b3JkIH0K</text>
+        <text encoding="base64">ICAgIHBhcmFtWzpmdWxsX25hbWVdID0gJ01pY2hhbGUgSmFjaycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHBhcmFtWzppZF0gPSB1c2VyLmlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWQ6IAo=</text>
+        <text encoding="base64">ICAgIGljb24gJ2RlZmF1bHQtaWNvbjEucG5nJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkX3JlZ2lzdGVyZWRfYXQgVGltZS5ub3cK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
