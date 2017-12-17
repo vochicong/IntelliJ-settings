@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/mcs_ver2/app/views/notice_mailer/magellan_check_survey_report.html.erb" timestamp="1511776667439">
-        <mark key="'" line="48" column="50" />
-        <mark key="[" line="49" column="39" />
-        <mark key="]" line="49" column="39" />
-        <mark key="." line="49" column="41" />
-        <mark key="^" line="46" column="31" />
+      <file name="$USER_HOME$/rails-json-api/config/environment.rb" timestamp="1513517314372">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="36" />
+        <mark key="^" line="6" column="60" />
+        <mark key="." line="7" column="36" />
       </file>
       <file name="/Dummy.jql" timestamp="1513302782102">
         <mark key="[" line="0" column="0" />
@@ -18,6 +17,11 @@
         <mark key="]" line="8" column="25" />
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
+      </file>
+      <file name="$USER_HOME$/rails-json-api/config/initializers/camelizer_snakeizer.rb" timestamp="1513516684757">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/Procfile.dev" timestamp="1510037652197">
         <mark key="[" line="0" column="0" />
@@ -36,13 +40,6 @@
         <mark key="^" line="25" column="18" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" timestamp="1513070762939">
-        <mark key="'" line="24" column="2" />
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="14" column="39" />
-        <mark key="." line="14" column="39" />
-        <mark key="^" line="16" column="2" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/server" timestamp="1510036089486">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="14" column="2" />
@@ -53,6 +50,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/rails-json-api/app/controllers/application_controller.rb" timestamp="1513516949264">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
@@ -66,6 +69,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/actionpack-5.1.4/lib/action_controller/metal/strong_parameters.rb" timestamp="1513517523703">
+        <mark key="'" line="780" column="8" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/bundle.prod" timestamp="1510126814026">
         <mark key="[" line="4" column="17" />
@@ -96,11 +102,17 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/rails-json-api/app/controllers/users_controller.rb" timestamp="1513514497055">
+      <file name="$USER_HOME$/rails-json-api/app/controllers/users_controller.rb" timestamp="1513517077662">
+        <mark key="'" line="1" column="31" />
         <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="32" />
-        <mark key="." line="1" column="32" />
-        <mark key="^" line="1" column="31" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/.rubocop.yml" timestamp="1513061083669">
+        <mark key="'" line="50" column="15" />
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd64721e-effb-4723-a8b6-ba6f4a0f308d/console.sql" timestamp="1513233399673">
         <mark key="[" line="14" column="29" />
@@ -113,6 +125,9 @@
         <mark key="]" line="3" column="18" />
         <mark key="^" line="2" column="23" />
         <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/rails-json-api/README.md" timestamp="1513517182174">
+        <mark key="[" line="102" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1513248046890">
         <mark key="[" line="0" column="0" />
@@ -132,7 +147,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1513514202782">
+      <file name="/Ruby Console" timestamp="1513516136716">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="0" />
@@ -143,13 +158,6 @@
         <mark key="]" line="17" column="53" />
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_chain.rb" timestamp="1513307275212">
-        <mark key="'" line="187" column="14" />
-        <mark key="[" line="76" column="4" />
-        <mark key="]" line="77" column="6" />
-        <mark key="^" line="77" column="6" />
-        <mark key="." line="77" column="6" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.override.yml" timestamp="1512375813665">
         <mark key="[" line="16" column="14" />
@@ -163,13 +171,6 @@
         <mark key="]" line="2" column="35" />
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" timestamp="1512548418027">
-        <mark key="'" line="16" column="27" />
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="0" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.rb" timestamp="1512626499971">
         <mark key="[" line="5" column="15" />
@@ -194,10 +195,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/rails-json-api/config/initializers/json_param_key_transform.rb" timestamp="1513514428679">
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/rails-json-api/config/initializers/json_param_key_transform.rb" timestamp="1513515799229">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/bin/rubocop-git" timestamp="1512638396874">
         <mark key="[" line="3" column="0" />
@@ -256,13 +257,6 @@
         <mark key="^" line="96" column="16" />
         <mark key="." line="96" column="16" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/config/initializers/snakeizer.rb" timestamp="1513315129995">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1512387681473">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -290,6 +284,13 @@
         <mark key="]" line="38" column="50" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/rails-json-api/config/initializers/params_snakeizer.rb" timestamp="1513517597274">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/docker-compose.unicorn.yml" timestamp="1510129102493">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -309,11 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="19" filename="$USER_HOME$/mcs_ver2/.env" />
-      <jump line="47" column="18" filename="$USER_HOME$/mcs_ver2/.env" />
-      <jump line="48" column="27" filename="$USER_HOME$/mcs_ver2/.env" />
-      <jump line="49" column="26" filename="$USER_HOME$/mcs_ver2/.env" />
-      <jump line="51" column="24" filename="$USER_HOME$/mcs_ver2/.env" />
       <jump line="54" column="43" filename="$USER_HOME$/mcs_ver2/.env" />
       <jump line="55" column="38" filename="$USER_HOME$/mcs_ver2/.env" />
       <jump line="56" column="48" filename="$USER_HOME$/mcs_ver2/.env" />
@@ -409,61 +405,65 @@
       <jump line="20" column="9" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
       <jump line="24" column="18" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
       <jump line="26" column="50" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
+      <jump line="1" column="31" filename="$USER_HOME$/rails-json-api/app/controllers/users_controller.rb" />
+      <jump line="660" column="28" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/actionpack-5.1.4/lib/action_controller/metal/strong_parameters.rb" />
+      <jump line="781" column="33" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/actionpack-5.1.4/lib/action_controller/metal/strong_parameters.rb" />
+      <jump line="780" column="8" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/actionpack-5.1.4/lib/action_controller/metal/strong_parameters.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/rails-json-api/config/initializers/params_snakeizer.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, only: [:show, :update, :destroy]</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>, only: [:show, :update, :destroy]</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJhbVw+</text>
+        <text>deep</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDpzZXRfdXNlciwgb25seTogWzpzaG93LCA6dXBkYXRlLCA6ZGVzdHJveV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBGaWxlOiBjb25maWcvaW5pdGlhbGl6ZXJzL2pzb25fcGFyYW1fa2V5X3RyYW5zZm9ybS5yYgo=</text>
+        <text encoding="base64">ICAjID09IEFjdGlvbiBDb250cm9sbGVyIFxQYXJhbWV0ZXJzCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWN0aW9uRGlzcGF0Y2g6OlJlcXVlc3QucGFyYW1ldGVyX3BhcnNlcnNbOmpzb25dID0gLT4ocmF3X3Bvc3QpIHsKICBkYXRhID0gQWN0aXZlU3VwcG9ydDo6SlNPTi5kZWNvZGUocmF3X3Bvc3QpCiAgZGF0YSA9IHsgX2pzb246IGRhdGEgfSB1bmxlc3MgZGF0YS5pc19hPyhIYXNoKQoKICAjIFRyYW5zZm9ybSBjYW1lbENhc2UgcGFyYW0ga2V5cyB0byBzbmFrZV9jYXNlOgogIGRhdGEuZGVlcF90cmFuc2Zvcm1fa2V5cyEoJjp1bmRlcnNjb3JlKQp9Cg==</text>
+        <text encoding="base64">ICAgICMgU25ha2VpemUgSlNPTiBBUEkgcmVxdWVzdCBwYXJhbXMKICAgIGRlZiBzbmFrZWl6ZV9wYXJhbXMKICAgICAgcGFyYW1zLmRlZXBfc25ha2VpemUhCiAgICBlbmQKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIE1vZGlmaWVkIGZyb20gYWN0aW9uX2Rpc3BhdGNoL2h0dHAvcGFyYW1ldGVycy5yYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcmFtWzplbWFpbF9hZGRyZXNzXSA9ICdqYWNrQGdtYWlsLmNvbScK</text>
+        <text encoding="base64">ICAgICAgIyBAcGFyYW1ldGVycyA9IEBwYXJhbWV0ZXJzLmRlZXBfc25ha2VpemUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcmFtWzpmdWxsX25hbWVdID0gJ01pY2hhbGUgSmFjaycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcmFtWzppZF0gPSB1c2VyLmlkCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGljb24gJ2RlZmF1bHQtaWNvbjEucG5nJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkX3JlZ2lzdGVyZWRfYXQgVGltZS5ub3cK</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJhbVw+</last-search>
+      <last-search>deep</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJhbVw+</last-pattern>
+      <last-pattern>deep</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CSV</entry>
         <entry encoding="base64">XDxDcmVhdGVcPg==</entry>
         <entry encoding="base64">XDxOdW1iZXJcPg==</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9zdXJ2ZXlcPg==</entry>
@@ -483,6 +483,7 @@
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XDx1c2VyX3BhcmFtXD4=</entry>
         <entry encoding="base64">XDxwYXJhbVw+</entry>
+        <entry>deep</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
@@ -512,6 +513,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
