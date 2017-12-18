@@ -61,6 +61,11 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1513333898419">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn.server" timestamp="1510551302594">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="4" column="0" />
@@ -113,9 +118,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/webpacker.yml" timestamp="1511764582455">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/models/user.rb" timestamp="1512967425514">
         <mark key="[" line="720" column="0" />
@@ -223,7 +228,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513327389842">
+      <file name="/Dummy.txt" timestamp="1513333847452">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -398,8 +403,8 @@
       <jump line="27" column="61" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>API実装＜属性個別登録＜前回属性・アクションプラン担当</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UFJPRFVDVC03NDMg5bGe5oCn6Kit5a6aID4g5YCL5Yil55m76YyyQVBJ5LuV5qeY5pu4Cg==</text>
       </register>
       <register name="-" type="4">
         <text>API実装＜属性個別登録＜前回属性・アクションプラン担当</text>
@@ -411,31 +416,31 @@
         <text encoding="base64">ICAjIFt7ImFiY194eXoiPT4ibW5vIn0sIHsiY2hlZXNlX2lkIj0+IndlbnNsZXlkYWxlIn1dCiAgIyDjgpLmrKHjgavlpInmj5sKICAjIFt7OmFiY1h5ej0+Im1ubyJ9LCB7OkNoZWVzZUlEPT4id2Vuc2xleWRhbGUifV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QVBJ5a6f6KOF77yc5bGe5oCn5YCL5Yil55m76Yyy77yc5YmN5Zue5bGe5oCn44O744Ki44Kv44K344On44Oz44OX44Op44Oz5ouF5b2T6ICFCg==</text>
+        <text encoding="base64">UFJPRFVDVC03NDMg5bGe5oCn6Kit5a6aID4g5YCL5Yil55m76YyyQVBJ5LuV5qeY5pu4Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVBJ5a6f6KOF77yc5bGe5oCn5YCL5Yil55m76Yyy77yc5YmN5Zue5bGe5oCn44O744Ki44Kv44K344On44Oz44OX44Op44Oz5ouF5b2T6ICFCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIFt7OmFiY1h5ej0+Im1ubyJ9LCB7OkNoZWVzZUlEPT4id2Vuc2xleWRhbGUifV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIFt7ImFiY194eXoiPT4ibW5vIn0sIHsiY2hlZXNlX2lkIj0+IndlbnNsZXlkYWxlIn1dCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAjIFt7OmFiY1h5ej0+Im1ubyJ9LCB7OkNoZWVzZUlEPT4id2Vuc2xleWRhbGUifV0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAjIFt7ImFiY194eXoiPT4ibW5vIn0sIHsiY2hlZXNlX2lkIj0+IndlbnNsZXlkYWxlIn1dCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAjIFt7OmFiY1h5ej0+Im1ubyJ9LCB7OkNoZWVzZUlEPT4id2Vuc2xleWRhbGUifV0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAjIFt7ImFiY194eXoiPT4ibW5vIn0sIHsiY2hlZXNlX2lkIj0+IndlbnNsZXlkYWxlIn1dCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIFt7ImFiY194eXoiPT4ibW5vIn0sIHsiY2hlZXNlX2lkIj0+IndlbnNsZXlkYWxlIn1dCiAgIyDjgpLmrKHjgavlpInmj5sK</text>
+        <text encoding="base64">ICAjIFt7ImFiY194eXoiPT4ibW5vIn0sIHsiY2hlZXNlX2lkIj0+IndlbnNsZXlkYWxlIn1dCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgQXJyYXkK</text>
+        <text encoding="base64">ICAjIFt7ImFiY194eXoiPT4ibW5vIn0sIHsiY2hlZXNlX2lkIj0+IndlbnNsZXlkYWxlIn1dCiAgIyDjgpLmrKHjgavlpInmj5sK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
