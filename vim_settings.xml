@@ -52,7 +52,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/rails-json-api/app/controllers/application_controller.rb" timestamp="1513516949264">
+      <file name="$USER_HOME$/rails-json-api/app/controllers/application_controller.rb" timestamp="1513518075485">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="10" />
@@ -102,17 +102,11 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/rails-json-api/app/controllers/users_controller.rb" timestamp="1513517077662">
+      <file name="$USER_HOME$/rails-json-api/app/controllers/users_controller.rb" timestamp="1513518169084">
         <mark key="'" line="1" column="31" />
         <mark key="[" line="1" column="32" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/.rubocop.yml" timestamp="1513061083669">
-        <mark key="'" line="50" column="15" />
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd64721e-effb-4723-a8b6-ba6f4a0f308d/console.sql" timestamp="1513233399673">
         <mark key="[" line="14" column="29" />
@@ -232,10 +226,10 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513327389842">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1513517852714">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" timestamp="1513510738702">
         <mark key="'" line="26" column="50" />
@@ -413,10 +407,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>controller</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>controller</text>
       </register>
       <register name="/" type="4">
         <text>deep</text>
