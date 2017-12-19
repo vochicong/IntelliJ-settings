@@ -170,7 +170,6 @@
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/lib/mcs_powerpoint/new_share_powerpoint_creator.rb" timestamp="1513654458937" />
       <file name="$USER_HOME$/mcs_ver2/lib/custom_date_time.rb" timestamp="1512098837993">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="35" />
@@ -255,6 +254,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1513679416796" />
       <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1512387681473">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
