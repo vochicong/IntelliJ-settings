@@ -29,7 +29,7 @@
         <mark key="^" line="297" column="0" />
         <mark key="." line="297" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/requests/survey_chains_spec.rb" timestamp="1513841730153">
+      <file name="$USER_HOME$/mcs_ver2/spec/requests/survey_chains_spec.rb" timestamp="1513842508164">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="62" />
         <mark key="^" line="53" column="66" />
@@ -123,6 +123,9 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/Gemfile" timestamp="1513842541935">
+        <mark key="'" line="124" column="7" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/initializers/camelizer.rb" timestamp="1513315390092">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="50" />
@@ -135,8 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="39" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
-      <jump line="23" column="0" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
       <jump line="15" column="27" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
       <jump line="0" column="8" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
       <jump line="218" column="0" filename="$USER_HOME$/mcs_ver2/README.md" />
@@ -235,6 +236,8 @@
       <jump line="593" column="4" filename="/user.rb" />
       <jump line="99" column="20" filename="$USER_HOME$/mcs_ver2/spec/requests/survey_chains_spec.rb" />
       <jump line="94" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/survey_chains_spec.rb" />
+      <jump line="103" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="124" column="7" filename="$USER_HOME$/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -244,7 +247,7 @@
         <text encoding="base64">IGFuZA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3Rpb25fcGxhbl91c2Vyc1w+</text>
+        <text>rubocop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyKS50byBpbmNsdWRlICJwYXN0X21hZ2VsbGFuX3N1bW1hcnlfcmVzdWx0cyIK</text>
@@ -281,15 +284,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3Rpb25fcGxhbl91c2Vyc1w+</last-search>
+      <last-search>rubocop</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3Rpb25fcGxhbl91c2Vyc1w+</last-pattern>
+      <last-pattern>rubocop</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Align</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVOYW1lXD4=</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVcPg==</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9zdXJ2ZXlfaGFzX2JlZW5fY2hhaW5lZFw+</entry>
@@ -309,6 +311,7 @@
         <entry encoding="base64">XDxfY3VycmVudF91c2VyXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50X3VzZXJcPg==</entry>
         <entry encoding="base64">XDxhY3Rpb25fcGxhbl91c2Vyc1w+</entry>
+        <entry>rubocop</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
