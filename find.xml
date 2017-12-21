@@ -4,9 +4,31 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*.jbuilder" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.rb</mask>
+      <mask>*.r</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jb</mask>
+      <mask>*.jbuil</mask>
+      <mask>*.jbuild</mask>
+      <mask>*.jbuilde</mask>
+      <mask>*.jbuilder</mask>
+    </recentFileMasks>
   </component>
 </application>
