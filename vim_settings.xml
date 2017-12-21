@@ -5,6 +5,9 @@
     <filemarks>
       <file name="/routes.rb" timestamp="1513825656509" />
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/users_controller.rb" timestamp="1513824407914" />
+      <file name="/Dummy.jql" timestamp="1513838019262">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1513823411577">
         <mark key="[" line="124" column="8" />
         <mark key="]" line="124" column="8" />
@@ -35,6 +38,15 @@
       </file>
       <file name="/user.rb" timestamp="1513823842988">
         <mark key="'" line="593" column="4" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/api_application_controller.rb" timestamp="1513669067622">
+        <mark key="[" line="53" column="5" />
+      </file>
+      <file name="$USER_HOME$/rails-json-api/README.md" timestamp="1513517182174">
+        <mark key="[" line="102" column="0" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1513248046890">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/webpacker.yml" timestamp="1511764582455">
         <mark key="[" line="35" column="0" />
@@ -74,6 +86,9 @@
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1513233929941">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1513669073018">
         <mark key="[" line="0" column="0" />
@@ -199,11 +214,11 @@
       <jump line="593" column="4" filename="/user.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">I3tudW1iZXJ9IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">I3tudW1iZXJ9IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50X3VzZXJcPg==</text>
