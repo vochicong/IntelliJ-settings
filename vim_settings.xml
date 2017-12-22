@@ -9,8 +9,29 @@
       <file name="/Dummy.jql" timestamp="1513838019262">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1513823411577">
+        <mark key="[" line="124" column="8" />
+        <mark key="]" line="124" column="8" />
+        <mark key="." line="124" column="8" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/create_resend.jbuilder" timestamp="1513844500545">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/notifications/read_comment.jbuilder" timestamp="1513844601920">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/rails-json-api/config/initializers/camelizer_snakeizer.rb" timestamp="1513516684757">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/user_limit_settings/index.jbuilder" timestamp="1513844562193">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.rb" timestamp="1513052237946">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/error_mails/index.jbuilder" timestamp="1513844221805">
         <mark key="[" line="0" column="0" />
@@ -18,17 +39,10 @@
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/survey_chains/create_all.jbuilder" timestamp="1513844409854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/README.md" timestamp="1513844855573">
-        <mark key="[" line="297" column="20" />
-        <mark key="]" line="297" column="20" />
-        <mark key="^" line="296" column="33" />
-        <mark key="." line="297" column="20" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/requests/survey_chains_spec.rb" timestamp="1513842508164">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="62" />
-        <mark key="^" line="53" column="66" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/spec/acceptance/api/v2/operation/users/csv/imports_controller_spec.rb" timestamp="1513844955380">
+        <mark key="[" line="3" column="65" />
+        <mark key="]" line="3" column="65" />
+        <mark key="." line="3" column="65" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/company_settings/update_check_survey_report_settings.jbuilder" timestamp="1513844652133">
         <mark key="[" line="0" column="0" />
@@ -41,22 +55,34 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="39" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/users/create.jbuilder" timestamp="1513844139855">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/users/csv/imports/show.jbuilder" timestamp="1513845189726">
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/company_settings/update_actionplan_alert_settings.jbuilder" timestamp="1513844636221">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/users/update.jbuilder" timestamp="1513844131167">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/api_application_controller.rb" timestamp="1513669067622">
+        <mark key="[" line="53" column="5" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/user_limit_settings/update.jbuilder" timestamp="1513844616781">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/attribute_all.jbuilder" timestamp="1513844319447">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/rails-json-api/README.md" timestamp="1513517182174">
         <mark key="[" line="102" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/company_settings/index.jbuilder" timestamp="1513844522457">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/supports/contacts.jbuilder" timestamp="1513844046654">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1513248046890">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/attribute_groups.jbuilder" timestamp="1513844462756">
@@ -68,6 +94,11 @@
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/survey_chains/update_all.jbuilder" timestamp="1513844646881">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/config/webpacker.yml" timestamp="1511764582455">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/rubocop" timestamp="1512638403732">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -76,20 +107,75 @@
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_attribute_settings/update.jbuilder" timestamp="1513844611020">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/survey_chains/edit_options.jbuilder" timestamp="1513844246706">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1512388748685">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/survey_chains/edit.jbuilder" timestamp="1513843787098">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/initializers/constants.rb" timestamp="1513822848016">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/magellan_survey_selected_attributes.jbuilder" timestamp="1513844578631">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/rails-json-api/config/initializers/json_param_key_transform.rb" timestamp="1513515799229">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/bin/rubocop-git" timestamp="1512638396874">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/models/magellan_attribute_setting_form_list.rb" timestamp="1513825324553">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_attribute_settings/chain_options.jbuilder" timestamp="1513844482493">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1513233929941">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/select_attributes.jbuilder" timestamp="1513844362242">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/users/destroy.jbuilder" timestamp="1513843890829">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1513911133879">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/survey_chains/new.jbuilder" timestamp="1513841658845">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/users/index.jbuilder" timestamp="1513843880279">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1513825495806">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_viewable_users/index.jbuilder" timestamp="1513844555881">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/company_settings/update_comment_settings.jbuilder" timestamp="1513844659308">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_attribute_settings/index.jbuilder" timestamp="1513844536556">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/attribute_all_with_paging.jbuilder" timestamp="1513844253592">
@@ -109,114 +195,13 @@
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_attribute_answerer_settings/index.jbuilder" timestamp="1513844390782">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/users/bulk_update.jbuilder" timestamp="1513844148354">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/initializers/camelizer_snakeizer.rb" timestamp="1513315455557">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1513823411577">
-        <mark key="[" line="124" column="8" />
-        <mark key="]" line="124" column="8" />
-        <mark key="." line="124" column="8" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/create_resend.jbuilder" timestamp="1513844500545">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/rails-json-api/config/initializers/camelizer_snakeizer.rb" timestamp="1513516684757">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/user_limit_settings/index.jbuilder" timestamp="1513844562193">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.rb" timestamp="1513052237946">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/spec/acceptance/api/v2/operation/users/csv/imports_controller_spec.rb" timestamp="1513844955380">
-        <mark key="[" line="3" column="65" />
-        <mark key="]" line="3" column="65" />
-        <mark key="." line="3" column="65" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/users/create.jbuilder" timestamp="1513844139855">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/api_application_controller.rb" timestamp="1513669067622">
-        <mark key="[" line="53" column="5" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/attribute_all.jbuilder" timestamp="1513844319447">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/company_settings/index.jbuilder" timestamp="1513844522457">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1513248046890">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/config/webpacker.yml" timestamp="1511764582455">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/survey_chains/edit_options.jbuilder" timestamp="1513844246706">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1512388748685">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/survey_chains/edit.jbuilder" timestamp="1513843787098">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/magellan_survey_selected_attributes.jbuilder" timestamp="1513844578631">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/rails-json-api/config/initializers/json_param_key_transform.rb" timestamp="1513515799229">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/bin/rubocop-git" timestamp="1512638396874">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_attribute_settings/chain_options.jbuilder" timestamp="1513844482493">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1513233929941">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/select_attributes.jbuilder" timestamp="1513844362242">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513845077216">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/survey_chains/new.jbuilder" timestamp="1513841658845">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/users/index.jbuilder" timestamp="1513843880279">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1513825495806">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_viewable_users/index.jbuilder" timestamp="1513844555881">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_attribute_settings/index.jbuilder" timestamp="1513844536556">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/users/bulk_update.jbuilder" timestamp="1513844148354">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
