@@ -181,6 +181,9 @@
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/attribute_all_with_paging.jbuilder" timestamp="1513844253592">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_report.rb" timestamp="1513911578837">
+        <mark key="'" line="88" column="20" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/last_business_days/is_last_business_day.jbuilder" timestamp="1513844569956">
         <mark key="[" line="0" column="0" />
       </file>
@@ -205,12 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="27" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
-      <jump line="0" column="8" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
-      <jump line="218" column="0" filename="$USER_HOME$/mcs_ver2/README.md" />
-      <jump line="51" column="39" filename="$USER_HOME$/mcs_ver2/README.md" />
-      <jump line="81" column="22" filename="$USER_HOME$/mcs_ver2/README.md" />
-      <jump line="82" column="17" filename="$USER_HOME$/mcs_ver2/README.md" />
       <jump line="84" column="46" filename="$USER_HOME$/mcs_ver2/README.md" />
       <jump line="89" column="8" filename="$USER_HOME$/mcs_ver2/README.md" />
       <jump line="96" column="4" filename="$USER_HOME$/mcs_ver2/README.md" />
@@ -305,6 +302,12 @@
       <jump line="94" column="0" filename="$USER_HOME$/mcs_ver2/spec/requests/survey_chains_spec.rb" />
       <jump line="103" column="0" filename="$USER_HOME$/mcs_ver2/Gemfile" />
       <jump line="124" column="7" filename="$USER_HOME$/mcs_ver2/Gemfile" />
+      <jump line="138" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_report.rb" />
+      <jump line="12" column="3" filename="$USER_HOME$/mcs_ver2/app/models/magellan_report.rb" />
+      <jump line="44" column="7" filename="$USER_HOME$/mcs_ver2/app/models/magellan_report.rb" />
+      <jump line="53" column="54" filename="$USER_HOME$/mcs_ver2/app/models/magellan_report.rb" />
+      <jump line="69" column="20" filename="$USER_HOME$/mcs_ver2/app/models/magellan_report.rb" />
+      <jump line="88" column="20" filename="$USER_HOME$/mcs_ver2/app/models/magellan_report.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -314,7 +317,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>rubocop</text>
+        <text encoding="base64">XDxpbXByb3ZlbWVudF9zdW1tYXJ5X3N0YXR1c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyKS50byBpbmNsdWRlICJwYXN0X21hZ2VsbGFuX3N1bW1hcnlfcmVzdWx0cyIK</text>
@@ -351,15 +354,14 @@
       </register>
     </registers>
     <search>
-      <last-search>rubocop</last-search>
+      <last-search encoding="base64">XDxpbXByb3ZlbWVudF9zdW1tYXJ5X3N0YXR1c1w+</last-search>
       <last-offset />
-      <last-pattern>rubocop</last-pattern>
+      <last-pattern encoding="base64">XDxpbXByb3ZlbWVudF9zdW1tYXJ5X3N0YXR1c1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdHRyaWJ1dGVOYW1lXD4=</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVcPg==</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9zdXJ2ZXlfaGFzX2JlZW5fY2hhaW5lZFw+</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9zdXJ2ZXlfaGFzX25vdF9iZWVuX2NoYWluZWRcPg==</entry>
@@ -379,6 +381,7 @@
         <entry encoding="base64">XDxjdXJyZW50X3VzZXJcPg==</entry>
         <entry encoding="base64">XDxhY3Rpb25fcGxhbl91c2Vyc1w+</entry>
         <entry>rubocop</entry>
+        <entry encoding="base64">XDxpbXByb3ZlbWVudF9zdW1tYXJ5X3N0YXR1c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
