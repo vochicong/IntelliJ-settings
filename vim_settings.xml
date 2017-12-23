@@ -125,6 +125,12 @@
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="22" />
       </file>
+      <file name="/Volumes/SSD/Users/congvc/ruby-tips/docker/docker-compose.yml" timestamp="1514031204383">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+      </file>
       <file name="$USER_HOME$/rails-json-api/spec/factories/users.rb" timestamp="1513510181312">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="18" />
@@ -254,7 +260,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" timestamp="1513679416796" />
       <file name="$USER_HOME$/mcs_ver2/.env.docker" timestamp="1512387681473">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -410,10 +415,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>reques</text>
+        <text>&quot;5000:5000&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>reques</text>
+        <text>&quot;5000:5000&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXRpc2ZhY3Rpb25fYmVzdFw+</text>
@@ -422,31 +427,31 @@
         <text encoding="base64">IyMjIFJlcXVlc3Qg44GuIEpTT04ga2V5cyDjga4gY2FtZWxDYXNlIOOBi+OCiSBzbmFrZV9jYXNlIOOBuOOBruWkieaPmwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gbG9ndm9sdW1lMDE6L3Zhci9sb2cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpbmtzOgogICAgLSByZWRpcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjID09IEFjdGlvbiBDb250cm9sbGVyIFxQYXJhbWV0ZXJzCg==</text>
+        <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiByZWRpcwp2b2x1bWVzOgogIGxvZ3ZvbHVtZTAxOiB7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG9ja2VyIHB1bGwgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgU25ha2VpemUgSlNPTiBBUEkgcmVxdWVzdCBwYXJhbXMKICAgIGRlZiBzbmFrZWl6ZV9wYXJhbXMKICAgICAgcGFyYW1zLmRlZXBfc25ha2VpemUhCiAgICBlbmQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBAcGFyYW1ldGVycyA9IEBwYXJhbWV0ZXJzLmRlZXBfc25ha2VpemUK</text>
+        <text encoding="base64">ICAjID09IEFjdGlvbiBDb250cm9sbGVyIFxQYXJhbWV0ZXJzCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICMgU25ha2VpemUgSlNPTiBBUEkgcmVxdWVzdCBwYXJhbXMKICAgIGRlZiBzbmFrZWl6ZV9wYXJhbXMKICAgICAgcGFyYW1zLmRlZXBfc25ha2VpemUhCiAgICBlbmQKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
