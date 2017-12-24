@@ -110,6 +110,13 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="39" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.rb" timestamp="1514077762863">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/api_application_controller.rb" timestamp="1513669067622">
         <mark key="[" line="53" column="5" />
       </file>
@@ -118,6 +125,9 @@
         <mark key="[" line="1" column="32" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="/Volumes/SSD/Users/congvc/w/ruby-tips/tmp/User.rb" timestamp="1514077832793">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd64721e-effb-4723-a8b6-ba6f4a0f308d/console.sql" timestamp="1513233399673">
         <mark key="[" line="14" column="29" />
@@ -286,6 +296,12 @@
         <mark key="]" line="38" column="50" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="/Volumes/SSD/Users/congvc/w/ruby-tips/Gemfile" timestamp="1514033698284">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/rails-json-api/config/initializers/params_snakeizer.rb" timestamp="1513517597274">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="4" column="9" />
@@ -312,7 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="4" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="22" column="42" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="28" column="47" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="16" column="67" filename="$USER_HOME$/mcs_ver2/bin/mkdir.sh" />
@@ -412,13 +427,14 @@
       <jump line="163" column="13" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="522" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="601" column="6" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
+      <jump line="28" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;5000:5000&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;5000:5000&quot;</text>
+        <text>gem install cztop</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXRpc2ZhY3Rpb25fYmVzdFw+</text>
@@ -427,31 +443,31 @@
         <text encoding="base64">IyMjIFJlcXVlc3Qg44GuIEpTT04ga2V5cyDjga4gY2FtZWxDYXNlIOOBi+OCiSBzbmFrZV9jYXNlIOOBuOOBruWkieaPmwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gbG9ndm9sdW1lMDE6L3Zhci9sb2cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpbmtzOgogICAgLSByZWRpcwo=</text>
+        <text encoding="base64">ICBhdHRyX2FjY2Vzc29yIDpuYW1lLCA6YWdlCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiByZWRpcwp2b2x1bWVzOgogIGxvZ3ZvbHVtZTAxOiB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZG9ja2VyIHB1bGwgCg==</text>
+        <text encoding="base64">IyBSYWlscwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBpcnVieSBqdXB5dGVyIG5vdGVib29rCmdlbSAiY3p0b3AiCmdlbSAic3BlY2lmaWNfaW5zdGFsbCIKCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjID09IEFjdGlvbiBDb250cm9sbGVyIFxQYXJhbWV0ZXJzCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">YnVuZGxlIGluc3RhbGwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgU25ha2VpemUgSlNPTiBBUEkgcmVxdWVzdCBwYXJhbXMKICAgIGRlZiBzbmFrZWl6ZV9wYXJhbXMKICAgICAgcGFyYW1zLmRlZXBfc25ha2VpemUhCiAgICBlbmQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
