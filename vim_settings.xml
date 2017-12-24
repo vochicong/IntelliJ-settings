@@ -9,6 +9,7 @@
         <mark key="^" line="6" column="60" />
         <mark key="." line="7" column="36" />
       </file>
+      <file name="/Volumes/SSD/Users/congvc/w/ruby-tips/README.md" timestamp="1514095790340" />
       <file name="/Dummy.jql" timestamp="1513676721040">
         <mark key="[" line="0" column="0" />
       </file>
@@ -203,6 +204,12 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
+      <file name="/Volumes/SSD/Users/congvc/w/ruby-tips/tmp/user.rb" timestamp="1514096322517">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/docker/entrypoint-dev.sh" timestamp="1509684085687">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -252,7 +259,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513669073018">
+      <file name="/Dummy.txt" timestamp="1514095734398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -296,8 +303,8 @@
         <mark key="]" line="38" column="50" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/Volumes/SSD/Users/congvc/w/ruby-tips/Gemfile" timestamp="1514033698284">
-        <mark key="[" line="2" column="0" />
+      <file name="/Volumes/SSD/Users/congvc/w/ruby-tips/Gemfile" timestamp="1514095842649">
+        <mark key="[" line="4" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="2" column="0" />
@@ -328,7 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="42" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="28" column="47" filename="$USER_HOME$/mcs_ver2/lib/mcs_xlsx/magellan_check_survey_result_list_creator.rb" />
       <jump line="16" column="67" filename="$USER_HOME$/mcs_ver2/bin/mkdir.sh" />
       <jump line="10" column="26" filename="$USER_HOME$/mcs_ver2/config/initializers/carrierwave.rb" />
@@ -428,46 +434,47 @@
       <jump line="522" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="601" column="6" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="28" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.rb" />
+      <jump line="1" column="0" filename="/Volumes/SSD/Users/congvc/w/ruby-tips/tmp/user.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Bad</text>
       </register>
       <register name="-" type="4">
-        <text>gem install cztop</text>
+        <text>Bad</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXRpc2ZhY3Rpb25fYmVzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIFJlcXVlc3Qg44GuIEpTT04ga2V5cyDjga4gY2FtZWxDYXNlIOOBi+OCiSBzbmFrZV9jYXNlIOOBuOOBruWkieaPmwo=</text>
+        <text encoding="base64">ICAgIGlmIHVzZXIgJiYgIXVzZXIuZ3JvdXAuZ29vZF9iZWhhdmlvcj8KICAgICAgcHV0cyAnVXNlciBpcyBnb29kJwogICAgZWxzZQogICAgICBwdXRzICdCYWQgVXNlcicKICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHV0cyAnVXNlciBpcyBnb29kJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhdHRyX2FjY2Vzc29yIDpuYW1lLCA6YWdlCgo=</text>
+        <text encoding="base64">ICAgICAgcHV0cyAnQmFkIFVzZXInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhdHRyX2FjY2Vzc29yIDpuYW1lLCA6YWdlMAoKICAjICDlsZ7mgKfjgbjjga7ku6PlhaXjgafjga/jgarjgY/jgIHjg63jg7zjgqvjg6vlpInmlbDjga7kvZzmiJDjgavjgarjgaPjgabjgZfjgb7jgYYKICBkZWYgc2V0X3dyb25nKG4sIGEpCiAgICBuYW1lID0gbgogICAgYWdlID0gYQogICAgcHV0cyBzZWxmCiAgZW5kCgogICMg5bGe5oCn44G444Gu5Luj5YWl44Oh44K944OD44OJ44KS5LiK5pu444GNCiAgZGVmIG5hbWU9KG4pCiAgICBAbmFtZSA9ICJNci4gIiArIG4KICBlbmQKCiAgIyDmraPjgZfjgY/lsZ7mgKfjgbjku6PlhaUKICBkZWYgc2V0X2NvcnJlY3QobiwgYSkKICAgIHNlbGYubmFtZSA9IG4KICAgIHNlbGYuYWdlID0gYQogICAgcHV0cyBzZWxmCiAgZW5kCgogICMg44Kk44Oz44K544K/44Oz44K55aSJ5pWw44G444Gu55u05o6l5Luj5YWlCiAgZGVmIHNldF9pbnN0YW5jZV92YXJzKG4sIGEpCiAgICBAbmFtZSA9IG4KICAgIEBhZ2UgPSBhCiAgICBwdXRzIHNlbGYKICBlbmQKCiAgIyDmloflrZfliJfooajnj74KICBkZWYgdG9fcwogICAgIk5hbWU6ICN7bmFtZX0uIEFnZTogI3thZ2V9LiIKICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBSYWlscwo=</text>
+        <text encoding="base64">IyBVc2Vy44GubmFtZeOBqGFnZeWxnuaAp+OBuOS7o+WFpeOBl+OBpuOBv+OCi+Wun+mokwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBpcnVieSBqdXB5dGVyIG5vdGVib29rCmdlbSAiY3p0b3AiCmdlbSAic3BlY2lmaWNfaW5zdGFsbCIKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhdHRyX2FjY2Vzc29yIDpuYW1lLCA6YWdlCgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YnVuZGxlIGluc3RhbGwK</text>
+        <text encoding="base64">IyBSYWlscwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBpcnVieSBqdXB5dGVyIG5vdGVib29rCmdlbSAiY3p0b3AiCmdlbSAic3BlY2lmaWNfaW5zdGFsbCIKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
