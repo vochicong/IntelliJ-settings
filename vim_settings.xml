@@ -9,7 +9,7 @@
       <file name="/Dummy.jql" timestamp="1513838019262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1513823411577">
+      <file name="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1513935413946">
         <mark key="[" line="124" column="8" />
         <mark key="]" line="124" column="8" />
         <mark key="." line="124" column="8" />
@@ -64,6 +64,7 @@
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/company_settings/update_actionplan_alert_settings.jbuilder" timestamp="1513844636221">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/user.rb" timestamp="1513935883596" />
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/api_application_controller.rb" timestamp="1513669067622">
         <mark key="[" line="53" column="5" />
       </file>
