@@ -23,7 +23,7 @@
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/create_resend.jbuilder" timestamp="1513844500545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/lib/string_util.rb" timestamp="1515667771567">
+      <file name="$USER_HOME$/w/mcs_ver2/lib/string_util.rb" timestamp="1515669305843">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="14" />
         <mark key="." line="7" column="14" />
@@ -56,11 +56,12 @@
         <mark key="]" line="3" column="65" />
         <mark key="." line="3" column="65" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/app/services/magellan_summary_result_service.rb" timestamp="1515664963922">
-        <mark key="[" line="31" column="53" />
-        <mark key="]" line="30" column="3" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="31" column="29" />
+      <file name="$USER_HOME$/w/mcs_ver2/app/services/magellan_summary_result_service.rb" timestamp="1515669420818">
+        <mark key="'" line="27" column="3" />
+        <mark key="[" line="27" column="49" />
+        <mark key="]" line="28" column="6" />
+        <mark key="^" line="28" column="6" />
+        <mark key="." line="28" column="6" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/company_settings/update_check_survey_report_settings.jbuilder" timestamp="1513844652133">
         <mark key="[" line="0" column="0" />
@@ -88,6 +89,11 @@
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/users/create.jbuilder" timestamp="1513844139855">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/mcs_ver2/app/models/magellan_summary_result.rb" timestamp="1515669500823">
+        <mark key="[" line="86" column="74" />
+        <mark key="]" line="86" column="74" />
+        <mark key="." line="86" column="74" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/users/csv/imports/show.jbuilder" timestamp="1513845189726">
         <mark key="[" line="1" column="0" />
@@ -187,7 +193,7 @@
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/users/destroy.jbuilder" timestamp="1513843890829">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515664943583">
+      <file name="/Dummy.txt" timestamp="1515669421916">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -242,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
       <jump line="14" column="2" filename="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" />
       <jump line="137" column="15" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
       <jump line="21" column="0" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
@@ -342,19 +347,20 @@
       <jump line="1462" column="61" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
       <jump line="1468" column="27" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
       <jump line="1472" column="61" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
+      <jump line="27" column="3" filename="$USER_HOME$/w/mcs_ver2/app/services/magellan_summary_result_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>）</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>）</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>space</text>
+        <text>if</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAjIOWFiOmgreOBqOacq+WwvuOBruepuueZveaWh+Wtl++8iOWFqOinkuepuueZveOCkuWQq+OCgO+8ieOCkuWJiumZpAo=</text>
+        <text encoding="base64">ICAgIGRlZiBkZWVwX3NuYWtlaXplIQogICAgICBAcGFyYW1ldGVycy5kZWVwX3RyYW5zZm9ybV9rZXlzISgmOnVuZGVyc2NvcmUpCiAgICAgIHNlbGYKICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZ1bGxfd2lkdGhfc3BhY2UgPSAi44CAIiAK</text>
@@ -388,15 +394,14 @@
       </register>
     </registers>
     <search>
-      <last-search>space</last-search>
+      <last-search>if</last-search>
       <last-offset />
-      <last-pattern>space</last-pattern>
+      <last-pattern>if</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdHRyaWJ1dGVzX3BhcmFtc1w+</entry>
         <entry encoding="base64">XDxtc3JfYXJ5XD4=</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XDx1c2VyX3BhcmFtXD4=</entry>
@@ -416,6 +421,7 @@
         <entry encoding="base64">XDxhdHRyaWJ1dGVfa2V5XD4=</entry>
         <entry>strip</entry>
         <entry>space</entry>
+        <entry>if</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
