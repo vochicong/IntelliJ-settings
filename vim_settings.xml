@@ -23,6 +23,12 @@
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/create_resend.jbuilder" timestamp="1513844500545">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/w/mcs_ver2/lib/string_util.rb" timestamp="1515667771567">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="1" column="19" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/notifications/read_comment.jbuilder" timestamp="1513844601920">
         <mark key="[" line="0" column="0" />
       </file>
@@ -50,7 +56,7 @@
         <mark key="]" line="3" column="65" />
         <mark key="." line="3" column="65" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/app/services/magellan_summary_result_service.rb" timestamp="1515664547569">
+      <file name="$USER_HOME$/w/mcs_ver2/app/services/magellan_summary_result_service.rb" timestamp="1515664963922">
         <mark key="[" line="31" column="53" />
         <mark key="]" line="30" column="3" />
         <mark key="^" line="30" column="3" />
@@ -169,6 +175,9 @@
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_attribute_settings/chain_options.jbuilder" timestamp="1513844482493">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" timestamp="1515666150524">
+        <mark key="'" line="1472" column="61" />
+      </file>
       <file name="/dummy.sql" timestamp="1513233929941">
         <mark key="[" line="0" column="0" />
       </file>
@@ -178,7 +187,7 @@
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/users/destroy.jbuilder" timestamp="1513843890829">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515662375810">
+      <file name="/Dummy.txt" timestamp="1515664943583">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -233,19 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
-      <jump line="11" column="46" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
-      <jump line="20" column="22" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
-      <jump line="98" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="8" column="8" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
-      <jump line="2" column="3" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
-      <jump line="278" column="0" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
-      <jump line="14" column="22" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
-      <jump line="23" column="21" filename="$USER_HOME$/mcs_ver2/docs/API仕様書/A025-API:Organizations:id:MagellanAttributeSettings.md" />
-      <jump line="44" column="60" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="89" column="60" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="101" column="20" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="43" column="54" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
       <jump line="100" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
       <jump line="14" column="2" filename="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" />
       <jump line="137" column="15" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
@@ -333,62 +329,73 @@
       <jump line="8" column="4" filename="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/magellan_summary_results/attributes_controller.rb" />
       <jump line="19" column="79" filename="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/magellan_summary_results/attributes_controller.rb" />
       <jump line="29" column="37" filename="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/magellan_summary_results/attributes_controller.rb" />
+      <jump line="1394" column="8" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
+      <jump line="1397" column="11" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
+      <jump line="1400" column="50" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
+      <jump line="1402" column="21" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
+      <jump line="1404" column="22" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
+      <jump line="1389" column="18" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
+      <jump line="1391" column="25" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
+      <jump line="1392" column="25" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
+      <jump line="1430" column="6" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
+      <jump line="1459" column="40" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
+      <jump line="1462" column="61" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
+      <jump line="1468" column="27" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
+      <jump line="1472" column="61" filename="$APPLICATION_HOME_DIR$/rubystubs24/string.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>）</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>）</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdHRyaWJ1dGVfa2V5XD4=</text>
+        <text>space</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXNbOmF0dHJpYnV0ZV9rZXldLAogICAgICAgIHBhcmFtc1s6YXR0cmlidXRlX25hbWVdLAo=</text>
+        <text encoding="base64">ICAjIOWFiOmgreOBqOacq+WwvuOBruepuueZveaWh+Wtl++8iOWFqOinkuepuueZveOCkuWQq+OCgO+8ieOCkuWJiumZpAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZV9rZXkgPSBwYXJhbXNbOmF0dHJpYnV0ZUtleV0K</text>
+        <text encoding="base64">ICAgIGZ1bGxfd2lkdGhfc3BhY2UgPSAi44CAIiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXNbOmF0dHJpYnV0ZUtleV0sCg==</text>
+        <text encoding="base64">ICAgIGF0dHJpYnV0ZV9rZXkgPSBwYXJhbXNbOmF0dHJpYnV0ZUtleV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGlzX21hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXNbOmF0dHJpYnV0ZUtleV0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgaWYgYXR0cmlidXRlX2tleS5uaWw/CiAgICAgICAgIyBNYWdlbGxhblN1bW1hcnlSZXN1bHQuZmluZF9hbGwobWFnZWxsYW5fc3VydmV5X2lkKQogICAgICAgIHIgPSBNYWdlbGxhblN1bW1hcnlSZXN1bHQuYnlfbWFnZWxsYW5fc3VydmV5X2lkKG1hZ2VsbGFuX3N1cnZleV9pZCkKICAgICAgICAgIC5zb3J0X2F0dHJpYnV0ZQogICAgICBlbHNlCiAgICAgICAgIyBNYWdlbGxhblN1bW1hcnlSZXN1bHQuZmluZF9ieV9hdHRyaWJ1dGVfa2V5KG1hZ2VsbGFuX3N1cnZleV9pZCwgYXR0cmlidXRlX2tleSkKICAgICAgICByID0gTWFnZWxsYW5TdW1tYXJ5UmVzdWx0LmJ5X21hZ2VsbGFuX3N1cnZleV9pZChtYWdlbGxhbl9zdXJ2ZXlfaWQpCiAgICAgICAgICAud2hlcmVfYXR0cmlidXRlX2tleShhdHRyaWJ1dGVfa2V5KQogICAgICAgICAgLnNvcnRfYXR0cmlidXRlCiAgICAgIGVuZAogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGlmIGlzX21hbmFnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHIK</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgaWYgYXR0cmlidXRlX2tleS5uaWw/CiAgICAgICAgIyBNYWdlbGxhblN1bW1hcnlSZXN1bHQuZmluZF9hbGwobWFnZWxsYW5fc3VydmV5X2lkKQogICAgICAgIHIgPSBNYWdlbGxhblN1bW1hcnlSZXN1bHQuYnlfbWFnZWxsYW5fc3VydmV5X2lkKG1hZ2VsbGFuX3N1cnZleV9pZCkKICAgICAgICAgIC5zb3J0X2F0dHJpYnV0ZQogICAgICBlbHNlCiAgICAgICAgIyBNYWdlbGxhblN1bW1hcnlSZXN1bHQuZmluZF9ieV9hdHRyaWJ1dGVfa2V5KG1hZ2VsbGFuX3N1cnZleV9pZCwgYXR0cmlidXRlX2tleSkKICAgICAgICByID0gTWFnZWxsYW5TdW1tYXJ5UmVzdWx0LmJ5X21hZ2VsbGFuX3N1cnZleV9pZChtYWdlbGxhbl9zdXJ2ZXlfaWQpCiAgICAgICAgICAud2hlcmVfYXR0cmlidXRlX2tleShhdHRyaWJ1dGVfa2V5KQogICAgICAgICAgLnNvcnRfYXR0cmlidXRlCiAgICAgIGVuZAogICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgciA9IHIuc29ydF9hdHRyaWJ1dGUK</text>
+        <text encoding="base64">ICAgIHIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgciA9IE1hZ2VsbGFuU3VtbWFyeVJlc3VsdC5ieV9tYWdlbGxhbl9zdXJ2ZXlfaWQobWFnZWxsYW5fc3VydmV5X2lkKQo=</text>
+        <text encoding="base64">ICAgICAgciA9IHIuc29ydF9hdHRyaWJ1dGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIGlmIGF0dHJpYnV0ZV9rZXkuYmxhbms/CiAgICAgICAgIyBNYWdlbGxhblN1bW1hcnlSZXN1bHQuZmluZF9hbGxfYnlfc3VydmV5X2lkX2FuZF9pZHMobWFnZWxsYW5fc3VydmV5X2lkLCB2aWV3YWJsZV9zdXJ2ZXlfaWRzKQogICAgICAgIE1hZ2VsbGFuU3VtbWFyeVJlc3VsdC5ieV9tYWdlbGxhbl9zdXJ2ZXlfaWQobWFnZWxsYW5fc3VydmV5X2lkKQogICAgICAgICAgLndoZXJlKGlkOiB2aWV3YWJsZV9zdXJ2ZXlfaWRzKQogICAgICAgICAgLnNvcnRfYXR0cmlidXRlCiAgICAgIGVsc2UKICAgICAgICAjIE1hZ2VsbGFuU3VtbWFyeVJlc3VsdC5maW5kX2J5X2F0dHJpYnV0ZV9rZXlfYW5kX2lkcyhtYWdlbGxhbl9zdXJ2ZXlfaWQsIGF0dHJpYnV0ZV9rZXksIHZpZXdhYmxlX3N1cnZleV9pZHMpCiAgICAgICAgTWFnZWxsYW5TdW1tYXJ5UmVzdWx0LmJ5X21hZ2VsbGFuX3N1cnZleV9pZChtYWdlbGxhbl9zdXJ2ZXlfaWQpCiAgICAgICAgICAud2hlcmUoaWQ6IHZpZXdhYmxlX3N1cnZleV9pZHMpCiAgICAgICAgICAud2hlcmVfYXR0cmlidXRlX2tleShhdHRyaWJ1dGVfa2V5KQogICAgICAgICAgLnNvcnRfYXR0cmlidXRlCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgciA9IE1hZ2VsbGFuU3VtbWFyeVJlc3VsdC5ieV9tYWdlbGxhbl9zdXJ2ZXlfaWQobWFnZWxsYW5fc3VydmV5X2lkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIEBwYXJhbSBbT2JqZWN0XSBpc19tYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIGlmIGF0dHJpYnV0ZV9rZXkuYmxhbms/CiAgICAgICAgIyBNYWdlbGxhblN1bW1hcnlSZXN1bHQuZmluZF9hbGxfYnlfc3VydmV5X2lkX2FuZF9pZHMobWFnZWxsYW5fc3VydmV5X2lkLCB2aWV3YWJsZV9zdXJ2ZXlfaWRzKQogICAgICAgIE1hZ2VsbGFuU3VtbWFyeVJlc3VsdC5ieV9tYWdlbGxhbl9zdXJ2ZXlfaWQobWFnZWxsYW5fc3VydmV5X2lkKQogICAgICAgICAgLndoZXJlKGlkOiB2aWV3YWJsZV9zdXJ2ZXlfaWRzKQogICAgICAgICAgLnNvcnRfYXR0cmlidXRlCiAgICAgIGVsc2UKICAgICAgICAjIE1hZ2VsbGFuU3VtbWFyeVJlc3VsdC5maW5kX2J5X2F0dHJpYnV0ZV9rZXlfYW5kX2lkcyhtYWdlbGxhbl9zdXJ2ZXlfaWQsIGF0dHJpYnV0ZV9rZXksIHZpZXdhYmxlX3N1cnZleV9pZHMpCiAgICAgICAgTWFnZWxsYW5TdW1tYXJ5UmVzdWx0LmJ5X21hZ2VsbGFuX3N1cnZleV9pZChtYWdlbGxhbl9zdXJ2ZXlfaWQpCiAgICAgICAgICAud2hlcmUoaWQ6IHZpZXdhYmxlX3N1cnZleV9pZHMpCiAgICAgICAgICAud2hlcmVfYXR0cmlidXRlX2tleShhdHRyaWJ1dGVfa2V5KQogICAgICAgICAgLnNvcnRfYXR0cmlidXRlCiAgICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdHRyaWJ1dGVfa2V5XD4=</last-search>
+      <last-search>space</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdHRyaWJ1dGVfa2V5XD4=</last-pattern>
+      <last-pattern>space</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtXD4=</entry>
-        <entry encoding="base64">XDxyZXN1bHRzX3BhcmFtc1w+</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVzX3BhcmFtc1w+</entry>
         <entry encoding="base64">XDxtc3JfYXJ5XD4=</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
@@ -407,6 +414,8 @@
         <entry encoding="base64">XDxieV9tYWdlbGxhbl9zdXJ2ZXlfaWRcPg==</entry>
         <entry encoding="base64">XDxzb3J0X2F0dHJpYnV0ZVw+</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVfa2V5XD4=</entry>
+        <entry>strip</entry>
+        <entry>space</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
