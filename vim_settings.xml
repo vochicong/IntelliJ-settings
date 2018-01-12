@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/requests/organizations_spec.rb" timestamp="1515742473187">
-        <mark key="'" line="21" column="6" />
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/w/mcs_ver2/spec/requests/organizations_spec.rb" timestamp="1515743763645">
+        <mark key="'" line="37" column="31" />
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="18" />
+        <mark key="^" line="36" column="14" />
+        <mark key="." line="36" column="18" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_check_survey_settings/index.jbuilder" timestamp="1513844546280">
         <mark key="[" line="0" column="0" />
@@ -185,7 +185,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/devise-4.3.0/lib/devise/controllers/sign_in_out.rb" timestamp="1515742346065" />
       <file name="$USER_HOME$/mcs_ver2/app/views/api/v2/operations/magellan_viewable_users/index.jbuilder" timestamp="1513844555881">
         <mark key="[" line="0" column="0" />
       </file>
@@ -225,8 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_chain.rb" />
-      <jump line="67" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_chain.rb" />
       <jump line="71" column="11" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_chain.rb" />
       <jump line="182" column="14" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_chain.rb" />
       <jump line="38" column="14" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
@@ -325,61 +322,62 @@
       <jump line="43" column="6" filename="$USER_HOME$/w/mcs_ver2/spec/requests/organizations_spec.rb" />
       <jump line="44" column="6" filename="$USER_HOME$/w/mcs_ver2/spec/requests/organizations_spec.rb" />
       <jump line="17" column="6" filename="$USER_HOME$/w/mcs_ver2/spec/requests/organizations_spec.rb" />
+      <jump line="36" column="10" filename="$USER_HOME$/w/mcs_ver2/spec/requests/organizations_spec.rb" />
+      <jump line="38" column="31" filename="$USER_HOME$/w/mcs_ver2/spec/requests/organizations_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNpZ25faW4gYWRtaW4udXNlcgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IChMTSk=</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text encoding="base64">IChMTSk=</text>
       </register>
       <register name="/" type="4">
-        <text>200</text>
+        <text encoding="base64">XDxuX2luX2NoYXJnZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNpZ25faW4gYWRtaW4udXNlcgo=</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlX29yZ2FuaXphdGlvbnMgbl9vcmcsIGFkbWluCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2lnbl9pbiBhZG1pbi51c2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbl9vcmdfaW5fY2hhcmdlLCBuX290aGVyID0gNSwgMgogICAgICBjcmVhdGVfb3JnYW5pemF0aW9ucyBuX29yZ19pbl9jaGFyZ2UsIG5fb3RoZXIK</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlX290aGVyX29yZ2FuaXphdGlvbnMgMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjICAgbl9vdGhlcjog5ouF5b2T5aSW44Gu57WE57mU5pWwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNpZ25faW4gYWRtaW4udXNlcgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkZWYgY3JlYXRlX290aGVyX29yZ2FuaXphdGlvbnMobl9vdGhlcikKICAgICgxLi5uX290aGVyKS5lYWNoIGRvIHxpfAogICAgICBvcmcgPSBjcmVhdGUoOmNvbXBhbnksIGNvZGU6IDk5OTkwMDAwMDAgKyBpKQogICAgICBtX3N1cnZleSA9IGNyZWF0ZSg6bWFnZWxsYW5fc3VydmV5LCBjb21wYW55OiBvcmcpCiAgICAgIGNyZWF0ZSg6bWFnZWxsYW5fc3VtbWFyeV9yZXN1bHQsIG1hZ2VsbGFuX3N1cnZleTogbV9zdXJ2ZXkpCiAgICBlbmQKICBlbmQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaWYgYWRtaW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGl0ICLmi4XlvZPjgZfjgabjgYTjgarjgYTntYTnuZTjga8gR0VUIOOBp+OBjeOBquOBhCIK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9vdGhlcl9vcmdhbml6YXRpb25zKG5fb3RoZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlKDpjb21wYW55X3VzZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHJvbGU6IGNyZWF0ZSg6cm9sZSwgOmxtaV9hZG1pbikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>200</last-search>
+      <last-search encoding="base64">XDxuX2luX2NoYXJnZVw+</last-search>
       <last-offset />
-      <last-pattern>200</last-pattern>
+      <last-pattern encoding="base64">XDxuX2luX2NoYXJnZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50X3VzZXJcPg==</entry>
         <entry encoding="base64">XDxhY3Rpb25fcGxhbl91c2Vyc1w+</entry>
         <entry>rubocop</entry>
         <entry encoding="base64">XDxpbXByb3ZlbWVudF9zdW1tYXJ5X3N0YXR1c1w+</entry>
@@ -399,6 +397,7 @@
         <entry encoding="base64">XDxvcmdcPg==</entry>
         <entry encoding="base64">XDxtX3N1cnZleVw+</entry>
         <entry>200</entry>
+        <entry encoding="base64">XDxuX2luX2NoYXJnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
