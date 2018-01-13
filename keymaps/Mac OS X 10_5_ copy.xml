@@ -1,4 +1,16 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f2" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
   <action id="IntroduceConstant" />
   <action id="org.jetbrains.plugins.ruby.rails.console.RunRailsConsoleAction">
     <keyboard-shortcut first-keystroke="meta alt c" />
