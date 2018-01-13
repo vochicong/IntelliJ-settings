@@ -1388,6 +1388,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/2.4.0/json/add" />
       </SOURCES>
     </library>
+    <library name="json_spec (v1.1.5, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/json_spec-1.1.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/json_spec-1.1.5/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/json_spec-1.1.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/json_spec-1.1.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/json_spec-1.1.5/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/json_spec-1.1.5/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="kaminari (v1.0.1, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/kaminari-1.0.1/gemfiles" />
