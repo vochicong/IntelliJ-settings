@@ -112,6 +112,9 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/w/mcs_ver2/package.json" timestamp="1515991639667">
+        <mark key="'" line="30" column="5" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1512375722266">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="36" />
@@ -380,8 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="14" column="2" filename="$USER_HOME$/mcs_ver2/db/seeds/dummy/many_attributes.rb" />
       <jump line="137" column="15" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
       <jump line="21" column="0" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
       <jump line="24" column="0" filename="$USER_HOME$/mcs_ver2/.rubocop.yml" />
@@ -480,6 +481,8 @@
       <jump line="97" column="34" filename="$USER_HOME$/w/json_spec/spec/json_spec/matchers/hash_be_json_eql_spec.rb" />
       <jump line="101" column="34" filename="$USER_HOME$/w/json_spec/spec/json_spec/matchers/hash_be_json_eql_spec.rb" />
       <jump line="108" column="29" filename="$USER_HOME$/w/json_spec/spec/json_spec/matchers/hash_be_json_eql_spec.rb" />
+      <jump line="25" column="28" filename="$USER_HOME$/w/mcs_ver2/package.json" />
+      <jump line="30" column="5" filename="$USER_HOME$/w/mcs_ver2/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -489,7 +492,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>%(</text>
+        <text>json-server</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgY29uZmlnLmJlZm9yZSg6ZWFjaCwgdHlwZTogOnN5c3RlbSwganM6IHRydWUpIGRvCiAgICBkcml2ZW5fYnkgOnNlbGVuaXVtX2Nocm9tZV9oZWFkbGVzcwogIGVuZAo=</text>
@@ -526,15 +529,14 @@
       </register>
     </registers>
     <search>
-      <last-search>%(</last-search>
+      <last-search>json-server</last-search>
       <last-offset />
-      <last-pattern>%(</last-pattern>
+      <last-pattern>json-server</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdHRyaWJ1dGVOYW1lXD4=</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVcPg==</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9zdXJ2ZXlfaGFzX2JlZW5fY2hhaW5lZFw+</entry>
         <entry encoding="base64">XDxtYWdlbGxhbl9zdXJ2ZXlfaGFzX25vdF9iZWVuX2NoYWluZWRcPg==</entry>
@@ -554,6 +556,7 @@
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry encoding="base64">XDxjb21wbGV0ZWRcPg==</entry>
         <entry>%(</entry>
+        <entry>json-server</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
