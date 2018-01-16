@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/magellan_summary_results/check_surveys_controller.rb" timestamp="1516069099488" />
       <file name="$USER_HOME$/rails-json-api/config/environment.rb" timestamp="1513658441467">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="36" />
@@ -77,6 +78,12 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/w/mcs_ver2/spec/api/v2/magellan_summary_results/api_v2_magellan_summary_results_check_surveys_controllers_spec.rb" timestamp="1516069346432">
+        <mark key="[" line="5" column="66" />
+        <mark key="]" line="5" column="66" />
+        <mark key="." line="5" column="66" />
+      </file>
+      <file name="$USER_HOME$/w/mcs_ver2/docs/API仕様書/A010-API:Organizations:id:MagellanSummaryResults:id:CheckSurveys.md" timestamp="1516069505039" />
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn.server" timestamp="1510551302594">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="4" column="0" />
@@ -260,6 +267,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/w/mcs_ver2/spec/api/v2/magellan_summary_results/api_v2_magellan_summary_results_check_surveys_controller_spec.rb" timestamp="1516069528510">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="78" />
+        <mark key="^" line="7" column="78" />
+        <mark key="." line="7" column="78" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/test-all.sh" timestamp="1509674539094">
         <mark key="[" line="9" column="54" />
         <mark key="]" line="11" column="36" />
@@ -347,6 +360,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/mcs_ver2/spec/api/v2/magellan_summary_results/api_v2_magellan_summary_results_check_surveys_spec.rb" timestamp="1516069107955">
+        <mark key="[" line="2" column="70" />
+        <mark key="]" line="2" column="70" />
+        <mark key="." line="2" column="70" />
       </file>
       <file name="$USER_HOME$/rails-json-api/config/initializers/params_snakeizer.rb" timestamp="1513517597274">
         <mark key="'" line="11" column="0" />
@@ -482,11 +500,11 @@
       <jump line="30" column="5" filename="$USER_HOME$/w/mcs_ver2/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>json-server</text>
