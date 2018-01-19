@@ -22,6 +22,7 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/w/mcs_ver2/config/locales/errors.ja.yml" timestamp="1516361969197" />
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn" timestamp="1510130895614">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="25" />
@@ -99,10 +100,6 @@
       </file>
       <file name="$USER_HOME$/w/mcs_ver2/docs/API仕様書/A030-API:Operations:Organizations:id:Users.md" timestamp="1516358950421">
         <mark key="'" line="257" column="3" />
-        <mark key="[" line="301" column="61" />
-        <mark key="]" line="301" column="61" />
-        <mark key="^" line="301" column="49" />
-        <mark key="." line="301" column="61" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/config/environment.rb" timestamp="1513658430403">
         <mark key="[" line="5" column="0" />
@@ -121,7 +118,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/operations/users/csv/imports_controller.rb" timestamp="1516358615209" />
+      <file name="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/operations/users/csv/imports_controller.rb" timestamp="1516361941009" />
       <file name="$USER_HOME$/mcs_ver2/bin/bundle.dev" timestamp="1512638023077">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="4" column="3" />
@@ -299,10 +296,10 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/operations/users_controller.rb" timestamp="1516357953410">
-        <mark key="'" line="275" column="20" />
+      <file name="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/operations/users_controller.rb" timestamp="1516362109182">
+        <mark key="'" line="231" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516358014147">
+      <file name="/Dummy.txt" timestamp="1516362408864">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -404,8 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/w/json_spec/spec/json_spec/matchers/hash_be_json_eql_spec.rb" />
-      <jump line="20" column="46" filename="$USER_HOME$/w/json_spec/spec/json_spec/matchers/hash_be_json_eql_spec.rb" />
       <jump line="24" column="48" filename="$USER_HOME$/w/json_spec/spec/json_spec/matchers/hash_be_json_eql_spec.rb" />
       <jump line="37" column="72" filename="$USER_HOME$/w/json_spec/spec/json_spec/matchers/hash_be_json_eql_spec.rb" />
       <jump line="42" column="46" filename="$USER_HOME$/w/json_spec/spec/json_spec/matchers/hash_be_json_eql_spec.rb" />
@@ -504,6 +499,8 @@
       <jump line="198" column="3" filename="$USER_HOME$/w/mcs_ver2/docs/API仕様書/A030-API:Operations:Organizations:id:Users.md" />
       <jump line="241" column="3" filename="$USER_HOME$/w/mcs_ver2/docs/API仕様書/A030-API:Operations:Organizations:id:Users.md" />
       <jump line="257" column="3" filename="$USER_HOME$/w/mcs_ver2/docs/API仕様書/A030-API:Operations:Organizations:id:Users.md" />
+      <jump line="244" column="33" filename="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/operations/users_controller.rb" />
+      <jump line="231" column="35" filename="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/operations/users_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -513,7 +510,7 @@
         <text encoding="base64">ICAgfA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcnJvcnNcPg==</text>
+        <text encoding="base64">XDxjYW5fcm9sZV9lZGl0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">fGBlcnJvcnNgfEFycmF5fCoo44Ko44Op44O844Gu5aC05ZCI44Gu44G/KXx8IOOCqOODqeODvOaDheWgsXwgIHwgICB8Cg==</text>
@@ -550,15 +547,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlcnJvcnNcPg==</last-search>
+      <last-search encoding="base64">XDxjYW5fcm9sZV9lZGl0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcnJvcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjYW5fcm9sZV9lZGl0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwiXD4=</entry>
         <entry>2</entry>
         <entry>1</entry>
         <entry encoding="base64">XDxzZWxlY3RfYXR0cmlidXRlX2ZsZ1w+</entry>
@@ -578,6 +574,7 @@
         <entry encoding="base64">XDxlcnJvcnNfYXJyYXlcPg==</entry>
         <entry>errors</entry>
         <entry encoding="base64">XDxlcnJvcnNcPg==</entry>
+        <entry encoding="base64">XDxjYW5fcm9sZV9lZGl0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
