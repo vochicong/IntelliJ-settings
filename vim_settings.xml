@@ -9,12 +9,6 @@
         <mark key="^" line="6" column="60" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/system/login_spec.rb" timestamp="1515900377651">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="13" />
-        <mark key="^" line="15" column="1" />
-        <mark key="." line="12" column="13" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn" timestamp="1510130895614">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="25" />
@@ -68,7 +62,6 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/docs/API仕様書/A004-API:Organizations:id:MagellanSummaryResults:id:Actionplans.md" timestamp="1516084757802" />
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results/actionplan_statuses_controller.rb" timestamp="1509441534898">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="16" column="45" />
@@ -188,7 +181,6 @@
         <mark key="]" line="720" column="0" />
         <mark key="." line="720" column="0" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/docs/API仕様書/A012-API:Organizations:id:MagellanSummaryResults:id:Improvements:id:Actionplans.md" timestamp="1516084686840" />
       <file name="$USER_HOME$/mcs_ver2/bin/rubocop" timestamp="1512638403732">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
