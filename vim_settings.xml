@@ -9,6 +9,19 @@
         <mark key="^" line="6" column="60" />
         <mark key="." line="7" column="36" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd64721e-effb-4723-a8b6-ba6f4a0f308d/console.sql" timestamp="1513233399673">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="18" column="22" />
+      </file>
+      <file name="$USER_HOME$/w/mcs_ver2/tmp/cmp1.rb" timestamp="1516345662243">
+        <mark key="'" line="26" column="23" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/unicorn" timestamp="1510130895614">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="25" />
@@ -26,16 +39,18 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.rb" timestamp="1513052237946">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/Dockerfile.prod" timestamp="1510290968135">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="25" column="18" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.rb" timestamp="1514077762863">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/w/json_spec/spec/json_spec/matchers/hash_be_json_eql_spec.rb" timestamp="1515854980927">
         <mark key="'" line="108" column="29" />
@@ -79,6 +94,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/w/mcs_ver2/app/models/company_user.rb" timestamp="1516345122726">
+        <mark key="'" line="19" column="17" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/environment.rb" timestamp="1513658430403">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -96,29 +114,22 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1512620803591">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="1" column="40" />
-        <mark key="^" line="1" column="40" />
-        <mark key="." line="1" column="40" />
-      </file>
       <file name="$USER_HOME$/mcs_ver2/bin/bundle.dev" timestamp="1512638023077">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="4" column="3" />
         <mark key="." line="3" column="37" />
         <mark key="^" line="4" column="3" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.rb" timestamp="1512626499971">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/.env" timestamp="1512375722266">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="39" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.rb" timestamp="1514077762863">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/w/mcs_ver2/Gemfile" timestamp="1515847822491">
         <mark key="'" line="102" column="21" />
@@ -138,12 +149,6 @@
         <mark key="[" line="1" column="32" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd64721e-effb-4723-a8b6-ba6f4a0f308d/console.sql" timestamp="1513233399673">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="18" column="22" />
-        <mark key="^" line="18" column="20" />
-        <mark key="." line="18" column="22" />
       </file>
       <file name="$USER_HOME$/w/mcs_ver2/spec/requests/api/v2/magellan_summary_results/api_v2_magellan_summary_results_actionplan_statuses_controllers_spec.rb" timestamp="1516084555383">
         <mark key="[" line="2" column="76" />
@@ -165,6 +170,12 @@
       <file name="$USER_HOME$/w/json_spec/spec/json_spec/matchers/be_json_eql_spec.rb" timestamp="1515854665784">
         <mark key="^" line="3" column="19" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1512620803591">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+      </file>
       <file name="$USER_HOME$/w/mcs_ver2/spec/spec_helper.rb" timestamp="1515847903452">
         <mark key="[" line="28" column="18" />
         <mark key="]" line="28" column="18" />
@@ -185,6 +196,15 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f04e354b-bca5-4633-ba90-334842028864/console.sql" timestamp="1510565640585">
+        <mark key="[" line="4" column="70" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/w/mcs_ver2/app/models/mail_send_manage.rb" timestamp="1516346481818">
+        <mark key="'" line="44" column="88" />
       </file>
       <file name="/Ruby Console" timestamp="1516083791361">
         <mark key="[" line="0" column="0" />
@@ -222,11 +242,10 @@
         <mark key="." line="15" column="46" />
         <mark key="^" line="15" column="46" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.rb" timestamp="1512626499971">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.rb" timestamp="1513052237946">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/mcs_ver2/app/controllers/api/v2/magellan_summary_results_controller.rb" timestamp="1512388748685">
         <mark key="[" line="119" column="0" />
@@ -280,13 +299,7 @@
         <mark key="^" line="10" column="116" />
         <mark key="." line="10" column="94" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f04e354b-bca5-4633-ba90-334842028864/console.sql" timestamp="1510565640585">
-        <mark key="[" line="4" column="70" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="9" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1516084738497">
+      <file name="/Dummy.txt" timestamp="1516346482664">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -297,6 +310,12 @@
         <mark key="]" line="14" column="18" />
         <mark key="^" line="14" column="17" />
         <mark key="." line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" timestamp="1516346916260">
+        <mark key="'" line="37" column="25" />
+        <mark key="[" line="55" column="2" />
+        <mark key="]" line="55" column="2" />
+        <mark key="." line="55" column="2" />
       </file>
       <file name="$USER_HOME$/w/json_spec/lib/json_spec/matchers/be_json_eql.rb" timestamp="1515853912083">
         <mark key="'" line="14" column="0" />
@@ -381,6 +400,9 @@
         <mark key="]" line="223" column="0" />
         <mark key="." line="223" column="0" />
       </file>
+      <file name="$USER_HOME$/w/mcs_ver2/app/models/user.rb" timestamp="1516343154293">
+        <mark key="'" line="226" column="45" />
+      </file>
       <file name="$USER_HOME$/mcs_ver2/config/database.yml" timestamp="1510567421766">
         <mark key="[" line="1" column="45" />
         <mark key="]" line="1" column="46" />
@@ -394,46 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="7" column="159" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="8" column="49" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="13" column="59" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="23" column="14" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="26" column="61" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="24" column="4" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="94" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="93" column="52" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="8" column="0" filename="$USER_HOME$/mcs_ver2/config/initializers/snakeizer.rb" />
-      <jump line="3" column="6" filename="$USER_HOME$/mcs_ver2/config/initializers/camelizer.rb" />
-      <jump line="96" column="6" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="25" column="4" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="27" column="61" filename="$USER_HOME$/mcs_ver2/app/controllers/api/v2/operations/magellan_attribute_settings_controller.rb" />
-      <jump line="14" column="14" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="21" column="8" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="22" column="8" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="23" column="16" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="25" column="38" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="4" column="9" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="8" column="18" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="9" column="20" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="10" column="40" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="12" column="54" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="15" column="9" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="19" column="41" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="20" column="9" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="24" column="18" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="26" column="50" filename="$USER_HOME$/rails-json-api/spec/api/user_post_spec.rb" />
-      <jump line="1" column="31" filename="$USER_HOME$/rails-json-api/app/controllers/users_controller.rb" />
-      <jump line="660" column="28" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/actionpack-5.1.4/lib/action_controller/metal/strong_parameters.rb" />
-      <jump line="781" column="33" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/actionpack-5.1.4/lib/action_controller/metal/strong_parameters.rb" />
-      <jump line="780" column="8" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/actionpack-5.1.4/lib/action_controller/metal/strong_parameters.rb" />
-      <jump line="8" column="0" filename="$USER_HOME$/rails-json-api/config/initializers/params_snakeizer.rb" />
-      <jump line="36" column="3" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
-      <jump line="162" column="13" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
-      <jump line="518" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
-      <jump line="600" column="6" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
-      <jump line="697" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
-      <jump line="37" column="3" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="163" column="13" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="522" column="9" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
       <jump line="601" column="6" filename="$USER_HOME$/mcs_ver2/app/models/magellan_summary_result.rb" />
@@ -494,71 +476,100 @@
       <jump line="150" column="13" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/magellan_summary_results/api_v2_magellan_summary_results_check_surveys_controller_spec.rb" />
       <jump line="164" column="11" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/magellan_summary_results/api_v2_magellan_summary_results_check_surveys_controller_spec.rb" />
       <jump line="39" column="35" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/magellan_summary_results/api_v2_magellan_summary_results_check_surveys_controller_spec.rb" />
+      <jump line="154" column="9" filename="$USER_HOME$/w/mcs_ver2/app/models/user.rb" />
+      <jump line="251" column="4" filename="$USER_HOME$/w/mcs_ver2/app/models/user.rb" />
+      <jump line="256" column="18" filename="$USER_HOME$/w/mcs_ver2/app/models/user.rb" />
+      <jump line="176" column="4" filename="$USER_HOME$/w/mcs_ver2/app/models/user.rb" />
+      <jump line="208" column="6" filename="$USER_HOME$/w/mcs_ver2/app/models/user.rb" />
+      <jump line="235" column="27" filename="$USER_HOME$/w/mcs_ver2/app/models/user.rb" />
+      <jump line="226" column="45" filename="$USER_HOME$/w/mcs_ver2/app/models/user.rb" />
+      <jump line="38" column="94" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="51" column="27" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="4" column="23" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp1.rb" />
+      <jump line="6" column="18" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp1.rb" />
+      <jump line="71" column="8" filename="$USER_HOME$/w/mcs_ver2/app/models/company_user.rb" />
+      <jump line="93" column="7" filename="$USER_HOME$/w/mcs_ver2/app/models/company_user.rb" />
+      <jump line="19" column="17" filename="$USER_HOME$/w/mcs_ver2/app/models/company_user.rb" />
+      <jump line="0" column="59" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="16" column="25" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="30" column="2" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="34" column="4" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="52" column="57" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="0" column="22" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp1.rb" />
+      <jump line="1" column="9" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp1.rb" />
+      <jump line="18" column="23" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp1.rb" />
+      <jump line="26" column="23" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp1.rb" />
+      <jump line="49" column="27" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="36" column="2" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="39" column="19" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="520" column="4" filename="$USER_HOME$/w/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/w/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="43" column="9" filename="$USER_HOME$/w/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="80" column="4" filename="$USER_HOME$/w/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="76" column="4" filename="$USER_HOME$/w/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="495" column="42" filename="$USER_HOME$/w/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="44" column="88" filename="$USER_HOME$/w/mcs_ver2/app/models/mail_send_manage.rb" />
+      <jump line="50" column="74" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="1" column="7" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="20" column="9" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="27" column="9" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="32" column="9" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
+      <jump line="37" column="25" filename="$USER_HOME$/w/mcs_ver2/tmp/cmp2.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{} returned f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{} returned f</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxfYXR0cl9mbGdcPg==</text>
+        <text encoding="base64">XDxzZW5kX21haWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaXQgIuWxnuaAp+WQjeOBp+e1nuOCiui+vOOCgCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwaS92Mi9vcmdhbml6YXRpb25zLzppZC9tYWdlbGxhbl9zdW1tYXJ5X3Jlc3VsdHMvOmlkL2ltcHJvdmVtZW50cy86aWQvYWN0aW9ucGxhbnMK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBvbGRfZW1haWwgPSAiIgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgICMgZmFsc2XjgYxwcmVzZW50P+OBqC5ibGFuaz/jgafnqbrmibHjgYTjgZXjgozjgovjgZ/jgoEiIuOBp+WIpOaWrQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGl0ICLlhajku7ZHRVTvvIjntZ7jgorovrzjgb/jgarjgZfvvIkiIGRvCiAgZW5kCmVuZAo=</text>
+        <text encoding="base64">ICAgICMgZmFsc2XjgYxwcmVzZW50P+OBqC5ibGFuaz/jgafnqbrmibHjgYTjgZXjgozjgovjgZ/jgoEiIuOBp+WIpOaWrQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaWJlICdb5a6f5pa95pel5pmCLCDmnJ/lvoXluqYgfCDmnJ/lvoXluqYg5YmN5Zue5beuLCDmuoDotrPluqYgfCDmuoDotrPluqYg5YmN5Zue5beuXScgZG8K</text>
+        <text encoding="base64">ICAgIHNlbGVjdGVkX2xhbmd1YWdlID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICBvbGRfZW1haWwgPSAiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxfYXR0cl9mbGdcPg==</last-search>
+      <last-search encoding="base64">XDxzZW5kX21haWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxfYXR0cl9mbGdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kX21haWxcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtc3JfYXJ5XD4=</entry>
-        <entry encoding="base64">XDx1c2VyXD4=</entry>
-        <entry encoding="base64">XDx1c2VyX3BhcmFtXD4=</entry>
-        <entry encoding="base64">XDxwYXJhbVw+</entry>
-        <entry>deep</entry>
-        <entry encoding="base64">XDxleHBlY3RhdGlvbl9iZXN0XD4=</entry>
-        <entry encoding="base64">XDxzYXRpc2ZhY3Rpb25fYmVzdFw+</entry>
-        <entry>test</entry>
-        <entry encoding="base64">XDx0ZXN0XD4=</entry>
-        <entry encoding="base64">XDxjb21wbGV0ZWRcPg==</entry>
-        <entry>%(</entry>
         <entry>json-server</entry>
         <entry encoding="base64">XDxub19zcGFjZXNcPg==</entry>
         <entry encoding="base64">XDxleHBlY3RlZFw+</entry>
@@ -568,6 +579,17 @@
         <entry encoding="base64">XDxzZWxlY3RfYXR0cmlidXRlX2ZsZ1w+</entry>
         <entry encoding="base64">XDxkeW5hbWljX2ZsYWdcPg==</entry>
         <entry encoding="base64">XDxzZWxfYXR0cl9mbGdcPg==</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZF9hY3RpdmVfZmxnXD4=</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZF9zdG9wX21haWxcPg==</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZF9sYW5ndWFnZVw+</entry>
+        <entry encoding="base64">XDxjc3ZfZmxnXD4=</entry>
+        <entry encoding="base64">XDxvbGRfZW1haWxcPg==</entry>
+        <entry encoding="base64">XDxjc19hbmRfc2FsZXNfZGVsZXRlXD4=</entry>
+        <entry encoding="base64">XDx2YWxpZFw+</entry>
+        <entry encoding="base64">XDx3aXRoX21haWxfdHlwZVw+</entry>
+        <entry encoding="base64">XDx3aGVyZV91c2VyX2ludml0YXRpb25cPg==</entry>
+        <entry encoding="base64">XDx1c2VyX2ludml0YXRpb25cPg==</entry>
+        <entry encoding="base64">XDxzZW5kX21haWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wqa</entry>
