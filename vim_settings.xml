@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1517760379696">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1517759069140">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,22 +50,16 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" timestamp="1517759015160">
-        <mark key="'" line="194" column="12" />
-        <mark key="[" line="182" column="45" />
-        <mark key="]" line="182" column="25" />
-        <mark key="^" line="182" column="25" />
-        <mark key="." line="182" column="25" />
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" timestamp="1517759993153">
+        <mark key="'" line="180" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/logging/__init__.py" timestamp="1517709438541" />
     </filemarks>
     <jumps>
-      <jump line="228" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="222" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="267" column="26" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="269" column="60" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="263" column="36" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="149" column="11" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="266" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="215" column="15" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
@@ -149,7 +146,6 @@
       <jump line="171" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
       <jump line="209" column="17" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
       <jump line="157" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="170" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
       <jump line="202" column="10" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
       <jump line="181" column="16" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
       <jump line="184" column="5" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
@@ -157,59 +153,64 @@
       <jump line="190" column="28" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
       <jump line="191" column="14" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
       <jump line="193" column="12" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="187" column="15" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="171" column="9" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="182" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="186" column="33" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="204" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>param_dist</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyDntKDml6njgY/lrp/pqJPjgZnjgovjgZ/jgoHjgavjg4jjg6zjg7zjg4vjg7PjgrDjg4fjg7zjgr/ph4/jgpLmipHjgYjjgosKVFJBSU5fUkFUSU8gPSAxClRSQUlOX1JBVElPID0gMC4xCiMgVFJBSU5fUkFUSU8gPSAwLjAxCmlmIE9OX0tBR0dMRTogVFJBSU5fUkFUSU8gPSAxCgojIOaknOiovOeUqOOAjeODh+ODvOOCv+OBruavlOeOh+OAggojIOaknOiovOeUqOODh+ODvOOCv+OBq+WvvuOBmeOCi+OCueOCs+OCouOBp+OCouODs+OCteODs+ODluODq+OBrumHjeOBv+OCkuaxuuWumuOBmeOCi+OAggojIDAuNDY1ODUwMzA2NzQwNzU2MzkgMC40NjU4ODMyOTIzMTM4MTkzMQpWQUxfUkFUSU8gPSAwLjAwMDAxClZBTF9SQVRJTyA9IDAuMDAwMQpWQUxfUkFUSU8gPSAwLjAwMQpWQUxfUkFUSU8gPSAwLjEKVkFMX1JBVElPICs9ICgxLjAgLSBUUkFJTl9SQVRJTykgLyAyCgo=</text>
       </register>
       <register name="-" type="4">
         <text>param_dist</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyYW5kb21fc2VhcmNoXD4=</text>
+        <text encoding="base64">XDxQQVJBTV9ESVNUXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBuX2pvYnM9LTEsCiAgICAgICAgICAgICAgICAgICAgICAgc2NvcmluZz1tc2xlX3Njb3JlciwgdmVyYm9zZT1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsZiA9IEdyaWRTZWFyY2hDVihlc3RpbWF0b3I9Y3Z4LCBwYXJhbV9ncmlkPXBhcmFtcywgCiAgICAgICAgICAgICAgICAgICAgICAgbl9qb2JzPS0xLAogICAgICAgICAgICAgICAgICAgICAgIHNjb3Jpbmc9bXNsZV9zY29yZXIsIHZlcmJvc2U9VHJ1ZSkKCg==</text>
+        <text encoding="base64">IyDntKDml6njgY/lrp/pqJPjgZnjgovjgZ/jgoHjgavjg4jjg6zjg7zjg4vjg7PjgrDjg4fjg7zjgr/ph4/jgpLmipHjgYjjgosKVFJBSU5fUkFUSU8gPSAxClRSQUlOX1JBVElPID0gMC4xCiMgVFJBSU5fUkFUSU8gPSAwLjAxCmlmIE9OX0tBR0dMRTogVFJBSU5fUkFUSU8gPSAxCgojIOaknOiovOeUqOOAjeODh+ODvOOCv+OBruavlOeOh+OAggojIOaknOiovOeUqOODh+ODvOOCv+OBq+WvvuOBmeOCi+OCueOCs+OCouOBp+OCouODs+OCteODs+ODluODq+OBrumHjeOBv+OCkuaxuuWumuOBmeOCi+OAggojIDAuNDY1ODUwMzA2NzQwNzU2MzkgMC40NjU4ODMyOTIzMTM4MTkzMQpWQUxfUkFUSU8gPSAwLjAwMDAxClZBTF9SQVRJTyA9IDAuMDAwMQpWQUxfUkFUSU8gPSAwLjAwMQpWQUxfUkFUSU8gPSAwLjEKVkFMX1JBVElPICs9ICgxLjAgLSBUUkFJTl9SQVRJTykgLyAyCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ZnJvbSBzY2lweS5zdGF0cyBpbXBvcnQgcmFuZGludCBhcyBzcF9yYW5kaW50CgpOX0lURVJfU0VBUkNIID0gMjAKUEFSQU1fRElTVCA9IHsKICAgICdtYXhfZGVwdGgnOiBzcF9yYW5kaW50KDQsIDcpLAogICAgJ25fZXN0aW1hdG9ycyc6IHNwX3JhbmRpbnQoMTIwLCAxNTApLAogICAgJ2xlYXJuaW5nX3JhdGUnOiBbLjIsIC4zXSwKICAgICMgJ21pbl9jaGlsZF93ZWlnaHQnOiBzcF9yYW5kaW50KDEsIDMpLAogICAgIyAnY29sc2FtcGxlX2J5dHJlZSc6IFsuOSwgMV0sCiAgICAjICdnYW1tYSc6IFswLCAxXSwKfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5faXRlcl9zZWFyY2ggPSAyMAo=</text>
+        <text encoding="base64">bl9pdGVyX3NlYXJjaCA9IDIwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsZiA9IEdyaWRTZWFyY2hDVihlc3RpbWF0b3I9Y3Z4LCBwYXJhbV9ncmlkPXBhcmFtcywgCiAgICAgICAgICAgICAgICAgICAgICAgbl9qb2JzPS0xLAogICAgICAgICAgICAgICAgICAgICAgIHNjb3Jpbmc9bXNsZV9zY29yZXIsIHZlcmJvc2U9VHJ1ZSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdtaW5fY2hpbGRfd2VpZ2h0Jzogc3BfcmFuZGludCgxLCAzKSwK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eGdiX3BhcmFtcyA9IHsKICAgICdsZWFybmluZ19yYXRlJzogMC4yLCAnbWF4X2RlcHRoJzogNSwKICAgICduX2VzdGltYXRvcnMnOiAxMzAsCn0K</text>
+        <text encoding="base64">ICAgIG5faXRlcl9zZWFyY2ggPSAyMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdsZWFybmluZ19yYXRlJzogMC4yLAogICAgJ21heF9kZXB0aCc6IDUsCiAgICAnbl9lc3RpbWF0b3JzJzogMTMwLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICdtaW5fY2hpbGRfd2VpZ2h0Jzogc3BfcmFuZGludCgxLCAzKSwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">eGdiX3BhcmFtcyA9IAo=</text>
+        <text encoding="base64">eGdiX3BhcmFtcyA9IHsKICAgICdsZWFybmluZ19yYXRlJzogMC4yLCAnbWF4X2RlcHRoJzogNSwKICAgICduX2VzdGltYXRvcnMnOiAxMzAsCn0K</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyYW5kb21fc2VhcmNoXD4=</last-search>
+      <last-search encoding="base64">XDxQQVJBTV9ESVNUXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyYW5kb21fc2VhcmNoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxQQVJBTV9ESVNUXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>3</entry>
-        <entry encoding="base64">XDwzXD4=</entry>
         <entry encoding="base64">XDxFQVJMWV9TVE9QUElOR19ST1VORFNcPg==</entry>
         <entry encoding="base64">XDxsZWFybmluZ19yYXRlXD4=</entry>
         <entry encoding="base64">XDxuX2pvYnNcPg==</entry>
@@ -225,9 +226,11 @@
         <entry encoding="base64">XDxyaWRnZV9maXRcPg==</entry>
         <entry encoding="base64">XDxwcmVkaWN0XD4=</entry>
         <entry encoding="base64">XDxybXNsZVw+</entry>
-        <entry encoding="base64">XDxwYXJhbV9kaXN0XD4=</entry>
         <entry encoding="base64">XDxncmlkX3NlYXJjaFw+</entry>
         <entry encoding="base64">XDxyYW5kb21fc2VhcmNoXD4=</entry>
+        <entry encoding="base64">XDxuX2l0ZXJfc2VhcmNoXD4=</entry>
+        <entry encoding="base64">XDxwYXJhbV9kaXN0XD4=</entry>
+        <entry encoding="base64">XDxQQVJBTV9ESVNUXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
