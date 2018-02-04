@@ -1,16 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
-      <mapping pattern=".env.test" type="PLAIN_TEXT" />
-      <mapping pattern="tmp1" type="PLAIN_TEXT" />
-      <mapping pattern="unicorn" type="PLAIN_TEXT" />
-      <mapping pattern="rds-security" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping ext="webpack-dev" type="PLAIN_TEXT" />
+      <mapping pattern="db-create" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
