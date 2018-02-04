@@ -6,17 +6,15 @@
       <file name="/Dummy.txt" timestamp="1517760379696">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517759069140">
+      <file name="/Python Console" timestamp="1517785869186">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1517716044300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/sklearn/model_selection/_search.py" timestamp="1517754074994" />
       <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" timestamp="1517737905690">
         <mark key="'" line="267" column="33" />
       </file>
-      <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/numpy/lib/function_base.py" timestamp="1517715905754" />
       <file name="$USER_HOME$/w/kaggle/mercari/requirements.txt" timestamp="1517467301170">
         <mark key="[" line="11" column="6" />
       </file>
@@ -57,7 +55,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/logging/__init__.py" timestamp="1517709438541" />
     </filemarks>
     <jumps>
       <jump line="149" column="11" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
