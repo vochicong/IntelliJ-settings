@@ -6,7 +6,7 @@
       <file name="/Dummy.txt" timestamp="1517760379696">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517785869186">
+      <file name="/Python Console" timestamp="1517864725076">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1517716044300">
@@ -14,6 +14,9 @@
       </file>
       <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" timestamp="1517737905690">
         <mark key="'" line="267" column="33" />
+      </file>
+      <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" timestamp="1517864436299">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/w/kaggle/mercari/requirements.txt" timestamp="1517467301170">
         <mark key="[" line="11" column="6" />
@@ -48,19 +51,15 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" timestamp="1517759993153">
-        <mark key="'" line="180" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" timestamp="1517864713074">
+        <mark key="'" line="3" column="24" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="27" column="14" />
+        <mark key="." line="27" column="14" />
+        <mark key="^" line="27" column="14" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="11" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="266" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="215" column="15" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="273" column="11" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="270" column="22" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="271" column="23" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="166" column="12" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
@@ -157,16 +156,20 @@
       <jump line="186" column="33" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
       <jump line="204" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
       <jump line="168" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="3" column="24" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="605" column="42" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" />
+      <jump line="616" column="39" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" />
+      <jump line="0" column="0" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyDntKDml6njgY/lrp/pqJPjgZnjgovjgZ/jgoHjgavjg4jjg6zjg7zjg4vjg7PjgrDjg4fjg7zjgr/ph4/jgpLmipHjgYjjgosKVFJBSU5fUkFUSU8gPSAxClRSQUlOX1JBVElPID0gMC4xCiMgVFJBSU5fUkFUSU8gPSAwLjAxCmlmIE9OX0tBR0dMRTogVFJBSU5fUkFUSU8gPSAxCgojIOaknOiovOeUqOOAjeODh+ODvOOCv+OBruavlOeOh+OAggojIOaknOiovOeUqOODh+ODvOOCv+OBq+WvvuOBmeOCi+OCueOCs+OCouOBp+OCouODs+OCteODs+ODluODq+OBrumHjeOBv+OCkuaxuuWumuOBmeOCi+OAggojIDAuNDY1ODUwMzA2NzQwNzU2MzkgMC40NjU4ODMyOTIzMTM4MTkzMQpWQUxfUkFUSU8gPSAwLjAwMDAxClZBTF9SQVRJTyA9IDAuMDAwMQpWQUxfUkFUSU8gPSAwLjAwMQpWQUxfUkFUSU8gPSAwLjEKVkFMX1JBVElPICs9ICgxLjAgLSBUUkFJTl9SQVRJTykgLyAyCgo=</text>
+      <register name="&quot;" type="4">
+        <text>np.array(range(1,))/100,</text>
       </register>
       <register name="-" type="4">
-        <text>param_dist</text>
+        <text>np.array(range(1,))/100,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQQVJBTV9ESVNUXD4=</text>
+        <text>randflo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBuX2pvYnM9LTEsCiAgICAgICAgICAgICAgICAgICAgICAgc2NvcmluZz1tc2xlX3Njb3JlciwgdmVyYm9zZT1UcnVlKQo=</text>
@@ -200,17 +203,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQQVJBTV9ESVNUXD4=</last-search>
+      <last-search>randflo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQQVJBTV9ESVNUXD4=</last-pattern>
+      <last-pattern>randflo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFQVJMWV9TVE9QUElOR19ST1VORFNcPg==</entry>
-        <entry encoding="base64">XDxsZWFybmluZ19yYXRlXD4=</entry>
-        <entry encoding="base64">XDxuX2pvYnNcPg==</entry>
         <entry encoding="base64">XDxudGhyZWFkXD4=</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxPTl9LQUdHTEVcPg==</entry>
@@ -228,6 +228,9 @@
         <entry encoding="base64">XDxuX2l0ZXJfc2VhcmNoXD4=</entry>
         <entry encoding="base64">XDxwYXJhbV9kaXN0XD4=</entry>
         <entry encoding="base64">XDxQQVJBTV9ESVNUXD4=</entry>
+        <entry>sp_randint</entry>
+        <entry encoding="base64">XDxyYW5kaW50XD4=</entry>
+        <entry>randflo</entry>
       </history-search>
       <history-cmd />
       <history-expr />
