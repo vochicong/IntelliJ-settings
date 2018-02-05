@@ -3,13 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1517760379696">
+      <file name="/Dummy.txt" timestamp="1517866759067">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517864725076">
+      <file name="/Python Console" timestamp="1517866585471">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1517716044300">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1517865440545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" timestamp="1517737905690">
@@ -21,10 +24,17 @@
       <file name="$USER_HOME$/w/kaggle/mercari/requirements.txt" timestamp="1517467301170">
         <mark key="[" line="11" column="6" />
       </file>
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" timestamp="1517866535863">
+        <mark key="'" line="161" column="4" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="40" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="164" column="16" />
+      </file>
       <file name="$USER_HOME$/w/kaggle/mercari/scripts/ridge_forked_origin.py" timestamp="1517698656144">
         <mark key="'" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" timestamp="1517758463275">
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" timestamp="1517865429029">
         <mark key="'" line="184" column="0" />
         <mark key="[" line="209" column="0" />
         <mark key="]" line="209" column="0" />
@@ -39,6 +49,13 @@
       </file>
       <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/sklearn/linear_model/ridge.py" timestamp="1517711046409">
         <mark key="'" line="463" column="17" />
+      </file>
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" timestamp="1517866572445">
+        <mark key="'" line="267" column="8" />
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="38" />
+        <mark key="^" line="267" column="14" />
+        <mark key="." line="267" column="0" />
       </file>
       <file name="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" timestamp="1517759032667">
         <mark key="'" line="148" column="4" />
@@ -60,22 +77,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="22" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="271" column="23" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="166" column="12" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="213" column="28" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="251" column="40" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="217" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="145" column="30" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="265" column="15" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="216" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="245" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="135" column="19" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="151" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="152" column="14" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="154" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="155" column="14" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="173" column="11" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="198" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="225" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="171" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
@@ -160,67 +161,78 @@
       <jump line="605" column="42" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" />
       <jump line="616" column="39" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" />
       <jump line="0" column="0" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" />
+      <jump line="156" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="30" column="25" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="154" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="185" column="37" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="257" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="258" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="155" column="10" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="263" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="161" column="9" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="162" column="12" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="160" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="153" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="267" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>np.array(range(1,))/100,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByaWRnZWN2X2ZpdChYX3RyYWluLCB5X3RyYWluKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>np.array(range(1,))/100,</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>randflo</text>
+        <text encoding="base64">XDxyaWRnZV9maXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBuX2pvYnM9LTEsCiAgICAgICAgICAgICAgICAgICAgICAgc2NvcmluZz1tc2xlX3Njb3JlciwgdmVyYm9zZT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICByaWRnZV9maXQoWF90cmFpbiwgeV90cmFpbiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyDntKDml6njgY/lrp/pqJPjgZnjgovjgZ/jgoHjgavjg4jjg6zjg7zjg4vjg7PjgrDjg4fjg7zjgr/ph4/jgpLmipHjgYjjgosKVFJBSU5fUkFUSU8gPSAxClRSQUlOX1JBVElPID0gMC4xCiMgVFJBSU5fUkFUSU8gPSAwLjAxCmlmIE9OX0tBR0dMRTogVFJBSU5fUkFUSU8gPSAxCgojIOaknOiovOeUqOOAjeODh+ODvOOCv+OBruavlOeOh+OAggojIOaknOiovOeUqOODh+ODvOOCv+OBq+WvvuOBmeOCi+OCueOCs+OCouOBp+OCouODs+OCteODs+ODluODq+OBrumHjeOBv+OCkuaxuuWumuOBmeOCi+OAggojIDAuNDY1ODUwMzA2NzQwNzU2MzkgMC40NjU4ODMyOTIzMTM4MTkzMQpWQUxfUkFUSU8gPSAwLjAwMDAxClZBTF9SQVRJTyA9IDAuMDAwMQpWQUxfUkFUSU8gPSAwLjAwMQpWQUxfUkFUSU8gPSAwLjEKVkFMX1JBVElPICs9ICgxLjAgLSBUUkFJTl9SQVRJTykgLyAyCgo=</text>
+        <text encoding="base64">ICAgICAgICByaWRnZWN2X2ZpdChYX3RyYWluLCB5X3RyYWluKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzY2lweS5zdGF0cyBpbXBvcnQgcmFuZGludCBhcyBzcF9yYW5kaW50CgpOX0lURVJfU0VBUkNIID0gMjAKUEFSQU1fRElTVCA9IHsKICAgICdtYXhfZGVwdGgnOiBzcF9yYW5kaW50KDQsIDcpLAogICAgJ25fZXN0aW1hdG9ycyc6IHNwX3JhbmRpbnQoMTIwLCAxNTApLAogICAgJ2xlYXJuaW5nX3JhdGUnOiBbLjIsIC4zXSwKICAgICMgJ21pbl9jaGlsZF93ZWlnaHQnOiBzcF9yYW5kaW50KDEsIDMpLAogICAgIyAnY29sc2FtcGxlX2J5dHJlZSc6IFsuOSwgMV0sCiAgICAjICdnYW1tYSc6IFswLCAxXSwKfQoK</text>
+        <text encoding="base64">ICAgICAgICByaWRnZWN2X2ZpdChYX3RyYWluLCB5X3RyYWluKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bl9pdGVyX3NlYXJjaCA9IDIwCg==</text>
+        <text encoding="base64">ICAgICAgICByaWRnZV9maXQoWF90cmFpbiwgeV90cmFpbiksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsZiA9IEdyaWRTZWFyY2hDVihlc3RpbWF0b3I9Y3Z4LCBwYXJhbV9ncmlkPXBhcmFtcywgCiAgICAgICAgICAgICAgICAgICAgICAgbl9qb2JzPS0xLAogICAgICAgICAgICAgICAgICAgICAgIHNjb3Jpbmc9bXNsZV9zY29yZXIsIHZlcmJvc2U9VHJ1ZSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRyeSBSaWRnZUNWCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">IyBUcnkgUmlkZ2VDVgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5faXRlcl9zZWFyY2ggPSAyMAo=</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLmxpbmVhcl9tb2RlbCBpbXBvcnQgUmlkZ2VDVgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByaWRnZV9maXQoWF90cmFpbiwgeV90cmFpbiksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdtaW5fY2hpbGRfd2VpZ2h0Jzogc3BfcmFuZGludCgxLCAzKSwK</text>
+        <text encoding="base64">IyDntKDml6njgY/lrp/pqJPjgZnjgovjgZ/jgoHjgavjg4jjg6zjg7zjg4vjg7PjgrDjg4fjg7zjgr/ph4/jgpLmipHjgYjjgosKVFJBSU5fUkFUSU8gPSAxClRSQUlOX1JBVElPID0gMC4xCiMgVFJBSU5fUkFUSU8gPSAwLjAxCmlmIE9OX0tBR0dMRTogVFJBSU5fUkFUSU8gPSAxCgojIOaknOiovOeUqOOAjeODh+ODvOOCv+OBruavlOeOh+OAggojIOaknOiovOeUqOODh+ODvOOCv+OBq+WvvuOBmeOCi+OCueOCs+OCouOBp+OCouODs+OCteODs+ODluODq+OBrumHjeOBv+OCkuaxuuWumuOBmeOCi+OAggojIDAuNDY1ODUwMzA2NzQwNzU2MzkgMC40NjU4ODMyOTIzMTM4MTkzMQpWQUxfUkFUSU8gPSAwLjAwMDAxClZBTF9SQVRJTyA9IDAuMDAwMQpWQUxfUkFUSU8gPSAwLjAwMQpWQUxfUkFUSU8gPSAwLjEKVkFMX1JBVElPICs9ICgxLjAgLSBUUkFJTl9SQVRJTykgLyAyCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eGdiX3BhcmFtcyA9IHsKICAgICdsZWFybmluZ19yYXRlJzogMC4yLCAnbWF4X2RlcHRoJzogNSwKICAgICduX2VzdGltYXRvcnMnOiAxMzAsCn0K</text>
+        <text encoding="base64">ZnJvbSBzY2lweS5zdGF0cyBpbXBvcnQgcmFuZGludCBhcyBzcF9yYW5kaW50CgpOX0lURVJfU0VBUkNIID0gMjAKUEFSQU1fRElTVCA9IHsKICAgICdtYXhfZGVwdGgnOiBzcF9yYW5kaW50KDQsIDcpLAogICAgJ25fZXN0aW1hdG9ycyc6IHNwX3JhbmRpbnQoMTIwLCAxNTApLAogICAgJ2xlYXJuaW5nX3JhdGUnOiBbLjIsIC4zXSwKICAgICMgJ21pbl9jaGlsZF93ZWlnaHQnOiBzcF9yYW5kaW50KDEsIDMpLAogICAgIyAnY29sc2FtcGxlX2J5dHJlZSc6IFsuOSwgMV0sCiAgICAjICdnYW1tYSc6IFswLCAxXSwKfQoK</text>
       </register>
     </registers>
     <search>
-      <last-search>randflo</last-search>
+      <last-search encoding="base64">XDxyaWRnZV9maXRcPg==</last-search>
       <last-offset />
-      <last-pattern>randflo</last-pattern>
+      <last-pattern encoding="base64">XDxyaWRnZV9maXRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxudGhyZWFkXD4=</entry>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
-        <entry encoding="base64">XDxPTl9LQUdHTEVcPg==</entry>
-        <entry>grid</entry>
         <entry>submit</entry>
         <entry encoding="base64">XDxzdWJtaXRcPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9wcmVkaWN0XD4=</entry>
         <entry>fit</entry>
         <entry encoding="base64">XDx4Z2JfZml0XD4=</entry>
-        <entry encoding="base64">XDxyaWRnZV9maXRcPg==</entry>
         <entry encoding="base64">XDxwcmVkaWN0XD4=</entry>
         <entry encoding="base64">XDxybXNsZVw+</entry>
         <entry encoding="base64">XDxncmlkX3NlYXJjaFw+</entry>
@@ -231,6 +243,11 @@
         <entry>sp_randint</entry>
         <entry encoding="base64">XDxyYW5kaW50XD4=</entry>
         <entry>randflo</entry>
+        <entry>ridge</entry>
+        <entry>ridgecv</entry>
+        <entry encoding="base64">XDxSaWRnZUNWXD4=</entry>
+        <entry encoding="base64">XDxyaWRnZWN2X2ZpdFw+</entry>
+        <entry encoding="base64">XDxyaWRnZV9maXRcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
