@@ -37,12 +37,12 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" timestamp="1518040943888">
-        <mark key="'" line="320" column="19" />
-        <mark key="[" line="321" column="22" />
-        <mark key="]" line="158" column="5" />
-        <mark key="^" line="158" column="5" />
-        <mark key="." line="321" column="23" />
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" timestamp="1518124453576">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="289" column="19" />
+        <mark key="]" line="289" column="10" />
+        <mark key="^" line="289" column="10" />
+        <mark key="." line="289" column="10" />
       </file>
       <file name="$USER_HOME$/w/kaggle/mercari/scripts/test_ridge.py" timestamp="1517443746521">
         <mark key="[" line="3" column="14" />
@@ -81,12 +81,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="402" column="44" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="483" column="59" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="496" column="58" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="499" column="58" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="522" column="59" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="534" column="59" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
       <jump line="70" column="4" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
       <jump line="73" column="67" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
       <jump line="129" column="27" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
@@ -181,16 +175,22 @@
       <jump line="258" column="19" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="319" column="9" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="320" column="19" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="290" column="58" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="4" column="14" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="252" column="20" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="292" column="64" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="293" column="64" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="5" column="7" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UmlkZ2VDViBmaW5kcyBhbHBoYT01LjAgaXMgYmVzdCBpZiBUUkFJTl9SQVRJTz0wLjAxCg==</text>
+      <register name="&quot;" type="4">
+        <text>enable</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>enable</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxybXNsZVw+</text>
+        <text>-1</text>
       </register>
       <register name="0" type="4">
         <text>, expm1(y_val)</text>
@@ -222,17 +222,19 @@
       <register name="9" type="2">
         <text encoding="base64">bXNsZV9zY29yZXIgPSBtYWtlX3Njb3JlcihtZWFuX3NxdWFyZWRfbG9nX2Vycm9yLCBncmVhdGVyX2lzX2JldHRlcj1GYWxzZSkK</text>
       </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxybXNsZVw+</last-search>
+      <last-search>-1</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxybXNsZVw+</last-pattern>
+      <last-pattern>-1</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuX2l0ZXJfc2VhcmNoXD4=</entry>
         <entry encoding="base64">XDxwYXJhbV9kaXN0XD4=</entry>
         <entry encoding="base64">XDxQQVJBTV9ESVNUXD4=</entry>
         <entry>sp_randint</entry>
@@ -252,8 +254,11 @@
         <entry encoding="base64">XDxleHBtMVw+</entry>
         <entry encoding="base64">XDxwcmVkXD4=</entry>
         <entry encoding="base64">XDxybXNsZVw+</entry>
+        <entry>-1</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
