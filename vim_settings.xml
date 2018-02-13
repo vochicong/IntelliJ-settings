@@ -18,8 +18,8 @@
       <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" timestamp="1517864436299">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/w/kaggle/mercari/requirements.txt" timestamp="1517467301170">
-        <mark key="[" line="11" column="6" />
+      <file name="$USER_HOME$/w/kaggle/mercari/requirements.txt" timestamp="1518527506137">
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" timestamp="1518032880957">
         <mark key="'" line="147" column="4" />
@@ -37,12 +37,15 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" timestamp="1518131104227">
-        <mark key="'" line="5" column="7" />
-        <mark key="[" line="299" column="30" />
-        <mark key="]" line="299" column="30" />
-        <mark key="^" line="289" column="35" />
-        <mark key="." line="299" column="30" />
+      <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" timestamp="1518528852215">
+        <mark key="'" line="298" column="12" />
+      </file>
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" timestamp="1518530432072">
+        <mark key="'" line="196" column="19" />
+        <mark key="[" line="279" column="26" />
+        <mark key="]" line="279" column="25" />
+        <mark key="." line="279" column="25" />
+        <mark key="^" line="279" column="25" />
       </file>
       <file name="$USER_HOME$/w/kaggle/mercari/scripts/test_ridge.py" timestamp="1517443746521">
         <mark key="[" line="3" column="14" />
@@ -81,32 +84,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="67" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="129" column="27" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="156" column="23" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="203" column="51" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="204" column="31" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="206" column="27" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="208" column="24" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="212" column="23" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="213" column="28" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="260" column="57" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="262" column="69" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="267" column="33" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
-      <jump line="256" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="258" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="293" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="268" column="51" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="1" column="2" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="17" column="3" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="55" column="7" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="184" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="239" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="278" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="267" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
       <jump line="193" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
       <jump line="215" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
       <jump line="231" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
@@ -181,64 +158,86 @@
       <jump line="293" column="64" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="5" column="7" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="582" column="6" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" />
+      <jump line="273" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="336" column="15" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="605" column="34" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="613" column="51" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="625" column="44" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="635" column="58" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="649" column="43" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="650" column="16" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="651" column="43" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="652" column="16" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="654" column="43" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="655" column="16" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="656" column="43" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="657" column="16" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="674" column="52" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="0" column="0" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="298" column="12" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="162" column="12" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="182" column="12" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="195" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="203" column="12" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="259" column="28" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="262" column="12" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="50" column="28" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="196" column="19" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>nthread</text>
+        <text encoding="base64">XDxtZWFuX3NxdWFyZWRfbG9nX2Vycm9yXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>, expm1(y_val)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAjIGV2YWxfbWV0cmljPSJtZWFuX3NxdWFyZWRfbG9nX2Vycm9yIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmlkZ2VDViBmaW5kcyBhbHBoYT01LjAgaXMgYmVzdCBpZiBUUkFJTl9SQVRJTz0wLjAxCg==</text>
+        <text encoding="base64">ICAgICdtZXRyaWMnOiB7J2wyJ30sCiAgICAnbnVtX2xlYXZlcyc6IDMxLAogICAgJ2xlYXJuaW5nX3JhdGUnOiAwLjEsCiAgICAnZmVhdHVyZV9mcmFjdGlvbic6IDAuOSwKICAgICdiYWdnaW5nX2ZyYWN0aW9uJzogMC44LAogICAgJ2JhZ2dpbmdfZnJlcSc6IDUsCiAgICAndmVyYm9zZSc6IDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmlkZ2VfZml0KFhfdHJhaW4sIHlfdHJhaW4sIFhfdmFsLCB5X3ZhbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAjIGV2YWxfbWV0cmljPXJtc2xlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAjIHZlcmJvc2U9RmFsc2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNjb3JlcyArPSBbcm1zbGUocHJlZCwgZXhwbTEoeV92YWwpKV0K</text>
+        <text encoding="base64">ICAgICAgICBsZWFybmluZ19yYXRlPXBhcmFtc1snbGVhcm5pbmdfcmF0ZSddLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByZWQgPSBwcmVkaWN0KG1vZGVsLCBYX3ZhbCkK</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RpdmU9InJlZzpsaW5lYXIiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBPTl9LQUdHTEU6ICAjIEh5cGVyIHR1bmluZwogICAgICAgIG1vZGVscyArPSBbCiAgICAgICAgICAgIHJpZGdlY3ZfZml0KFhfdHJhaW4sIHlfdHJhaW4sIFhfdmFsLCB5X3ZhbCksCiAgICAgICAgICAgICMgeGdiX2ZpdChYX3RyYWluLCB5X3RyYWluLCBYX3ZhbCwgeV92YWwpLAogICAgICAgIF0KCg==</text>
+        <text encoding="base64">ICAgICdvYmplY3RpdmUnOiAncmVncmVzc2lvbicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JpZF9zZWFyY2goWF90cmFpbiwgeV90cmFpbiwgWF92YWwsIHlfdmFsKQo=</text>
+        <text encoding="base64">ICAgICdib29zdGluZ190eXBlJzogJ2diZHQnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHhnYm9vc3QgYXMgeGdiCg==</text>
+        <text encoding="base64">ICAgICd0YXNrJzogJ3RyYWluJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bXNsZV9zY29yZXIgPSBtYWtlX3Njb3JlcihtZWFuX3NxdWFyZWRfbG9nX2Vycm9yLCBncmVhdGVyX2lzX2JldHRlcj1GYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICBuX2pvYnM9Tl9KT0JTLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nthread</last-search>
+      <last-search encoding="base64">XDxtZWFuX3NxdWFyZWRfbG9nX2Vycm9yXD4=</last-search>
       <last-offset />
-      <last-pattern>nthread</last-pattern>
+      <last-pattern encoding="base64">XDxtZWFuX3NxdWFyZWRfbG9nX2Vycm9yXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQQVJBTV9ESVNUXD4=</entry>
-        <entry>sp_randint</entry>
-        <entry encoding="base64">XDxyYW5kaW50XD4=</entry>
-        <entry>randflo</entry>
         <entry>ridge</entry>
         <entry>ridgecv</entry>
         <entry encoding="base64">XDxSaWRnZUNWXD4=</entry>
@@ -252,9 +251,13 @@
         <entry>grid</entry>
         <entry encoding="base64">XDxleHBtMVw+</entry>
         <entry encoding="base64">XDxwcmVkXD4=</entry>
-        <entry encoding="base64">XDxybXNsZVw+</entry>
         <entry>-1</entry>
         <entry>nthread</entry>
+        <entry encoding="base64">XDxsZ2JfZml0XD4=</entry>
+        <entry encoding="base64">XDxldmFsX21ldHJpY1w+</entry>
+        <entry>rms</entry>
+        <entry encoding="base64">XDxybXNsZVw+</entry>
+        <entry encoding="base64">XDxtZWFuX3NxdWFyZWRfbG9nX2Vycm9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
