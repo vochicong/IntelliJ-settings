@@ -31,6 +31,9 @@
         <mark key="^" line="150" column="16" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/ridge-lb-0.41943.py" timestamp="1518619346385">
+        <mark key="'" line="72" column="6" />
+      </file>
       <file name="$USER_HOME$/w/kaggle/mercari/scripts/ridge_forked_origin.py" timestamp="1517698656144">
         <mark key="'" line="87" column="0" />
       </file>
@@ -87,14 +90,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="231" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="151" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="170" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="171" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="209" column="17" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="157" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="202" column="10" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
       <jump line="181" column="16" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
       <jump line="184" column="5" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
       <jump line="189" column="5" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
@@ -187,6 +182,14 @@
       <jump line="50" column="28" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="196" column="19" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
       <jump line="13" column="11" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="241" column="36" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge-lb-0.41943.py" />
+      <jump line="23" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge-lb-0.41943.py" />
+      <jump line="40" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge-lb-0.41943.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge-lb-0.41943.py" />
+      <jump line="46" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge-lb-0.41943.py" />
+      <jump line="377" column="10" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge-lb-0.41943.py" />
+      <jump line="380" column="10" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge-lb-0.41943.py" />
+      <jump line="72" column="6" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge-lb-0.41943.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -196,7 +199,7 @@
         <text>ridge</text>
       </register>
       <register name="/" type="4">
-        <text>ridgecv</text>
+        <text encoding="base64">XDxTeW1TcGVsbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VkFMX1JBVElPID0gMC4xCg==</text>
@@ -233,16 +236,14 @@
       </register>
     </registers>
     <search>
-      <last-search>ridgecv</last-search>
+      <last-search encoding="base64">XDxTeW1TcGVsbFw+</last-search>
       <last-offset />
-      <last-pattern>ridgecv</last-pattern>
+      <last-pattern encoding="base64">XDxTeW1TcGVsbFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ridge</entry>
-        <entry encoding="base64">XDxSaWRnZUNWXD4=</entry>
         <entry encoding="base64">XDxyaWRnZWN2X2ZpdFw+</entry>
         <entry encoding="base64">XDxyaWRnZV9maXRcPg==</entry>
         <entry>xgb_fit</entry>
@@ -261,6 +262,8 @@
         <entry encoding="base64">XDxybXNsZVw+</entry>
         <entry encoding="base64">XDxtZWFuX3NxdWFyZWRfbG9nX2Vycm9yXD4=</entry>
         <entry>ridgecv</entry>
+        <entry encoding="base64">XDxkYW1lcmF1bGV2ZW5zaHRlaW5cPg==</entry>
+        <entry encoding="base64">XDxTeW1TcGVsbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
