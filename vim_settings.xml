@@ -12,7 +12,7 @@
       <file name="/fragment.py" timestamp="1517716044300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1517865440545">
+      <file name="/a.dummy" timestamp="1518792957967">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" timestamp="1518131055899">
@@ -31,8 +31,11 @@
         <mark key="^" line="150" column="16" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/w/kaggle/mercari/scripts/ridge-lb-0.41943.py" timestamp="1518619346385">
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/ridge-lb-0.41943.py" timestamp="1518792858721">
         <mark key="'" line="72" column="6" />
+        <mark key="[" line="20" column="58" />
+        <mark key="]" line="20" column="58" />
+        <mark key="." line="20" column="58" />
       </file>
       <file name="$USER_HOME$/w/kaggle/mercari/scripts/ridge_forked_origin.py" timestamp="1517698656144">
         <mark key="'" line="87" column="0" />
@@ -46,7 +49,7 @@
       <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/lightgbm/sklearn.py" timestamp="1518528852215">
         <mark key="'" line="298" column="12" />
       </file>
-      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" timestamp="1518531898413">
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" timestamp="1518792845037">
         <mark key="'" line="13" column="11" />
         <mark key="[" line="30" column="15" />
         <mark key="]" line="30" column="14" />
@@ -192,11 +195,11 @@
       <jump line="72" column="6" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge-lb-0.41943.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VkFMX1JBVElPID0gMC4xCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>ridge</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTeW1TcGVsbFw+</text>
