@@ -21,12 +21,12 @@
       <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" timestamp="1517864436299">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" timestamp="1520287998901">
-        <mark key="'" line="60" column="29" />
-        <mark key="[" line="60" column="31" />
-        <mark key="]" line="60" column="31" />
-        <mark key="^" line="45" column="19" />
-        <mark key="." line="60" column="35" />
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" timestamp="1520291040313">
+        <mark key="'" line="94" column="49" />
+        <mark key="[" line="97" column="38" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/w/kaggle/mercari/requirements.txt" timestamp="1517467301170">
         <mark key="[" line="11" column="6" />
@@ -39,10 +39,10 @@
       <file name="$USER_HOME$/w/kaggle/mercari/scripts/ridge_forked_origin.py" timestamp="1517698656144">
         <mark key="'" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" timestamp="1517865429029">
-        <mark key="'" line="184" column="0" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" timestamp="1520291034440">
+        <mark key="'" line="383" column="4" />
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="236" column="63" />
         <mark key="^" line="211" column="3" />
         <mark key="." line="209" column="0" />
       </file>
@@ -82,10 +82,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="215" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="231" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="151" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
       <jump line="170" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
       <jump line="171" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
       <jump line="209" column="17" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
@@ -175,67 +171,68 @@
       <jump line="76" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
       <jump line="77" column="24" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
       <jump line="66" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
-      <jump line="89" column="93" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
       <jump line="90" column="53" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
-      <jump line="44" column="15" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
       <jump line="38" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
-      <jump line="45" column="19" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
       <jump line="82" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
       <jump line="60" column="29" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="45" column="13" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="48" column="69" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="89" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="92" column="49" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="234" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="383" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>filename</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>filename</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxYX3ZhbGlkXD4=</text>
+        <text encoding="base64">XDxzdWJtaXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpdGggdGltZXIoJ3Byb2Nlc3MgdmFsaWQnKToK</text>
+        <text encoding="base64">ICAgIGRmX3Rlc3RbInByaWNlIl0gPSBwcmVkcwogICAgZGZfdGVzdFtbInRlc3RfaWQiLCAicHJpY2UiXV0udG9fY3N2KGZpbGVuYW1lLCBpbmRleD1GYWxzZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ1hfdGVzdDoge1hfdGVzdC5zaGFwZX0gb2Yge1hfdGVzdC5kdHlwZX0nKQo=</text>
+        <text encoding="base64">ICAgIG5wLmV4cG0xKHlfc2NhbGVyLmludmVyc2VfdHJhbnNmb3JtKHlfdGVzdC5yZXNoYXBlKC0xLCAxKSlbOiwgMF0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ1hfdGVzdDoge1hfdGVzdC5zaGFwZX0gb2Yge1hfdGVzdC5kdHlwZX0nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0ID0gcGQucmVhZF90YWJsZSgnLi4vaW5wdXQvbWVyY2FyaS1wcmljZS1zdWdnZXN0aW9uLWNoYWxsZW5nZS90ZXN0LnRzdicpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWwgdGVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBYX3Rlc3QgPSB2ZWN0b3JpemVyLmZpdF90cmFuc2Zvcm0ocHJlcHJvY2Vzcyh0cmFpbikpLmFzdHlwZShucC5mbG9hdDMyKQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0ID0gcGQucmVhZF90YWJsZSgnLi4vaW5wdXQvbWVyY2FyaS1wcmljZS1zdWdnZXN0aW9uLWNoYWxsZW5nZS90ZXN0LnRzdicpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBYX3Rlc3QgPSB2ZWN0b3JpemVyLmZpdF90cmFuc2Zvcm0ocHJlcHJvY2Vzcyh0cmFpbikpLmFzdHlwZShucC5mbG9hdDMyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0ID0gcGQucmVhZF90YWJsZSgnLi4vaW5wdXQvbWVyY2FyaS1wcmljZS1zdWdnZXN0aW9uLWNoYWxsZW5nZS90ZXN0LnRzdicpCg==</text>
+        <text encoding="base64">ICAgICAgICBYX3Rlc3QgPSB2ZWN0b3JpemVyLmZpdF90cmFuc2Zvcm0ocHJlcHJvY2Vzcyh0cmFpbikpLmFzdHlwZShucC5mbG9hdDMyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpdGggdGltZXIoJ3Byb2Nlc3MgdGVzdCcpOgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0ID0gcGQucmVhZF90YWJsZSgnLi4vaW5wdXQvbWVyY2FyaS1wcmljZS1zdWdnZXN0aW9uLWNoYWxsZW5nZS90ZXN0LnRzdicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3QgPSBwZC5yZWFkX3RhYmxlKCcuLi9pbnB1dC9tZXJjYXJpLXByaWNlLXN1Z2dlc3Rpb24tY2hhbGxlbmdlL3Rlc3QudHN2JykK</text>
+        <text encoding="base64">ICAgIHdpdGggdGltZXIoJ3Byb2Nlc3MgdGVzdCcpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlc3QgPSBwZC5yZWFkX3RhYmxlKCcuLi9pbnB1dC9tZXJjYXJpLXByaWNlLXN1Z2dlc3Rpb24tY2hhbGxlbmdlL3Rlc3QudHN2JykKICAgIFhfdGVzdCA9IHZlY3Rvcml6ZXIuZml0X3RyYW5zZm9ybShwcmVwcm9jZXNzKHRyYWluKSkuYXN0eXBlKG5wLmZsb2F0MzIpCg==</text>
+        <text encoding="base64">ICAgIHRlc3QgPSBwZC5yZWFkX3RhYmxlKCcuLi9pbnB1dC9tZXJjYXJpLXByaWNlLXN1Z2dlc3Rpb24tY2hhbGxlbmdlL3Rlc3QudHN2JykK</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxYX3ZhbGlkXD4=</last-search>
+      <last-search encoding="base64">XDxzdWJtaXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxYX3ZhbGlkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdWJtaXRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>randflo</entry>
-        <entry>ridge</entry>
-        <entry>ridgecv</entry>
         <entry encoding="base64">XDxSaWRnZUNWXD4=</entry>
         <entry encoding="base64">XDxyaWRnZV9maXRcPg==</entry>
         <entry encoding="base64">XDxwcmVkaWN0XD4=</entry>
@@ -249,10 +246,13 @@
         <entry encoding="base64">XDxPTl9LQUdHTEVcPg==</entry>
         <entry encoding="base64">XDx5X3NjYWxlclw+</entry>
         <entry encoding="base64">XDxYX3RyYWluXD4=</entry>
-        <entry encoding="base64">XDxmaXRfcHJlZGljdFw+</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry>test</entry>
         <entry encoding="base64">XDxYX3ZhbGlkXD4=</entry>
+        <entry encoding="base64">XDxmaXRfcHJlZGljdFw+</entry>
+        <entry encoding="base64">XDxYYl92YWxpZFw+</entry>
+        <entry encoding="base64">XDx5X3ByZWRcPg==</entry>
+        <entry encoding="base64">XDxzdWJtaXRcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
