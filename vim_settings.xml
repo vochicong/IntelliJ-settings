@@ -21,12 +21,12 @@
       <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" timestamp="1517864436299">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" timestamp="1520285589447">
-        <mark key="'" line="41" column="69" />
-        <mark key="[" line="86" column="4" />
-        <mark key="]" line="86" column="7" />
-        <mark key="." line="86" column="7" />
-        <mark key="^" line="86" column="7" />
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" timestamp="1520287998901">
+        <mark key="'" line="60" column="29" />
+        <mark key="[" line="60" column="31" />
+        <mark key="]" line="60" column="31" />
+        <mark key="^" line="45" column="19" />
+        <mark key="." line="60" column="35" />
       </file>
       <file name="$USER_HOME$/w/kaggle/mercari/requirements.txt" timestamp="1517467301170">
         <mark key="[" line="11" column="6" />
@@ -82,16 +82,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="3" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="55" column="7" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="258" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="184" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
-      <jump line="239" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="278" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
-      <jump line="267" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
       <jump line="193" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
       <jump line="215" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
       <jump line="231" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
@@ -182,60 +172,67 @@
       <jump line="79" column="42" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
       <jump line="37" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
       <jump line="41" column="69" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="77" column="24" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="89" column="93" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="90" column="53" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="44" column="15" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="45" column="19" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="82" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="60" column="29" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3QgPSBwZC5yZWFkX3RhYmxlKCcuLi9pbnB1dC9tZXJjYXJpLXByaWNlLXN1Z2dlc3Rpb24tY2hhbGxlbmdlL3Rlc3QudHN2JykK</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>valid</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaXRfcHJlZGljdFw+</text>
+        <text encoding="base64">XDxYX3ZhbGlkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpdGggdGltZXIoJ3Byb2Nlc3MgdmFsaWQnKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3QgPSBwZC5yZWFkX3RhYmxlKCcuLi9pbnB1dC9tZXJjYXJpLXByaWNlLXN1Z2dlc3Rpb24tY2hhbGxlbmdlL3Rlc3QudHN2JykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ1hfdGVzdDoge1hfdGVzdC5zaGFwZX0gb2Yge1hfdGVzdC5kdHlwZX0nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3QgPSBwZC5yZWFkX3RhYmxlKCcuLi9pbnB1dC9tZXJjYXJpLXByaWNlLXN1Z2dlc3Rpb24tY2hhbGxlbmdlL3Rlc3QudHN2JykKICAgIFhfdGVzdCA9IHZlY3Rvcml6ZXIuZml0X3RyYW5zZm9ybShwcmVwcm9jZXNzKHRyYWluKSkuYXN0eXBlKG5wLmZsb2F0MzIpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWwgdGVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHByZWRpY3RfdGVzdCgpOgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0ID0gcGQucmVhZF90YWJsZSgnLi4vaW5wdXQvbWVyY2FyaS1wcmljZS1zdWdnZXN0aW9uLWNoYWxsZW5nZS90ZXN0LnRzdicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBYX3Rlc3QgPSB2ZWN0b3JpemVyLmZpdF90cmFuc2Zvcm0ocHJlcHJvY2Vzcyh0cmFpbikpLmFzdHlwZShucC5mbG9hdDMyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBjbGYgPSB4Z2JfZml0KHBhcmFtcz14Z2JfcGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICBYX3Rlc3QgPSB2ZWN0b3JpemVyLmZpdF90cmFuc2Zvcm0ocHJlcHJvY2Vzcyh0cmFpbikpLmFzdHlwZShucC5mbG9hdDMyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZygiQmVzdCBwYXJhbXM6IHt9IiwgbW9kZWwuZ2V0X3BhcmFtcygpKQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0ID0gcGQucmVhZF90YWJsZSgnLi4vaW5wdXQvbWVyY2FyaS1wcmljZS1zdWdnZXN0aW9uLWNoYWxsZW5nZS90ZXN0LnRzdicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgTWVyY2FyaToK</text>
+        <text encoding="base64">ICAgIHdpdGggdGltZXIoJ3Byb2Nlc3MgdGVzdCcpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3QgPSBwZC5yZWFkX3RhYmxlKCcuLi9pbnB1dC9tZXJjYXJpLXByaWNlLXN1Z2dlc3Rpb24tY2hhbGxlbmdlL3Rlc3QudHN2JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3QgPSBwZC5yZWFkX3RhYmxlKCcuLi9pbnB1dC9tZXJjYXJpLXByaWNlLXN1Z2dlc3Rpb24tY2hhbGxlbmdlL3Rlc3QudHN2JykKICAgIFhfdGVzdCA9IHZlY3Rvcml6ZXIuZml0X3RyYW5zZm9ybShwcmVwcm9jZXNzKHRyYWluKSkuYXN0eXBlKG5wLmZsb2F0MzIpCg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaXRfcHJlZGljdFw+</last-search>
+      <last-search encoding="base64">XDxYX3ZhbGlkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaXRfcHJlZGljdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxYX3ZhbGlkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQQVJBTV9ESVNUXD4=</entry>
-        <entry>sp_randint</entry>
-        <entry encoding="base64">XDxyYW5kaW50XD4=</entry>
         <entry>randflo</entry>
         <entry>ridge</entry>
         <entry>ridgecv</entry>
@@ -253,6 +250,9 @@
         <entry encoding="base64">XDx5X3NjYWxlclw+</entry>
         <entry encoding="base64">XDxYX3RyYWluXD4=</entry>
         <entry encoding="base64">XDxmaXRfcHJlZGljdFw+</entry>
+        <entry encoding="base64">XDx0ZXN0XD4=</entry>
+        <entry>test</entry>
+        <entry encoding="base64">XDxYX3ZhbGlkXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
