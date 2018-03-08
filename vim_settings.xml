@@ -3,10 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/w/deepdive/mac/install.sh" timestamp="1520518107470">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
       <file name="/Dummy.txt" timestamp="1520285179605">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1520285741385">
+      <file name="/Python Console" timestamp="1520518018639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1517716044300">
@@ -14,6 +19,11 @@
       </file>
       <file name="/a.dummy" timestamp="1517865440545">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/deepdive/README.md" timestamp="1520517996662">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" timestamp="1517737905690">
         <mark key="'" line="267" column="33" />
@@ -185,10 +195,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>filename</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>filename</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJtaXRcPg==</text>
@@ -197,31 +207,31 @@
         <text encoding="base64">ICAgIGRmX3Rlc3RbInByaWNlIl0gPSBwcmVkcwogICAgZGZfdGVzdFtbInRlc3RfaWQiLCAicHJpY2UiXV0udG9fY3N2KGZpbGVuYW1lLCBpbmRleD1GYWxzZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5wLmV4cG0xKHlfc2NhbGVyLmludmVyc2VfdHJhbnNmb3JtKHlfdGVzdC5yZXNoYXBlKC0xLCAxKSlbOiwgMF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ1hfdGVzdDoge1hfdGVzdC5zaGFwZX0gb2Yge1hfdGVzdC5kdHlwZX0nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0ID0gcGQucmVhZF90YWJsZSgnLi4vaW5wdXQvbWVyY2FyaS1wcmljZS1zdWdnZXN0aW9uLWNoYWxsZW5nZS90ZXN0LnRzdicpCg==</text>
+        <text encoding="base64">Z2Nsb3VkIGF1dGggYXBwbGljYXRpb24tZGVmYXVsdCBsb2dpbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBYX3Rlc3QgPSB2ZWN0b3JpemVyLmZpdF90cmFuc2Zvcm0ocHJlcHJvY2Vzcyh0cmFpbikpLmFzdHlwZShucC5mbG9hdDMyKQo=</text>
+        <text encoding="base64">ICAgIG5wLmV4cG0xKHlfc2NhbGVyLmludmVyc2VfdHJhbnNmb3JtKHlfdGVzdC5yZXNoYXBlKC0xLCAxKSlbOiwgMF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBYX3Rlc3QgPSB2ZWN0b3JpemVyLmZpdF90cmFuc2Zvcm0ocHJlcHJvY2Vzcyh0cmFpbikpLmFzdHlwZShucC5mbG9hdDMyKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ1hfdGVzdDoge1hfdGVzdC5zaGFwZX0gb2Yge1hfdGVzdC5kdHlwZX0nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0ID0gcGQucmVhZF90YWJsZSgnLi4vaW5wdXQvbWVyY2FyaS1wcmljZS1zdWdnZXN0aW9uLWNoYWxsZW5nZS90ZXN0LnRzdicpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWwgdGVzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGggdGltZXIoJ3Byb2Nlc3MgdGVzdCcpOgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0ID0gcGQucmVhZF90YWJsZSgnLi4vaW5wdXQvbWVyY2FyaS1wcmljZS1zdWdnZXN0aW9uLWNoYWxsZW5nZS90ZXN0LnRzdicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlc3QgPSBwZC5yZWFkX3RhYmxlKCcuLi9pbnB1dC9tZXJjYXJpLXByaWNlLXN1Z2dlc3Rpb24tY2hhbGxlbmdlL3Rlc3QudHN2JykK</text>
+        <text encoding="base64">ICAgICAgICBYX3Rlc3QgPSB2ZWN0b3JpemVyLmZpdF90cmFuc2Zvcm0ocHJlcHJvY2Vzcyh0cmFpbikpLmFzdHlwZShucC5mbG9hdDMyKQo=</text>
       </register>
     </registers>
     <search>
