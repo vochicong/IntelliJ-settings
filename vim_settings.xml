@@ -33,7 +33,7 @@
         <mark key="." line="16" column="45" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/app/controllers/concerns/background_common_module.rb" timestamp="1521034127396" />
+      <file name="$USER_HOME$/w/mcs_ver2/app/controllers/concerns/background_common_module.rb" timestamp="1521038541269" />
       <file name="$USER_HOME$/w/mcs_ver1/config/database.yml" timestamp="1517608403462">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="1" column="80" />
@@ -301,7 +301,6 @@
         <mark key="^" line="28" column="10" />
         <mark key="." line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/config/initializers/carrierwave.rb" timestamp="1521036646026" />
       <file name="$USER_HOME$/w/mcs_ver2/spec/acceptance/api/v2/operation/magellan_attribute_settings/csv/exports_controller_spec.rb" timestamp="1516517458076">
         <mark key="'" line="7" column="9" />
         <mark key="[" line="7" column="0" />
