@@ -3,507 +3,268 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" timestamp="1517456432603">
-        <mark key="[" line="2" column="43" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="5" />
+      <file name="$USER_HOME$/w/deepdive/mac/install.sh" timestamp="1520518107470">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/mac/install.sh" timestamp="1516427204409">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="38" />
-        <mark key="." line="4" column="24" />
+      <file name="/Dummy.txt" timestamp="1520285179605">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/.env.docker" timestamp="1517159877426">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="17" column="0" />
+      <file name="/Python Console" timestamp="1520518018639">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/system/login_spec.rb" timestamp="1516633841575">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="27" />
-        <mark key="^" line="63" column="63" />
-        <mark key="." line="22" column="27" />
+      <file name="/fragment.py" timestamp="1517716044300">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/requests/survey_chains_spec.rb" timestamp="1516524746674">
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="16" column="45" />
-        <mark key="." line="16" column="45" />
-        <mark key="^" line="13" column="24" />
+      <file name="/a.dummy" timestamp="1517865440545">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/app/controllers/concerns/background_common_module.rb" timestamp="1521034127396" />
-      <file name="$USER_HOME$/w/mcs_ver1/config/database.yml" timestamp="1517608403462">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="1" column="80" />
-        <mark key="^" line="1" column="80" />
-        <mark key="." line="1" column="80" />
+      <file name="$USER_HOME$/w/deepdive/README.md" timestamp="1520517996662">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/w/mcs_admin/docker-compose.yml" timestamp="1517529209039">
-        <mark key="'" line="6" column="9" />
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="41" column="8" />
-        <mark key="." line="41" column="8" />
-        <mark key="^" line="31" column="3" />
+      <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/xgboost/sklearn.py" timestamp="1517737905690">
+        <mark key="'" line="267" column="33" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/magellan_check_survey_settings_spec.rb" timestamp="1516633021068">
-        <mark key="'" line="10" column="51" />
-        <mark key="[" line="10" column="51" />
-        <mark key="]" line="10" column="57" />
-        <mark key="^" line="10" column="57" />
-        <mark key="." line="10" column="57" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_devenv/.env.docker" timestamp="1517607069466">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="37" />
-        <mark key="^" line="7" column="74" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/models/magellan_check_survey_setting_spec.rb" timestamp="1516524577918">
-        <mark key="[" line="22" column="49" />
-        <mark key="]" line="22" column="49" />
-        <mark key="." line="22" column="49" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/docker-compose.yml" timestamp="1517531142769">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/factories/mail_types.rb" timestamp="1516646744939">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="10" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="16" column="10" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/docker/installers/yum-install.sh" timestamp="1517124286409">
+      <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" timestamp="1517864436299">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="4" column="85" />
-        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/factories/roles.rb" timestamp="1516648021887">
-        <mark key="'" line="8" column="1" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="57" column="57" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" timestamp="1520291040313">
+        <mark key="'" line="94" column="49" />
+        <mark key="[" line="97" column="38" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/w/mcs_admin/Guardfile" timestamp="1517537298544">
-        <mark key="[" line="25" column="0" />
+      <file name="$USER_HOME$/w/kaggle/mercari/requirements.txt" timestamp="1517467301170">
+        <mark key="[" line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/test/factories/function_types.rb" timestamp="1516642186104">
-        <mark key="[" line="24" column="7" />
-        <mark key="]" line="32" column="18" />
-        <mark key="." line="32" column="18" />
-        <mark key="^" line="31" column="21" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/package.json" timestamp="1517157620365">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="82" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_devenv/docker/ver1/db-create" timestamp="1517607382367">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/Gemfile" timestamp="1517534169546">
-        <mark key="'" line="115" column="8" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="41" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/acceptance/api/v2/operation/survey_chains/csv/exports_controller_spec.rb" timestamp="1516517495411">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="67" />
-        <mark key="]" line="8" column="67" />
-        <mark key="." line="8" column="67" />
-        <mark key="^" line="8" column="48" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/.ebextensions/40_cron.config" timestamp="1520631011123">
-        <mark key="'" line="1" column="36" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="65" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/acceptance/api/v2/operation/errors/csv/exports_controller_spec.rb" timestamp="1516517465537">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="48" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/docker/image/amazon/Dockerfile" timestamp="1517053888448">
-        <mark key="'" line="5" column="3" />
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/bin/webpack-watch" timestamp="1517160600540">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/factories/users.rb" timestamp="1516635427761">
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="47" column="45" />
-        <mark key="." line="47" column="8" />
-        <mark key="^" line="47" column="7" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/factories/magellan_summary_results.rb" timestamp="1517359952489">
-        <mark key="'" line="7" column="3" />
-        <mark key="[" line="58" column="31" />
-        <mark key="]" line="58" column="31" />
-        <mark key="^" line="190" column="16" />
-        <mark key="." line="58" column="31" />
-      </file>
-      <file name="/Ruby Console" timestamp="1517456496829">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/system/check_surveys_download_report_spec.rb" timestamp="1516518418763">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="23" column="57" />
-        <mark key="]" line="23" column="57" />
-        <mark key="." line="23" column="57" />
-        <mark key="^" line="23" column="24" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" timestamp="1517457520176">
-        <mark key="'" line="161" column="11" />
-        <mark key="[" line="229" column="2" />
-        <mark key="]" line="229" column="2" />
-        <mark key="." line="229" column="2" />
-        <mark key="^" line="265" column="10" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/Guardfile" timestamp="1516632830194">
-        <mark key="'" line="21" column="5" />
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="21" column="13" />
-        <mark key="." line="26" column="20" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb7b7f4d-2ec2-4137-97da-ed963cfd4dd4/console.sql" timestamp="1517608969353">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/bin/webpack-hot" timestamp="1517160594618">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/app/views/api/v2/operations/users/bulk_update.jbuilder" timestamp="1516650468747">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_devenv/docker-compose.yml" timestamp="1517608136083">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="16" />
-        <mark key="^" line="9" column="24" />
-        <mark key="." line="9" column="16" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/factories/company_users.rb" timestamp="1516636336569">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_admin/config/database.yml" timestamp="1517608399593">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="46" column="45" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/operations/users_controller.rb" timestamp="1517454956872">
-        <mark key="'" line="1" column="6" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="140" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1517608939581">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/factories/survey_region_categories.rb" timestamp="1516528180654">
-        <mark key="[" line="16" column="53" />
-        <mark key="]" line="22" column="45" />
-        <mark key="^" line="16" column="64" />
-        <mark key="." line="22" column="45" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" timestamp="1517456640635">
-        <mark key="'" line="12" column="36" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="19" column="10" />
-      </file>
-      <file name="/fragment.rb" timestamp="1516652397859">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/.env" timestamp="1517160547673">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_admin/Gemfile" timestamp="1517537258656">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="101" column="20" />
-        <mark key="." line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_admin/bin/rails.server" timestamp="1517529393448">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="11" column="57" />
-        <mark key="." line="11" column="57" />
-        <mark key="^" line="11" column="57" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/requests/check_surveys_spec.rb" timestamp="1516518451071">
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="3" column="45" />
-        <mark key="." line="3" column="45" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/factories/magellan_surveys.rb" timestamp="1516515085131">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/config/initializers/camelizer_snakeizer.rb" timestamp="1517444812752">
-        <mark key="[" line="39" column="45" />
-        <mark key="]" line="39" column="45" />
-        <mark key="." line="39" column="45" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_devenv/util/ver1/db-create" timestamp="1517609193428">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-        <mark key="^" line="12" column="18" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/api/v2/current_user_spec.rb" timestamp="1516631328091">
-        <mark key="'" line="38" column="6" />
-        <mark key="[" line="39" column="76" />
-        <mark key="]" line="38" column="40" />
-        <mark key="." line="38" column="40" />
-        <mark key="^" line="38" column="40" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/docker/bin/shell-admin" timestamp="1517532109355">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/docker/bin/up-admin" timestamp="1517532066050">
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="7" column="1" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" timestamp="1517531160504">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="10" />
-        <mark key="^" line="28" column="10" />
-        <mark key="." line="28" column="10" />
-      </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/acceptance/api/v2/operation/magellan_attribute_settings/csv/exports_controller_spec.rb" timestamp="1516517458076">
-        <mark key="'" line="7" column="9" />
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" timestamp="1517876162356">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-        <mark key="^" line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/app/models/user.rb" timestamp="1517457364676">
-        <mark key="'" line="319" column="0" />
-        <mark key="[" line="327" column="0" />
-        <mark key="]" line="327" column="0" />
-        <mark key="." line="327" column="0" />
-        <mark key="^" line="637" column="19" />
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/ridge_forked_origin.py" timestamp="1517698656144">
+        <mark key="'" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/spec/factories/survey_regions.rb" timestamp="1516528105812">
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="17" column="42" />
-        <mark key="^" line="17" column="41" />
-        <mark key="." line="17" column="42" />
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" timestamp="1520291034440">
+        <mark key="'" line="383" column="4" />
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="236" column="63" />
+        <mark key="^" line="211" column="3" />
+        <mark key="." line="209" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/deepdive/cs_nlp/google_nlp.py" timestamp="1520669865481">
+        <mark key="[" line="38" column="76" />
+        <mark key="]" line="38" column="76" />
+        <mark key="." line="38" column="76" />
+        <mark key="^" line="38" column="74" />
+      </file>
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/test_ridge.py" timestamp="1517443746521">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="15" />
+      </file>
+      <file name="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/sklearn/linear_model/ridge.py" timestamp="1517877975553">
+        <mark key="'" line="463" column="17" />
+      </file>
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" timestamp="1517878427127">
+        <mark key="'" line="57" column="7" />
+        <mark key="[" line="282" column="21" />
+        <mark key="]" line="283" column="0" />
+        <mark key="^" line="283" column="0" />
+        <mark key="." line="283" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" timestamp="1517759032667">
+        <mark key="'" line="148" column="4" />
+        <mark key="[" line="179" column="34" />
+        <mark key="^" line="167" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" timestamp="1517875869323">
+        <mark key="'" line="3" column="24" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="27" column="14" />
+        <mark key="." line="27" column="14" />
+        <mark key="^" line="27" column="14" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="24" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
-      <jump line="147" column="24" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
-      <jump line="176" column="25" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
-      <jump line="192" column="25" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
-      <jump line="35" column="8" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
-      <jump line="96" column="14" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
-      <jump line="17" column="9" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="45" column="16" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="33" column="65" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="30" column="65" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="15" column="9" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="376" column="20" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="381" column="18" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="330" column="18" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="146" column="0" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
-      <jump line="306" column="20" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="18" column="9" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="305" column="20" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="311" column="18" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="337" column="20" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="19" column="16" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="342" column="18" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="13" column="36" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
-      <jump line="12" column="33" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
-      <jump line="24" column="2" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
-      <jump line="58" column="9" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
-      <jump line="59" column="7" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
-      <jump line="60" column="33" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
-      <jump line="65" column="9" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
-      <jump line="66" column="7" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
-      <jump line="67" column="33" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
-      <jump line="76" column="22" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
-      <jump line="85" column="22" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
-      <jump line="101" column="41" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
-      <jump line="138" column="0" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
-      <jump line="230" column="3" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
-      <jump line="8" column="2" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
-      <jump line="248" column="10" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
-      <jump line="231" column="16" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
-      <jump line="6" column="14" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="35" column="14" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="48" column="48" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="70" column="50" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="34" column="16" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="47" column="48" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="69" column="50" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="79" column="50" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="100" column="50" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="121" column="50" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="131" column="50" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="153" column="50" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="163" column="50" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="10" column="47" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="11" column="50" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="12" column="36" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="333" column="0" filename="$USER_HOME$/w/mcs_ver2/app/models/user.rb" />
-      <jump line="611" column="4" filename="$USER_HOME$/w/mcs_ver2/app/models/user.rb" />
-      <jump line="319" column="0" filename="$USER_HOME$/w/mcs_ver2/app/models/user.rb" />
-      <jump line="161" column="11" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
-      <jump line="33" column="48" filename="$USER_HOME$/w/mcs_ver2/docker-compose.override.yml" />
-      <jump line="3" column="0" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="47" column="2" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="46" column="2" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="45" column="2" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="11" column="28" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="44" column="2" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="43" column="2" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="42" column="2" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="17" column="9" filename="$USER_HOME$/w/mcs_admin/docker-compose.yml" />
-      <jump line="20" column="8" filename="$USER_HOME$/w/mcs_admin/docker-compose.yml" />
-      <jump line="31" column="2" filename="$USER_HOME$/w/mcs_admin/docker-compose.yml" />
-      <jump line="6" column="9" filename="$USER_HOME$/w/mcs_admin/docker-compose.yml" />
-      <jump line="26" column="48" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="4" column="19" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="6" column="28" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="7" column="22" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="8" column="19" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="9" column="19" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="10" column="22" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="27" column="4" filename="$USER_HOME$/w/mcs_ver2/docker/compose/mcs_admin/docker-compose.yml" />
-      <jump line="118" column="0" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
-      <jump line="130" column="7" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
-      <jump line="135" column="23" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
-      <jump line="155" column="13" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
-      <jump line="156" column="7" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
-      <jump line="157" column="7" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
-      <jump line="158" column="7" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
-      <jump line="111" column="35" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
-      <jump line="113" column="7" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
-      <jump line="115" column="8" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
-      <jump line="101" column="20" filename="$USER_HOME$/w/mcs_admin/Gemfile" />
-      <jump line="42" column="5" filename="$USER_HOME$/w/mcs_admin/Gemfile" />
-      <jump line="94" column="0" filename="$USER_HOME$/w/mcs_admin/Gemfile" />
-      <jump line="80" column="11" filename="$USER_HOME$/w/mcs_devenv/README.md" />
-      <jump line="33" column="62" filename="$USER_HOME$/w/mcs_ver2/.ebextensions/40_cron.config" />
-      <jump line="35" column="62" filename="$USER_HOME$/w/mcs_ver2/.ebextensions/40_cron.config" />
-      <jump line="32" column="46" filename="$USER_HOME$/w/mcs_ver2/.ebextensions/40_cron.config" />
-      <jump line="34" column="46" filename="$USER_HOME$/w/mcs_ver2/.ebextensions/40_cron.config" />
-      <jump line="1" column="36" filename="$USER_HOME$/w/mcs_ver2/.ebextensions/40_cron.config" />
+      <jump line="170" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
+      <jump line="171" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
+      <jump line="209" column="17" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
+      <jump line="157" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/gridsearchcv.py" />
+      <jump line="202" column="10" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="181" column="16" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="184" column="5" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="189" column="5" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="190" column="28" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="191" column="14" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="193" column="12" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="187" column="15" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="171" column="9" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="182" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="186" column="33" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="204" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="3" column="24" filename="$USER_HOME$/w/kaggle/mercari/scripts/random_search.py" />
+      <jump line="605" column="42" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" />
+      <jump line="616" column="39" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" />
+      <jump line="0" column="0" filename="/usr/local/miniconda3/envs/py36/lib/python3.6/site-packages/scipy/stats/_discrete_distns.py" />
+      <jump line="156" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="30" column="25" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="154" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="185" column="37" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="257" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="258" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="155" column="10" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="263" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="161" column="9" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="162" column="12" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="160" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="153" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="163" column="45" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="205" column="15" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="248" column="11" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="259" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="294" column="31" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="289" column="12" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="292" column="22" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="290" column="11" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="291" column="28" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="264" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="265" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="167" column="43" filename="$USER_HOME$/w/kaggle/mercari/scripts/ridge_cv.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="64" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="87" column="29" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="151" column="23" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="160" column="25" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="170" column="19" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="173" column="19" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="176" column="19" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="179" column="22" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="187" column="21" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="191" column="20" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="195" column="23" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="217" column="21" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="239" column="30" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="251" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="267" column="22" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="58" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="252" column="28" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="71" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="284" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="238" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="268" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="281" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="283" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="2" column="2" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="19" column="3" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="57" column="7" filename="$USER_HOME$/w/kaggle/mercari/scripts/ensemble.py" />
+      <jump line="62" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="84" column="26" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="79" column="42" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="41" column="69" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="77" column="24" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="90" column="53" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="82" column="8" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="60" column="29" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="45" column="13" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="48" column="69" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="89" column="18" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="92" column="49" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari-golf-1st-prize.py" />
+      <jump line="234" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
+      <jump line="383" column="4" filename="$USER_HOME$/w/kaggle/mercari/scripts/mercari.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY3AgICAgIC90bXAvMTl3aGVuZXZlcl9jcm9uLnNoIFwK</text>
+      <register name="&quot;" type="4">
+        <text>.document.annotate_text()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFwvdG1wLzE5d2hlbmV2ZXJfY3Jvbi5zaA==</text>
+        <text>.document.annotate_text()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxOXdoZW5ldmVyX2Nyb25cPg==</text>
+        <text encoding="base64">XDxzdWJtaXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG4gLXNmIC9vcHQvZWxhc3RpY2JlYW5zdGFsay9ob29rcy9tY3MyLzE5d2hlbmV2ZXJfY3Jvbi5zaCBcCg==</text>
+        <text encoding="base64">ICAgIGRmX3Rlc3RbInByaWNlIl0gPSBwcmVkcwogICAgZGZfdGVzdFtbInRlc3RfaWQiLCAicHJpY2UiXV0udG9fY3N2KGZpbGVuYW1lLCBpbmRleD1GYWxzZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY3AgICAgIC90bXAvMTl3aGVuZXZlcl9jcm9uLnNoIFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHRleHQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG4gLXNmIC9vcHQvZWxhc3RpY2JlYW5zdGFsay9ob29rcy9hcHBkZXBsb3kvcG9zdC8xOXdoZW5ldmVyX2Nyb24uc2ggXAo=</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudCA9IGxhbmd1YWdlLnR5cGVzLkRvY3VtZW50KAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG4gLXNmIC9vcHQvZWxhc3RpY2JlYW5zdGFsay9ob29rcy9tY3MyLzE5d2hlbmV2ZXJfY3Jvbi5zaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgL29wdC9lbGFzdGljYmVhbnN0YWxrL2hvb2tzL2NvbmZpZ2RlcGxveS9wb3N0LzE5d2hlbmV2ZXJfY3Jvbi5zaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgL29wdC9lbGFzdGljYmVhbnN0YWxrL2hvb2tzL2FwcGRlcGxveS9wb3N0LzE5d2hlbmV2ZXJfY3Jvbi5zaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBhbmQgCg==</text>
+        <text encoding="base64">Z2Nsb3VkIGF1dGggYXBwbGljYXRpb24tZGVmYXVsdCBsb2dpbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REFUQUJBU0VfVkVSMV9VUkw9bXlzcWwyOi8vcm9vdDpwYXNzd29yZEB0ZXN0ZGI6MzMwNi9tY3NfdmVyMV9kZXZlbG9wbWVudD9lbmNvZGluZz11dGY4JnBvb2w9NSZ0aW1lb3V0PTUwMDAK</text>
+        <text encoding="base64">ICAgIG5wLmV4cG0xKHlfc2NhbGVyLmludmVyc2VfdHJhbnNmb3JtKHlfdGVzdC5yZXNoYXBlKC0xLCAxKSlbOiwgMF0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZTogPCU9IEVOVlsnREFUQUJBU0VfTkFNRSddICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ1hfdGVzdDoge1hfdGVzdC5zaGFwZX0gb2Yge1hfdGVzdC5kdHlwZX0nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnZW0gInBhcmFub2lhIiwgIn4+IDIuMiIK</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">ICAgICAgICBkZWwgdGVzdAo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxOXdoZW5ldmVyX2Nyb25cPg==</last-search>
+      <last-search encoding="base64">XDxzdWJtaXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxOXdoZW5ldmVyX2Nyb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdWJtaXRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>deletable</entry>
-        <entry>TODO</entry>
-        <entry>fdes</entry>
-        <entry encoding="base64">XDx1bmljb3JuX3NvY2tcPg==</entry>
-        <entry encoding="base64">XDxidW5kbGVfY29uZmlnXD4=</entry>
-        <entry encoding="base64">XDxidW5kbGVcPg==</entry>
-        <entry encoding="base64">XDx0bXBcPg==</entry>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
-        <entry encoding="base64">XDxhc3NldHNcPg==</entry>
-        <entry encoding="base64">XDx0ZXN0ZGJcPg==</entry>
-        <entry encoding="base64">XDxkYlw+</entry>
-        <entry encoding="base64">XDxhcHBcPg==</entry>
-        <entry>rubocop</entry>
-        <entry encoding="base64">XDxydWJvY29wXD4=</entry>
-        <entry>rspec</entry>
-        <entry>parano</entry>
-        <entry encoding="base64">XDxwYXJhbm9pYVw+</entry>
-        <entry encoding="base64">XDxhZG1pblw+</entry>
-        <entry encoding="base64">XDxzaFw+</entry>
-        <entry encoding="base64">XDwxOXdoZW5ldmVyX2Nyb25cPg==</entry>
+        <entry encoding="base64">XDxSaWRnZUNWXD4=</entry>
+        <entry encoding="base64">XDxyaWRnZV9maXRcPg==</entry>
+        <entry encoding="base64">XDxwcmVkaWN0XD4=</entry>
+        <entry encoding="base64">XDxtXD4=</entry>
+        <entry encoding="base64">XDxwXD4=</entry>
+        <entry encoding="base64">XDxtc2xlX3Njb3Jlclw+</entry>
+        <entry encoding="base64">XDxkZWZcPg==</entry>
+        <entry encoding="base64">XDxyZWFkX2lucHV0XD4=</entry>
+        <entry>xgb_fit</entry>
+        <entry encoding="base64">XDxyaWRnZWN2X2ZpdFw+</entry>
+        <entry encoding="base64">XDxPTl9LQUdHTEVcPg==</entry>
+        <entry encoding="base64">XDx5X3NjYWxlclw+</entry>
+        <entry encoding="base64">XDxYX3RyYWluXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0XD4=</entry>
+        <entry>test</entry>
+        <entry encoding="base64">XDxYX3ZhbGlkXD4=</entry>
+        <entry encoding="base64">XDxmaXRfcHJlZGljdFw+</entry>
+        <entry encoding="base64">XDxYYl92YWxpZFw+</entry>
+        <entry encoding="base64">XDx5X3ByZWRcPg==</entry>
+        <entry encoding="base64">XDxzdWJtaXRcPg==</entry>
       </history-search>
-      <history-cmd>
-        <entry>124</entry>
-        <entry>145</entry>
-        <entry>160</entry>
-        <entry>w</entry>
-      </history-cmd>
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
@@ -512,8 +273,5 @@
         <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
   </component>
 </application>
