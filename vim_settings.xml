@@ -211,12 +211,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="46" column="45" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" timestamp="1521278139896">
-        <mark key="'" line="9" column="11" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="8" column="40" />
-        <mark key="^" line="8" column="40" />
-        <mark key="." line="8" column="40" />
+      <file name="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" timestamp="1521281117718">
+        <mark key="'" line="31" column="14" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/operations/users_controller.rb" timestamp="1517454956872">
         <mark key="'" line="1" column="6" />
@@ -331,9 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="381" column="18" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="330" column="18" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="146" column="0" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
       <jump line="306" column="20" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
       <jump line="18" column="9" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
       <jump line="305" column="20" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
@@ -431,61 +428,63 @@
       <jump line="12" column="36" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
       <jump line="11" column="11" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
       <jump line="71" column="5" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
+      <jump line="49" column="0" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
+      <jump line="51" column="16" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
+      <jump line="35" column="14" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, required</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>, required</text>
+        <text>pr_id(pr_url: ENV['CI_PULL_REQUEST'])</text>
       </register>
       <register name="/" type="4">
-        <text>pronto</text>
+        <text encoding="base64">XDx0aXRsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBnZW0gJ3Byb250by1ydWJvY29wJywgcmVxdWlyZTogZmFsc2UK</text>
+        <text encoding="base64">ICAgIHB1dHMgIiN7cHJbOnVybF19Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZW0gJ2F3ZXNvbWVfcHJpbnQnLCByZXF1aXJlOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJfaWQgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UkVQTyA9ICdsbWktbWNzL21jc192ZXIyJwo=</text>
+        <text encoding="base64">ICAgIHVubGVzcyBwcl9pZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXR1c19mb3JtYXR0ZXIgPSBQcm9udG86OkZvcm1hdHRlcjo6R2l0aHViU3RhdHVzRm9ybWF0dGVyLm5ldwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdHRlCg==</text>
+        <text encoding="base64">ICAgIHByX3VybCA9IEVOVlsnQ0lfUFVMTF9SRVFVRVNUJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgQXZhaWxhYmxlOiBHaXRodWJGb3JtYXR0ZXIsIEdpdGh1YlB1bGxSZXF1ZXN0Rm9ybWF0dGVyLCBHaXRodWJQdWxsUmVxdWVzdFJldmlld0Zvcm1hdHRlcgo=</text>
+        <text encoding="base64">ICAgIHByX2lkID0gYXJncy5pZCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIHByX3VybCA9IEVOVlsnQ0lfUFVMTF9SRVFVRVNUJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1dHMgYmFzZV9icmFuY2gK</text>
+        <text encoding="base64">ICBnZW0gJ2F3ZXNvbWVfcHJpbnQnLCByZXF1aXJlOiBmYWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pronto</last-search>
+      <last-search encoding="base64">XDx0aXRsZVw+</last-search>
       <last-offset />
-      <last-pattern>pronto</last-pattern>
+      <last-pattern encoding="base64">XDx0aXRsZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXN0ZGJcPg==</entry>
         <entry encoding="base64">XDxkYlw+</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
         <entry>rubocop</entry>
@@ -505,6 +504,7 @@
         <entry encoding="base64">XDxiYXNlX2JyYW5jaFw+</entry>
         <entry encoding="base64">XDxmb3JtYXR0ZXJcPg==</entry>
         <entry>pronto</entry>
+        <entry encoding="base64">XDx0aXRsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>124</entry>
