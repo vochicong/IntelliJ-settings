@@ -109,10 +109,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/Gemfile" timestamp="1521034874854">
+      <file name="$USER_HOME$/w/mcs_ver2/Gemfile" timestamp="1521278793316">
         <mark key="'" line="71" column="5" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="41" />
+        <mark key="[" line="135" column="16" />
+        <mark key="]" line="135" column="16" />
+        <mark key="." line="135" column="16" />
+        <mark key="^" line="135" column="25" />
       </file>
       <file name="$USER_HOME$/w/mcs_ver2/spec/acceptance/api/v2/operation/survey_chains/csv/exports_controller_spec.rb" timestamp="1516517495411">
         <mark key="'" line="8" column="0" />
@@ -209,11 +211,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="46" column="45" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" timestamp="1521274918206">
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="26" column="18" />
-        <mark key="." line="26" column="18" />
-        <mark key="^" line="2" column="11" />
+      <file name="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" timestamp="1521278139896">
+        <mark key="'" line="9" column="11" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="40" />
       </file>
       <file name="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/operations/users_controller.rb" timestamp="1517454956872">
         <mark key="'" line="1" column="6" />
@@ -328,10 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="65" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="30" column="65" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="15" column="9" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="376" column="20" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
       <jump line="381" column="18" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
       <jump line="330" column="18" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
       <jump line="146" column="0" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/api_v2_operations_users_spec.rb" />
@@ -422,69 +421,70 @@
       <jump line="1" column="36" filename="$USER_HOME$/w/mcs_ver2/.ebextensions/40_cron.config" />
       <jump line="145" column="10" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
       <jump line="72" column="0" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
-      <jump line="71" column="5" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
       <jump line="9" column="8" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
       <jump line="10" column="29" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
-      <jump line="11" column="50" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
       <jump line="24" column="15" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
       <jump line="4" column="0" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
+      <jump line="15" column="20" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
+      <jump line="16" column="11" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
+      <jump line="14" column="0" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
+      <jump line="12" column="36" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
+      <jump line="11" column="11" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
+      <jump line="71" column="5" filename="$USER_HOME$/w/mcs_ver2/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>REPO.split('/')</text>
+        <text>, required</text>
       </register>
       <register name="-" type="4">
-        <text>REPO.split('/')</text>
+        <text>, required</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMQUJFTFw+</text>
+        <text>pronto</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIDpnaXRodWIgZG8K</text>
+        <text encoding="base64">ICBnZW0gJ3Byb250by1ydWJvY29wJywgcmVxdWlyZTogZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TEFCRUwgPSAn5L2c5qWt5LitJwo=</text>
+        <text encoding="base64">ICBnZW0gJ2F3ZXNvbWVfcHJpbnQnLCByZXF1aXJlOiBmYWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UFJfSUQgPSAxNDIyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY3AgICAgIC90bXAvMTl3aGVuZXZlcl9jcm9uLnNoIFwK</text>
+        <text encoding="base64">UkVQTyA9ICdsbWktbWNzL21jc192ZXIyJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG4gLXNmIC9vcHQvZWxhc3RpY2JlYW5zdGFsay9ob29rcy9hcHBkZXBsb3kvcG9zdC8xOXdoZW5ldmVyX2Nyb24uc2ggXAo=</text>
+        <text encoding="base64">ICAgIHN0YXR1c19mb3JtYXR0ZXIgPSBQcm9udG86OkZvcm1hdHRlcjo6R2l0aHViU3RhdHVzRm9ybWF0dGVyLm5ldwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG4gLXNmIC9vcHQvZWxhc3RpY2JlYW5zdGFsay9ob29rcy9tY3MyLzE5d2hlbmV2ZXJfY3Jvbi5zaAo=</text>
+        <text encoding="base64">ICAgIGZvcm1hdHRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgL29wdC9lbGFzdGljYmVhbnN0YWxrL2hvb2tzL2NvbmZpZ2RlcGxveS9wb3N0LzE5d2hlbmV2ZXJfY3Jvbi5zaAo=</text>
+        <text encoding="base64">ICAgICMgQXZhaWxhYmxlOiBHaXRodWJGb3JtYXR0ZXIsIEdpdGh1YlB1bGxSZXF1ZXN0Rm9ybWF0dGVyLCBHaXRodWJQdWxsUmVxdWVzdFJldmlld0Zvcm1hdHRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgL29wdC9lbGFzdGljYmVhbnN0YWxrL2hvb2tzL2FwcGRlcGxveS9wb3N0LzE5d2hlbmV2ZXJfY3Jvbi5zaAo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBhbmQgCg==</text>
+        <text encoding="base64">ICAgIHB1dHMgYmFzZV9icmFuY2gK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REFUQUJBU0VfVkVSMV9VUkw9bXlzcWwyOi8vcm9vdDpwYXNzd29yZEB0ZXN0ZGI6MzMwNi9tY3NfdmVyMV9kZXZlbG9wbWVudD9lbmNvZGluZz11dGY4JnBvb2w9NSZ0aW1lb3V0PTUwMDAK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMQUJFTFw+</last-search>
+      <last-search>pronto</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMQUJFTFw+</last-pattern>
+      <last-pattern>pronto</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0bXBcPg==</entry>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
-        <entry encoding="base64">XDxhc3NldHNcPg==</entry>
         <entry encoding="base64">XDx0ZXN0ZGJcPg==</entry>
         <entry encoding="base64">XDxkYlw+</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
@@ -502,6 +502,9 @@
         <entry encoding="base64">XDxwcl9pZFw+</entry>
         <entry encoding="base64">XDzkvZzmpa3kuK1cPg==</entry>
         <entry encoding="base64">XDxMQUJFTFw+</entry>
+        <entry encoding="base64">XDxiYXNlX2JyYW5jaFw+</entry>
+        <entry encoding="base64">XDxmb3JtYXR0ZXJcPg==</entry>
+        <entry>pronto</entry>
       </history-search>
       <history-cmd>
         <entry>124</entry>
