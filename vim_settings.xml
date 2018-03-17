@@ -211,12 +211,6 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="46" column="45" />
       </file>
-      <file name="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" timestamp="1521292237970">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="7" column="22" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/w/mcs_ver2/app/controllers/api/v2/operations/users_controller.rb" timestamp="1517454956872">
         <mark key="'" line="1" column="6" />
         <mark key="[" line="140" column="0" />
@@ -330,7 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="20" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
       <jump line="18" column="9" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
       <jump line="305" column="20" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
       <jump line="311" column="18" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
@@ -430,61 +423,61 @@
       <jump line="49" column="0" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
       <jump line="51" column="16" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
       <jump line="35" column="14" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
+      <jump line="20" column="4" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHByX2lkcyhwcl9pZD1uaWwpCiAgaWRzID0gRU5WLmZldGNoKCdDSV9QVUxMX1JFUVVFU1RTJywgJycpLnNwbGl0KCcsJykubWFwIHsgfHVybHwgcHJfaWQgdXJsIH0KICBpZHMucHVzaCBwcl9pZCBpZiBwcl9pZAogIGlkcwplbmQKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>args.id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aXRsZVw+</text>
+        <text encoding="base64">XDxwcl9pZHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdhdGNoKCVyey4rXC5yYiR9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHByX2lkcyhwcl9pZD1uaWwpCiAgaWRzID0gRU5WLmZldGNoKCdDSV9QVUxMX1JFUVVFU1RTJywgJycpLnNwbGl0KCcsJykubWFwIHsgfHVybHwgcHJfaWQgdXJsIH0KICBpZHMucHVzaCBwcl9pZCBpZiBwcl9pZAogIGlkcwplbmQKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJfaWQgPSAK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVubGVzcyBwcl9pZAo=</text>
+        <text encoding="base64">ICAgICAgcHJfaWQgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHVubGVzcyBwcl9pZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByX3VybCA9IEVOVlsnQ0lfUFVMTF9SRVFVRVNUJ10K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByX2lkID0gYXJncy5pZCAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHByX3VybCA9IEVOVlsnQ0lfUFVMTF9SRVFVRVNUJ10K</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByX2lkID0gYXJncy5pZCAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnZW0gJ2F3ZXNvbWVfcHJpbnQnLCByZXF1aXJlOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIHByX3VybCA9IEVOVlsnQ0lfUFVMTF9SRVFVRVNUJ10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aXRsZVw+</last-search>
+      <last-search encoding="base64">XDxwcl9pZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aXRsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcl9pZHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYlw+</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
         <entry>rubocop</entry>
         <entry encoding="base64">XDxydWJvY29wXD4=</entry>
@@ -504,6 +497,7 @@
         <entry encoding="base64">XDxmb3JtYXR0ZXJcPg==</entry>
         <entry>pronto</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
+        <entry encoding="base64">XDxwcl9pZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>124</entry>
