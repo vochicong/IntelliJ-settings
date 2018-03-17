@@ -6,7 +6,11 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="80" />
-  <option name="SOFT_MARGINS" value="80,90,100" />
+  <option name="SOFT_MARGINS" value="80,100,120" />
+  <Ruby>
+    <option name="INDENT_PRIVATE_METHODS" value="true" />
+    <option name="INDENT_PROTECTED_METHODS" value="true" />
+  </Ruby>
   <codeStyleSettings language="ruby">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
