@@ -111,10 +111,6 @@
       </file>
       <file name="$USER_HOME$/w/mcs_ver2/Gemfile" timestamp="1521278793316">
         <mark key="'" line="71" column="5" />
-        <mark key="[" line="135" column="16" />
-        <mark key="]" line="135" column="16" />
-        <mark key="." line="135" column="16" />
-        <mark key="^" line="135" column="25" />
       </file>
       <file name="$USER_HOME$/w/mcs_ver2/spec/acceptance/api/v2/operation/survey_chains/csv/exports_controller_spec.rb" timestamp="1516517495411">
         <mark key="'" line="8" column="0" />
