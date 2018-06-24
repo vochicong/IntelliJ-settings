@@ -51,6 +51,12 @@
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/w/bitmex-market-maker-docker/docker/start" timestamp="1529817378277">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="27" />
+      </file>
       <file name="$USER_HOME$/w/mcs_ver1/config/database.yml" timestamp="1517608403462">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="1" column="80" />
@@ -456,11 +462,11 @@
       <jump line="20" column="4" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkcnkgPSBnbG9iYWxfb3B0aW9uc1s6ZHJ5XQo=</text>
+      <register name="&quot;" type="4">
+        <text>bak</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UnVubmluZzog</text>
+        <text>bak</text>
       </register>
       <register name="/" type="4">
         <text>sandbox</text>
