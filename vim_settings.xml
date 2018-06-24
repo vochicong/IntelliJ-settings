@@ -76,11 +76,10 @@
         <mark key="." line="41" column="8" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/w/bitmex-market-maker-docker/.k8s/bitmex1-deployment.yaml" timestamp="1529852107920">
-        <mark key="[" line="39" column="7" />
-        <mark key="]" line="39" column="8" />
-        <mark key="." line="39" column="8" />
-        <mark key="^" line="42" column="28" />
+      <file name="$USER_HOME$/w/bitmex-market-maker-docker/.k8s/bitmex1-deployment.yaml" timestamp="1529853677646">
+        <mark key="[" line="31" column="75" />
+        <mark key="]" line="31" column="75" />
+        <mark key="." line="31" column="75" />
       </file>
       <file name="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/magellan_check_survey_settings_spec.rb" timestamp="1516633021068">
         <mark key="'" line="10" column="51" />
@@ -528,11 +527,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/w/bitmex-market-maker-docker/config/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE1JTl9QT1NJVElPTiA9IC01MDAwCg==</text>
+      <register name="&quot;" type="4">
+        <text>:8df3c3d1fc9e2ca0aaeba3bd6cc1ce2ca76ddc75</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW4gYHNlY3JldHMuc2hgIA==</text>
+        <text>:8df3c3d1fc9e2ca0aaeba3bd6cc1ce2ca76ddc75</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR0aW5nc1w+</text>
@@ -541,31 +540,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICBqb2luKCdtYXJrZXRfbWFrZXInLCAnYml0bWV4LnB5JyksIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1JTl9QT1NJVElPTiA9IC01MDAwCg==</text>
+        <text encoding="base64">IyAgICAgICAgICAgIG5hbWU6IGJpdG1leC1jb25maWcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE9SREVSX1NUQVJUX1NJWkUgPSA2MQogICAgT1JERVJfU1RFUF9TSVpFID0gMQo=</text>
+        <text encoding="base64">IyAgICAgICAgLSBjb25maWdNYXBSZWY6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBTZXQgQVBJIGtleSBhbmQgc2VjcmV0IHRocm91Z2ggZW52IHZhcnMK</text>
+        <text encoding="base64">IyAgICAgICAgZW52RnJvbToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QVBJX1NFQ1JFVD15b3VyQml0TUVYX0FQSV9TRUNSRVQK</text>
+        <text encoding="base64">ICAgIE1JTl9QT1NJVElPTiA9IC01MDAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QVBJX0tFWT15b3VyQml0TUVYX0FQSV9LRVkK</text>
+        <text encoding="base64">ICAgIE9SREVSX1NUQVJUX1NJWkUgPSA2MQogICAgT1JERVJfU1RFUF9TSVpFID0gMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudHJ5cG9pbnQ6IG1hcmtldG1ha2VyCg==</text>
+        <text encoding="base64">IyBTZXQgQVBJIGtleSBhbmQgc2VjcmV0IHRocm91Z2ggZW52IHZhcnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVudl9maWxlOgogICAgLSBzZWNyZXRzLnNoCg==</text>
+        <text encoding="base64">QVBJX1NFQ1JFVD15b3VyQml0TUVYX0FQSV9TRUNSRVQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNwIHNhbXBsZS1zZWNyZXRzLnNoIHNlY3JldHMuc2gK</text>
+        <text encoding="base64">QVBJX0tFWT15b3VyQml0TUVYX0FQSV9LRVkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudHJ5cG9pbnQ6IG1hcmtldG1ha2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
