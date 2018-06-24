@@ -158,9 +158,6 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/w/bitmex-market-maker-docker/.gitignore" timestamp="1529833061649">
-        <mark key="[" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/w/mcs_ver2/spec/acceptance/api/v2/operation/errors/csv/exports_controller_spec.rb" timestamp="1516517465537">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -234,7 +231,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/w/bitmex-market-maker-docker/config/settings.py" timestamp="1529832214569">
+      <file name="$USER_HOME$/w/bitmex-market-maker-docker/config/settings.py" timestamp="1529835249055">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="20" />
         <mark key="^" line="0" column="23" />
