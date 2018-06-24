@@ -51,11 +51,11 @@
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/w/bitmex-market-maker-docker/docker/start" timestamp="1529817378277">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="27" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="27" />
+      <file name="$USER_HOME$/w/bitmex-market-maker-docker/docker/start" timestamp="1529832558685">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/w/mcs_ver1/config/database.yml" timestamp="1517608403462">
         <mark key="[" line="0" column="17" />
@@ -158,6 +158,9 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/w/bitmex-market-maker-docker/.gitignore" timestamp="1529833061649">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/w/mcs_ver2/spec/acceptance/api/v2/operation/errors/csv/exports_controller_spec.rb" timestamp="1516517465537">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -187,11 +190,17 @@
         <mark key="^" line="190" column="16" />
         <mark key="." line="58" column="31" />
       </file>
-      <file name="/Python Console" timestamp="1520149546798">
+      <file name="/Python Console" timestamp="1529831713503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/bitmex-market-maker-docker/settings.py" timestamp="1529831902393">
+        <mark key="[" line="115" column="17" />
+        <mark key="]" line="115" column="17" />
+        <mark key="." line="115" column="17" />
+        <mark key="^" line="114" column="46" />
       </file>
       <file name="/Ruby Console" timestamp="1517456496829">
         <mark key="[" line="0" column="0" />
@@ -225,11 +234,22 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/w/bitmex-market-maker-docker/config/settings.py" timestamp="1529832214569">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/w/mcs_devenv/docker-compose.yml" timestamp="1517608136083">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/w/bitmex-market-maker-docker/sample-secrets.sh" timestamp="1529832490300">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/w/mcs_ver2/spec/factories/company_users.rb" timestamp="1516636336569">
         <mark key="[" line="23" column="0" />
@@ -248,6 +268,11 @@
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
         <mark key="^" line="140" column="23" />
+      </file>
+      <file name="$USER_HOME$/w/bitmex-market-maker-docker/secrets.sh" timestamp="1529832298860">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1529814196621">
         <mark key="[" line="0" column="0" />
@@ -462,44 +487,44 @@
       <jump line="20" column="4" filename="$USER_HOME$/w/mcs_ver2/lib/tasks/pr.rake" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bak</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">T1JERVJfU1RBUlRfU0laRT0xMTEKT1JERVJfU1RFUF9TSVpFPTExCk9SREVSSURfUFJFRklYPWJ0bTFfCk1JTl9QT1NJVElPTj0tMTAwMApNQVhfUE9TSVRJT049MTAwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>bak</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>sandbox</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdhdGNoKCVyey4rXC5yYiR9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBqb2luKCdtYXJrZXRfbWFrZXInLCAnYml0bWV4LnB5JyksIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkcnkgPSBnbG9iYWxfb3B0aW9uc1s6ZHJ5XQo=</text>
+        <text encoding="base64">T1JERVJfU1RBUlRfU0laRT0xMTEKT1JERVJfU1RFUF9TSVpFPTExCk9SREVSSURfUFJFRklYPWJ0bTFfCk1JTl9QT1NJVElPTj0tMTAwMApNQVhfUE9TSVRJT049MTAwMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">I09SREVSSURfUFJFRklYPWJ0bTFfCiNPUkRFUl9TVEFSVF9TSVpFPTEwMQojT1JERVJfU1RFUF9TSVpFPTEKI01JTl9QT1NJVElPTj0tNTAwMAojTUFYX1BPU0lUSU9OPTUwMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN5c3RlbShjbWQpCg==</text>
+        <text encoding="base64">Q09ORklHX1NFVFRJTkdTID0gam9pbignY29uZmlnJywgJ3NldHRpbmdzLnB5JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">Q09ORklHX1NFVFRJTkdTID0gam9pbignY29uZmlnJywgJ3NldHRpbmdzLnB5JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgIldpbGwgcnVuIGNtZDogI3tjbWR9Igo=</text>
+        <text encoding="base64">Q09ORklHX1NFVFRJTkdTID0gam9pbignY29uZmlnJywgJ3NldHRpbmdzLnB5JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBqb2luKCdjb25maWcnLCAnc2V0dGluZ3MucHknKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGViID0gZWJbOm5hbWVdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGViID0gZWJbOmlkXQo=</text>
+        <text encoding="base64">ICAgICAgICBkcnkgPSBnbG9iYWxfb3B0aW9uc1s6ZHJ5XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbWQgPSAiZWIgI3tPUEVSQVRJT05TW29wXX0gI3tlYn0iCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -550,6 +575,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
