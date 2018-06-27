@@ -164,7 +164,6 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/w/bitmex-market-maker-docker/.gitignore" timestamp="1529850700599" />
       <file name="$USER_HOME$/w/bitmex-market-maker-docker/.dockerignore" timestamp="1529850051164">
         <mark key="[" line="2" column="9" />
       </file>
@@ -237,11 +236,6 @@
         <mark key="^" line="21" column="13" />
         <mark key="." line="79" column="18" />
       </file>
-      <file name="$USER_HOME$/w/bitmex-market-maker-docker/.k8s/bitmex-config.yaml" timestamp="1529852330234">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/w/mcs_ver2/bin/webpack-hot" timestamp="1517160594618">
         <mark key="[" line="0" column="0" />
       </file>
@@ -257,6 +251,7 @@
         <mark key="^" line="1" column="60" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/w/bitmex-market-maker-docker/market_maker/ws/ws_thread.py" timestamp="1530111457712" />
       <file name="$USER_HOME$/w/mcs_devenv/docker-compose.yml" timestamp="1517608136083">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
@@ -268,7 +263,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/w/bitmex-market-maker-docker/Dockerfile" timestamp="1529850231524">
+      <file name="$USER_HOME$/w/bitmex-market-maker-docker/Dockerfile" timestamp="1530111067678">
         <mark key="[" line="9" column="42" />
         <mark key="]" line="9" column="42" />
         <mark key="^" line="9" column="27" />

@@ -7,6 +7,9 @@
   </option>
   <option name="RIGHT_MARGIN" value="80" />
   <option name="SOFT_MARGINS" value="80,100,120" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <Ruby>
     <option name="INDENT_PRIVATE_METHODS" value="true" />
     <option name="INDENT_PROTECTED_METHODS" value="true" />
