@@ -236,6 +236,13 @@
         <mark key="^" line="21" column="13" />
         <mark key="." line="79" column="18" />
       </file>
+      <file name="$USER_HOME$/w/bitmex-market-maker-docker/.k8s/bitmex-config.yaml" timestamp="1530237126197">
+        <mark key="'" line="19" column="1" />
+        <mark key="[" line="38" column="28" />
+        <mark key="]" line="39" column="1" />
+        <mark key="^" line="39" column="1" />
+        <mark key="." line="39" column="1" />
+      </file>
       <file name="$USER_HOME$/w/mcs_ver2/bin/webpack-hot" timestamp="1517160594618">
         <mark key="[" line="0" column="0" />
       </file>
@@ -251,7 +258,6 @@
         <mark key="^" line="1" column="60" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/w/bitmex-market-maker-docker/market_maker/ws/ws_thread.py" timestamp="1530111457712" />
       <file name="$USER_HOME$/w/mcs_devenv/docker-compose.yml" timestamp="1517608136083">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
@@ -420,8 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="342" column="18" filename="$USER_HOME$/w/mcs_ver2/spec/api/v2/operations/users_controller_spec.rb" />
-      <jump line="13" column="36" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
       <jump line="12" column="33" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
       <jump line="24" column="2" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
       <jump line="58" column="9" filename="$USER_HOME$/w/mcs_ver2/spec/support/contexts/mcs_setup.rb" />
@@ -520,6 +524,8 @@
       <jump line="9" column="37" filename="$USER_HOME$/w/bitmex-market-maker-docker/Dockerfile" />
       <jump line="10" column="12" filename="$USER_HOME$/w/bitmex-market-maker-docker/Dockerfile" />
       <jump line="5" column="0" filename="$USER_HOME$/w/bitmex-market-maker-docker/config/settings.py" />
+      <jump line="13" column="4" filename="$USER_HOME$/w/bitmex-market-maker-docker/.k8s/bitmex-config.yaml" />
+      <jump line="19" column="1" filename="$USER_HOME$/w/bitmex-market-maker-docker/.k8s/bitmex-config.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -529,7 +535,7 @@
         <text>:8df3c3d1fc9e2ca0aaeba3bd6cc1ce2ca76ddc75</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXR0aW5nc1w+</text>
+        <text encoding="base64">XDxNQVhfUE9TSVRJT05cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICBqb2luKCdtYXJrZXRfbWFrZXInLCAnYml0bWV4LnB5JyksIAo=</text>
@@ -566,15 +572,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXR0aW5nc1w+</last-search>
+      <last-search encoding="base64">XDxNQVhfUE9TSVRJT05cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXR0aW5nc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxNQVhfUE9TSVRJT05cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidW5kbGVcPg==</entry>
         <entry encoding="base64">XDx0bXBcPg==</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxhc3NldHNcPg==</entry>
@@ -594,6 +599,7 @@
         <entry encoding="base64">XDxyZWFkX2lucHV0XD4=</entry>
         <entry>sandbox</entry>
         <entry encoding="base64">XDxzZXR0aW5nc1w+</entry>
+        <entry encoding="base64">XDxNQVhfUE9TSVRJT05cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>124</entry>
